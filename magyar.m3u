@@ -30,9 +30,6 @@ http://213.163.13.122:1559/udp/239.1.10.113:2000
 #EXTINF:-1 group-title="Főcsatornák",COOL FHD
 http://213.163.13.122:1559/udp/239.1.10.125:2000
 
-#EXTINF:-1 group-title="Főcsatornák",Viasat 3 FHD
-http://82.131.238.199:48001/stream/channelid/1192024174?ticket=CAEA3A7750724BA85D
-
 #EXTINF:-1 group-title="Főcsatornák",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 
@@ -116,14 +113,6 @@ http://213.163.13.122:1559/udp/239.1.10.135:2000
 
 #EXTINF:-1 group-title="Sport",MATCH 4 FHD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
-
-#EXTINF:-1 group-title="Sport",SPILER 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://185.160.192.84:80/USDE38399/LMNV2024/337369
-
-#EXTINF:-1 group-title="Sport",SPILER 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://185.160.192.84:80/USDE38399/LMNV2024/337370
 
 
 #EXTINF:-1 group-title="Sport",MATCH 4 FHD
@@ -645,6 +634,7 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 #EXTINF:-1 group-title="Főcsatornák",Prime FHD
 http://82.131.238.199:48001/stream/channelid/1148455753?ticket=D3E40D838E1090336D3349C49166E793F6270A49&profile=pass
+
 
 
 
