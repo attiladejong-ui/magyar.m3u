@@ -245,14 +245,6 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 #EXTINF:-1 group-title="Helyi Tv",Pannon TV
 https://stream2.nmih.hu:4102/live.m3u8
 
-#EXTINF:-1 group-title="Helyi Tv",Erdély TV
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/110329
-
-#EXTINF:-1 group-title="Helyi Tv",Székelyföld TV
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/110333
-
-#EXTINF:-1 group-title="Helyi Tv",Fény TV
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/110334
 
 #EXTINF:-1 group-title="Helyi Tv",Tatai TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
@@ -616,6 +608,7 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 #EXTINF:-1 group-title="Főcsatornák",Prime FHD
 http://82.131.238.199:48001/stream/channelid/1148455753?ticket=D3E40D838E1090336D3349C49166E793F6270A49&profile=pass
+
 
 
 
