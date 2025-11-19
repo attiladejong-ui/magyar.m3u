@@ -27,7 +27,6 @@ http://213.163.13.122:1559/udp/239.1.10.113:2000
 http://213.163.13.122:1559/udp/239.1.10.125:2000
 
 #EXTINF:-1 group-title="Főcsatornák",AMC FHD
-tvg-logo="https://docdog.top/logo/countries/hungary/amc.png" 
 http://pgeffordgef.top:8080/live/7691740922385689/2397bc7beaad/8834.m3u8
 
 
@@ -618,6 +617,7 @@ http://46.149.191.217:9002/play/a01d
 #EXTINF:-1 group-title="Ismeretterjesztő",Da Vinci
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.141:2000
+
 
 
 
