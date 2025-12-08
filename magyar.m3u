@@ -9,7 +9,7 @@ https://box-1275-e.vmwesa.online/hls/xqx2ozbg75okjiqbtfjc5iq34i2ze2gsvkdu6pkd6h7
 https://box-1034-f2.vmeas.cloud/hls/xqx2oezi75okjiqbtfjc5iivw5ae4c3qjptclsy5cowaab3bebuf3zajjheq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Télapu 2-Veszélyben a karácsony (2002)
 https://box-1082-p.vmeas.cloud/hls/xqx2p3jp75okjiqbtfjc57y3ue3hwmjnhe4j72ywfm7ywrtyeglee7iune5q/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Télapu 3-A szánbitorló (2006)                         A szánbitorló (2006)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Télapu 3-A szánbitorló (2006)                        
 https://box-1102-t.vmeas.cloud/hls/xqx2p3bp75okjiqbtfjc56i7xeb2w7kskhpagkryciwbyf5lgfnfsmungb2q/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Hírcsatorna",M1 FHD
@@ -680,6 +680,8 @@ https://box-1162-q.vmeas.cloud/hls/xqx2pkwh75okjiqbtfic56kn4p5ovaaboeuea3eh2oqe7
 https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5zrh3bz6nba7tlkq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Filmek - Dráma",A túsztárgyaló (2025)
+https://box-1183-rp.vmwesa.online/hls/xqx2oayoybokjiqbtehs5iqbxt4hsxo2gbptiiskae54oh5etsej2ujb7llq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Sorozatok 2025 - Elhagyottak",Elhagyottak 1 rész
 https://vo-cd-ecws2.getromes.space/hls/xqx2plyh75okjiqbtfgc5kywxokgqs7dwuga2w4qqrpkbtxepw2m2gal3loa/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Sorozatok 2025 - Elhagyottak",Elhagyottak 2 rész
@@ -694,6 +696,7 @@ https://box-1034-f2.vmeas.cloud/hls/xqx2puih75okjiqbtfgc5oitvcq5cyfvjeqypspsd7v4
 https://box-1162-q.vmeas.cloud/hls/xqx2p7ih75okjiqbtfgc5layuh7touugfmm6uewbql4t5y6txb5nq2fwxaxa/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Sorozatok 2025 - Elhagyottak",Elhagyottak 7 rész
 https://box-1097-y.vmeas.cloud/hls/xqx2pcqf75okjiqbtfgc5ky6xgswvfv5sgb2zqoushlfeoqrpwumtwyvpzqa/index-v1-a1.m3u8
+
 
 
 
