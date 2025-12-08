@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="CHRISTMAS",CHRITMAS| XMAS-SHOW ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ
+https://box-1034-f2.vmeas.cloud/hls/xqx2oezi75okjiqbtfjc5iivw5ae4c3qjptclsy5cowaab3bebuf3zajjheq/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Hírcsatorna",M1 FHD
 #EXTGRP:Hírcsatorna
@@ -677,6 +679,7 @@ https://box-1034-f2.vmeas.cloud/hls/xqx2puih75okjiqbtfgc5oitvcq5cyfvjeqypspsd7v4
 https://box-1162-q.vmeas.cloud/hls/xqx2p7ih75okjiqbtfgc5layuh7touugfmm6uewbql4t5y6txb5nq2fwxaxa/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Sorozatok 2025 - Elhagyottak",Elhagyottak 7 rész
 https://box-1097-y.vmeas.cloud/hls/xqx2pcqf75okjiqbtfgc5ky6xgswvfv5sgb2zqoushlfeoqrpwumtwyvpzqa/index-v1-a1.m3u8
+
 
 
 
