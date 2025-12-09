@@ -15,7 +15,6 @@ https://box-1102-t.vmeas.cloud/hls/xqx2p3bp75okjiqbtfjc56i7xeb2w7kskhpagkryciwby
 https://box-1032-f.vmeas.cloud/hls/xqx2poxm7rokjiqbtfcc54a2ujhvvdkfnquprumwd5fnqjnqzlsk6gtgds7q/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Tv-Hírcsatorna",M1 FHD
-#EXTGRP:Hírcsatorna
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 
 #EXTINF:-1 group-title="Tv-Főcsatornák",TV2 FHD
@@ -719,6 +718,7 @@ https://box-1034-f2.vmeas.cloud/hls/xqx2puih75okjiqbtfgc5oitvcq5cyfvjeqypspsd7v4
 https://box-1162-q.vmeas.cloud/hls/xqx2p7ih75okjiqbtfgc5layuh7touugfmm6uewbql4t5p2jr6hwzjwymnla/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek-Sorozatok 2025 - Elhagyottak",Elhagyottak 7 rész
 https://box-1097-y.vmeas.cloud/hls/xqx2pcqf75okjiqbtfgc5ky6xgswvfv5sgb2zqoushlfeoqrpwumtwyvpzqa/index-v1-a1.m3u8
+
 
 
 
