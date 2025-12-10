@@ -1,20 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP (1994)
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Reszkessetek betörők (1990)
-https://box-1083-t.vmeas.cloud/hls/xqx2o2zu75okjiqbtfjs5oibxtltvg6x4n54zitthwubcu5meyere6ffvmka/index-v1.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Reszkessetek betörők 2 (1992)
 https://box-1275-e.vmwesa.online/hls/xqx2ozbg75okjiqbtfjc5iq34i2ze2gsvkdu6pkd6h7ytl6iwasfajmpcvzq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Télapu
-https://box-1034-f2.vmeas.cloud/hls/xqx2oezi75okjiqbtfjc5iivw5ae4c3qjptclsy5cowaab3bec5qi376vkga/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Télapu 2-Veszélyben a karácsony (2002)
-https://box-1082-p.vmeas.cloud/hls/xqx2p3jp75okjiqbtfjc57y3ue3hwmjnhe4j72ywfm7ywrtyefc5deghk2uq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Télapu 3-A szánbitorló (2006)                        
 https://box-1102-t.vmeas.cloud/hls/xqx2p3bp75okjiqbtfjc56i7xeb2w7kskhpagkryciwbyf5lgfnfsmungb2q/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Karácsonyi rablás (2025)
-https://box-1032-f.vmeas.cloud/hls/xqx2poxm7rokjiqbtfcc54a2ujhvvdkfnquprumwd5fnqjnqzlsk6gtgds7q/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Ünnepanyu (2025)
-https://box-1158-u.vmeas.cloud/hls/xqx2obds75okjiqbtfgc5iifvgmgyzoskggl5vxria35wnmd4kaskmjaxfkq/index-v1-a1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Tv-Hírcsatorna",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
@@ -671,14 +663,10 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 #EXTINF:-1 tvg-name="Zootopia" group-title="Filmek",Zootopia (VidMoly)
 https://vdoc-3d-ccd-2.getromes.space/hls/,xqx2pjgy75oopgiitfis5ka64d2m67rz6ysqcsa7l4fzjx5ix4h4wzqlmhcq,.urlset/master.m3u8?video
 #EXTM3U
-#EXTINF:-1 tvg-name="HDMOZI OK Player" group-title="Filmek",HDMOZI – OK Video Player
+#EXTINF:-1 tvg-name="HDMOZI OK Player" group-title="Filmek",Lányok pórázon (1970)
 https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokbs7ai7hvpqu25p3nxkq,.urlset/master.m3u8?video
-#EXTINF:-1 group-title="Filmek",Zootopia (VidMoly – web)
-https://vidmoly.me/w/aj1c8402g1yh
 
 
-#EXTINF:-1 group-title="Filmek - Vígjáték",Lányok pórázon (1970)
-e.vmwesa.online/hls/xqx2ofg775okjiqbtfis5ji3xlcg2yjfuhp2tmdenfzsmrqt4f4ykuicw5wq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Vígjáték",Nászkáosz (2025)
 https://box-1097-y.vmeas.cloud/hls/xqx2piez7vokjiqbte7c5padxpe2kydwqipbq2ojsbslqz4t5s7q5zb5x4qa/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Vígjáték",Jay Kelly (2025)
@@ -695,50 +683,30 @@ https://box-1093-w.vmeas.cloud/hls/xqx2pezj75okjiqbtfjc57yyxxgfqeq3aso4jnmsztfsw
 https://vdo-cds-cd2.transitto.online/hls/xqx2ono775okjiqbtfis54ccvbgvogqmr5bjguvyjrf7sgd7s573jntxeezq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Kaland",Dzsungeltura (2021)
 https://box-1337-r.vmwes.cloud/hls/xqx2o6g7fvokjiqbthashkyx4a2nlcanzdjni7lwfmdsuif5m7g76lr3oewa/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Horror",Traumatika (2025)
-https://box-1161-e.vmeas.cloud/hls/xqx2paa5yfokjiqbtebs5oav5g5s4y6a6kc2wda2h6s2bvtys5osuiafko4q/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Horror",Öt éjjel Freddy Pizzázójában 2 (2025)
-https://box-1037-f2.vmeas.cloud/hls/xqx2oawo75okjiqbtfic54knxl7jkccyljavfh33xh2bjerjoi4xxr42dtma/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="Filmek - Horror",Shelby Oaks – A gonosz nyomában (2024)
 https://box-1190-y.vmwesa.online/hls/xqx2pzxl7vokjiqbte4c5jcfxdwmxsxgddom5uwsl52c2e3mx6ou24a63zmq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Horror",Fekete Telefon 2 (2025)
 https://box-1100-r.vmeas.cloud/hls/xqx2oskh7vokjiqbtezs57iqwjb2jx4tehnykzdgyreulxy7crde426zb3uq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Horror",A Kör (2002)
 https://box-1103-o.vmeas.cloud/hls/xqx2ojor75okjiqbtfis5oq4xjgl47p3463kcqqiqbke5mgbysxtkgbu7tnq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Horror",A Kör 2 (2005)
-https://box-1085-r.vmeas.cloud/hls/xqx2ojgr75okjiqbtfis54a4uny4mptw4klqqmxwuotakh45tmp67zmzstrq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Háborús",A tengeralattjáró (1981)
-https://box-1082-p.vmeas.cloud/hls/xqx2onol75okjiqbtfic5oaxw5cknrrb4qoubhpqtgdt6x4l4zan4d6byqga/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="Filmek - Háborús",A Szövetség (2023)
 https://box-1100-r.vmeas.cloud/hls/xqx2ozri75okjiqbtfjc5migxts64jjjj23lh7je5pxesgwl4lqreorbvzda/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Háborús",A pilóta (2021)
-https://box-1162-q.vmeas.cloud/hls/xqx2pkwh75okjiqbtfic56kn4p5ovaaboeuea3eh2oqe7n5f2upby4rdz5ea/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Háborús",Nürnberg (2025)
 https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5zrh3bz6nba7tlkq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek -Rajzfilm",Zootropolis 2  (2025)
 https://vdoc-3d-ccd-2.getromes.space/hls/xqx2pjgy75okjiqbtfis5ka64apqyze42u3zzczmwhygajdjxxhmylyskeqa/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Rajzfilm",Egérfutam (2025)
-https://box-1029-f.vmeas.cloud/hls/xqx2oocs7vokjiqbteyc54inwtbruq7wu6agt3qqdfziem7t3mu7ubuzxgpq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Rajzfilm",Vuk (1981)
-https://box-1179-vo.vmwesa.online/hls/xqx2o2oh75okjiqbtfic5jy7w7bc2veqnsafcvtp2oieaab7fzk6dyhujyjq/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="Filmek -Sci Fi",Tron Ares (2025)
 https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbieguizvj6hpmgwurq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Sci Fi",Speed Train (2025)
-https://box-1158-u.vmeas.cloud/hls/xqx2oabj75okjiqbtfjc5ikcxz772huamgxbascibgsu3gqhtug7telgrnia/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Sci Fi",Kedves Ellenségem (1984)
-https://box-1083-t.vmeas.cloud/hls/xqx2oj6s75okjiqbtfis5jqn4ab4o5767bvvmxarffohfik6zjtsuoyfvoea/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Fantasy",Batman– A denevérember (1989)
-https://kate-1-o.transitto.online/hls/xqx2pdoh75okjiqbtfic54iv4unjrh34zllw7ihlhuiif4ucs7oigvvqz3za/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Fantasy",Constantine - A démonvadász (2005)
-https://kate-5-o.transitto.online/hls/xqx2pm6h75okjiqbtfic56azwzfflzgavcbbm7uk27ral7wkjau4iky5skva/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Dráma",Ezer Apa Fia (2025)
-https://box-1158-u.vmeas.cloud/hls/xqx2oz5t7vokjiqbte7s5jyhwaidynkztbsus6d7ligcoypzpi2xtzzxz4pa/index-v1-a1.m3u8
+
+
 #EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Dráma",A Tengeren (2024)
-https://box-1179-vo.vmwesa.online/hls/xqx2oggh75okjiqbtfic5oagud6m5ckxwt27y7lkny2cfd7rwmyic23jd3kq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Dokumentum",A Louvre rablás (2025)
-https://box-1082-p.vmeas.cloud/hls/xqx2og3i75okjiqbtfhs54anunln7acrassjvfuuzjhr5jshnyptlidoh2xq/index-v1-a1.m3u8
+
+
+
 
 
 
