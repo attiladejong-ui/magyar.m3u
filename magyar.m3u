@@ -670,6 +670,9 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 #EXTM3U
 #EXTINF:-1 tvg-name="Zootopia" group-title="Filmek",Zootopia (VidMoly)
 https://vdoc-3d-ccd-2.getromes.space/hls/,xqx2pjgy75oopgiitfis5ka64d2m67rz6ysqcsa7l4fzjx5ix4h4wzqlmhcq,.urlset/master.m3u8?video
+#EXTM3U
+#EXTINF:-1 tvg-name="HDMOZI OK Player" group-title="Filmek",HDMOZI – OK Video Player
+https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokbs7ai7hvpqu25p3nxkq,.urlset/master.m3u8?video
 
 
 #EXTINF:-1 group-title="Filmek - Vígjáték",Lányok pórázon (1970)
@@ -734,6 +737,7 @@ https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztp
 https://box-1179-vo.vmwesa.online/hls/xqx2oggh75okjiqbtfic5oagud6m5ckxwt27y7lkny2cfd7rwmyic23jd3kq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Dokumentum",A Louvre rablás (2025)
 https://box-1082-p.vmeas.cloud/hls/xqx2og3i75okjiqbtfhs54anunln7acrassjvfuuzjhr5jshnyptlidoh2xq/index-v1-a1.m3u8
+
 
 
 
