@@ -660,7 +660,7 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Zootopia" group-title="Filmek",Zootopia (VidMoly)
+#EXTINF:-1 tvg-name="Zootopia" group-title="Filmek",Zootopia 
 https://vdoc-3d-ccd-2.getromes.space/hls/,xqx2pjgy75oopgiitfis5ka64d2m67rz6ysqcsa7l4fzjx5ix4h4wzqlmhcq,.urlset/master.m3u8?video
 #EXTM3U
 #EXTINF:-1 tvg-name="HDMOZI OK Player" group-title="Filmek",Lányok pórázon (1970)
@@ -673,14 +673,12 @@ https://box-1097-y.vmeas.cloud/hls/xqx2piez7vokjiqbte7c5padxpe2kydwqipbq2ojsbslq
 https://box-1334-t.vmwes.cloud/hls/xqx2pyyq75okjiqbtfgs5pkgu2dcxlwrzxmkx7o4le3gxk6od4r57tfhv5rq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Thriller",Éden (2025)
 https://box-1190-y.vmwesa.online/hls/xqx2posr7vokjiqbteyc5pyvxnyl6pzdf7txukv4szv4c5t35hhhakmiiiza/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Akció",Az elnök különgépe- Terror a fedélzeten (2025)
-https://dc-doc-23c-s.getromes.space/hls/xqx2oyw675okjiqbtfis5p2a4wvb3hhjvohmbktlyury7ofhpoi5c4s5iedq/index-v1-a1.m3u8
+vb3hhjvo#
 #EXTINF:-1 group-title="Filmek - Akció",Hunting Season (2025)
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmol4pr7rtz7ch5tq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Filmek - Akció",The Wrecker (2025)
 https://box-1093-w.vmeas.cloud/hls/xqx2pezj75okjiqbtfjc57yyxxgfqeq3aso4jnmsztfswykekqi4gffl62yq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Akció",Venom Utolsó Tánc (2024)
-https://vdo-cds-cd2.transitto.online/hls/xqx2ono775okjiqbtfis54ccvbgvogqmr5bjguvyjrf7sgd7s573jntxeezq/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="Filmek - Kaland",Dzsungeltura (2021)
 https://box-1337-r.vmwes.cloud/hls/xqx2o6g7fvokjiqbthashkyx4a2nlcanzdjni7lwfmdsuif5m7g76lr3oewa/index-v1-a1.m3u8
 
@@ -704,6 +702,7 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 
 #EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+
 
 
 
