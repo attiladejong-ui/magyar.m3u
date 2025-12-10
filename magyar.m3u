@@ -10,7 +10,8 @@ https://box-1102-t.vmeas.cloud/hls/xqx2p3bp75okjiqbtfjc56i7xeb2w7kskhpagkryciwby
 
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Tv-Hírcsatorna",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
-
+#EXTINF:0 group-title="Tv-Főcsatornák",TV2 FHD
+http://pl.online24.pm/play/775/E9498A9C37D1459/video.m3u8
 #EXTINF:-1 group-title="Tv-Főcsatornák",TV2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01q
@@ -702,6 +703,7 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 
 #EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+
 
 
 
