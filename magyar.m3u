@@ -660,6 +660,14 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ (1994)
 #EXTGRP:Karácsony
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&extension=ts
+ #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",  ┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&extension=ts
+
+
+
+
 
 # ===== FŐMENÜ: FILMEK =====
 
@@ -823,6 +831,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&e
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="4. Ausztria",SKY SPORT AUSTRIA 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
+
 
 
 
