@@ -833,6 +833,149 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
 
 
+# ===== FŐMENÜ: 5. Németország =====
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DAS ERSTE.png" group-title="5. Németország",┃DE┃ DAS ERSTE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025123&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png" group-title="5. Németország",┃DE┃ ZDF FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025124&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL.png" group-title="5. Németország",┃DE┃ RTL FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025125&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL ZWEI.png" group-title="5. Németország",┃DE┃ RTL ZWEI FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025130&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SAT.1.png" group-title="5. Németország",┃DE┃ SAT.1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025126&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SAT.1 GOLD.png" group-title="5. Németország",┃DE┃ SAT.1 GOLD FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025145&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SAT.1 EMOTIONS.png" group-title="5. Németország",┃DE┃ SAT.1 EMOTIONS FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025159&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN.png" group-title="5. Németország",┃DE┃ PROSIEBEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025127&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN MAXX.png" group-title="5. Németország",┃DE┃ PROSIEBEN MAXX FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025141&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN FUN.png" group-title="5. Németország",┃DE┃ PROSIEBEN FUN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025156&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/VOX.png" group-title="5. Németország",┃DE┃ VOX FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025128&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/VOXUP.png" group-title="5. Németország",┃DE┃ VOXUP FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025148&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS.png" group-title="5. Németország",┃DE┃ KABEL EINS FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025129&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS DOKU.png" group-title="5. Németország",┃DE┃ KABEL EINS DOKU FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025151&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS CLASSICS.png" group-title="5. Németország",┃DE┃ KABEL EINS CLASSICS FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025155&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ARTE.png" group-title="5. Németország",┃DE┃ ARTE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025137&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SIXX.png" group-title="5. Németország",┃DE┃ SIXX FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025147&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/3SAT.png" group-title="5. Németország",┃DE┃ 3SAT FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025131&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/N-TV.png" group-title="5. Németország",┃DE┃ N-TV FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025133&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/WELT.png" group-title="5. Németország",┃DE┃ WELT FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025132&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/WELT DER WUNDER.png" group-title="5. Németország",┃DE┃ WELT DER WUNDER FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025154&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/WDR.png" group-title="5. Németország",┃DE┃ WDR FERNSEHEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025161&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/NDR.png" group-title="5. Németország",┃DE┃ NDR FERNSEHEN NIEDERSACHSEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SERVUS TV DEUTSCHLAND.png" group-title="5. Németország",┃DE┃ SERVUS TV DEUTSCHLAND FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/TAGESSCHAU 24.png" group-title="5. Németország",┃DE┃ TAGESSCHAU 24 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025153&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PHOENIX.png" group-title="5. Németország",┃DE┃ PHOENIX FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025134&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ARD-ALPHA.png" group-title="5. Németország",┃DE┃ ARD-ALPHA FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025149&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL PASSION.png" group-title="5. Németország",┃DE┃ RTL PASSION FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025157&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL CRIME.png" group-title="5. Németország",┃DE┃ RTL CRIME FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025142&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTLUP.png" group-title="5. Németország",┃DE┃ RTLUP FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025144&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/NITRO.png" group-title="5. Németország",┃DE┃ NITRO FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025143&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL LIVING.png" group-title="5. Németország",┃DE┃ RTL LIVING FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025158&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF NEO.png" group-title="5. Németország",┃DE┃ ZDF NEO FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025136&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF INFO.png" group-title="5. Németország",┃DE┃ ZDF INFO FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025150&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DMAX.png" group-title="5. Németország",┃DE┃ DMAX FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025160&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/TELE 5.png" group-title="5. Németország",┃DE┃ TELE 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025135&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ONE.png" group-title="5. Németország",┃DE┃ ONE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025138&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ANIXE SERIE.png" group-title="5. Németország",┃DE┃ ANIXE SERIE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025140&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ANIXE+.png" group-title="5. Németország",┃DE┃ ANIXE+ FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025139&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/N24 DOKU.png" group-title="5. Németország",┃DE┃ N24 DOKU FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025152&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SWR.png" group-title="5. Németország",┃DE┃ SWR FERNSEHEN BW FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025162&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SWR.png" group-title="5. Németország",┃DE┃ SWR FERNSEHEN RP FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025163&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/MDR.png" group-title="5. Németország",┃DE┃ MDR-FERNSEHEN SACHSEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/MDR.png" group-title="5. Németország",┃DE┃ MDR FERNSEHE-THÜRINGEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/MDR.png" group-title="5. Németország",┃DE┃ MDR FERNSEHEN SACHSEN-ANHALT FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/BR.png" group-title="5. Németország",┃DE┃ BR FERNSEHEN NORD FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025173&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/BR.png" group-title="5. Németország",┃DE┃ BR FERNSEHEN SÜD FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025164&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RBB.png" group-title="5. Németország",┃DE┃ RBB FERNSEHEN BERLIN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025171&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RBB.png" group-title="5. Németország",┃DE┃ RBB FERNSEHEN BRANDEBURG FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025174&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/HR.png" group-title="5. Németország",┃DE┃ HR-FERNSEHEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SR.png" group-title="5. Németország",┃DE┃ SR FERNSEHEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025172&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DF1.png" group-title="5. Németország",┃DE┃ DF1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025146&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RADIO BREMEN TV.png" group-title="5. Németország",┃DE┃ RADIO BREMEN TV FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025170&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/EURONEWS DEUTSCH.png" group-title="5. Németország",┃DE┃ EURONEWS DEUTSCH FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025191&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/TAGESSCHAU 24.png" group-title="5. Németország",┃DE┃ TAGESSCHAU 24 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025181&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ARD-ALPHA.png" group-title="5. Németország",┃DE┃ ARD-ALPHA FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025183&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/DAS ERSTE.png" group-title="5. Németország",┃DE┃ DAS ERSTE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025175&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ZDF.png" group-title="5. Németország",┃DE┃ ZDF FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025176&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/WELT.png" group-title="5. Németország",┃DE┃ WELT FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025178&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/N-TV.png" group-title="5. Németország",┃DE┃ N-TV FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025177&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/PHOENIX.png" group-title="5. Németország",┃DE┃ PHOENIX FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025182&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/NDR.png" group-title="5. Németország",┃DE┃ NDR FERNSEHEN NIEDERSACHSEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025180&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/WDR FERNSEHEN.png" group-title="5. Németország",┃DE┃ WDR FERNSEHEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025179&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/MDR.png" group-title="5. Németország",┃DE┃ MDR-FERNSEHEN SACHSEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025186&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/MDR.png" group-title="5. Németország",┃DE┃ MDR FERNSEHE-THÜRINGEN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025188&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/MDR.png" group-title="5. Németország",┃DE┃ MDR FERNSEHEN SACHSEN-ANHALT FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025187&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/RBB FERNSEHEN BRANDEBURG.png" group-title="5. Németország",┃DE┃ RBB FERNSEHEN BERLIN FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025189&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/RBB FERNSEHEN BRANDEBURG.png" group-title="5. Németország",┃DE┃ RBB FERNSEHEN BRANDEBURG FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025190&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/SWR.png" group-title="5. Németország",┃DE┃ SWR FERNSEHEN BW FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025184&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/SWR.png" group-title="5. Németország",┃DE┃ SWR FERNSEHEN RP FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025185&extension=ts
+
 
 
 
