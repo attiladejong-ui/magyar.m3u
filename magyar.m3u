@@ -725,6 +725,8 @@ https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztp
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
 
 # Fő csatornák
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",ORF 1 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36058&extension=ts
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",ORF 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2395&extension=ts
@@ -832,9 +834,10 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&ex
 
 # ===== FŐMENÜ: 5. Németország =====
 
-#EXTINF:-1 tvg-id="MG| ZDF ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png" group-title="5.Németország" tvg-name="MG| ZDF ᴿᴬᵂ",MG| ZDF ᴿᴬᵂ
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=1836183&extension=ts
-
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DAS ERSTE.png" group-title="5.Németország",┃DE┃ DAS ERSTE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025123&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png" group-title="5.Németország",┃DE┃ ZDF FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025124&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL.png" group-title="5.Németország",┃DE┃ RTL FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025125&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL ZWEI.png" group-title="5.Németország",┃DE┃ RTL ZWEI FHD
@@ -1768,7 +1771,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760969&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761037&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/HORSE & COUNTRY TV.png" group-title="5.Németország",┃DE┃ HORSE & COUNTRY TV FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761096&extension=ts
-
 
 
 
