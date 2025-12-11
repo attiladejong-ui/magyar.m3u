@@ -1045,13 +1045,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173877&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173878&extension=ts
 
 # SKY SPORT BUNDESLIGA REPLAY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEBUNDELSIGA.png" group-title="5. Németország",┃DE┃ BUNDESLIGA REPLAY INFO HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569292&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEBUNDELSIGA.png" group-title="5. Németország",┃DE┃ BUNDESLIGA HIGHLIGHTS HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569291&extension=ts
-# SKY SPORT BUNDESLIGA REPLAY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEBUNDELSIGA.png" group-title="5. Németország",┃DE┃ BUNDESLIGA REPLAY INFO HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569292&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEBUNDELSIGA.png" group-title="5. Németország",┃DE┃ BUNDESLIGA HIGHLIGHTS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569291&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGA1HD.png" group-title="5. Németország",┃DE┃ BUNDESLIGA REPLAY 1 HD
@@ -1169,6 +1162,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760969&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761037&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/HORSE & COUNTRY TV.png" group-title="5. Németország",┃DE┃ HORSE & COUNTRY TV FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761096&extension=ts
+
 
 
 
