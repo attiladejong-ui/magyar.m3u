@@ -997,12 +997,9 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149333&
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGAHD.png" group-title="5. Németország",┃DE┃ SKY SPORT BUNDESLIGA RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760846&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGA1HD.png" group-title="5. Németország",┃DE┃ SKY SPORT BUNDESLIGA 1 RAW
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760845&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGA2HD.png" group-title="5. Németország",┃DE┃ SKY SPORT BUNDESLIGA 2 RAW
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760844&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="5. Németország",┃DE┃ SKY SPORT NEWS FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149431&extension=ts
+
 
 
 
