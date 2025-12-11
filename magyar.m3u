@@ -715,114 +715,115 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 #EXTGRP:Dráma
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
 
-# ===== FŐMENÜ: ZZZ AUSZTRIA =====
+# ===== FŐMENÜ: Top TV AUSZTRIA =====
 
 # Fő csatornák
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="ZZZ Ausztria",ORF 1 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="Top Tv Ausztria",ORF 1 4K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36058&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="ZZZ Ausztria",ORF 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="Top Tv Ausztria",ORF 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2395&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title=" Top Tv Ausztria",ORF 2 4K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36059&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="Top Tv Ausztria",ORF 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2394&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="ZZZ Ausztria",ORF III 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title=" Top Tv Ausztria",ORF III 4K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36060&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="ZZZ Ausztria",ORF III HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title=" Top Tv Ausztria",ORF III HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ATV.png" group-title="ZZZ Ausztria",ATV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ATV.png" group-title=" Top Tv Ausztria",ATV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2385&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Logo_ATV2.png" group-title="ZZZ Ausztria",ATV II HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Logo_ATV2.png" group-title=" Top Tv Ausztria",ATV II HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2384&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="ZZZ Ausztria",PULS 4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title=" Top Tv Ausztria",PULS 4
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2381&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/PULS24.png" group-title="ZZZ Ausztria",PULS 24 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/PULS24.png" group-title="Top Tv Ausztria",PULS 24 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2380&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINS.png" group-title="ZZZ Ausztria",KABEL EINS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINS.png" group-title=" Top Tv Ausztria",KABEL EINS
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393737&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINSDOKU.png" group-title="ZZZ Ausztria",KABEL EINS DOKU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINSDOKU.png" group-title=" Top Tv Ausztria",KABEL EINS DOKU
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393738&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben.png" group-title="ZZZ Ausztria",PRO 7
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393742&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben.png" group-title="Top Tv Ausztria",PRO 7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393742&extension=ts 
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben_MAXX.png" group-title="ZZZ Ausztria",PROSIEBEN MAXX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben_MAXX.png" group-title="Top Tv Ausztria",PROSIEBEN MAXX
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393743&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SIXX.png" group-title="ZZZ Ausztria",SIXX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SIXX.png" group-title="Top Tv Ausztria",SIXX
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393745&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sat.1_Osterreich.png" group-title="ZZZ Ausztria",SAT.1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sat.1_Osterreich.png" group-title=" Top Tv Ausztria",SAT.1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393749&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SAT1GOLD.png" group-title="ZZZ Ausztria",SAT.1 GOLD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SAT1GOLD.png" group-title=" Top Tv Ausztria",SAT.1 GOLD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393748&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ServusTV.png" group-title="ZZZ Ausztria",SERVUS TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ServusTV.png" group-title=" Top Tv Ausztria",SERVUS TV
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393746&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/RiC.png" group-title="ZZZ Ausztria",RIC TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/RiC.png" group-title="Top Tv Ausztria",RIC TV
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393750&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/JUSTFISHING.png" group-title="ZZZ Ausztria",JUST FISHING TV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/JUSTFISHING.png" group-title=" Top Tv Ausztria",JUST FISHING TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459835&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/LAOLA1.png" group-title="ZZZ Ausztria",LAOLA1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/LAOLA1.png" group-title=" Top Tv Ausztria",LAOLA1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459828&extension=ts
 
 
 # Regionális ORF 2 variánsok
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title=" Top Tv Ausztria",ORF 2B
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2393&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="Top Tv   Ausztria",ORF 2K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2392&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title=" Top Tv Ausztria",ORF 2O
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2391&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="Top Tv Ausztria",ORF 2S
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2390&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2ST
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title=" Top Tv Ausztria",ORF 2ST
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2389&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="ZZZ Ausztria",ORF 2T
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title=" Top Tv Ausztria",ORF 2T
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2388&extension=ts
 
 
 # Sport csatornák (EGY mappában!)
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png" group-title="ZZZ Ausztria",ORF SPORT+ HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png" group-title="Top Tv Ausztria",ORF SPORT+ HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2386&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ZZZ Ausztria",DAZN RISE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="Top Tv Ausztria",DAZN RISE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459559&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ZZZ Ausztria",DAZN FAST HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="Top Tv  Ausztria",DAZN FAST HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459558&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/MOTORVISIONTV.png" group-title="ZZZ Ausztria",MOTORVISION TV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/MOTORVISIONTV.png" group-title="Top Tv  Ausztria",MOTORVISION TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459564&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SPORT1.png" group-title="ZZZ Ausztria",SPORT1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SPORT1.png" group-title=" Top Tv Ausztria",SPORT1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459561&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/redbulltv.png" group-title="ZZZ Ausztria",REDBULL TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/redbulltv.png" group-title=" Top Tv Ausztria",REDBULL TV
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="ZZZ Ausztria",SKY SPORT AUSTRIA 1 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="Top Tv Ausztria",SKY SPORT AUSTRIA 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
+
 
 
 
