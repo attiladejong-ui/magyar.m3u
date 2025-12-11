@@ -975,6 +975,180 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025190&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025184&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/SWR.png" group-title="5. Németország",┃DE┃ SWR FERNSEHEN RP FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025185&extension=ts
+#EXTINF:-1 tvg-id="##### KINDERSENDER #####" tvg-logo="" group-title="5. Németország" tvg-name="##### KINDERSENDER #####",##### KINDERSENDER #####
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411533&extension=ts
+#EXTINF:-1 tvg-id="DE| DISNEY CHANNEL HD" tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="5. Németország" tvg-name="DE| DISNEY CHANNEL HD",DE| DISNEY CHANNEL HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411377&extension=ts
+#EXTINF:-1 tvg-id="DE| DISNEY CHANNEL FHD" tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="5. Németország" tvg-name="DE| DISNEY CHANNEL FHD",DE| DISNEY CHANNEL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411531&extension=ts
+#EXTINF:-1 tvg-id="DE| CARTOON NETWORK FHD" tvg-logo="http://picons.cmshulk.com/picons/411532.png" group-title="5. Németország" tvg-name="DE| CARTOON NETWORK FHD",DE| CARTOON NETWORK FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411532&extension=ts
+#EXTINF:-1 tvg-id="DE| SUPER RTL HD" tvg-logo="http://picons.cmshulk.com/picons/411371.png" group-title="5. Németország" tvg-name="DE| SUPER RTL HD",DE| SUPER RTL HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411371&extension=ts
+#EXTINF:-1 tvg-id="DE| BOOMERANG" tvg-logo="http://picons.cmshulk.com/picons/411378.png" group-title="5. Németország" tvg-name="DE| BOOMERANG",DE| BOOMERANG
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411378&extension=ts
+#EXTINF:-1 tvg-id="DE| KIKA HD" tvg-logo="http://picons.cmshulk.com/picons/411374.png" group-title="5. Németország" tvg-name="DE| KIKA HD",DE| KIKA HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411374&extension=ts
+#EXTINF:-1 tvg-id="DE| KIKA FHD" tvg-logo="http://picons.cmshulk.com/picons/411529.png" group-title="5. Németország" tvg-name="DE| KIKA FHD",DE| KIKA FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411529&extension=ts
+#EXTINF:-1 tvg-id="DE| TOGGO PLUS SD" tvg-logo="http://picons.cmshulk.com/picons/411370.png" group-title="5. Németország" tvg-name="DE| TOGGO PLUS SD",DE| TOGGO PLUS SD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411370&extension=ts
+#EXTINF:-1 tvg-id="DE| NICKELODEON" tvg-logo="http://picons.cmshulk.com/picons/411373.png" group-title="5. Németország" tvg-name="DE| NICKELODEON",DE| NICKELODEON
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411373&extension=ts
+#EXTINF:-1 tvg-id="DE| NICK JR. SD" tvg-logo="http://picons.cmshulk.com/picons/411375.png" group-title="5. Németország" tvg-name="DE| NICK JR. SD",DE| NICK JR. SD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411375&extension=ts
+#EXTINF:-1 tvg-id="##### DE ENTERTAINMENT #####" tvg-logo="" group-title="5. Németország" tvg-name="##### DE ENTERTAINMENT #####",##### DE ENTERTAINMENT #####
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=490207&extension=ts
+#EXTINF:-1 tvg-id="DE| 13TH STREET HD" tvg-logo="http://picons.cmshulk.com/picons/411368.png" group-title="5. Németország" tvg-name="DE| 13TH STREET HD",DE| 13TH STREET HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411368&extension=ts
+#EXTINF:-1 tvg-id="DE| 13TH STREET FHD" tvg-logo="http://picons.cmshulk.com/picons/411525.png" group-title="5. Németország" tvg-name="DE| 13TH STREET FHD",DE| 13TH STREET FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411525&extension=ts
+#EXTINF:-1 tvg-id="DE| COMEDY CENTRAL HD" tvg-logo="http://picons.cmshulk.com/picons/411367.png" group-title="5. Németország" tvg-name="DE| COMEDY CENTRAL HD",DE| COMEDY CENTRAL HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411367&extension=ts
+#EXTINF:-1 tvg-id="DE| COMEDY CENTRAL FHD" tvg-logo="http://picons.cmshulk.com/picons/411511.png" group-title="5. Németország" tvg-name="DE| COMEDY CENTRAL FHD",DE| COMEDY CENTRAL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411511&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY REPLAY HD" tvg-logo="http://picons.cmshulk.com/picons/411366.png" group-title="5. Németország" tvg-name="DE| SKY REPLAY HD",DE| SKY REPLAY HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411366&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY REPLAY FHD" tvg-logo="http://picons.cmshulk.com/picons/411522.png" group-title="5. Németország" tvg-name="DE| SKY REPLAY FHD",DE| SKY REPLAY FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411522&extension=ts
+#EXTINF:-1 tvg-id="DE| COMEDY CENTRAL FHD" tvg-logo="http://picons.cmshulk.com/picons/533814.png" group-title="5. Németország" tvg-name="DE| COMEDY CENTRAL FHD",DE| COMEDY CENTRAL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=533814&extension=ts
+#EXTINF:-1 tvg-id="DE| COMEDY CENTRAL HD" tvg-logo="http://picons.cmshulk.com/picons/642101.png" group-title="5. Németország" tvg-name="DE| COMEDY CENTRAL HD",DE| COMEDY CENTRAL HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=642101&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CRIME FHD" tvg-logo="http://picons.cmshulk.com/picons/533813.png" group-title="5. Németország" tvg-name="DE| SKY CRIME FHD",DE| SKY CRIME FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=533813&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY ONE HD" tvg-logo="http://picons.cmshulk.com/picons/411365.png" group-title="5. Németország" tvg-name="DE| SKY ONE HD",DE| SKY ONE HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411365&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY ONE FHD" tvg-logo="http://picons.cmshulk.com/picons/411520.png" group-title="5. Németország" tvg-name="DE| SKY ONE FHD",DE| SKY ONE FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411520&extension=ts
+#EXTINF:-1 tvg-id="DE| WARNER TV SERIE HD" tvg-logo="http://picons.cmshulk.com/picons/411364.png" group-title="5. Németország" tvg-name="DE| WARNER TV SERIE HD",DE| WARNER TV SERIE HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411364&extension=ts
+#EXTINF:-1 tvg-id="DE| WARNER TV SERIE FHD" tvg-logo="http://picons.cmshulk.com/picons/411518.png" group-title="5. Németország" tvg-name="DE| WARNER TV SERIE FHD",DE| WARNER TV SERIE FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411518&extension=ts
+#EXTINF:-1 tvg-id="DE| WARNER TV FILM HD" tvg-logo="http://picons.cmshulk.com/picons/411363.png" group-title="5. Németország" tvg-name="DE| WARNER TV FILM HD",DE| WARNER TV FILM HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411363&extension=ts
+#EXTINF:-1 tvg-id="DE| WARNER TV FILM FHD" tvg-logo="http://picons.cmshulk.com/picons/411516.png" group-title="5. Németország" tvg-name="DE| WARNER TV FILM FHD",DE| WARNER TV FILM FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411516&extension=ts
+#EXTINF:-1 tvg-id="DE| WARNER TV COMEDY HD" tvg-logo="http://picons.cmshulk.com/picons/411362.png" group-title="5. Németország" tvg-name="DE| WARNER TV COMEDY HD",DE| WARNER TV COMEDY HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411362&extension=ts
+#EXTINF:-1 tvg-id="DE| WARNER TV COMEDY FHD" tvg-logo="http://picons.cmshulk.com/picons/411514.png" group-title="5. Németország" tvg-name="DE| WARNER TV COMEDY FHD",DE| WARNER TV COMEDY FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411514&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY ATLANTIC HD" tvg-logo="http://picons.cmshulk.com/picons/411360.png" group-title="5. Németország" tvg-name="DE| SKY ATLANTIC HD",DE| SKY ATLANTIC HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411360&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY ATLANTIC FHD" tvg-logo="http://picons.cmshulk.com/picons/411510.png" group-title="5. Németország" tvg-name="DE| SKY ATLANTIC FHD",DE| SKY ATLANTIC FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411510&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY ATLANTIC FHD*" tvg-logo="http://picons.cmshulk.com/picons/411509.png" group-title="5. Németország" tvg-name="DE| SKY ATLANTIC FHD*",DE| SKY ATLANTIC FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411509&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA ACTION HD" tvg-logo="http://picons.cmshulk.com/picons/411359.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA ACTION HD",DE| SKY CINEMA ACTION HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411359&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA ACTION FHD" tvg-logo="http://picons.cmshulk.com/picons/411508.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA ACTION FHD",DE| SKY CINEMA ACTION FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411508&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA ACTION FHD*" tvg-logo="http://picons.cmshulk.com/picons/411507.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA ACTION FHD*",DE| SKY CINEMA ACTION FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411507&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA FAMILY HD" tvg-logo="http://103.176.90.118/piconsnew/skycinemafamily.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA FAMILY HD",DE| SKY CINEMA FAMILY HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411358&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA FAMILY FHD" tvg-logo="http://103.176.90.118/piconsnew/skycinemafamily.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA FAMILY FHD",DE| SKY CINEMA FAMILY FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411506&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA FAMILY FHD*" tvg-logo="http://103.176.90.118/piconsnew/skycinemafamily.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA FAMILY FHD*",DE| SKY CINEMA FAMILY FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411505&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY HIGHLIGHT HD" tvg-logo="http://picons.cmshulk.com/picons/411357.png" group-title="5. Németország" tvg-name="DE| SKY HIGHLIGHT HD",DE| SKY HIGHLIGHT HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411357&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY HIGHLIGHT FHD*" tvg-logo="http://picons.cmshulk.com/picons/411502.png" group-title="5. Németország" tvg-name="DE| SKY HIGHLIGHT FHD*",DE| SKY HIGHLIGHT FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411502&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA HIGHLIGHT FHD" tvg-logo="http://picons.cmshulk.com/picons/411503.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA HIGHLIGHT FHD",DE| SKY CINEMA HIGHLIGHT FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411503&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA SPECIAL HD" tvg-logo="http://picons.cmshulk.com/picons/411356.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA SPECIAL HD",DE| SKY CINEMA SPECIAL HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411356&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA SPECIAL FHD" tvg-logo="http://picons.cmshulk.com/picons/411501.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA SPECIAL FHD",DE| SKY CINEMA SPECIAL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411501&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA SPECIAL FHD" tvg-logo="http://picons.cmshulk.com/picons/411504.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA SPECIAL FHD",DE| SKY CINEMA SPECIAL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411504&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA CLASSICS" tvg-logo="http://103.176.90.118/picons/logos/skycinemaclassics.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA CLASSICS",DE| SKY CINEMA CLASSICS
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411346&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA THRILLER HD" tvg-logo="http://picons.cmshulk.com/picons/411353.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA THRILLER HD",DE| SKY CINEMA THRILLER HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411353&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA THRILLER FHD" tvg-logo="http://picons.cmshulk.com/picons/411493.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA THRILLER FHD",DE| SKY CINEMA THRILLER FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411493&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN HD" tvg-logo="http://picons.cmshulk.com/picons/411355.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN HD",DE| SKY CINEMA PREMIEREN HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411355&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN FHD" tvg-logo="http://picons.cmshulk.com/picons/411500.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN FHD",DE| SKY CINEMA PREMIEREN FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411500&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN FHD*" tvg-logo="http://picons.cmshulk.com/picons/411499.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN FHD*",DE| SKY CINEMA PREMIEREN FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411499&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN +24 HD" tvg-logo="http://picons.cmshulk.com/picons/411354.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN +24 HD",DE| SKY CINEMA PREMIEREN +24 HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411354&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN +24 HD" tvg-logo="http://picons.cmshulk.com/picons/411498.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN +24 HD",DE| SKY CINEMA PREMIEREN +24 HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411498&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN +24 FHD*" tvg-logo="http://picons.cmshulk.com/picons/411496.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN +24 FHD*",DE| SKY CINEMA PREMIEREN +24 FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411496&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY CINEMA PREMIEREN +24 FHD" tvg-logo="http://picons.cmshulk.com/picons/411497.png" group-title="5. Németország" tvg-name="DE| SKY CINEMA PREMIEREN +24 FHD",DE| SKY CINEMA PREMIEREN +24 FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411497&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY KRIMI HD" tvg-logo="http://picons.cmshulk.com/picons/411352.png" group-title="5. Németország" tvg-name="DE| SKY KRIMI HD",DE| SKY KRIMI HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411352&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY KRIMI FHD" tvg-logo="http://picons.cmshulk.com/picons/411492.png" group-title="5. Németország" tvg-name="DE| SKY KRIMI FHD",DE| SKY KRIMI FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411492&extension=ts
+#EXTINF:-1 tvg-id="DE| SKY KRIMI FHD*" tvg-logo="http://picons.cmshulk.com/picons/411491.png" group-title="5. Németország" tvg-name="DE| SKY KRIMI FHD*",DE| SKY KRIMI FHD*
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411491&extension=ts
+#EXTINF:-1 tvg-id="DE| UNIVERSAL TV HD" tvg-logo="http://picons.cmshulk.com/picons/411351.png" group-title="5. Németország" tvg-name="DE| UNIVERSAL TV HD",DE| UNIVERSAL TV HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411351&extension=ts
+#EXTINF:-1 tvg-id="DE| UNIVERSAL TV FHD" tvg-logo="http://picons.cmshulk.com/picons/411490.png" group-title="5. Németország" tvg-name="DE| UNIVERSAL TV FHD",DE| UNIVERSAL TV FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411490&extension=ts
+#EXTINF:-1 tvg-id="DE| SYFY HD" tvg-logo="http://picons.cmshulk.com/picons/411350.png" group-title="5. Németország" tvg-name="DE| SYFY HD",DE| SYFY HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411350&extension=ts
+#EXTINF:-1 tvg-id="DE| SYFY FHD" tvg-logo="http://picons.cmshulk.com/picons/411488.png" group-title="5. Németország" tvg-name="DE| SYFY FHD",DE| SYFY FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411488&extension=ts
+#EXTINF:-1 tvg-id="DE| SONY AXN HD" tvg-logo="http://picons.cmshulk.com/picons/411349.png" group-title="5. Németország" tvg-name="DE| SONY AXN HD",DE| SONY AXN HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411349&extension=ts
+#EXTINF:-1 tvg-id="DE| SONY CHANNEL FHD" tvg-logo="http://picons.cmshulk.com/picons/411512.png" group-title="5. Németország" tvg-name="DE| SONY CHANNEL FHD",DE| SONY CHANNEL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411512&extension=ts
+#EXTINF:-1 tvg-id="DE| KINOWELT TV" tvg-logo="http://picons.cmshulk.com/picons/411347.png" group-title="5. Németország" tvg-name="DE| KINOWELT TV",DE| KINOWELT TV
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411347&extension=ts
+#EXTINF:-1 tvg-id="DE| TLC HD" tvg-logo="http://picons.cmshulk.com/picons/411332.png" group-title="5. Németország" tvg-name="DE| TLC HD",DE| TLC HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411332&extension=ts
+#EXTINF:-1 tvg-id="DE| TLC FHD" tvg-logo="http://picons.cmshulk.com/picons/411471.png" group-title="5. Németország" tvg-name="DE| TLC FHD",DE| TLC FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411471&extension=ts
+#EXTINF:-1 tvg-id="##### DE DOCUMENTAIRE #####" tvg-logo="" group-title="5. Németország" tvg-name="##### DE DOCUMENTAIRE #####",##### DE DOCUMENTAIRE #####
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=490208&extension=ts
+#EXTINF:-1 tvg-id="DE| DMAX HD" tvg-logo="http://picons.cmshulk.com/picons/411344.png" group-title="5. Németország" tvg-name="DE| DMAX HD",DE| DMAX HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411344&extension=ts
+#EXTINF:-1 tvg-id="DE| DMAX FHD" tvg-logo="http://picons.cmshulk.com/picons/411485.png" group-title="5. Németország" tvg-name="DE| DMAX FHD",DE| DMAX FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411485&extension=ts
+#EXTINF:-1 tvg-id="DE| DISCOVERY CHANNEL HD" tvg-logo="http://picons.cmshulk.com/picons/411343.png" group-title="5. Németország" tvg-name="DE| DISCOVERY CHANNEL HD",DE| DISCOVERY CHANNEL HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411343&extension=ts
+#EXTINF:-1 tvg-id="DE| DISCOVERY FHD" tvg-logo="http://picons.cmshulk.com/picons/411483.png" group-title="5. Németország" tvg-name="DE| DISCOVERY FHD",DE| DISCOVERY FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411483&extension=ts
+#EXTINF:-1 tvg-id="DE| DISCOVERY CHANNEL FHD" tvg-logo="http://picons.cmshulk.com/picons/411482.png" group-title="5. Németország" tvg-name="DE| DISCOVERY CHANNEL FHD",DE| DISCOVERY CHANNEL FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411482&extension=ts
+#EXTINF:-1 tvg-id="DE| NAT GEO HD" tvg-logo="http://picons.cmshulk.com/picons/411342.png" group-title="5. Németország" tvg-name="DE| NAT GEO HD",DE| NAT GEO HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411342&extension=ts
+#EXTINF:-1 tvg-id="DE| NAT GEO FHD" tvg-logo="http://picons.cmshulk.com/picons/411480.png" group-title="5. Németország" tvg-name="DE| NAT GEO FHD",DE| NAT GEO FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411480&extension=ts
+#EXTINF:-1 tvg-id="DE| NAT GEO WILD HD" tvg-logo="http://picons.cmshulk.com/picons/411341.png" group-title="5. Németország" tvg-name="DE| NAT GEO WILD HD",DE| NAT GEO WILD HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411341&extension=ts
+#EXTINF:-1 tvg-id="DE| NAT GEO WILD FHD" tvg-logo="http://picons.cmshulk.com/picons/411478.png" group-title="5. Németország" tvg-name="DE| NAT GEO WILD FHD",DE| NAT GEO WILD FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411478&extension=ts
+#EXTINF:-1 tvg-id="DE| GEO TV HD" tvg-logo="http://picons.cmshulk.com/picons/411340.png" group-title="5. Németország" tvg-name="DE| GEO TV HD",DE| GEO TV HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411340&extension=ts
+#EXTINF:-1 tvg-id="DE| SPIEGEL GESCHICHTE HD" tvg-logo="http://picons.cmshulk.com/picons/411339.png" group-title="5. Németország" tvg-name="DE| SPIEGEL GESCHICHTE HD",DE| SPIEGEL GESCHICHTE HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411339&extension=ts
+#EXTINF:-1 tvg-id="DE| SPIEGEL GESCHICHTE FHD" tvg-logo="http://picons.cmshulk.com/picons/411476.png" group-title="5. Németország" tvg-name="DE| SPIEGEL GESCHICHTE FHD",DE| SPIEGEL GESCHICHTE FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411476&extension=ts
+#EXTINF:-1 tvg-id="DE| HISTORY HD" tvg-logo="http://picons.cmshulk.com/picons/411337.png" group-title="5. Németország" tvg-name="DE| HISTORY HD",DE| HISTORY HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411337&extension=ts
+#EXTINF:-1 tvg-id="DE| HISTORY FHD" tvg-logo="http://picons.cmshulk.com/picons/411474.png" group-title="5. Németország" tvg-name="DE| HISTORY FHD",DE| HISTORY FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411474&extension=ts
+#EXTINF:-1 tvg-id="DE| WAIDWERK FHD" tvg-logo="http://picons.cmshulk.com/picons/411468.png" group-title="5. Németország" tvg-name="DE| WAIDWERK FHD",DE| WAIDWERK FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411468&extension=ts
+#EXTINF:-1 tvg-id="DE| ANIMAL PLANET FHD" tvg-logo="http://picons.cmshulk.com/picons/411481.png" group-title="5. Németország" tvg-name="DE| ANIMAL PLANET FHD",DE| ANIMAL PLANET FHD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411481&extension=ts
+#EXTINF:-1 tvg-id="DE| N24 DOKU" tvg-logo="http://picons.cmshulk.com/picons/411334.png" group-title="5. Németország" tvg-name="DE| N24 DOKU",DE| N24 DOKU
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411334&extension=ts
+#EXTINF:-1 tvg-id="DE| CRIME + INVESTIGATION HD" tvg-logo="http://picons.cmshulk.com/picons/411329.png" group-title="5. Németország" tvg-name="DE| CRIME + INVESTIGATION HD",DE| CRIME + INVESTIGATION HD
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411329&extension=ts
+#EXTINF:-1 tvg-id="DE| KABEL EINS DOKU" tvg-logo="http://picons.cmshulk.com/picons/411333.png" group-title="5. Németország" tvg-name="DE| KABEL EINS DOKU",DE| KABEL EINS DOKU
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411333&extension=ts
+#EXTINF:-1 tvg-id="DE| SILVERLINE" tvg-logo="http://picons.cmshulk.com/picons/556728.png" group-title="5. Németország" tvg-name="DE| SILVERLINE",DE| SILVERLINE
+http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=556728&extension=ts
 
 # ===== 5. Németország – DAZN / SKY / MAGENTA / SPORT =====
 
@@ -1234,6 +1408,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760969&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761037&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/HORSE & COUNTRY TV.png" group-title="5. Németország",┃DE┃ HORSE & COUNTRY TV FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761096&extension=ts
+
 
 
 
