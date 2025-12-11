@@ -1076,11 +1076,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760954&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760956&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTF1HD.png" group-title="5. Németország",┃DE┃ SKY SPORT F1 RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760959&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTENNIS.png" group-title="5. Németország",┃DE┃ SKY TENNIS HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760957&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="5 Németország",SKY SPORT TENNIS HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149459&extension=ts
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTGOLFHD.png" group-title="5. Németország",┃DE┃ SKY SPORT GOLF RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760958&extension=ts
@@ -1164,6 +1160,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760969&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761037&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/HORSE & COUNTRY TV.png" group-title="5. Németország",┃DE┃ HORSE & COUNTRY TV FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761096&extension=ts
+
 
 
 
