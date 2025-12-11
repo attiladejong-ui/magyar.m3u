@@ -1,6 +1,6 @@
 
 #EXTM3U
-
+# ===== FŐMENÜ: Magyarország =====
 # Hírcsatorna
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Magyarország - Hírcsatorna",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
@@ -823,6 +823,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&e
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="Top Tv Ausztria",SKY SPORT AUSTRIA 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
+
 
 
 
