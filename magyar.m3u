@@ -2030,29 +2030,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280426&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280427&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 15 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280428&extension=ts
-#EXTINF:-1 tvg-id="##### SKY GO PREMIUM PLAY #####" tvg-logo="" group-title="5.Németország" tvg-name="##### SKY GO PREMIUM PLAY #####",##### SKY GO PREMIUM PLAY #####
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871516&extension=ts
 
-#EXTINF:-1 tvg-id="DE| SKY GO DETEKTIV CONAN 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="5.Németország" tvg-name="DE| SKY GO DETEKTIV CONAN 1 FHD",DE| SKY GO DETEKTIV CONAN 1 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871515&extension=ts
-
-#EXTINF:-1 tvg-id="DE| SKY GO DETEKTIV CONAN 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="5.Németország" tvg-name="DE| SKY GO DETEKTIV CONAN 2 FHD",DE| SKY GO DETEKTIV CONAN 2 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871514&extension=ts
-
-#EXTINF:-1 tvg-id="DE| SKY GO KINDER 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/871513.png" group-title="5.Németország" tvg-name="DE| SKY GO KINDER 1 FHD",DE| SKY GO KINDER 1 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871513&extension=ts
-
-#EXTINF:-1 tvg-id="DE| SKY GO KINDER 2 FHD" tvg-logo="http://picons.cmshulk.com/picons/871512.png" group-title="5.Németország" tvg-name="DE| SKY GO KINDER 2 FHD",DE| SKY GO KINDER 2 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871512&extension=ts
-
-#EXTINF:-1 tvg-id="DE| SKY GO KINDER 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="5.Németország" tvg-name="DE| SKY GO KINDER 3 FHD",DE| SKY GO KINDER 3 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871511&extension=ts
-
-#EXTINF:-1 tvg-id="DE| SKY GO KINDER 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="5.Németország" tvg-name="DE| SKY GO KINDER 4 FHD",DE| SKY GO KINDER 4 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871510&extension=ts
-
-#EXTINF:-1 tvg-id="DE| SKY GO FILME 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/871509.png" group-title="5.Németország" tvg-name="DE| SKY GO FILME 1 FHD",DE| SKY GO FILME 1 FHD
-http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=871509&extension=ts
 
 
 
@@ -2605,6 +2583,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685716&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685715&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DEXTER HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685714&extension=ts
+
 
 
 
