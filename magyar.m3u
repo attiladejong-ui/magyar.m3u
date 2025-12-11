@@ -717,9 +717,6 @@ https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztp
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",ORF 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2395&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 4K
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/160905
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250018
 
@@ -3630,6 +3627,7 @@ http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/74526
 http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/74527
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="6.Spanyolország",ES: DAZN Event 10
 http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/74528
+
 
 
 
