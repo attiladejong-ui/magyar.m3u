@@ -1,13 +1,4 @@
-Értem, akkor csináljuk **úgy, hogy az almappák tényleg külön group-ként legyenek** – vagyis:
 
-* **Magyar tévék**: `group-title="Magyarország - ..."` (Hírcsatorna, Sport, Mozi, stb. – ahogy te írtad)
-* **Filmek**: `group-title="Filmek - ..."` (Vígjáték, Horror, Rajzfilm, stb.)
-
-Nem teszek bele se `[]` prefixet a név elé, se `#EXTGRP`-et, csak **a group-title** alapján lesz szétválogatva, így SmartOne-ban is gyors lesz a keresés.
-
-Itt a **TELJES egyesített lista**:
-
-```m3u
 #EXTM3U
 
 # ===== FŐMENÜ: MAGYARORSZÁG =====
@@ -737,6 +728,7 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 # Dráma
 #EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+
 
 
 
