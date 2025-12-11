@@ -2825,7 +2825,7 @@ http://canal-pro.xyz:8080/981882656tv/5uzkze/12335
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="6.Spanyolország",ES: LA 1 HD
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12334
 #EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="6.Spanyolország",ES: LA 2
-http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/2
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="6.Spanyolország",ES: ANTENA 3
 http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/3
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="6.Spanyolország",ES: LA SEXTA
@@ -3366,6 +3366,7 @@ http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/74526
 http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/74527
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="6.Spanyolország",ES: DAZN Event 10
 http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/74528
+
 
 
 
