@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP (1994)
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",Reszkessetek betörők 2 (1992)
-https://box-1275-e.vmwesa.online/hls/xqx2ozbg75okjiqbtfjc5iq34i2ze2gsvkdu6pkd6h7ytl6iwasfajmpcvzq/index-v1-a1.m3u8
+
 
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Tv-Hírcsatorna",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
@@ -660,9 +659,6 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Zootopia" group-title="Filmek",Zootopia 
-https://vdoc-3d-ccd-2.getromes.space/hls/,xqx2pjgy75oopgiitfis5ka64d2m67rz6ysqcsa7l4fzjx5ix4h4wzqlmhcq,.urlset/master.m3u8?video
-#EXTM3U
 #EXTINF:-1 tvg-name="HDMOZI OK Player" group-title="Filmek",Lányok pórázon (1970)
 https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokbs7ai7hvpqu25p3nxkq,.urlset/master.m3u8?video
 
@@ -676,25 +672,19 @@ https://box-1190-y.vmwesa.online/hls/xqx2posr7vokjiqbteyc5pyvxnyl6pzdf7txukv4szv
 vb3hhjvo#
 #EXTINF:-1 group-title="Filmek - Akció",Hunting Season (2025)
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmol4pr7rtz7ch5tq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Akció",The Wrecker (2025)
-https://box-1093-w.vmeas.cloud/hls/xqx2pezj75okjiqbtfjc57yyxxgfqeq3aso4jnmsztfswykekqi4gffl62yq/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="Filmek - Kaland",Dzsungeltura (2021)
-https://box-1337-r.vmwes.cloud/hls/xqx2o6g7fvokjiqbthashkyx4a2nlcanzdjni7lwfmdsuif5m7g76lr3oewa/index-v1-a1.m3u8
+
+
 
 #EXTINF:-1 group-title="Filmek - Horror",Shelby Oaks – A gonosz nyomában (2024)
 https://box-1190-y.vmwesa.online/hls/xqx2pzxl7vokjiqbte4c5jcfxdwmxsxgddom5uwsl52c2e3mx6ou24a63zmq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Horror",Fekete Telefon 2 (2025)
-https://box-1100-r.vmeas.cloud/hls/xqx2oskh7vokjiqbtezs57iqwjb2jx4tehnykzdgyreulxy7crde426zb3uq/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="Filmek - Horror",A Kör (2002)
 https://box-1103-o.vmeas.cloud/hls/xqx2ojor75okjiqbtfis5oq4xjgl47p3463kcqqiqbke5mgbysxtkgbu7tnq/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="Filmek - Háborús",A Szövetség (2023)
 https://box-1100-r.vmeas.cloud/hls/xqx2ozri75okjiqbtfjc5migxts64jjjj23lh7je5pxesgwl4lqreorbvzda/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek - Háborús",Nürnberg (2025)
-https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5zrh3bz6nba7tlkq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Filmek -Rajzfilm",Zootropolis 2  (2025)
-https://vdoc-3d-ccd-2.getromes.space/hls/xqx2pjgy75okjiqbtfis5ka64apqyze42u3zzczmwhygajdjxxhmylyskeqa/index-v1-a1.m3u8
+
 
 #EXTINF:-1 group-title="Filmek -Sci Fi",Tron Ares (2025)
 https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbieguizvj6hpmgwurq/index-v1-a1.m3u8
@@ -702,6 +692,7 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 
 #EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+
 
 
 
