@@ -1,8 +1,6 @@
 
 #EXTM3U
 
-# ====== MAGYAR TV CSATORNÁK TEMATIKUSAN ======
-
 # Hírcsatorna
 #EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Magyarország - Hírcsatorna",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
@@ -717,6 +715,7 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 #EXTINF:-1 group-title="Filmek",[Dráma] Hamlet
 #EXTGRP:Dráma
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+
 
 
 
