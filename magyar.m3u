@@ -1,856 +1,674 @@
+Értem, akkor csináljuk **úgy, hogy az almappák tényleg külön group-ként legyenek** – vagyis:
 
+* **Magyar tévék**: `group-title="Magyarország - ..."` (Hírcsatorna, Sport, Mozi, stb. – ahogy te írtad)
+* **Filmek**: `group-title="Filmek - ..."` (Vígjáték, Horror, Rajzfilm, stb.)
+
+Nem teszek bele se `[]` prefixet a név elé, se `#EXTGRP`-et, csak **a group-title** alapján lesz szétválogatva, így SmartOne-ban is gyors lesz a keresés.
+
+Itt a **TELJES egyesített lista**:
+
+```m3u
 #EXTM3U
 
 # ===== FŐMENÜ: MAGYARORSZÁG =====
 
-# Karácsony
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Magyarország",[Karácsony] CHRITMAS| XMAS-SHOW ᴴᴰ (1994)
-#EXTGRP:Karácsony
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Magyarország - Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ (1994)
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Magyarország",[Karácsony] Reszkessetek betörők 2 (1992)
-#EXTGRP:Karácsony
-https://box-1275-e.vmwesa.online/hls/xqx2ozbg75okjiqbtfjc5iq34i2ze2gsvkdu6pkd6h7ytl6iwasfajmpcvzq/index-v1-a1.m3u8
+# ====== MAGYAR TV CSATORNÁK TEMATIKUSAN ======
 
 # Hírcsatorna
-#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Magyarország",[Hírcsatorna] M1 FHD
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="Magyarország - Hírcsatorna",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 
 # Főcsatornák
-#EXTINF:0 group-title="Magyarország",[Főcsatornák] TV2 FHD
-#EXTGRP:Főcsatornák
+#EXTINF:0 group-title="Magyarország - Főcsatornák",TV2 FHD
 http://pl.online24.pm/play/775/E9498A9C37D1459/video.m3u8
-
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] TV2 FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",TV2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01q
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a018
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL2 FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01r
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL 3 FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL 3 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01t
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] TV2 SUPER FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",TV2 SUPER FHD
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] COOL FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",COOL FHD
 http://213.163.13.122:1559/udp/239.1.10.125:2000
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] DUNA HD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] DUNA WORLD FHD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",DUNA WORLD FHD
 http://213.163.13.122:1559/udp/239.1.10.4:2000
 
 # Ismeretterjesztő
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] M5 FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",M5 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01i
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] M5 HD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",M5 HD
 http://vocotv.pro:80/Larry2025/Larry2025/711547
 
 # Gyermekműsorok
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] M2 FHD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",M2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a016
 
 # Mozi
-#EXTINF:-1 group-title="Magyarország",[Mozi] HBO FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",HBO FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] HBO 2 FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",HBO 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] HBO 3 FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",HBO 3 FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Film+ FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Film+ FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9016/play/a01f
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] PARAMOUNT CHANNEL FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",PARAMOUNT CHANNEL FHD
 http://vocotv.pro:80/Larry2025/Larry2025/711605
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Mozi+
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Mozi+
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9489
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] EPIC DRAMA FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",EPIC DRAMA FHD
 http://213.163.13.122:1559/udp/239.1.10.163:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILM MANIA FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILM MANIA FHD
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILMBOX STARS SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILMBOX STARS SD
 http://vocotv.pro:80/Larry2025/Larry2025/711618
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILMBOX PREMIUM SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILMBOX PREMIUM SD
 http://vocotv.pro:80/Larry2025/Larry2025/711617
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILMBOX FAMILY HD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILMBOX FAMILY HD
 http://vocotv.pro:80/Larry2025/Larry2025/711616
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILMBOX EXTRA SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILMBOX EXTRA SD
 http://vocotv.pro:80/Larry2025/Larry2025/711615
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILMBOX EXTRA HD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILMBOX EXTRA HD
 http://vocotv.pro:80/Larry2025/Larry2025/711614
 
 # Hírcsatorna
-#EXTINF:-1 group-title="Magyarország",[Hírcsatorna] HÍRTV HD
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 group-title="Magyarország - Hírcsatorna",HÍRTV HD
 http://vocotv.pro:80/Larry2025/Larry2025/711528
 
-#EXTINF:-1 group-title="Magyarország",[Hírcsatorna] HÍRTV HD -1 óra
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 group-title="Magyarország - Hírcsatorna",HÍRTV HD -1 ora
 https://video12.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Hírcsatorna] Tv-ATV FHD
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 group-title="Magyarország - Hírcsatorna",Tv-ATV FHD
 http://213.163.13.122:1559/udp/239.1.10.152:2000
 
-#EXTINF:-1 group-title="Magyarország",[Hírcsatorna] ATV EXTRA FHD
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 group-title="Magyarország - Hírcsatorna",ATV EXTRA FHD
 http://213.163.13.122:1559/udp/239.1.10.161:2000
 
-#EXTINF:-1 group-title="Magyarország",[Hírcsatorna] ATV EXTRA HD
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 group-title="Magyarország - Hírcsatorna",ATV EXTRA HD
 http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/110318
 
 # Zene
-#EXTINF:-1 group-title="Magyarország",[Zene] DANCE TV FHD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",DANCE TV FHD
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 # Gyermekműsorok
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] KÖLYÖK KLUB FHD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",KÖLYÖK KLUB FHD
 http://213.163.13.122:1559/udp/239.1.10.115:2000
 
 # Sport
-#EXTINF:-1 group-title="Magyarország",[Sport] SPORT 1 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",SPORT 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a017
 
-#EXTINF:-1 group-title="Magyarország",[Sport] SPORT 2 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",SPORT 2 FHD
 http://213.163.13.122:1559/udp/239.1.10.167:2000
 
-#EXTINF:-1 group-title="Magyarország",[Sport] SPORT 2 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",SPORT 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a015
 
-#EXTINF:-1 group-title="Magyarország",[Sport] M4 SPORT FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",M4 SPORT FHD
 http://213.163.13.122:1559/udp/239.1.10.135:2000
 
-#EXTINF:0  group-title="Magyarország",[Sport] M4 SPORT FHD
-#EXTGRP:Sport
+#EXTINF:0  group-title="Magyarország - Sport",M4 SPORT FHD
 http://pl.online24.pm/play/891/E9498A9C37D1459/video.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Sport] Spiler 1 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",Spiler 1 FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9468
 
-#EXTINF:-1 group-title="Magyarország",[Sport] Spiler 2 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",Spiler 2 FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/78577
 
-#EXTINF:-1 group-title="Magyarország",[Sport] MATCH 4 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",MATCH 4 FHD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 
-#EXTINF:-1 group-title="Magyarország",[Sport] MATCH 4 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",MATCH 4 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a019
 
-#EXTINF:-1 group-title="Magyarország",[Sport] ARENA 4 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",ARENA 4 FHD
 http://213.163.13.122:1559/udp/239.1.10.62:2000
 
-#EXTINF:-1 group-title="Magyarország",[Sport] EUROSPORT 1 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",EUROSPORT 1 FHD
 http://213.163.13.122:1559/udp/239.1.10.120:2000
 
-#EXTINF:-1 group-title="Magyarország",[Sport] EUROSPORT 2 FHD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",EUROSPORT 2 FHD
 http://213.163.13.122:1559/udp/239.1.10.121:2000
 
-# Mozi (Magyar mozi + HBO duplikációk stb.)
-#EXTINF:-1 group-title="Magyarország",[Mozi] MAGYAR MOZI TV SD
-#EXTGRP:Mozi
+# Mozi – Magyar Mozi TV + HBO duplikációk
+#EXTINF:-1 group-title="Magyarország - Mozi",MAGYAR MOZI TV SD
 http://213.163.13.122:1559/udp/239.1.10.76:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] MAGYAR MOZI TV SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",MAGYAR MOZI TV SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a01i
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] HBO FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",HBO FHD
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] HBO2 FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",HBO2 FHD
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] HBO 3 FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",HBO 3 FHD
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] CINEMAX FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",CINEMAX FHD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Cinemax2 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Cinemax2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a024
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Epic Drama HD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Epic Drama HD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9017/play/a00w
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FilmBox Extra FHD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FilmBox Extra FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01j
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Moziverzum
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Moziverzum
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/79205
 
-# Ismeretterjesztő (NatGeo stb.)
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Nat Geo HD HU
-#EXTGRP:Ismeretterjesztő
+# Ismeretterjesztő – Nat Geo, Ozone stb.
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Nat Geo HD HU
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9016/play/a01z
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] OZONE FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",OZONE FHD
 http://213.163.13.122:1559/udp/239.1.10.52:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] FOOD HD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",FOOD HD
 http://vocotv.pro:80/Larry2025/Larry2025/711584
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] SPEKTRUM FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",SPEKTRUM FHD
 http://213.163.13.122:1559/udp/239.1.10.165:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] DISCOVERY ID FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",DISCOVERY ID FHD
 http://213.163.13.122:1559/udp/239.1.10.70:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] BBC EARTH FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",BBC EARTH FHD
 http://vocotv.pro:80/Larry2025/Larry2025/711581
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Love Nature HD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Love Nature HD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01s
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] RTL OTTHON FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",RTL OTTHON FHD
 http://213.163.13.122:1559/udp/239.1.10.93:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] VIASAT NATURE FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",VIASAT NATURE FHD
 http://213.163.13.122:1559/udp/239.1.10.65:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Travel Channel FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Travel Channel FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9461
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] NAT GEO WILD FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",NAT GEO WILD FHD
 http://213.163.13.122:1559/udp/239.1.10.60:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Nat Geo Wild FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Nat Geo Wild FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01y
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] ANIMAL PLANET FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",ANIMAL PLANET FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.102:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Fishing and Hunting FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Fishing and Hunting FHD
 http://213.163.13.122:1559/udp/239.1.10.67:2000
 
-# Sport – SD változatok
-#EXTINF:-1 group-title="Magyarország",[Sport] Spiler TV SD
-#EXTGRP:Sport
+# Sport – SD Spíler stb.
+#EXTINF:-1 group-title="Magyarország - Sport",Spiler TV SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01p
 
-#EXTINF:-1 group-title="Magyarország",[Sport] Spiler 2 SD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",Spiler 2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9021/play/a029
 
-#EXTINF:-1 group-title="Magyarország",[Sport] M4 Sport2
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",M4 Sport2
 https://c202-node61-cdn.connectmedia.hu/150109/8a181e4643bec1fac481fa291a3cfdd9/69308fd1/109-WEB3_HUGEO_MAIN-avc1_3699968=10005.m3u8
 
 # Zene – DIKH
-#EXTINF:-1 group-title="Magyarország",[Zene] DIKH FHD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",DIKH FHD
 http://213.163.13.122:1559/udp/239.1.10.157:2000
 
 # Főcsatornák – TV2 SD
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] TV2 SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",TV2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01i
 
-# Helyi csatornák (TV Eger, Gyöngyös, stb.)
-#EXTINF:-1 group-title="Magyarország",[Helyi] TV EGER FHD
-#EXTGRP:Helyi
+# Helyi csatornák
+#EXTINF:-1 group-title="Magyarország - Helyi",TV EGER FHD
 http://stream.tveger.hu:8010/live.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Liceum Tv
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Liceum Tv
 http://193.225.32.62:8890/live.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Balaton TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] DTV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Gyöngyös Tv
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Gyöngyös Tv
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Pannon TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Pannon TV
 https://stream2.nmih.hu:4102/live.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Erdély TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Erdély TV
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/83515
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Kapos Tv
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Kapos Tv
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Tatai TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Tatai TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Kecskeméti TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Kecskeméti TV
 https://eurobioinvest.hu:444/live/ktv.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] TV Keszthely
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Bajai TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Bajai TV
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Karcag TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Karcag TV
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] XVTV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",XVTV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Obuda TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Obuda TV
 https://stream.streaming4u.hu/ObudaTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Tisza Tv
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Tisza Tv
 https://live.tiszatv.hu/tmp_hls/stream/index.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] Ozdi TV
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",Ozdi TV
 https://stream.nmih.hu:7982/live.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] TV 7 Bekescsaba
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",TV 7 Bekescsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
-#EXTINF:-1 group-title="Magyarország",[Helyi] RTV 2 Ujvidek
-#EXTGRP:Helyi
+#EXTINF:-1 group-title="Magyarország - Helyi",RTV 2 Ujvidek
 http://212.200.230.50:1935/RTV/rtv2/chunklist_w229570725.m3u8
 
-# Mozi – továbbiak (Prime, Story4, AXN stb.)
-#EXTINF:-1 group-title="Magyarország",[Mozi] Prime SD
-#EXTGRP:Mozi
+# Mozi – további csatornák
+#EXTINF:-1 group-title="Magyarország - Mozi",Prime SD
 http://213.163.13.122:1559/udp/239.1.10.63:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] STORY 4 HD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",STORY 4 HD
 http://vocotv.pro:80/Larry2025/Larry2025/711539
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Filmbox Premium
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Filmbox Premium
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01x
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] MOZI+ SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",MOZI+ SD
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] AMC HU
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",AMC HU
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a01d 
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] JOCKY TV
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",JOCKY TV
 http://213.163.13.122:1559/udp/239.1.10.159:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] MOZIVERZUM SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",MOZIVERZUM SD
 http://213.163.13.122:1559/udp/239.1.10.158:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] DIRECT ONE SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",DIRECT ONE SD
 http://vocotv.pro:80/Larry2025/Larry2025/711363
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Moziklub
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Moziklub
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a01x
 
 # Főcsatornák – RTL / Viasat / Comedy Central
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL HÁROM HD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL HÁROM HD
 http://vocotv.pro:80/Larry2025/Larry2025/711568
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] VIASAT 3 SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",VIASAT 3 SD
 http://213.163.13.122:1559/udp/239.1.10.16:2000
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] VIASAT 2 SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",VIASAT 2 SD
 http://213.163.13.122:1559/udp/239.1.10.118:2000
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] VIASAT 2 SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",VIASAT 2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a023
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] VIASAT 6 SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",VIASAT 6 SD
 http://213.163.13.122:1559/udp/239.1.10.79:2000
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] Comedy Central SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",Comedy Central SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00n
 
-# Mozi – további filmcsatornák (Viasat Film, AXN, stb.)
-#EXTINF:-1 group-title="Magyarország",[Mozi] Paramount Network SD
-#EXTGRP:Mozi
+# Mozi – további filmcsatornák
+#EXTINF:-1 group-title="Magyarország - Mozi",Paramount Network SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a019
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] VIASAT FILM SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",VIASAT FILM SD
 http://213.163.13.122:1559/udp/239.1.10.117:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Filmbox Family SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Filmbox Family SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a019
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Film+ SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Film+ SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01b
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] AXN SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",AXN SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a02d
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] AXN WHITE SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",AXN WHITE SD
 http://vocotv.pro:80/Larry2025/Larry2025/711311
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] AXN Black SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",AXN Black SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a01k
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] JOCKY TV SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",JOCKY TV SD
 http://213.163.13.122:1559/udp/239.1.10.159:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Max4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Max4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a01b
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] TV4 HD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",TV4 HD
 http://vocotv.pro:80/Larry2025/Larry2025/711451
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] TV4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",TV4 SD
 http://213.163.13.122:1559/udp/239.1.10.34:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] TV4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",TV4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a017
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILM 4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILM 4 SD
 http://213.163.13.122:1559/udp/239.1.10.164:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] FILM 4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",FILM 4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a018
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] Galaxy4
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",Galaxy4
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a00s
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] AXN SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",AXN SD
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] STORY 4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",STORY 4 SD
 http://213.163.13.122:1559/udp/239.1.10.85:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] MAX4 SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",MAX4 SD
 http://213.163.13.122:1559/udp/239.1.10.75:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] IZAURA TV SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",IZAURA TV SD
 http://213.163.13.122:1559/udp/239.1.10.145:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] SOROZAT KLUB SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",SOROZAT KLUB SD
 http://213.163.13.122:1559/udp/239.1.10.72:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] TV2 COMEDY SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",TV2 COMEDY SD
 http://213.163.13.122:1559/udp/239.1.10.146:2000
 
-#EXTINF:-1 group-title="Magyarország",[Mozi] TV2 COMEDY SD
-#EXTGRP:Mozi
+#EXTINF:-1 group-title="Magyarország - Mozi",TV2 COMEDY SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00x
 
 # Főcsatornák – RTL Gold / RTL Kettő / RTL Három / Sorozat+ / Cool / Film Cafe
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL GOLD SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL GOLD SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01e
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL KETTO SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL KETTO SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a019
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] RTL HAROM SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",RTL HAROM SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01a 
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] Sorozat+ SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",Sorozat+ SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01b
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] Cool SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",Cool SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01q
 
-#EXTINF:-1 group-title="Magyarország",[Főcsatornák] Film Cafe SD
-#EXTGRP:Főcsatornák
+#EXTINF:-1 group-title="Magyarország - Főcsatornák",Film Cafe SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01r
 
 # Sport – MATCH4 SD
-#EXTINF:-1 group-title="Magyarország",[Sport] MATCH4 SD
-#EXTGRP:Sport
+#EXTINF:-1 group-title="Magyarország - Sport",MATCH4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a01f
 
 # Ismeretterjesztő – Digital1, m5, BBC Earth, TV Paprika, PAX, TLC, Discovery, Viasat Explorer, Viasat History, NatGeo stb.
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] DIGITAL 1 FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",DIGITAL 1 FHD
 http://213.163.13.122:1559/udp/239.1.10.122:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] m5 SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",m5 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00w
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] BBC Earth SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",BBC Earth SD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.106:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] TV Paprika
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",TV Paprika
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9021/play/a025
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] PAX SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",PAX SD
 http://213.163.13.122:1559/udp/239.1.10.10:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] TLC SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",TLC SD
 http://213.163.13.122:1559/udp/239.1.10.151:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] DISCOVERY SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",DISCOVERY SD
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] VIASAT EXPLORER SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",VIASAT EXPLORER SD
 http://213.163.13.122:1559/udp/239.1.10.28:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] VIASAT HISTORY FHD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",VIASAT HISTORY FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9459
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] VIASAT HISTORY SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",VIASAT HISTORY SD
 http://213.163.13.122:1559/udp/239.1.10.78:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] VIASAT HISTORY SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",VIASAT HISTORY SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00p
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Nat Geo SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Nat Geo SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00n
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Travel SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Travel SD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.104:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] SPEKTRUM HOME SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",SPEKTRUM HOME SD
 http://213.163.13.122:1559/udp/239.1.10.166:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Ozone TV
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Ozone TV
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a010
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] TV2 SÉF SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",TV2 SÉF SD
 http://213.163.13.122:1559/udp/239.1.10.147:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] TV2 SÉF SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",TV2 SÉF SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00m
 
 # Hírcsatorna – HirTV
-#EXTINF:-1 group-title="Magyarország",[Hírcsatorna] HirTV
-#EXTGRP:Hírcsatorna
+#EXTINF:-1 group-title="Magyarország - Hírcsatorna",HirTV
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9021/play/a01x
 
 # Ismeretterjesztő – Apostol, Heti TV
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] APOSTOL TV SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",APOSTOL TV SD
 http://213.163.13.122:1559/udp/239.1.10.51:2000
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] HETI TV SD
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",HETI TV SD
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
-# Gyermekműsorok – továbbiak (Cartoon, Minimax, Nick, JimJam…)
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] CARTOON NETWORK SD
-#EXTGRP:Gyermekműsorok
+# Gyermekműsorok – Cartoon, Nick, Minimax, JimJam stb.
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",CARTOON NETWORK SD
 http://213.163.13.122:1559/udp/239.1.10.74:2000
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] CARTOON NETWORK SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",CARTOON NETWORK SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a015
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] CARTOONITO
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",CARTOONITO
 http://vocotv.pro:80/Larry2025/Larry2025/711494
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] Minimax
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",Minimax
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01l
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] TV2 KIDS SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",TV2 KIDS SD
 http://213.163.13.122:1559/udp/239.1.10.148:2000
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] Nickelodeon SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",Nickelodeon SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a015
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] NICK JR SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",NICK JR SD
 http://213.163.13.122:1559/udp/239.1.10.140:2000
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] Nick Jr SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",Nick Jr SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a016
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] TV2 KLUB SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",TV2 KLUB SD
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] NICKTOONS SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",NICKTOONS SD
 http://213.163.13.122:1559/udp/239.1.10.112:2000
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] NICKTOONS SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",NICKTOONS SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a017
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] TEENNICK SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",TEENNICK SD
 http://213.163.13.122:1559/udp/239.1.10.153:2000
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] TEENNICK SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",TEENNICK SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a014
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] JimJam HU
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",JimJam HU
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9021/play/a01y
 
-#EXTINF:-1 group-title="Magyarország",[Gyermekműsorok] Duck TV SD
-#EXTGRP:Gyermekműsorok
+#EXTINF:-1 group-title="Magyarország - Gyermekműsorok",Duck TV SD
 http://213.163.13.122:1559/udp/239.1.10.97:2000
 
 # Zene – zenecsatornák
-#EXTINF:-1 group-title="Magyarország",[Zene] JAZZ TV SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",JAZZ TV SD
 http://213.163.13.122:1559/udp/239.1.10.11:2000
 
-#EXTINF:-1 group-title="Magyarország",[Zene] SLÁGER TV SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",SLÁGER TV SD
 http://213.163.13.122:1559/udp/239.1.10.89:2000
 
-#EXTINF:-1 group-title="Magyarország",[Zene] MTV 00s SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",MTV 00s SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00r
 
-#EXTINF:-1 group-title="Magyarország",[Zene] MTV 80s SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",MTV 80s SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00u
 
-#EXTINF:-1 group-title="Magyarország",[Zene] MTV 90s SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",MTV 90s SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00v
 
-#EXTINF:-1 group-title="Magyarország",[Zene] MTV Europe SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",MTV Europe SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00q
 
-#EXTINF:-1 group-title="Magyarország",[Zene] MTV Hits SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",MTV Hits SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00s
 
-#EXTINF:-1 group-title="Magyarország",[Zene] Club MTV SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",Club MTV SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00t
 
-#EXTINF:-1 group-title="Magyarország",[Zene] Music Channel
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",Music Channel
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9014/play/a01e
 
-#EXTINF:-1 group-title="Magyarország",[Zene] ZENEBUTIK SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",ZENEBUTIK SD
 http://213.163.13.122:1559/udp/239.1.10.149:2000
 
-#EXTINF:-1 group-title="Magyarország",[Zene] ZENEBUTIK SD
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",ZENEBUTIK SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00y
 
-#EXTINF:-1 group-title="Magyarország",[Zene] Muzsika TV
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",Muzsika TV
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01c
 
-#EXTINF:-1 group-title="Magyarország",[Zene] NickMusic
-#EXTGRP:Zene
+#EXTINF:-1 group-title="Magyarország - Zene",NickMusic
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01d
 
-#EXTINF:-1 group-title="Magyarország",[Ismeretterjesztő] Da Vinci
-#EXTGRP:Ismeretterjesztő
+#EXTINF:-1 group-title="Magyarország - Ismeretterjesztő",Da Vinci
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.141:2000
 
@@ -858,109 +676,67 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 # ===== FŐMENÜ: FILMEK =====
 
+# Karácsonyi film
+#EXTINF:-1 group-title="Filmek - Karácsony",Reszkessetek betörők 2 (1992)
+https://box-1275-e.vmwesa.online/hls/xqx2ozbg75okjiqbtfjc5iq34i2ze2gsvkdu6pkd6h7ytl6iwasfajmpcvzq/index-v1-a1.m3u8
+
+# Rajzfilm / animáció
+#EXTINF:-1 tvg-name="Zootopia" group-title="Filmek - Rajzfilm",Zootopia (2016)
+https://vdoc-3d-ccd-2.getromes.space/hls/,xqx2pjgy75oopgiitfis5ka64d2m67rz6ysqcsa7l4fzjx5ix4h4wzqlmhcq,.urlset/master.m3u8?video
+
+#EXTINF:-1 group-title="Filmek - Rajzfilm",Zootropolis 2 (2025)
+https://vdoc-3d-ccd-2.getromes.space/hls/xqx2pjgy75okjiqbtfis5ka64apqyze42u3zzczmwhygajdjxxhmylyskeqa/index-v1-a1.m3u8
 
 # Egyéb
-#EXTINF:-1 tvg-name="Lányok pórázon" group-title="Filmek",[Egyéb] Lányok pórázon (1970)
-#EXTGRP:Egyéb
+#EXTINF:-1 tvg-name="HDMOZI OK Player" group-title="Filmek - Egyéb",Lányok pórázon (1970)
 https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokbs7ai7hvpqu25p3nxkq,.urlset/master.m3u8?video
 
 # Vígjáték
-#EXTINF:-1 group-title="Filmek",[Vígjáték] Nászkáosz (2025)
-#EXTGRP:Vígjáték
+#EXTINF:-1 group-title="Filmek - Vígjáték",Nászkáosz (2025)
 https://box-1097-y.vmeas.cloud/hls/xqx2piez7vokjiqbte7c5padxpe2kydwqipbq2ojsbslqz4t5s7q5zb5x4qa/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="Filmek",[Vígjáték] Jay Kelly (2025)
-#EXTGRP:Vígjáték
+#EXTINF:-1 group-title="Filmek - Vígjáték",Jay Kelly (2025)
 https://box-1334-t.vmwes.cloud/hls/xqx2pyyq75okjiqbtfgs5pkgu2dcxlwrzxmkx7o4le3gxk6od4r57tfhv5rq/index-v1-a1.m3u8
 
 # Thriller
-#EXTINF:-1 group-title="Filmek",[Thriller] Éden (2025)
-#EXTGRP:Thriller
+#EXTINF:-1 group-title="Filmek - Thriller",Éden (2025)
 https://box-1190-y.vmwesa.online/hls/xqx2posr7vokjiqbteyc5pyvxnyl6pzdf7txukv4szv4c5t35hhhakmiiiza/index-v1-a1.m3u8
 
 # Akció
-#EXTINF:-1 group-title="Filmek",[Akció] Hunting Season (2025)
-#EXTGRP:Akció
+#EXTINF:-1 group-title="Filmek - Akció",Hunting Season (2025)
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmol4pr7rtz7ch5tq/index-v1-a1.m3u8
 
+#EXTINF:-1 group-title="Filmek - Akció",The Wrecker (2025)
+https://box-1093-w.vmeas.cloud/hls/xqx2pezj75okjiqbtfjc57yyxxgfqeq3aso4jnmsztfswykekqi4gffl62yq/index-v1-a1.m3u8
 
+# Kaland
+#EXTINF:-1 group-title="Filmek - Kaland",Dzsungeltura (2021)
+https://box-1337-r.vmwes.cloud/hls/xqx2o6g7fvokjiqbthashkyx4a2nlcanzdjni7lwfmdsuif5m7g76lr3oewa/index-v1-a1.m3u8
 
 # Horror
-#EXTINF:-1 group-title="Filmek",[Horror] Shelby Oaks – A gonosz nyomában (2024)
-#EXTGRP:Horror
+#EXTINF:-1 group-title="Filmek - Horror",Shelby Oaks – A gonosz nyomában (2024)
 https://box-1190-y.vmwesa.online/hls/xqx2pzxl7vokjiqbte4c5jcfxdwmxsxgddom5uwsl52c2e3mx6ou24a63zmq/index-v1-a1.m3u8
 
+#EXTINF:-1 group-title="Filmek - Horror",Fekete Telefon 2 (2025)
+https://box-1100-r.vmeas.cloud/hls/xqx2oskh7vokjiqbtezs57iqwjb2jx4tehnykzdgyreulxy7crde426zb3uq/index-v1-a1.m3u8
 
-
-#EXTINF:-1 group-title="Filmek",[Horror] A Kör (2002)
-#EXTGRP:Horror
+#EXTINF:-1 group-title="Filmek - Horror",A Kör (2002)
 https://box-1103-o.vmeas.cloud/hls/xqx2ojor75okjiqbtfis5oq4xjgl47p3463kcqqiqbke5mgbysxtkgbu7tnq/index-v1-a1.m3u8
 
 # Háborús
-#EXTINF:-1 group-title="Filmek",[Háborús] A Szövetség (2023)
-#EXTGRP:Háborús
+#EXTINF:-1 group-title="Filmek - Háborús",A Szövetség (2023)
 https://box-1100-r.vmeas.cloud/hls/xqx2ozri75okjiqbtfjc5migxts64jjjj23lh7je5pxesgwl4lqreorbvzda/index-v1-a1.m3u8
 
+#EXTINF:-1 group-title="Filmek - Háborús",Nürnberg (2025)
+https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5zrh3bz6nba7tlkq/index-v1-a1.m3u8
 
 # Sci Fi
-#EXTINF:-1 group-title="Filmek",[Sci Fi] Tron Ares (2025)
-#EXTGRP:Sci Fi
+#EXTINF:-1 group-title="Filmek -Sci Fi",Tron Ares (2025)
 https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbieguizvj6hpmgwurq/index-v1-a1.m3u8
 
 # Dráma
-#EXTINF:-1 group-title="Filmek",[Dráma] Hamlet
-#EXTGRP:Dráma
+#EXTINF:-1 group-title="Filmek - Dráma",Hamlet
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
