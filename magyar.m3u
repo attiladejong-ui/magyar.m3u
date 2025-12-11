@@ -1000,6 +1000,90 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760846&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="5. Németország",┃DE┃ SKY SPORT NEWS FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149431&extension=ts
 
+# ===== 5. Németország – MAGENTA SPORT =====
+
+# FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173879&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173861&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173862&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173863&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173864&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173865&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173866&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173867&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173868&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 9 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173869&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 10 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173870&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 11 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173871&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 12 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173872&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 13 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173873&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 14 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173874&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 15 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173875&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 16 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173876&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 17 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173877&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 18 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173878&extension=ts
+
+# HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149480&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149481&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149482&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149483&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149484&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149485&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149486&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149487&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149488&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149489&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149490&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 11 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149491&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 12 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149492&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 13 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149493&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 14 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149494&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 15 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149495&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 16 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149496&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 17 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149497&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="5. Németország",┃DE┃ MAGENTA SPORT 18 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149498&extension=ts
+
+
+
 
 
 
