@@ -1001,6 +1001,80 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760846&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149305&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="5. Németország",┃DE┃ SKY SPORT NEWS FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149431&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" group-title="5. Németország",☰☰☰☰ ┃DE┃ PAKET FILM UND SERIE HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=454&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYONEHD.png" group-title="5. Németország",┃DE┃ SKY ONE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=386&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5. Németország",┃DE┃ SKY CINEMA PREMIEREN HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=385&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5. Németország",┃DE┃ SKY CINEMA ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=3385&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5. Németország",┃DE┃ SKY CINEMA HIGHLIGHT HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5. Németország",┃DE┃ SKY CINEMA FAMILY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=378&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5. Németország",┃DE┃ SKY CINEMA CLASSICS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=379&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYATLANTIC.png" group-title="5. Németország",┃DE┃ SKY ATLANTIC HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=376&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png" group-title="5. Németország",┃DE┃ SKY KRIMI HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=374&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYREPLAYHD.png" group-title="5. Németország",┃DE┃ SKY REPLAY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=375&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" group-title="5. Németország",☰☰☰☰ ┃DE┃ PAKET UNTERHALTUNG HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=453&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHD.png" group-title="5. Németország",┃DE┃ MTV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=404&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Comedy_Central_2018.png" group-title="5. Németország",┃DE┃ COMEDY CENTRAL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=399&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/13STREETTHHD.png" group-title="5. Németország",┃DE┃ 13TH STREET HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=410&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WBSERIEHD.png" group-title="5. Németország",┃DE┃ WARNER TV SERIE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=417&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILMTVHD.png" group-title="5. Németország",┃DE┃ WARNER TV FILM HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=416&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="5. Németország",┃DE┃ WARNER TV COMEDY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=415&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SYFYHD.png" group-title="5. Németország",┃DE┃ SYFY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=412&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SONYCHANNELHD.png" group-title="5. Németország",┃DE┃ AXN WHITE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=414&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SONYAXNHD.png" group-title="5. Németország",┃DE┃ AXN BLACK HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=413&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNIVERSALTVHD.png" group-title="5. Németország",┃DE┃ UNIVERSAL TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=409&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KINOWELTTVHD.png" group-title="5. Németország",┃DE┃ KINOWELT HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=411&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ROMANCETVHD.png" group-title="5. Németország",┃DE┃ ROMANCE TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=408&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HEIMATKANALHD.png" group-title="5. Németország",┃DE┃ HEIMATKANAL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=407&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" group-title="5. Németország",☰☰☰☰ ┃DE┃ PAKET NATUR HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=455&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png" group-title="5. Németország",┃DE┃ NAT GEO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=357&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NGWILDHD.png" group-title="5. Németország",┃DE┃ NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=356&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISCOVERYCHANNELHD.png" group-title="5. Németország",┃DE┃ DISCOVERY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=355&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png" group-title="5. Németország",┃DE┃ CRIME+ INVESTIGATION HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=354&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/History-Channel-logo.png" group-title="5. Németország",┃DE┃ HISTORY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=353&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ANIMALPLANETHD.png" group-title="5. Németország",┃DE┃ ANIMAL PLANET HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=352&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TLC.png" group-title="5. Németország",┃DE┃ TLC HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=403&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/GEOTELEVISION.png" group-title="5. Németország",┃DE┃ GEO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=351&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HGTVHD.png" group-title="5. Németország",┃DE┃ HGTV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=350&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HRHD.png" group-title="5. Németország",┃DE┃ HR HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=349&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPIEGELGEDCHICHTEHD.png" group-title="5. Németország",┃DE┃ SPIEGEL GESCHICHTE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=406&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BONGUSTOHD.png" group-title="5. Németország",┃DE┃ BON GUSTO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=348&extension=ts
 
 # ===== 5. Németország – MAGENTA SPORT =====
 
@@ -1160,6 +1234,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760969&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761037&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/HORSE & COUNTRY TV.png" group-title="5. Németország",┃DE┃ HORSE & COUNTRY TV FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761096&extension=ts
+
 
 
 
