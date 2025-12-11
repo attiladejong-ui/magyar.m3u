@@ -1,9 +1,7 @@
 
 #EXTM3U
 
-# ===== FŐMENÜ: MAGYARORSZÁG =====
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Magyarország - Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ (1994)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ (1994)
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP
 
 # ====== MAGYAR TV CSATORNÁK TEMATIKUSAN ======
@@ -723,6 +721,7 @@ https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbie
 #EXTINF:-1 group-title="Filmek",[Dráma] Hamlet
 #EXTGRP:Dráma
 https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
+
 
 
 
