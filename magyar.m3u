@@ -2174,6 +2174,69 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280457&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280484&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ X-MEN
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280463&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT PROGRAMMUMBERSICHT
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684980&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 1
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685182&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 2
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685173&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 3
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685172&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 4
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685171&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 5
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685170&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 6
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 8
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 9
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" group-title="5.Németország",┃DE┃ SKY SELECT 10
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684973&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684972&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684971&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684970&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684969&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684968&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684967&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 1 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684963&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 2 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684962&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 3 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684961&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX SELECT 4 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684960&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX KINO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684979&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX KINO 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684978&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX KINO 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684977&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX KINO 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684976&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX KINO 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684975&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX PREMIERE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684964&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX KINO COLLECTION HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684974&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX 007 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684966&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX STAR WARS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684965&extension=ts
+
 
 
 
