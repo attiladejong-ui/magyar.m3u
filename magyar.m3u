@@ -1497,6 +1497,215 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280426&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280427&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 15 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280428&extension=ts
+
+#EXTINF:-1 tvg-name="##### SKY GO CINEMA VIP #####" group-title="5.Németország",##### SKY GO CINEMA VIP #####
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236576
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE| SKY CINEMA ACTION FHD" tvg-logo="http://103.176.90.95/images/411508.png" group-title="5.Németország",DE| SKY CINEMA ACTION FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411508
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE| SKY CINEMA ACTION HD" tvg-logo="http://103.176.90.95/images/411359.png" group-title="5.Németország",DE| SKY CINEMA ACTION HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411359
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="DE| SKY CINEMA HIGHLIGHT FHD" tvg-logo="http://103.176.90.95/images/411503.png" group-title="5.Németország",DE| SKY CINEMA HIGHLIGHT FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411503
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="DE| SKY CINEMA HIGHLIGHT HD" tvg-logo="http://103.176.90.92/images/1236548.png" group-title="5.Németország",DE| SKY CINEMA HIGHLIGHT HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236548
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE| SKY CINEMA CLASSICS FHD" tvg-logo="http://103.176.90.92/images/1236541.png" group-title="5.Németország",DE| SKY CINEMA CLASSICS FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236541
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE| SKY CINEMA CLASSICS HD" tvg-logo="http://103.176.90.92/images/1236534.png" group-title="5.Németország",DE| SKY CINEMA CLASSICS HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236534
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE| SKY CINEMA FAMILY FHD" tvg-logo="http://103.176.90.95/images/411506.png" group-title="5.Németország",DE| SKY CINEMA FAMILY FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411506
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE| SKY CINEMA FAMILY HD" tvg-logo="http://103.176.90.95/images/411358.png" group-title="5.Németország",DE| SKY CINEMA FAMILY HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411358
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE| SKY CINEMA PREMIEREN FHD" tvg-logo="http://103.176.90.95/images/411500.png" group-title="5.Németország",DE| SKY CINEMA PREMIEREN FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411500
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE| SKY CINEMA PREMIEREN HD" tvg-logo="http://103.176.90.95/images/411355.png" group-title="5.Németország",DE| SKY CINEMA PREMIEREN HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411355
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE| SKY CINEMA SPECIAL FHD" tvg-logo="http://103.176.90.95/images/411501.png" group-title="5.Németország",DE| SKY CINEMA SPECIAL FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411501
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE| SKY CINEMA SPECIAL HD" tvg-logo="http://103.176.90.95/images/411356.png" group-title="5.Németország",DE| SKY CINEMA SPECIAL HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411356
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE| SKY CINEMA THRILLER FHD" tvg-logo="http://103.176.90.95/images/411493.png" group-title="5.Németország",DE| SKY CINEMA THRILLER FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411493
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE| SKY CINEMA THRILLER HD" tvg-logo="http://103.176.90.95/images/411353.png" group-title="5.Németország",DE| SKY CINEMA THRILLER HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411353
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="DE| SKY ATLANTIC FHD" tvg-logo="http://103.176.90.95/images/411510.png" group-title="5.Németország",DE| SKY ATLANTIC FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411510
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="DE| SKY ATLANTIC HD" tvg-logo="http://103.176.90.95/images/411360.png" group-title="5.Németország",DE| SKY ATLANTIC HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411360
+#EXTINF:-1 tvg-id="SkyReplays.de" tvg-name="DE| SKY REPLAY FHD" tvg-logo="http://103.176.90.95/images/411522.png" group-title="5.Németország",DE| SKY REPLAY FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411522
+#EXTINF:-1 tvg-id="SkyReplays.de" tvg-name="DE| SKY REPLAY HD" tvg-logo="http://103.176.90.95/images/411366.png" group-title="5.Németország",DE| SKY REPLAY HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411366
+#EXTINF:-1 tvg-name="DE| SKY SHOWCASE FHD" tvg-logo="http://103.176.90.92/images/1236429.png" group-title="5.Németország",DE| SKY SHOWCASE FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236429
+#EXTINF:-1 tvg-name="DE| SKY SHOWCASE HD" tvg-logo="http://103.176.90.92/images/1236422.png" group-title="5.Németország",DE| SKY SHOWCASE HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236422
+#EXTINF:-1 tvg-id="SkyCrime.de" tvg-name="DE| SKY CRIME FHD" tvg-logo="http://103.176.90.95/images/533813.png" group-title="5.Németország",DE| SKY CRIME FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/533813
+#EXTINF:-1 tvg-name="DE| SKY CRIME HD" tvg-logo="http://103.176.90.92/images/1236394.png" group-title="5.Németország",DE| SKY CRIME HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1236394
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="DE| SKY KRIMI FHD" tvg-logo="http://103.176.90.95/images/411492.png" group-title="5.Németország",DE| SKY KRIMI FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411492
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="DE| SKY KRIMI HD" tvg-logo="http://103.176.90.95/images/411352.png" group-title="5.Németország",DE| SKY KRIMI HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411352
+#EXTINF:-1 tvg-id="SkyOne.de" tvg-name="DE| SKY ONE FHD" tvg-logo="http://103.176.90.95/images/411520.png" group-title="5.Németország",DE| SKY ONE FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411520
+#EXTINF:-1 tvg-id="SkyOne.de" tvg-name="DE| SKY ONE HD" tvg-logo="http://103.176.90.95/images/411365.png" group-title="5.Németország",DE| SKY ONE HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411365
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="DE| SYFY FHD" tvg-logo="http://103.176.90.95/images/411488.png" group-title="5.Németország",DE| SYFY FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411488
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="DE| SYFY HD" tvg-logo="http://103.176.90.95/images/411350.png" group-title="5.Németország",DE| SYFY HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411350
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE| 13TH STREET FHD" tvg-logo="http://103.176.90.95/images/411525.png" group-title="5.Németország",DE| 13TH STREET FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411525
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE| 13TH STREET HD" tvg-logo="http://103.176.90.95/images/411368.png" group-title="5.Németország",DE| 13TH STREET HD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/411368
+#EXTINF:-1 tvg-name="##### SKY GO PREMIUM PLAY #####" group-title="5.Németország",##### SKY GO PREMIUM PLAY #####
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871516
+#EXTINF:-1 tvg-name="DE| SKY GO DETEKTIV CONAN 1 FHD" tvg-logo="http://103.176.90.95/images/871515.png" group-title="5.Németország",DE| SKY GO DETEKTIV CONAN 1 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871515
+#EXTINF:-1 tvg-name="DE| SKY GO DETEKTIV CONAN 2 FHD" tvg-logo="http://103.176.90.95/images/871514.png" group-title="5.Németország",DE| SKY GO DETEKTIV CONAN 2 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871514
+#EXTINF:-1 tvg-name="DE| SKY GO KINDER 1 FHD" tvg-logo="http://103.176.90.95/images/871513.png" group-title="5.Németország",DE| SKY GO KINDER 1 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871513
+#EXTINF:-1 tvg-name="DE| SKY GO KINDER 2 FHD" tvg-logo="http://103.176.90.95/images/871512.png" group-title="5.Németország",DE| SKY GO KINDER 2 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871512
+#EXTINF:-1 tvg-name="DE| SKY GO KINDER 3 FHD" tvg-logo="http://103.176.90.95/images/871511.png" group-title="5.Németország",DE| SKY GO KINDER 3 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871511
+#EXTINF:-1 tvg-name="DE| SKY GO KINDER 4 FHD" tvg-logo="http://103.176.90.95/images/871510.png" group-title="5.Németország",DE| SKY GO KINDER 4 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871510
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 1 FHD" tvg-logo="http://103.176.90.95/images/871509.png" group-title="5.Németország",DE| SKY GO FILME 1 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871509
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 2 FHD" tvg-logo="http://103.176.90.95/images/871508.png" group-title="5.Németország",DE| SKY GO FILME 2 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871508
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 3 FHD" tvg-logo="http://103.176.90.95/images/871507.png" group-title="5.Németország",DE| SKY GO FILME 3 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871507
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 4 FHD" tvg-logo="http://103.176.90.95/images/871506.png" group-title="5.Németország",DE| SKY GO FILME 4 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871506
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 5 FHD" tvg-logo="http://103.176.90.95/images/871505.png" group-title="5.Németország",DE| SKY GO FILME 5 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871505
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 6 FHD" tvg-logo="http://103.176.90.95/images/871504.png" group-title="5.Németország",DE| SKY GO FILME 6 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871504
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 7 FHD" tvg-logo="http://103.176.90.95/images/871503.png" group-title="5.Németország",DE| SKY GO FILME 7 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871503
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 8 FHD" tvg-logo="http://103.176.90.95/images/871502.png" group-title="5.Németország",DE| SKY GO FILME 8 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871502
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 9 FHD" tvg-logo="http://103.176.90.95/images/871501.png" group-title="5.Németország",DE| SKY GO FILME 9 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871501
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 10 FHD" tvg-logo="http://103.176.90.95/images/871500.png" group-title="5.Németország",DE| SKY GO FILME 10 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871500
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 11 FHD" tvg-logo="http://103.176.90.95/images/871499.png" group-title="5.Németország",DE| SKY GO FILME 11 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871499
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 12 FHD" tvg-logo="http://103.176.90.95/images/871498.png" group-title="5.Németország",DE| SKY GO FILME 12 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871498
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 13 FHD" tvg-logo="http://103.176.90.95/images/871497.png" group-title="5.Németország",DE| SKY GO FILME 13 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871497
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 14 FHD" tvg-logo="http://103.176.90.95/images/871496.png" group-title="5.Németország",DE| SKY GO FILME 14 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871496
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 15 FHD" tvg-logo="http://103.176.90.95/images/871495.png" group-title="5.Németország",DE| SKY GO FILME 15 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871495
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 16 FHD" tvg-logo="http://103.176.90.95/images/871494.png" group-title="5.Németország",DE| SKY GO FILME 16 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871494
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 17 FHD" tvg-logo="http://103.176.90.95/images/871493.png" group-title="5.Németország",DE| SKY GO FILME 17 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871493
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 18 FHD" tvg-logo="http://103.176.90.95/images/871492.png" group-title="5.Németország",DE| SKY GO FILME 18 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871492
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 19 FHD" tvg-logo="http://103.176.90.95/images/871491.png" group-title="5.Németország",DE| SKY GO FILME 19 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871491
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 20 FHD" tvg-logo="http://103.176.90.95/images/871490.png" group-title="5.Németország",DE| SKY GO FILME 20 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871490
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 21 FHD" tvg-logo="http://103.176.90.95/images/871489.png" group-title="5.Németország",DE| SKY GO FILME 21 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871489
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 22 FHD" tvg-logo="http://103.176.90.95/images/871488.png" group-title="5.Németország",DE| SKY GO FILME 22 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871488
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 23 FHD" tvg-logo="http://103.176.90.95/images/871487.png" group-title="5.Németország",DE| SKY GO FILME 23 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871487
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 24 FHD" tvg-logo="http://103.176.90.95/images/871486.png" group-title="5.Németország",DE| SKY GO FILME 24 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871486
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 25 FHD" tvg-logo="http://103.176.90.95/images/871485.png" group-title="5.Németország",DE| SKY GO FILME 25 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871485
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 26 FHD" tvg-logo="http://103.176.90.95/images/871484.png" group-title="5.Németország",DE| SKY GO FILME 26 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871484
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 27 FHD" tvg-logo="http://103.176.90.95/images/871483.png" group-title="5.Németország",DE| SKY GO FILME 27 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871483
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 28 FHD" tvg-logo="http://103.176.90.95/images/871482.png" group-title="5.Németország",DE| SKY GO FILME 28 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871482
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 29 FHD" tvg-logo="http://103.176.90.95/images/871481.png" group-title="5.Németország",DE| SKY GO FILME 29 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871481
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 30 FHD" tvg-logo="http://103.176.90.95/images/871480.png" group-title="5.Németország",DE| SKY GO FILME 30 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871480
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 31 FHD" tvg-logo="http://103.176.90.95/images/871479.png" group-title="5.Németország",DE| SKY GO FILME 31 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871479
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 32 FHD" tvg-logo="http://103.176.90.95/images/871478.png" group-title="5.Németország",DE| SKY GO FILME 32 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871478
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 33 FHD" tvg-logo="http://103.176.90.95/images/871477.png" group-title="5.Németország",DE| SKY GO FILME 33 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871477
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 34 FHD" tvg-logo="http://103.176.90.95/images/871476.png" group-title="5.Németország",DE| SKY GO FILME 34 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871476
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 35 FHD" tvg-logo="http://103.176.90.95/images/871475.png" group-title="5.Németország",DE| SKY GO FILME 35 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871475
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 36 FHD" tvg-logo="http://103.176.90.95/images/871474.png" group-title="5.Németország",DE| SKY GO FILME 36 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871474
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 37 FHD" tvg-logo="http://103.176.90.95/images/871473.png" group-title="5.Németország",DE| SKY GO FILME 37 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871473
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 38 FHD" tvg-logo="http://103.176.90.95/images/871472.png" group-title="5.Németország",DE| SKY GO FILME 38 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871472
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 39 FHD" tvg-logo="http://103.176.90.95/images/871471.png" group-title="5.Németország",DE| SKY GO FILME 39 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871471
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 40 FHD" tvg-logo="http://103.176.90.95/images/871470.png" group-title="5.Németország",DE| SKY GO FILME 40 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871470
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 41 FHD" tvg-logo="http://103.176.90.95/images/871469.png" group-title="5.Németország",DE| SKY GO FILME 41 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871469
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 42 FHD" tvg-logo="http://103.176.90.95/images/871468.png" group-title="5.Németország",DE| SKY GO FILME 42 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871468
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 43 FHD" tvg-logo="http://103.176.90.95/images/871467.png" group-title="5.Németország",DE| SKY GO FILME 43 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871467
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 44 FHD" tvg-logo="http://103.176.90.95/images/871466.png" group-title="5.Németország",DE| SKY GO FILME 44 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871466
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 45 FHD" tvg-logo="http://103.176.90.95/images/871465.png" group-title="5.Németország",DE| SKY GO FILME 45 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871465
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 46 FHD" tvg-logo="http://103.176.90.95/images/871464.png" group-title="5.Németország",DE| SKY GO FILME 46 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871464
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 47 FHD" tvg-logo="http://103.176.90.95/images/871463.png" group-title="5.Németország",DE| SKY GO FILME 47 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871463
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 48 FHD" tvg-logo="http://103.176.90.95/images/871462.png" group-title="5.Németország",DE| SKY GO FILME 48 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871462
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 49 FHD" tvg-logo="http://103.176.90.95/images/871461.png" group-title="5.Németország",DE| SKY GO FILME 49 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871461
+#EXTINF:-1 tvg-name="DE| SKY GO FILME 50 FHD" tvg-logo="http://103.176.90.95/images/871460.png" group-title="5.Németország",DE| SKY GO FILME 50 FHD
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/871460
+#EXTINF:-1 tvg-name="##### MAGENTA FILME 4K #####" group-title="5.Németország",##### MAGENTA FILME 4K #####
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517662
+#EXTINF:-1 tvg-name="DE| TOP 100 4K" tvg-logo="http://103.176.90.92/images/1529679.png" group-title="5.Németország",DE| TOP 100 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1529679
+#EXTINF:-1 tvg-name="DE| MAGENTA ACTION 1 4K" tvg-logo="http://103.176.90.92/images/1517663.png" group-title="5.Németország",DE| MAGENTA ACTION 1 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517663
+#EXTINF:-1 tvg-name="DE| MAGENTA ACTION 2 4K" tvg-logo="http://103.176.90.92/images/1517664.png" group-title="5.Németország",DE| MAGENTA ACTION 2 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517664
+#EXTINF:-1 tvg-name="DE| MAGENTA COMEDY 1 4K" tvg-logo="http://103.176.90.92/images/1517666.png" group-title="5.Németország",DE| MAGENTA COMEDY 1 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517666
+#EXTINF:-1 tvg-name="DE| MAGENTA COMEDY 2 4K" tvg-logo="http://103.176.90.92/images/1517667.png" group-title="5.Németország",DE| MAGENTA COMEDY 2 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517667
+#EXTINF:-1 tvg-name="DE| MAGENTA DRAMA 4K" tvg-logo="http://103.176.90.92/images/1517668.png" group-title="5.Németország",DE| MAGENTA DRAMA 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517668
+#EXTINF:-1 tvg-name="DE| MAGENTA HORROR 4K" tvg-logo="http://103.176.90.92/images/1517669.png" group-title="5.Németország",DE| MAGENTA HORROR 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517669
+#EXTINF:-1 tvg-name="DE| MAGENTA ADVENTURE 4K" tvg-logo="http://103.176.90.92/images/1517665.png" group-title="5.Németország",DE| MAGENTA ADVENTURE 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517665
+#EXTINF:-1 tvg-name="DE| MAGENTA THRILLER 4K" tvg-logo="http://103.176.90.92/images/1517675.png" group-title="5.Németország",DE| MAGENTA THRILLER 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517675
+#EXTINF:-1 tvg-name="DE| MAGENTA SPECIAL 4K" tvg-logo="http://103.176.90.92/images/1517674.png" group-title="5.Németország",DE| MAGENTA SPECIAL 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517674
+#EXTINF:-1 tvg-name="DE| MAGENTA SCI-FI 4K" tvg-logo="http://103.176.90.92/images/1517673.png" group-title="5.Németország",DE| MAGENTA SCI-FI 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517673
+#EXTINF:-1 tvg-name="DE| MAGENTA ROMANCE 4K" tvg-logo="http://103.176.90.92/images/1517672.png" group-title="5.Németország",DE| MAGENTA ROMANCE 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517672
+#EXTINF:-1 tvg-name="DE| MAGENTA NON-STOP 4K" tvg-logo="http://103.176.90.92/images/1517671.png" group-title="5.Németország",DE| MAGENTA NON-STOP 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517671
+#EXTINF:-1 tvg-name="DE| MAGENTA KINDER 4K" tvg-logo="http://103.176.90.92/images/1517670.png" group-title="5.Németország",DE| MAGENTA KINDER 4K
+http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1517670
+
+
 #EXTINF:-1 tvg-name="##### VODAFONE GO #####" group-title="5.Németország",##### VODAFONE GO #####
 http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/994041
 #EXTINF:-1 tvg-name="DE| VODAFONE GO KINDER 1 FHD" tvg-logo="http://103.176.90.95/images/994040.png" group-title="5.Németország",DE| VODAFONE GO KINDER 1 FHD
@@ -2609,6 +2818,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685716&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685715&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DEXTER HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685714&extension=ts
+
 
 
 
