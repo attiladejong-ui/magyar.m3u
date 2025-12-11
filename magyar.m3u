@@ -1,839 +1,4 @@
 #EXTM3U
-# ===== FŐMENÜ: Magyarország =====
-# Hírcsatorna
-#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="1. Magyarország",M1 FHD
-http://213.163.13.122:1559/udp/239.1.10.1:2000
-
-# Főcsatornák
-#EXTINF:0 group-title="1. Magyarország",TV2 FHD
-http://pl.online24.pm/play/775/E9498A9C37D1459/video.m3u8
-#EXTINF:-1 group-title="1. Magyarország",TV2 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01q
-
-#EXTINF:-1 group-title="1. Magyarország",RTL FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a018
-
-#EXTINF:-1 group-title="1. Magyarország",RTL2 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01r
-
-#EXTINF:-1 group-title="1. Magyarország",RTL 3 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01t
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 SUPER FHD
-http://213.163.13.122:1559/udp/239.1.10.113:2000
-
-#EXTINF:-1 group-title="1. Magyarország",COOL FHD
-http://213.163.13.122:1559/udp/239.1.10.125:2000
-
-#EXTINF:-1 group-title="1. Magyarország",DUNA HD
-https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
-
-#EXTINF:-1 group-title="1. Magyarország",DUNA WORLD FHD
-http://213.163.13.122:1559/udp/239.1.10.4:2000
-
-# Ismeretterjesztő
-#EXTINF:-1 group-title="1. Magyarország",M5 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01i
-
-#EXTINF:-1 group-title="1. Magyarország",M5 HD
-http://vocotv.pro:80/Larry2025/Larry2025/711547
-
-# Gyermekműsorok
-#EXTINF:-1 group-title="1. Magyarország",M2 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a016
-
-# Mozi
-#EXTINF:-1 group-title="1. Magyarország",HBO FHD
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.37:2000
-
-#EXTINF:-1 group-title="1. Magyarország",HBO 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.38:2000
-
-#EXTINF:-1 group-title="1. Magyarország",HBO 3 FHD
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.39:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Film+ FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9016/play/a01f
-
-#EXTINF:-1 group-title="1. Magyarország",PARAMOUNT CHANNEL FHD
-http://vocotv.pro:80/Larry2025/Larry2025/711605
-
-#EXTINF:-1 group-title="1. Magyarország",Mozi+
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9489
-
-#EXTINF:-1 group-title="1. Magyarország",EPIC DRAMA FHD
-http://213.163.13.122:1559/udp/239.1.10.163:2000
-
-#EXTINF:-1 group-title="1. Magyarország",FILM MANIA FHD
-http://213.163.13.122:1559/udp/239.1.10.96:2000
-
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX STARS SD
-http://vocotv.pro:80/Larry2025/Larry2025/711618
-
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX PREMIUM SD
-http://vocotv.pro:80/Larry2025/Larry2025/711617
-
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX FAMILY HD
-http://vocotv.pro:80/Larry2025/Larry2025/711616
-
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX EXTRA SD
-http://vocotv.pro:80/Larry2025/Larry2025/711615
-
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX EXTRA HD
-http://vocotv.pro:80/Larry2025/Larry2025/711614
-
-# Hírcsatorna
-#EXTINF:-1 group-title="1. Magyarország",HÍRTV HD
-http://vocotv.pro:80/Larry2025/Larry2025/711528
-
-#EXTINF:-1 group-title="1. Magyarország",HÍRTV HD -1 ora
-https://video12.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Tv-ATV FHD
-http://213.163.13.122:1559/udp/239.1.10.152:2000
-
-#EXTINF:-1 group-title="1. Magyarország",ATV EXTRA FHD
-http://213.163.13.122:1559/udp/239.1.10.161:2000
-
-#EXTINF:-1 group-title="1. Magyarország",ATV EXTRA HD
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/110318
-
-# Zene
-#EXTINF:-1 group-title="1. Magyarország",DANCE TV FHD
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-# Gyermekműsorok
-#EXTINF:-1 group-title="1. Magyarország",KÖLYÖK KLUB FHD
-http://213.163.13.122:1559/udp/239.1.10.115:2000
-
-# Sport
-#EXTINF:-1 group-title="1. Magyarország",SPORT 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a017
-
-#EXTINF:-1 group-title="1. Magyarország",SPORT 2 FHD
-http://213.163.13.122:1559/udp/239.1.10.167:2000
-
-#EXTINF:-1 group-title="1. Magyarország",SPORT 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9010/play/a015
-
-#EXTINF:-1 group-title="1. Magyarország",M4 SPORT FHD
-http://213.163.13.122:1559/udp/239.1.10.135:2000
-
-#EXTINF:0  group-title="1. Magyarország",M4 SPORT FHD
-http://pl.online24.pm/play/891/E9498A9C37D1459/video.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Spiler 1 FHD
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9468
-
-#EXTINF:-1 group-title="1. Magyarország",Spiler 2 FHD
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/78577
-
-#EXTINF:-1 group-title="1. Magyarország",MATCH 4 FHD
-http://213.163.13.122:1559/udp/239.1.10.19:2000
-
-#EXTINF:-1 group-title="1. Magyarország",MATCH 4 FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9010/play/a019
-
-#EXTINF:-1 group-title="1. Magyarország",ARENA 4 FHD
-http://213.163.13.122:1559/udp/239.1.10.62:2000
-
-#EXTINF:-1 group-title="1. Magyarország",EUROSPORT 1 FHD
-http://213.163.13.122:1559/udp/239.1.10.120:2000
-
-#EXTINF:-1 group-title="1. Magyarország",EUROSPORT 2 FHD
-http://213.163.13.122:1559/udp/239.1.10.121:2000
-
-# Mozi – Magyar Mozi TV + HBO duplikációk
-#EXTINF:-1 group-title="1. Magyarország",MAGYAR MOZI TV SD
-http://213.163.13.122:1559/udp/239.1.10.76:2000
-
-#EXTINF:-1 group-title="1. Magyarország",MAGYAR MOZI TV SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9010/play/a01i
-
-#EXTINF:-1 group-title="1. Magyarország",HBO FHD
-http://213.163.13.122:1559/udp/239.1.10.37:2000
-
-#EXTINF:-1 group-title="1. Magyarország",HBO2 FHD
-http://213.163.13.122:1559/udp/239.1.10.38:2000
-
-#EXTINF:-1 group-title="1. Magyarország",HBO 3 FHD
-http://213.163.13.122:1559/udp/239.1.10.39:2000
-
-#EXTINF:-1 group-title="1. Magyarország",CINEMAX FHD
-http://213.163.13.122:1559/udp/239.1.10.40:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Cinemax2 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9009/play/a024
-
-#EXTINF:-1 group-title="1. Magyarország",Epic Drama HD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9017/play/a00w
-
-#EXTINF:-1 group-title="1. Magyarország",FilmBox Extra FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01j
-
-#EXTINF:-1 group-title="1. Magyarország",Moziverzum
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/79205
-
-# Ismeretterjesztő – Nat Geo, Ozone stb.
-#EXTINF:-1 group-title="1. Magyarország",Nat Geo HD HU
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9016/play/a01z
-
-#EXTINF:-1 group-title="1. Magyarország",OZONE FHD
-http://213.163.13.122:1559/udp/239.1.10.52:2000
-
-#EXTINF:-1 group-title="1. Magyarország",FOOD HD
-http://vocotv.pro:80/Larry2025/Larry2025/711584
-
-#EXTINF:-1 group-title="1. Magyarország",SPEKTRUM FHD
-http://213.163.13.122:1559/udp/239.1.10.165:2000
-
-#EXTINF:-1 group-title="1. Magyarország",DISCOVERY ID FHD
-http://213.163.13.122:1559/udp/239.1.10.70:2000
-
-#EXTINF:-1 group-title="1. Magyarország",BBC EARTH FHD
-http://vocotv.pro:80/Larry2025/Larry2025/711581
-
-#EXTINF:-1 group-title="1. Magyarország",Love Nature HD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01s
-
-#EXTINF:-1 group-title="1. Magyarország",RTL OTTHON FHD
-http://213.163.13.122:1559/udp/239.1.10.93:2000
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT NATURE FHD
-http://213.163.13.122:1559/udp/239.1.10.65:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Travel Channel FHD
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9461
-
-#EXTINF:-1 group-title="1. Magyarország",NAT GEO WILD FHD
-http://213.163.13.122:1559/udp/239.1.10.60:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Nat Geo Wild FHD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01y
-
-#EXTINF:-1 group-title="1. Magyarország",ANIMAL PLANET FHD
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.102:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Fishing and Hunting FHD
-http://213.163.13.122:1559/udp/239.1.10.67:2000
-
-# Sport – SD Spíler stb.
-#EXTINF:-1 group-title="1. Magyarország",Spiler TV SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01p
-
-#EXTINF:-1 group-title="1. Magyarország",Spiler 2 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9021/play/a029
-
-#EXTINF:-1 group-title="1. Magyarország",M4 Sport2
-https://c202-node61-cdn.connectmedia.hu/150109/8a181e4643bec1fac481fa291a3cfdd9/69308fd1/109-WEB3_HUGEO_MAIN-avc1_3699968=10005.m3u8
-
-# Zene – DIKH
-#EXTINF:-1 group-title="1. Magyarország",DIKH FHD
-http://213.163.13.122:1559/udp/239.1.10.157:2000
-
-# Főcsatornák – TV2 SD
-#EXTINF:-1 group-title="1. Magyarország",TV2 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01i
-
-# Helyi csatornák
-#EXTINF:-1 group-title="1. Magyarország",TV EGER FHD
-http://stream.tveger.hu:8010/live.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Liceum Tv
-http://193.225.32.62:8890/live.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Balaton TV
-https://stream.iptvservice.eu/hls/balatontv.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",DTV
-https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Gyöngyös Tv
-https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Pannon TV
-https://stream2.nmih.hu:4102/live.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Erdély TV
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/83515
-
-#EXTINF:-1 group-title="1. Magyarország",Kapos Tv
-https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Tatai TV
-https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Kecskeméti TV
-https://eurobioinvest.hu:444/live/ktv.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",TV Keszthely
-https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Bajai TV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Karcag TV
-https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",XVTV
-https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Obuda TV
-https://stream.streaming4u.hu/ObudaTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Tisza Tv
-https://live.tiszatv.hu/tmp_hls/stream/index.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",Ozdi TV
-https://stream.nmih.hu:7982/live.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",TV 7 Bekescsaba
-https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
-
-#EXTINF:-1 group-title="1. Magyarország",RTV 2 Ujvidek
-http://212.200.230.50:1935/RTV/rtv2/chunklist_w229570725.m3u8
-
-# Mozi – további csatornák
-#EXTINF:-1 group-title="1. Magyarország",Prime SD
-http://213.163.13.122:1559/udp/239.1.10.63:2000
-
-#EXTINF:-1 group-title="1. Magyarország",STORY 4 HD
-http://vocotv.pro:80/Larry2025/Larry2025/711539
-
-#EXTINF:-1 group-title="1. Magyarország",Filmbox Premium
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9005/play/a01x
-
-#EXTINF:-1 group-title="1. Magyarország",MOZI+ SD
-http://213.163.13.122:1559/udp/239.1.10.64:2000
-
-#EXTINF:-1 group-title="1. Magyarország",AMC HU
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a01d 
-
-#EXTINF:-1 group-title="1. Magyarország",JOCKY TV
-http://213.163.13.122:1559/udp/239.1.10.159:2000
-
-#EXTINF:-1 group-title="1. Magyarország",MOZIVERZUM SD
-http://213.163.13.122:1559/udp/239.1.10.158:2000
-
-#EXTINF:-1 group-title="1. Magyarország",DIRECT ONE SD
-http://vocotv.pro:80/Larry2025/Larry2025/711363
-
-#EXTINF:-1 group-title="1. Magyarország",Moziklub
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9009/play/a01x
-
-# Főcsatornák – RTL / Viasat / Comedy Central
-#EXTINF:-1 group-title="1. Magyarország",RTL HÁROM HD
-http://vocotv.pro:80/Larry2025/Larry2025/711568
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 3 SD
-http://213.163.13.122:1559/udp/239.1.10.16:2000
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 2 SD
-http://213.163.13.122:1559/udp/239.1.10.118:2000
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 2 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9009/play/a023
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 6 SD
-http://213.163.13.122:1559/udp/239.1.10.79:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Comedy Central SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00n
-
-# Mozi – további filmcsatornák
-#EXTINF:-1 group-title="1. Magyarország",Paramount Network SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9006/play/a019
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT FILM SD
-http://213.163.13.122:1559/udp/239.1.10.117:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Filmbox Family SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a019
-
-#EXTINF:-1 group-title="1. Magyarország",Film+ SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01b
-
-#EXTINF:-1 group-title="1. Magyarország",AXN SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9009/play/a02d
-
-#EXTINF:-1 group-title="1. Magyarország",AXN WHITE SD
-http://vocotv.pro:80/Larry2025/Larry2025/711311
-
-#EXTINF:-1 group-title="1. Magyarország",AXN Black SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a01k
-
-#EXTINF:-1 group-title="1. Magyarország",JOCKY TV SD
-http://213.163.13.122:1559/udp/239.1.10.159:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Max4 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9008/play/a01b
-
-#EXTINF:-1 group-title="1. Magyarország",TV4 HD
-http://vocotv.pro:80/Larry2025/Larry2025/711451
-
-#EXTINF:-1 group-title="1. Magyarország",TV4 SD
-http://213.163.13.122:1559/udp/239.1.10.34:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TV4 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a017
-
-#EXTINF:-1 group-title="1. Magyarország",FILM 4 SD
-http://213.163.13.122:1559/udp/239.1.10.164:2000
-
-#EXTINF:-1 group-title="1. Magyarország",FILM 4 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9008/play/a018
-
-#EXTINF:-1 group-title="1. Magyarország",Galaxy4
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9008/play/a00s
-
-#EXTINF:-1 group-title="1. Magyarország",AXN SD
-http://213.163.13.122:1559/udp/239.1.10.132:2000
-
-#EXTINF:-1 group-title="1. Magyarország",STORY 4 SD
-http://213.163.13.122:1559/udp/239.1.10.85:2000
-
-#EXTINF:-1 group-title="1. Magyarország",MAX4 SD
-http://213.163.13.122:1559/udp/239.1.10.75:2000
-
-#EXTINF:-1 group-title="1. Magyarország",IZAURA TV SD
-http://213.163.13.122:1559/udp/239.1.10.145:2000
-
-#EXTINF:-1 group-title="1. Magyarország",SOROZAT KLUB SD
-http://213.163.13.122:1559/udp/239.1.10.72:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 COMEDY SD
-http://213.163.13.122:1559/udp/239.1.10.146:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 COMEDY SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a00x
-
-# Főcsatornák – RTL Gold / RTL Kettő / RTL Három / Sorozat+ / Cool / Film Cafe
-#EXTINF:-1 group-title="1. Magyarország",RTL GOLD SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a01e
-
-#EXTINF:-1 group-title="1. Magyarország",RTL KETTO SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a019
-
-#EXTINF:-1 group-title="1. Magyarország",RTL HAROM SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a01a 
-
-#EXTINF:-1 group-title="1. Magyarország",Sorozat+ SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a01b
-
-#EXTINF:-1 group-title="1. Magyarország",Cool SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01q
-
-#EXTINF:-1 group-title="1. Magyarország",Film Cafe SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01r
-
-# Sport – MATCH4 SD
-#EXTINF:-1 group-title="1. Magyarország",MATCH4 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9008/play/a01f
-
-# Ismeretterjesztő – Digital1, m5, BBC Earth, TV Paprika, PAX, TLC, Discovery, Viasat Explorer, Viasat History, NatGeo stb.
-#EXTINF:-1 group-title="1. Magyarország",DIGITAL 1 FHD
-http://213.163.13.122:1559/udp/239.1.10.122:2000
-
-#EXTINF:-1 group-title="1. Magyarország",m5 SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a00w
-
-#EXTINF:-1 group-title="1. Magyarország",BBC Earth SD
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.106:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TV Paprika
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9021/play/a025
-
-#EXTINF:-1 group-title="1. Magyarország",PAX SD
-http://213.163.13.122:1559/udp/239.1.10.10:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TLC SD
-http://213.163.13.122:1559/udp/239.1.10.151:2000
-
-#EXTINF:-1 group-title="1. Magyarország",DISCOVERY SD
-http://213.163.13.122:1559/udp/239.1.10.150:2000
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT EXPLORER SD
-http://213.163.13.122:1559/udp/239.1.10.28:2000
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT HISTORY FHD
-http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9459
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT HISTORY SD
-http://213.163.13.122:1559/udp/239.1.10.78:2000
-
-#EXTINF:-1 group-title="1. Magyarország",VIASAT HISTORY SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a00p
-
-#EXTINF:-1 group-title="1. Magyarország",Nat Geo SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a00n
-
-#EXTINF:-1 group-title="1. Magyarország",Travel SD
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.104:2000
-
-#EXTINF:-1 group-title="1. Magyarország",SPEKTRUM HOME SD
-http://213.163.13.122:1559/udp/239.1.10.166:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Ozone TV
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9010/play/a010
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 SÉF SD
-http://213.163.13.122:1559/udp/239.1.10.147:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 SÉF SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a00m
-
-# Hírcsatorna – HirTV
-#EXTINF:-1 group-title="1. Magyarország",HirTV
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9021/play/a01x
-
-# Ismeretterjesztő – Apostol, Heti TV
-#EXTINF:-1 group-title="1. Magyarország",APOSTOL TV SD
-http://213.163.13.122:1559/udp/239.1.10.51:2000
-
-#EXTINF:-1 group-title="1. Magyarország",HETI TV SD
-http://213.163.13.122:1559/udp/239.1.10.54:2000
-
-# Gyermekműsorok – Cartoon, Nick, Minimax, JimJam stb.
-#EXTINF:-1 group-title="1. Magyarország",CARTOON NETWORK SD
-http://213.163.13.122:1559/udp/239.1.10.74:2000
-
-#EXTINF:-1 group-title="1. Magyarország",CARTOON NETWORK SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a015
-
-#EXTINF:-1 group-title="1. Magyarország",CARTOONITO
-http://vocotv.pro:80/Larry2025/Larry2025/711494
-
-#EXTINF:-1 group-title="1. Magyarország",Minimax
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9003/play/a01l
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 KIDS SD
-http://213.163.13.122:1559/udp/239.1.10.148:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Nickelodeon SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9006/play/a015
-
-#EXTINF:-1 group-title="1. Magyarország",NICK JR SD
-http://213.163.13.122:1559/udp/239.1.10.140:2000
-
-#EXTINF:-1 group-title="1. Magyarország",Nick Jr SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9006/play/a016
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 KLUB SD
-http://213.163.13.122:1559/udp/239.1.10.144:2000
-
-#EXTINF:-1 group-title="1. Magyarország",NICKTOONS SD
-http://213.163.13.122:1559/udp/239.1.10.112:2000
-
-#EXTINF:-1 group-title="1. Magyarország",NICKTOONS SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9006/play/a017
-
-#EXTINF:-1 group-title="1. Magyarország",TEENNICK SD
-http://213.163.13.122:1559/udp/239.1.10.153:2000
-
-#EXTINF:-1 group-title="1. Magyarország",TEENNICK SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9006/play/a014
-
-#EXTINF:-1 group-title="1. Magyarország",JimJam HU
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9021/play/a01y
-
-#EXTINF:-1 group-title="1. Magyarország",Duck TV SD
-http://213.163.13.122:1559/udp/239.1.10.97:2000
-
-# Zene – zenecsatornák
-#EXTINF:-1 group-title="1. Magyarország",JAZZ TV SD
-http://213.163.13.122:1559/udp/239.1.10.11:2000
-
-#EXTINF:-1 group-title="1. Magyarország",SLÁGER TV SD
-http://213.163.13.122:1559/udp/239.1.10.89:2000
-
-#EXTINF:-1 group-title="1. Magyarország",MTV 00s SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00r
-
-#EXTINF:-1 group-title="1. Magyarország",MTV 80s SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00u
-
-#EXTINF:-1 group-title="1. Magyarország",MTV 90s SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00v
-
-#EXTINF:-1 group-title="1. Magyarország",MTV Europe SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00q
-
-#EXTINF:-1 group-title="1. Magyarország",MTV Hits SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00s
-
-#EXTINF:-1 group-title="1. Magyarország",Club MTV SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9011/play/a00t
-
-#EXTINF:-1 group-title="1. Magyarország",Music Channel
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9014/play/a01e
-
-#EXTINF:-1 group-title="1. Magyarország",ZENEBUTIK SD
-http://213.163.13.122:1559/udp/239.1.10.149:2000
-
-#EXTINF:-1 group-title="1. Magyarország",ZENEBUTIK SD
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a00y
-
-#EXTINF:-1 group-title="1. Magyarország",Muzsika TV
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a01c
-
-#EXTINF:-1 group-title="1. Magyarország",NickMusic
-#EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a01d
-
-#EXTINF:-1 group-title="1. Magyarország",Da Vinci
-#EXTVLCOPT:network-caching=1000
-http://213.163.13.122:1559/udp/239.1.10.141:2000
-
-# Karácsony
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",CHRITMAS| XMAS-SHOW ᴴᴰ (1994)
-#EXTGRP:Karácsony
-http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973423&extension=ts&play_token=Ia0JC4XFjP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 1 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&extension=ts
- #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",  ┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 2 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&extension=ts
-
-
-
-
-
-# ===== FŐMENÜ: FILMEK =====
-
-# Vígjáték
-#EXTINF:-1 tvg-name="Lányok pórázon" group-title="2. Filmek",[Vígjáték] Lányok pórázon (1970)
-#EXTGRP:Vígjáték
-https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokbs7ai7hvpqu25p3nxkq,.urlset/master.m3u8?video
-
-# Vígjáték
-#EXTINF:-1 group-title="2. Filmek",[Vígjáték] Nászkáosz (2025)
-#EXTGRP:Vígjáték
-https://box-1097-y.vmeas.cloud/hls/xqx2piez7vokjiqbte7c5padxpe2kydwqipbq2ojsbslqz4t5s7q5zb5x4qa/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="2. Filmek",[Vígjáték] Jay Kelly (2025)
-#EXTGRP:Vígjáték
-https://box-1334-t.vmwes.cloud/hls/xqx2pyyq75okjiqbtfgs5pkgu2dcxlwrzxmkx7o4le3gxk6od4r57tfhv5rq/index-v1-a1.m3u8
-
-# Thriller
-#EXTINF:-1 group-title="2. Filmek",[Thriller] Éden (2025)
-#EXTGRP:Thriller
-https://box-1190-y.vmwesa.online/hls/xqx2posr7vokjiqbteyc5pyvxnyl6pzdf7txukv4szv4c5t35hhhakmiiiza/index-v1-a1.m3u8
-
-# Akció
-#EXTINF:-1 group-title="2. Filmek",[Akció] Hunting Season (2025)
-#EXTGRP:Akció
-https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmol4pr7rtz7ch5tq/index-v1-a1.m3u8
-
-
-
-# Horror
-#EXTINF:-1 group-title="2. Filmek",[Horror] Shelby Oaks – A gonosz nyomában (2024)
-#EXTGRP:Horror
-https://box-1190-y.vmwesa.online/hls/xqx2pzxl7vokjiqbte4c5jcfxdwmxsxgddom5uwsl52c2e3mx6ou24a63zmq/index-v1-a1.m3u8
-
-
-#EXTINF:-1 group-title="2. Filmek",[Horror] A Kör (2002)
-#EXTGRP:Horror
-https://box-1103-o.vmeas.cloud/hls/xqx2ojor75okjiqbtfis5oq4xjgl47p3463kcqqiqbke5mgbysxtkgbu7tnq/index-v1-a1.m3u8
-
-# Háborús
-#EXTINF:-1 group-title="2. Filmek",[Háborús] A Szövetség (2023)
-#EXTGRP:Háborús
-https://box-1100-r.vmeas.cloud/hls/xqx2ozri75okjiqbtfjc5migxts64jjjj23lh7je5pxesgwl4lqreorbvzda/index-v1-a1.m3u8
-
-
-# Sci Fi
-#EXTINF:-1 group-title="2. Filmek",[Sci Fi] Tron Ares (2025)
-#EXTGRP:Sci Fi
-https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbieguizvj6hpmgwurq/index-v1-a1.m3u8
-
-# Dráma
-#EXTINF:-1 group-title="2. Filmek",[Dráma] Hamlet
-#EXTGRP:Dráma
-https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
-
-# ===== FŐMENÜ: Top TV AUSZTRIA =====
-
-# Fő csatornák
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",ORF 1 4K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36058&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",ORF 1 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2395&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 4K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36059&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2394&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III 4K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36060&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ATV.png" group-title="4. Ausztria",ATV HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2385&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Logo_ATV2.png" group-title="4. Ausztria",ATV II HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2384&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="4. Ausztria",PULS 4
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2381&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/PULS24.png" group-title="4. Ausztria",PULS 24 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2380&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINS.png" group-title="4. Ausztria",KABEL EINS
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393737&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINSDOKU.png" group-title="4. Ausztria",KABEL EINS DOKU
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393738&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben.png" group-title="4. Ausztria",PRO 7
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393742&extension=ts 
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben_MAXX.png" group-title="4. Ausztria",PROSIEBEN MAXX
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393743&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SIXX.png" group-title="4. Ausztria",SIXX
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393745&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sat.1_Osterreich.png" group-title="4. Ausztria",SAT.1
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393749&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SAT1GOLD.png" group-title="4. Ausztria",SAT.1 GOLD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393748&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ServusTV.png" group-title="4. Ausztria",SERVUS TV
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393746&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/RiC.png" group-title="4. Ausztria",RIC TV
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393750&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/JUSTFISHING.png" group-title="4. Ausztria",JUST FISHING TV HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459835&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/LAOLA1.png" group-title="4. Ausztria",LAOLA1 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459828&extension=ts
-
-
-# Regionális ORF 2 variánsok
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2B
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2393&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2392&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2O
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2391&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2S
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2390&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2ST
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2389&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2T
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2388&extension=ts
-
-
-# Sport csatornák (EGY mappában!)
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png" group-title="4. Ausztria",ORF SPORT+ HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2386&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="4. Ausztria",DAZN RISE HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459559&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="4. Ausztria",DAZN FAST HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459558&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/MOTORVISIONTV.png" group-title="4. Ausztria",MOTORVISION TV HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459564&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SPORT1.png" group-title="4. Ausztria",SPORT1 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459561&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/redbulltv.png" group-title="4. Ausztria",REDBULL TV
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="4. Ausztria",SKY SPORT AUSTRIA 1 FHD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
-
-
-# ===== FŐMENÜ: 5. Németország =====
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DAS ERSTE.png" group-title="5.Németország",┃DE┃ DAS ERSTE FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025123&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png" group-title="5.Németország",┃DE┃ ZDF FHD
@@ -1148,9 +313,6 @@ http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411329&ex
 http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=411333&extension=ts
 #EXTINF:-1 tvg-id="DE| SILVERLINE" tvg-logo="http://picons.cmshulk.com/picons/556728.png" group-title="5.Németország" tvg-name="DE| SILVERLINE",DE| SILVERLINE
 http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=556728&extension=ts
-
-# ===== 5. Németország – DAZN / SKY / MAGENTA / SPORT =====
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="5.Németország",┃DE┃ DAZN BAR 1 RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149329&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="5.Németország",┃DE┃ DAZN BAR 2 RAW
@@ -1167,7 +329,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149334&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149331&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="5.Németország",┃DE┃ DAZN BAR 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149333&extension=ts
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGAHD.png" group-title="5.Németország",┃DE┃ SKY SPORT BUNDESLIGA RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760846&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA 2.png" group-title="5.Németország",┃DE┃ SKY SPORT BUNDESLIGA 2 FHD
@@ -1612,10 +773,6 @@ http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=1836187&e
 http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=1836186&extension=ts
 #EXTINF:-1 tvg-id="MG| SERVUS TV MOTORSPORT ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SERVUS-TV-MOTORSPORT.png" group-title="5.Németország" tvg-name="MG| SERVUS TV MOTORSPORT ᴿᴬᵂ",MG| SERVUS TV MOTORSPORT ᴿᴬᵂ
 http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=1836185&extension=ts
-
-# ===== 5. Németország – MAGENTA SPORT =====
-
-# FHD
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5.Németország",┃DE┃ MAGENTA SPORT FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173879&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5.Németország",┃DE┃ MAGENTA SPORT 1 FHD
@@ -1654,8 +811,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173876&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173877&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png" group-title="5.Németország",┃DE┃ MAGENTA SPORT 18 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=173878&extension=ts
-
-# SKY SPORT BUNDESLIGA REPLAY
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEBUNDELSIGA.png" group-title="5.Németország",┃DE┃ BUNDESLIGA HIGHLIGHTS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569291&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGA1HD.png" group-title="5.Németország",┃DE┃ BUNDESLIGA REPLAY 1 HD
@@ -1676,9 +831,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569284&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569283&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTBUNDESLIGA9HD.png" group-title="5.Németország",┃DE┃ BUNDESLIGA REPLAY 9 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=569282&extension=ts
-
-
-# SKY SPORT RAW
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTNEWSHD.png" group-title="5.Németország",┃DE┃ SKY SPORT NEWS RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760960&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTOPEVENTHD.png" group-title="5.Németország",┃DE┃ SKY SPORT TOP EVENT RAW
@@ -1687,8 +839,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760954&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760956&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTF1HD.png" group-title="5.Németország",┃DE┃ SKY SPORT F1 RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760959&extension=ts
-
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTGOLFHD.png" group-title="5.Németország",┃DE┃ SKY SPORT GOLF RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760958&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT1HD.png" group-title="5.Németország",┃DE┃ SKY SPORT 1 RAW
@@ -1711,10 +861,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760944&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760943&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORT10HD.png" group-title="5.Németország",┃DE┃ SKY SPORT 10 RAW
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760951&extension=ts
-
-
-
-# SPORT (EUROSPORT, SPORTDIGITAL, SERVUS, MS SPORT, SPORT1, AUTÓSPORT, RED BULL, ESPORTS, LOVAS)
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/EUROSPORT 1.png" group-title="5.Németország",┃DE┃ EUROSPORT 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760961&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/EUROSPORT 1.png" group-title="5.Németország",┃DE┃ EUROSPORT 1 HD
@@ -1771,227 +917,307 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=760969&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761037&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/HORSE & COUNTRY TV.png" group-title="5.Németország",┃DE┃ HORSE & COUNTRY TV FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=761096&extension=ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280228&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280229&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280230&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280231&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280232&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280233&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280234&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280235&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280236&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA IMDB 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280237&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280247&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280248&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280249&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280250&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280251&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280252&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280253&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280254&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280255&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280256&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 11 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280257&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 12 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280258&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 13 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280259&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 14 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280260&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 15 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280261&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 16 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280262&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 17 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280263&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 18 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280264&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 19 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280265&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 20 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280266&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 21 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280267&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 22 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280268&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 23 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280269&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 24 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280270&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 25 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280271&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 26 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280272&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 27 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280273&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 28 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280274&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 29 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280275&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 30 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280276&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 31 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280277&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 32 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280278&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 33 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280279&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 34 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280280&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ACTION 35 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280281&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 1
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280282&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 2
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280283&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 3
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280284&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 4
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280285&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 5
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280286&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 6
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280287&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280288&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 8
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280289&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 9
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280290&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 10
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280291&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 11
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280292&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 12
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280293&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 13
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280294&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 14
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280295&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 15
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280296&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 16
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280297&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 17
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280298&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 18
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280299&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 19
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280300&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA THRILLER 20
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280301&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280344&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280345&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280346&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280347&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280348&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280349&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280350&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280351&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280352&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280353&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 11 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280354&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 12 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280355&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 13 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280356&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 14 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280357&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 15 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280358&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 16 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280359&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 17 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280360&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 18 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280361&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 19 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280362&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA DRAMA 20 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280363&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280364&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280365&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280366&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280367&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280368&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280369&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280370&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280371&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280372&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA LIEBESFILME 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280373&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280374&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280375&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280376&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 4 HD
+http://main.light-ott.net:80/play/live.php?mac:A0:BB:3E:00:06:CB&stream=1280377&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280378&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280379&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280381&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280382&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA HORROR 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280383&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280384&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280385&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280386&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280387&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280388&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280389&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280390&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280391&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA SCI-FI 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280393&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280394&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280395&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280396&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280397&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280398&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280399&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280400&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280401&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/OLD SCHOOL/OLD SCHOOL.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA OLD SCHOOL 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280402&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280403&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280404&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280405&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280406&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280407&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280408&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280409&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA BOLLYWOOD 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280410&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280414&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280415&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280416&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280417&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280418&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280419&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280420&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280421&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280422&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280423&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 11 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280424&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 12 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280425&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 13 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280426&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 14 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280427&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIMATION/ANIMATION.png" group-title="5.Németország",┃DE┃ PREMIUM CINEMA ANIMATION 15 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280428&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ ADAM SANDLER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280498&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ AFRIKA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280450&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ ALIEN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280467&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ AL PACINO
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280491&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ ANIME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280492&extension=ts
