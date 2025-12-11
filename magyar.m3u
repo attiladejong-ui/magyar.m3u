@@ -681,26 +681,12 @@ https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokb
 #EXTGRP:Vígjáték
 https://box-1097-y.vmeas.cloud/hls/xqx2piez7vokjiqbte7c5padxpe2kydwqipbq2ojsbslqz4t5s7q5zb5x4qa/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="2. Filmek",[Vígjáték] Jay Kelly (2025)
-#EXTGRP:Vígjáték
-https://box-1334-t.vmwes.cloud/hls/xqx2pyyq75okjiqbtfgs5pkgu2dcxlwrzxmkx7o4le3gxk6od4r57tfhv5rq/index-v1-a1.m3u8
-
-# Thriller
-#EXTINF:-1 group-title="2. Filmek",[Thriller] Éden (2025)
-#EXTGRP:Thriller
-https://box-1190-y.vmwesa.online/hls/xqx2posr7vokjiqbteyc5pyvxnyl6pzdf7txukv4szv4c5t35hhhakmiiiza/index-v1-a1.m3u8
 
 # Akció
 #EXTINF:-1 group-title="2. Filmek",[Akció] Hunting Season (2025)
 #EXTGRP:Akció
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmol4pr7rtz7ch5tq/index-v1-a1.m3u8
 
-
-
-# Horror
-#EXTINF:-1 group-title="2. Filmek",[Horror] Shelby Oaks – A gonosz nyomában (2024)
-#EXTGRP:Horror
-https://box-1190-y.vmwesa.online/hls/xqx2pzxl7vokjiqbte4c5jcfxdwmxsxgddom5uwsl52c2e3mx6ou24a63zmq/index-v1-a1.m3u8
 
 
 #EXTINF:-1 group-title="2. Filmek",[Horror] A Kör (2002)
@@ -2188,6 +2174,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280457&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280484&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ X-MEN
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280463&extension=ts
+
 
 
 
