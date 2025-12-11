@@ -976,6 +976,27 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025184&
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/SWR.png" group-title="5. Németország",┃DE┃ SWR FERNSEHEN RP FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1025185&extension=ts
 
+# ===== 5. Németország – DAZN / SKY / MAGENTA / SPORT =====
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="5. Németország",┃DE┃ DAZN BAR 1 RAW
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149329&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="5. Németország",┃DE┃ DAZN BAR 2 RAW
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149330&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="5. Németország",┃DE┃ DAZN BAR 1 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149327&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="5. Németország",┃DE┃ DAZN BAR 2 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149328&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="5. Németország",┃DE┃ DAZN BAR 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149332&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="5. Németország",┃DE┃ DAZN BAR 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149334&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="5. Németország",┃DE┃ DAZN BAR 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149331&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="5. Németország",┃DE┃ DAZN BAR 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1149333&extension=ts
+
+
+
 
 
 
