@@ -2235,7 +2235,352 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684974&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX 007 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684966&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="5.Németország",┃DE┃ MAX STAR WARS HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796119&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796118&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796117&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796116&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796115&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796114&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796113&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796112&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796111&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796110&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796109&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 11 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796108&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 12 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796107&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 13 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796106&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 14 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796105&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 15 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796104&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 16 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796103&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 17 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796102&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 18 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796101&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 19 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796100&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 20 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796099&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 21 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796098&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 22 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796097&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 23 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796096&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 24 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796095&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" group-title="5.Németország",┃DE┃ SKY STORE SELECT 25 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796094&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796152&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796151&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796150&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796149&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796148&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796147&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SELECT.png" group-title="5.Németország",┃DE┃ PLAY SELECT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796146&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY EXTRA HD (2).png" group-title="5.Németország",┃DE┃ PLAY EXTRA HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796145&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY DISNEY+ HD.png" group-title="5.Németország",┃DE┃ PLAY DISNEY+ HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796144&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY NETFLIX HD.png" group-title="5.Németország",┃DE┃ PLAY NETFLIX HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796143&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY BEST OF HD.png" group-title="5.Németország",┃DE┃ PLAY BEST OF HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796142&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY COLLECTION HD.png" group-title="5.Németország",┃DE┃ PLAY COLLECTION HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796141&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY AKTION HD.png" group-title="5.Németország",┃DE┃ PLAY AKTION HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796140&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY AKTION +1 HD.png" group-title="5.Németország",┃DE┃ PLAY AKTION +1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796139&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY KOMODIE HD.png" group-title="5.Németország",┃DE┃ PLAY KOMODIE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796138&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY HORROR HD.png" group-title="5.Németország",┃DE┃ PLAY HORROR HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796137&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY FAMILIE HD.png" group-title="5.Németország",┃DE┃ PLAY FAMILIE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796136&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY ROMANTISCH HD.png" group-title="5.Németország",┃DE┃ PLAY ROMANTISCH HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796135&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY BOLLYWOOD HD.png" group-title="5.Németország",┃DE┃ PLAY BOLLYWOOD HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796134&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796133&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796132&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796131&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796130&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796129&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796128&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY SERIES.png" group-title="5.Németország",┃DE┃ PLAY SERIES 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796127&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY KIDS PAW PATROL HD.png" group-title="5.Németország",┃DE┃ PLAY KIDS PAW PATROL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796126&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY KIDS MACHA & BAR HD.png" group-title="5.Németország",┃DE┃ PLAY KIDS MACHA & BAR HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796125&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY KIDS PJ MASKS HD.png" group-title="5.Németország",┃DE┃ PLAY KIDS PJ MASKS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796124&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY KIDS PEPPA WUTZ HD.png" group-title="5.Németország",┃DE┃ PLAY KIDS PEPPA WUTZ HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796123&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796093&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796092&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796091&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796090&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796089&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796088&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796087&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796086&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796085&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796084&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796083&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 11 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796082&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 12 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796081&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 13 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796080&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX PREMIERE 14 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796079&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796078&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796077&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796076&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796075&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796074&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796073&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796072&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796071&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796070&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796069&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NETFLIX/NETFLIX.png" group-title="5.Németország",┃DE┃ NETFLIX SERIES 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796068&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796179&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796178&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796177&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796176&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796175&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796174&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/DISNEY+ SERIES.png" group-title="5.Németország",┃DE┃ DISNEY+ SERIES 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796173&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796172&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796171&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796170&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png" group-title="5.Németország",┃DE┃ PRIMEVIDEO SERIES 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796164&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES INFO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796163&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796162&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796161&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796160&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796159&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796158&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 6 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796157&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 7 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796156&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 8 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796155&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796154&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png" group-title="5.Németország",┃DE┃ APPLE TV+ SERIES 10 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=796153&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX BOX-OFFICE 1
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689896&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX BOX-OFFICE 2
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689895&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX BOX-OFFICE 3
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689894&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX KINDER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689892&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX KINDER+
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689891&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX ORIGINAL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689890&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX CINEMA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689889&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX FILME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689888&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX CINESTAR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689887&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX IMAX
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689886&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="5.Németország",┃DE┃ PLEX MTV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689885&extension=ts
+
+
+
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=684965&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ COBRA KAI HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685713&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ CRIMINAL MINDS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685712&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SUPERMAN & LOIS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685711&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ EUPHORIA HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685710&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ VAMPIRE DIARIES HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685709&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ GAME OF THRONES HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685708&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SOUTH PARK HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685707&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ LUPIN HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685706&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DOKTOR HOUSE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685705&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DRAGON BALL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685704&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SKY ROJO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685703&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ AMERICAN HORROR STORY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685702&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ FAMILY GUY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685701&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ OUTER BANKS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685700&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ MALCOM MITTENDRIN HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685699&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ MODERN FAMILY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685698&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ EL CHAPO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685697&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ NARUTO HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685696&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SQUID GAME HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685695&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ S.W.A.T HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685694&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃HOMELAND HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685693&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ PRISON BREAK HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685692&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ Dexter: New Blood HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685691&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SUITS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685690&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DESPERATE HOUSEWIVES HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685689&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ THE 100 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685688&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ THE BIG BANG THEROY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685687&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ THE BLACKLIST HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685686&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ THE FLASH HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685685&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ EXPEDITION UNKNOWN HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685684&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ THE SIMPSONS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685683&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ THE WALKING DEAD HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685682&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ TWO AND A HALF MEN HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685681&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ PRINZ VON BEL AIR HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685680&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ YOUNG SHELDON HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685679&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ TRUE BLOOD HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685678&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ VIKINGS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685677&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ BETTER CALL SAUL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685726&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SONS OF ANARCHY HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685725&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ YELLOWSTONE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685724&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ FROM HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685723&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ MANIFEST HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685722&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ BLACK MIRROR HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685721&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ SNOWFALL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685720&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ BALLERS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685719&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ MR. ROBOT HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685718&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ CSI: CYBER HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685717&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ CSI: MIAMI HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685716&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ CSI: VEGAS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685715&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DEXTER HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685714&extension=ts
+
+
 
 
 
