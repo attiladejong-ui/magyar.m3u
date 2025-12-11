@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTM3U
 # ===== FŐMENÜ: Magyarország =====
 # Hírcsatorna
@@ -2054,4 +2054,5 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280467&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280491&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="5.Németország",┃DE┃ ANIME
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1280492&extension=ts
+
 
