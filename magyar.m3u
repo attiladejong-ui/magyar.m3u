@@ -3820,7 +3820,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/19419/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1 HD" tvg-logo="https://i.ibb.co/qxwvJz2/image.png" group-title=" 9,Svájc",CH: SRF 1 HD
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1" tvg-logo="https://i.ibb.co/qxwvJz2/image.png" group-title="9.Svájc",CH: SRF 1 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121790
 #EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1" tvg-logo="https://i.ibb.co/qxwvJz2/image.png" group-title="9.Svájc",CH: SRF 1
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/92689
@@ -3912,7 +3912,7 @@ http://185.188.188.237:5000/live/spektrum/playlist.m3u8
 http://185.188.188.237:5000/live/dajto/playlist.m3u8
 #EXTINF:-1 group-title="Csehország",nova HD
 http://185.188.188.237:5000/live/nova/playlist.m3u8
-#EXTINF:-1 group-title="11.Csehország",paramount
+#EXTINF:-1 group-title="Csehország",paramount
 http://185.188.188.237:5000/live/paramount/playlist.m3u8
 #EXTINF:-1 group-title="Csehország",ctsport HD
 http://185.188.188.237:5000/live/ctsport/playlist.m3u8
@@ -3936,7 +3936,7 @@ http://185.188.188.237:5000/live/arenasport1/playlist.m3u8
 http://185.188.188.237:5000/live/arenasport2/playlist.m3u8
 #EXTINF:-1 group-title="Csehország",sport 1 HD
 http://185.188.188.237:5000/live/sport1/playlist.m3u8
-#EXTINF:-1 group-title="11.Csehország",sport 2 HD
+#EXTINF:-1 group-title="Csehország",sport 2 HD
 http://185.188.188.237:5000/live/sport2/playlist.m3u8
 #EXTINF:-1 group-title="Csehország",eurosport 1 HD
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
@@ -3950,9 +3950,9 @@ http://185.188.188.237:5000/live/disneychannel/playlist.m3u8
 http://185.188.188.237:5000/live/minimax/playlist.m3u8
 #EXTINF:-1 group-title="Csehország",nicktoons
 http://185.188.188.237:5000/live/nicktoons/playlist.m3u8
-#EXTINF:-1 group-title="11.Csehország",nickjr
+#EXTINF:-1 group-title="Csehország",nickjr
 http://185.188.188.237:5000/live/nickjr/playlist.m3u8
-#EXTINF:-1 group-title="11.Csehország",nickelodeon
+#EXTINF:-1 group-title="Csehország",nickelodeon
 http://185.188.188.237:5000/live/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="Csehország",cartoonnetwork
 http://185.188.188.237:5000/live/cartoonnetwork/playlist.m3u8
@@ -3985,6 +3985,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/82430
 
 #EXTINF:0 type="stream" channelId="3937" group-title="Romania", DIGI SPORT 4
 http://87143.fly63.be:80/Kenansoy/mKzd9oDz2c/229316
+
 
 
 
