@@ -4409,6 +4409,10 @@ http://tv14s.xyz:8080/91840130/91840130/212902
 #EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="" group-title="7.Olaszország",IT: CANALE 5
 http://tv14s.xyz:8080/91840130/91840130/212903
 
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 1" tvg-logo="" group-title="7.Olaszország", Italia 1 Full HD
+https://gamesmode.xyz/live/6F7Mrzf7h6/6SXUUdrfcF/2b7ce288-eaa9-4694-bddf-b26e3a8f4e04.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="" group-title="7.Olaszország",IT: MEDIASET ITALIA 2
 http://tv14s.xyz:8080/91840130/91840130/212907
 
@@ -5870,6 +5874,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
