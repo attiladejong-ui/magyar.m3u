@@ -3717,14 +3717,9 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/19403/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Liberty Нетфликс 4K
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/19402/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Liberty Легенда 4K
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/19308/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Liberty Марвел FHD
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15090/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Liberty Кино Микс 4K
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15110/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", MS Magic 4K
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/16143/index.m3u8
@@ -3738,8 +3733,6 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/19290/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Fresh Adventure
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/19297/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Kinoshka Action HD
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/18118/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Magic Action HD
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/18066/index.m3u8
@@ -3816,11 +3809,10 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/10081/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", VF Fantasy
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/10005/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Liberty Легенда 4K
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/19308/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", BOX Western HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/19419/index.m3u8
+
 
 
 
