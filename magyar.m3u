@@ -3646,14 +3646,6 @@ http://tv14s.xyz:8080/91840130/91840130/212911
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="" group-title="7.Olaszország",IT: RAI NEWS 24
 http://tv14s.xyz:8080/91840130/91840130/212913
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="7.Olaszország",IT: RETE 4
-http://tv14s.xyz:8080/91840130/91840130/212920
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI YOYO" tvg-logo="" group-title="7.Olaszország",IT: RAI YOYO
-http://tv14s.xyz:8080/91840130/91840130/212926
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: CARTOONITO" tvg-logo="" group-title="7.Olaszország",IT: CARTOONITO
-http://tv14s.xyz:8080/91840130/91840130/212928
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: FRISBEE" tvg-logo="" group-title="7.Olaszország",IT: FRISBEE
 http://tv14s.xyz:8080/91840130/91840130/212929
@@ -5113,6 +5105,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
