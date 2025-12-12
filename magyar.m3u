@@ -3676,6 +3676,12 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2402/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group=" 8.Ororszország  ", Матч! Футбол 2 FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2420/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="  8.Ororszország ", Окко Прайм Спорт
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="  8.Ororszország  ", Окко Прайм Спорт
+http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
+
+
 
 
 
