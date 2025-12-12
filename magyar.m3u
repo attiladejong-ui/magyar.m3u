@@ -681,6 +681,8 @@ http://omni-premium.shop:80/c2b6e1af09/ad8aa8031c/1729379
 #EXTGRP:Vígjáték
 https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokbs7ai7hvpqu25p3nxkq,.urlset/master.m3u8?video
 
+#EXTINF:-1 group-title="2. Filmek",Hunting.Season.2025
+https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmzpgjnv4cmnwhbwa/index-v1-a1.m3u8
 
 
 
@@ -5090,6 +5092,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
