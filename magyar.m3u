@@ -3667,10 +3667,11 @@ http://tv14s.xyz:8080/91840130/91840130/212934
 #EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="7.Olaszország",IT: FOCUS
 http://tv14s.xyz:8080/91840130/91840130/212941
 
-
+#EXTM3U url-tvg="https://iptvx.one/EPG"
  
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2402/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Матч! Футбол 2 FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2420/index.m3u8
@@ -3837,6 +3838,48 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2417/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/506/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország"  , РЕН ТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2024/index.m3u8
+
+#EXTINF:-1 tvg-id="sony-turbo" tvg-name=".Black" tvg-logo="" group-title="8.Oroszország",.Black
+http://95.66.188.74/.black/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Black" tvg-logo="" group-title="8.Oroszország",.Black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Black" tvg-logo="" group-title="8.Oroszország",.Black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 tvg-id="311" tvg-name=".RED FHD" tvg-logo="http://epg.it999.ru/img/311.png" group-title="8.Oroszország",.RED FHD
+http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".SCI-FI" tvg-logo="" group-title="8.Oroszország",.SCI-FI
+http://86.57.209.210/Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15+ Music" tvg-logo="https://i.ibb.co/NgJPp94D/15plusmusichd.png" group-title="8.Oroszország",15+ Music
+https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+#EXTINF:-1 tvg-id="15plusmusic" tvg-name="15+ Music HD" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="8.Oroszország",15+ Music HD
+https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1FILMAX HD" tvg-logo="" group-title="8.Oroszország",1FILMAX HD
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2FILMAX HD" tvg-logo="" group-title="8.Oroszország",2FILMAX HD
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино" tvg-logo="" group-title="8.Oroszország",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="365 дней" tvg-logo="" group-title="8.Oroszország",365 дней
+http://45.11.139.43:8555/365dney/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 канал" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png" group-title="8.Oroszország",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K travel" tvg-logo="" group-title="8.Oroszország",4K travel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 канал" tvg-logo="" group-title="8.Oroszország",8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 24" tvg-logo="" group-title="8.Oroszország",Беларусь 24
+http://86.57.209.210/Belarus24/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 3 HD" tvg-logo="" group-title="8.Oroszország",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Волга" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png" group-title="8.Oroszország",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время [R]" tvg-logo="" group-title="8.Oroszország",Время [R]
+http://31.148.48.15:80/Vremya/index.m3u8?token=rostik_tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="8.Oroszország",Дом кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 tvg-id="834" tvg-name="Дом Кино [R]" tvg-logo="http://epg.it999.ru/img/834.png" group-title="8.Oroszország",Дом Кино [R]
+http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
+
 
 
 
@@ -4993,6 +5036,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
