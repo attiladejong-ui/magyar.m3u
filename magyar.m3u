@@ -3813,7 +3813,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/10005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", BOX Western HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/19419/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ОТР HD
-http:/#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország"/zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20018/index.m3u8
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20018/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2409/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország" , НТВ HD
@@ -4988,6 +4988,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
