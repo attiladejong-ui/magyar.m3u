@@ -3873,12 +3873,10 @@ http://86.57.209.210/Belarus24/index.m3u8
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Волга" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png" group-title="8.Oroszország",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время [R]" tvg-logo="" group-title="8.Oroszország",Время [R]
-http://31.148.48.15:80/Vremya/index.m3u8?token=rostik_tv
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="8.Oroszország",Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
-#EXTINF:-1 tvg-id="834" tvg-name="Дом Кино [R]" tvg-logo="http://epg.it999.ru/img/834.png" group-title="8.Oroszország",Дом Кино [R]
-http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
+
 
 
 
@@ -5036,6 +5034,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
