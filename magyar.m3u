@@ -711,8 +711,7 @@ http://ipc.proipciptv.com:8000/SadikA/67OF1/84010
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Logo_ATV2.png" group-title="4. Ausztria",ATV II HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2384&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="4. Ausztria",PULS 4
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2381&extension=ts
+
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/PULS24.png" group-title="4. Ausztria",PULS 24 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2380&extension=ts
@@ -729,8 +728,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393742&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben_MAXX.png" group-title="4. Ausztria",PROSIEBEN MAXX
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393743&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SIXX.png" group-title="4. Ausztria",SIXX
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393745&extension=ts
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sat.1_Osterreich.png" group-title="4. Ausztria",SAT.1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393749&extension=ts
@@ -763,20 +760,11 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/160905
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png" group-title="4. Ausztria",ORF SPORT+ HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2386&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="4. Ausztria",DAZN RISE HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459559&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="4. Ausztria",DAZN FAST HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459558&extension=ts
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/MOTORVISIONTV.png" group-title="4. Ausztria",MOTORVISION TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459564&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SPORT1.png" group-title="4. Ausztria",SPORT1 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459561&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/redbulltv.png" group-title="4. Ausztria",REDBULL TV
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&extension=ts
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="4. Ausztria",SKY SPORT AUSTRIA 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
@@ -5096,6 +5084,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
