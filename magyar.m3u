@@ -683,32 +683,12 @@ https://box-1275-e.vmwesa.online/hls/,xqx2ofg775oopgiitfis5ji3xiqk7zp2siu5a5uokb
 https://box-1097-y.vmeas.cloud/hls/xqx2piez7vokjiqbte7c5padxpe2kydwqipbq2ojsbslqz4t5s7q5zb5x4qa/index-v1-a1.m3u8
 
 
-# Akció
-#EXTINF:-1 group-title="2. Filmek",[Akció] Hunting Season (2025)
-#EXTGRP:Akció
-https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmol4pr7rtz7ch5tq/index-v1-a1.m3u8
-
-
-
-#EXTINF:-1 group-title="2. Filmek",[Horror] A Kör (2002)
-#EXTGRP:Horror
-https://box-1103-o.vmeas.cloud/hls/xqx2ojor75okjiqbtfis5oq4xjgl47p3463kcqqiqbke5mgbysxtkgbu7tnq/index-v1-a1.m3u8
-
-# Háborús
-#EXTINF:-1 group-title="2. Filmek",[Háborús] A Szövetség (2023)
-#EXTGRP:Háborús
-https://box-1100-r.vmeas.cloud/hls/xqx2ozri75okjiqbtfjc5migxts64jjjj23lh7je5pxesgwl4lqreorbvzda/index-v1-a1.m3u8
-
 
 # Sci Fi
 #EXTINF:-1 group-title="2. Filmek",[Sci Fi] Tron Ares (2025)
 #EXTGRP:Sci Fi
 https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbifxumrzrtkkwdxjua/index-v1-a1.m3u8
 
-# Dráma
-#EXTINF:-1 group-title="2. Filmek",[Dráma] Hamlet
-#EXTGRP:Dráma
-https://box-1094-q.vmeas.cloud/hls/xqx2pvav75okjiqbtfgs5liq4iwjrigra6i3c64floztphqkickimf3jb24a/index-v1-a1.m3u8
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
 
@@ -3686,6 +3666,7 @@ http://tv14s.xyz:8080/91840130/91840130/212934
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="7.Olaszország",IT: FOCUS
 http://tv14s.xyz:8080/91840130/91840130/212941
+
 
 
 
