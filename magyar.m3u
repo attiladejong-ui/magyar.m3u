@@ -8383,10 +8383,12 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5040/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5041/index.m3u8
 #EXTINF:0 type="stream" channelId="2482" group-title=Ukrajna|" group-title=Ukrajna", Перший Західний
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5042/index.m3u8
-#EXTINF:0 group-title="Ukrajna" Vintage TV UA
+#EXTINF:0 group-title="Ukrajna", Vintage TV UA
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6009/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" , Еспресо ТВ HD UA orig
+#EXTINF:0 group-title="Ukrajna",  , Еспресо ТВ HD UA orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9073/index.m3u8
+#EXTINF:0 group-title="Ukrajna", |#EXTINF:0 group-title="Ukrajna",  Enter
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15129/index.m3u8
 
 
 
