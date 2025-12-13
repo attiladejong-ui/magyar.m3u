@@ -8820,6 +8820,128 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6009/index.m3u8
 #EXTINF:0 group-title="Ukrajna", |#EXTINF:0 group-title="Ukrajna",  Еспресо ТВ HD UA orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9073/index.m3u8
 
+#EXTINF:-1 tvg-logo="24222.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports News HD [UK]
+http://as01.plinks-pile.su/24222/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24224.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Main Event HD [UK]
+http://as01.plinks-pile.su/24224/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24226.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Premiere League HD [UK]
+http://as01.plinks-pile.su/24226/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24227.png" tvg-rec="0" group-title="Sportcsatornák",Sky Sports Premiere League [UK]
+http://as01.plinks-pile.su/24227/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24228.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Football HD [UK]
+http://as01.plinks-pile.su/24228/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24230.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports + HD [UK]
+http://as01.plinks-pile.su/24230/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24231.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Action HD [UK]
+http://as01.plinks-pile.su/24231/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24234.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Cricket HD [UK]
+http://as01.plinks-pile.su/24234/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24239.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Golf HD [UK]
+http://as01.plinks-pile.su/24239/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24236.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports F1 HD [UK]
+http://as01.plinks-pile.su/24236/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24240.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Mix HD [UK]
+http://as01.plinks-pile.su/24240/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24411.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Racing HD [UK]
+http://as01.plinks-pile.su/24411/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22558.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky Sports Tennis [UK]
+http://as01.plinks-pile.su/22558/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24271.png" tvg-rec="0" group-title="Sportcsatornák",Sky Sports Main Event UHD [UK]
+http://as01.plinks-pile.su/24271/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24272.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky UHD Sports 1 [UK]
+http://as01.plinks-pile.su/24272/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24273.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Sky UHD Sports 2 [UK]
+http://as01.plinks-pile.su/24273/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24274.png" tvg-rec="0" group-title="Sportcsatornák",Sky Sports F1 UHD [UK]
+http://as01.plinks-pile.su/24274/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24243.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 1 HD [UK]
+http://as01.plinks-pile.su/24243/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24244.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 1 [UK]
+http://as01.plinks-pile.su/24244/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24245.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 2 HD [UK]
+http://as01.plinks-pile.su/24245/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24246.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 2 [UK]
+http://as01.plinks-pile.su/24246/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24248.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 3 HD [UK]
+http://as01.plinks-pile.su/24248/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24249.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 3 [UK]
+http://as01.plinks-pile.su/24249/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24251.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 4 HD [UK]
+http://as01.plinks-pile.su/24251/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24242.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",TNT Sports 4 [UK]
+http://as01.plinks-pile.su/24242/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24275.png" tvg-rec="0" group-title="Sportcsatornák",TNT Sports Ultimate UHD [UK]
+http://as01.plinks-pile.su/24275/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24255.png" tvg-rec="0" group-title="Sportcsatornák",Racing TV [UK]
+http://as01.plinks-pile.su/24255/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24256.png" tvg-rec="0" group-title="Sportcsatornák",MUTV [UK]
+http://as01.plinks-pile.su/24256/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24258.png" tvg-rec="0" group-title="Sportcsatornák",LFC TV HD [UK]
+http://as01.plinks-pile.su/24258/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24259.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Premier Sports 1 HD [UK]
+http://as01.plinks-pile.su/24259/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24260.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Sportcsatornák",Premier Sports 2 HD [UK]
+http://as01.plinks-pile.su/24260/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24269.png" tvg-rec="0" group-title="Sportcsatornák",RedBull TV [UK]
+http://as01.plinks-pile.su/24269/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22567.png" tvg-rec="0" group-title="Sportcsatornák",Nfl Network [US]
+http://as01.plinks-pile.su/22567/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22569.png" tvg-rec="0" group-title="Sportcsatornák",Nba Tv [US]
+http://as01.plinks-pile.su/22569/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22529.png" tvg-rec="0" group-title="Sportcsatornák",Fox Soccer Plus [US]
+http://as01.plinks-pile.su/22529/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22572.png" tvg-rec="0" group-title="Sportcsatornák",Espn 2 [US]
+http://as01.plinks-pile.su/22572/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22573.png" tvg-rec="0" group-title="Sportcsatornák",Espn 1 Hd [US]
+http://as01.plinks-pile.su/22573/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22570.png" tvg-rec="0" group-title="Sportcsatornák",Fox Sport 2 Hd [US]
+http://as01.plinks-pile.su/22570/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="22571.png" tvg-rec="0" group-title="Sportcsatornák",Fox Sport 1 Hd [US]
+http://as01.plinks-pile.su/22571/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24451.png" tvg-rec="0" group-title="Sportcsatornák",NHL Network USA [US]
+http://as01.plinks-pile.su/24451/index.m3u8?token=eAE9mnX7WzaBq5
+
+#EXTINF:-1 tvg-logo="24266.png" tvg-rec="0" group-title="Sportcsatornák",WWE NETWORK [US]
+http://as01.plinks-pile.su/24266/index.m3u8?token=eAE9mnX7WzaBq5
 
 
 #EXTINF:-1 tvg-id="" tvg-name="★☆★ UEFA CHAMPIONS LEAGUE ★☆★" tvg-logo="https://r.resimlink.com/wgekRH-BsZXt.webp" group-title="Sportcsatornák",★☆★ UEFA CHAMPIONS LEAGUE ★☆★
@@ -9330,6 +9452,7 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 #EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png" group-title="Sportcsatornák",HR⚜️ SPORTSKA TV HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
+
 
 
 
