@@ -4715,6 +4715,27 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121790
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/92689
 #EXTINF:-1 tvg-id="srf2.ch" tvg-name="CH: SRF 2 HD" tvg-logo="https://i.ibb.co/72QCSyL/image.png" group-title="9.Svájc",CH: SRF 2 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72952
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HD" tvg-logo="http://iptvbeka.net/switzerland/tv-srf-1.png" group-title="9.Svájc",CH: SRF 1 HD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/887
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 1 FHD" tvg-logo="" group-title="9.Svájc",CH: Blue Sport 1 FHD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/3163
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 2 FHD" tvg-logo="" group-title="9.Svájc",CH: Blue Sport 2 FHD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/3164
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: Rouge TV FHD" tvg-logo="" group-title="9.Svájc",CH: Rouge TV FHD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2085
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele M1 (Mittelland)" tvg-logo="http://iptvbeka.net/switzerland/telem1.png" group-title="9.Svájc",CH: Tele M1 (Mittelland)
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2081
+#EXTINF:-1 tvg-id="" tvg-name="CH: KANAL 9 (francais)" tvg-logo="http://iptvbeka.net/switzerland/canal_9.png" group-title="9.Svájc",CH: KANAL 9 (francais)
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2080
+#EXTINF:-1 tvg-id="" tvg-name="CH: Die Neue Zeit TV" tvg-logo="http://iptvbeka.net/switzerland/Die_Neue_Zeit_TV_Logo.png" group-title="9.Svájc",CH: Die Neue Zeit TV
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2078
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleBärn" tvg-logo="http://iptvbeka.net/switzerland/TeleBärn_Logo.png" group-title="9.Svájc",CH: TeleBärn
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2076
+
 
 #EXTM3U
 #EXTINF:-1 group-title="Csehország",ct1 HD
@@ -5858,6 +5879,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
