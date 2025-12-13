@@ -5312,30 +5312,29 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="8.Oroszország",Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
 
-
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2402/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ОТР HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ОТР HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20018/index.m3u8
-#EXTINF:0 type="stream" channelId="125" group-title=8.Oroszország, Первый канал HD
+#EXTINF:0 type="stream" channelId="125" group-title="8.Oroszország", Первый канал HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/204/index.m3u8
-#EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország, Первый канал
+#EXTINF:0 type="stream" channelId="1" group-title="8.Oroszország", Первый канал
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/127/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="2", Первый канал +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/714/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="4", Первый канал +4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6021/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +4 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15117/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="6", Первый канал +6
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6037/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="8", Первый канал +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6050/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2409/index.m3u8
-#EXTINF:0 type="stream" channelId="203" group-title=8.Oroszország, Россия 1 HD
+#EXTINF:0 type="stream" channelId="203" group-title="8.Oroszország", Россия 1 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/205/index.m3u8
-#EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország, Россия 1
+#EXTINF:0 type="stream" channelId="2" group-title="8.Oroszország", Россия 1
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/504/index.m3u8
 #EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország shift="2", Россия 1 +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6011/index.m3u8
@@ -5345,13 +5344,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6022/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6038/index.m3u8
 #EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország shift="8", Россия 1 +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6051/index.m3u8
-#EXTINF:0 type="stream" channelId="498" group-title=8.Oroszország, НТВ HD
+#EXTINF:0 type="stream" channelId="498" group-title="8.Oroszország", НТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/213/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ Хит HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ Хит HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/16062/index.m3u8
-#EXTINF:0 type="stream" channelId="450" group-title=8.Oroszország, НТВ Мир
+#EXTINF:0 type="stream" channelId="450" group-title="8.Oroszország", НТВ Мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/14035/index.m3u8
-#EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország, НТВ
+#EXTINF:0 type="stream" channelId="6" group-title="8.Oroszország", НТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/501/index.m3u8
 #EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország shift="2", НТВ +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/713/index.m3u8
@@ -5361,7 +5360,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6024/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6039/index.m3u8
 #EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország shift="8", НТВ +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6053/index.m3u8
-#EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország, ТВЦ
+#EXTINF:0 type="stream" channelId="13" group-title="8.Oroszország", ТВЦ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/520/index.m3u8
 #EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország shift="2", ТВЦ +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/716/index.m3u8
@@ -5371,7 +5370,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6027/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6041/index.m3u8
 #EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország shift="8", ТВЦ +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6056/index.m3u8
-#EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország, Пятый канал
+#EXTINF:0 type="stream" channelId="7" group-title="8.Oroszország", Пятый канал
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/112/index.m3u8
 #EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország shift="2", Пятый канал +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/746/index.m3u8
@@ -5381,13 +5380,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6025/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6040/index.m3u8
 #EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország shift="8", Пятый канал +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6054/index.m3u8
-#EXTINF:0 type="stream" channelId="1727" group-title=8.Oroszország, Мир HD
+#EXTINF:0 type="stream" channelId="1727" group-title="8.Oroszország", Мир HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2417/index.m3u8
-#EXTINF:0 type="stream" channelId="3630" group-title=8.Oroszország, ТНТ HD
+#EXTINF:0 type="stream" channelId="3630" group-title="8.Oroszország", ТНТ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/237/index.m3u8
-#EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország, ТНТ
+#EXTINF:0 type="stream" channelId="16" group-title="8.Oroszország", ТНТ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/502/index.m3u8
 #EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország shift="2", ТНТ +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/717/index.m3u8
@@ -5395,7 +5394,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/717/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6035/index.m3u8
 #EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország shift="7", ТНТ +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6049/index.m3u8
-#EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország, СТС
+#EXTINF:0 type="stream" channelId="12" group-title="8.Oroszország", СТС
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/506/index.m3u8
 #EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország shift="2", СТС +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6015/index.m3u8
@@ -5403,9 +5402,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6015/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6029/index.m3u8
 #EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország shift="7", СТС +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6043/index.m3u8
-#EXTINF:0 type="stream" channelId="120" group-title=8.Oroszország, РЕН ТВ HD
+#EXTINF:0 type="stream" channelId="120" group-title="8.Oroszország", РЕН ТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2024/index.m3u8
-#EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország, РЕН ТВ
+#EXTINF:0 type="stream" channelId="11" group-title="8.Oroszország", РЕН ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/128/index.m3u8
 #EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország shift="2", РЕН ТВ +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/747/index.m3u8
@@ -5413,7 +5412,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/747/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6028/index.m3u8
 #EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország shift="7", РЕН ТВ +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6042/index.m3u8
-#EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország, Мир
+#EXTINF:0 type="stream" channelId="138" group-title="8.Oroszország", Мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/113/index.m3u8
 #EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország shift="2", Мир +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6019/index.m3u8
@@ -5421,15 +5420,15 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6019/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6034/index.m3u8
 #EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország shift="7", Мир +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6048/index.m3u8
-#EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország, ОТР
+#EXTINF:0 type="stream" channelId="784" group-title="8.Oroszország", ОТР
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/705/index.m3u8
 #EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország shift="2", ОТР +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6014/index.m3u8
 #EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország shift="4", ОТР +4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6026/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда Плюс HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда Плюс HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/19230/index.m3u8
-#EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország, Звезда
+#EXTINF:0 type="stream" channelId="17" group-title="8.Oroszország", Звезда
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/544/index.m3u8
 #EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország shift="2", Звезда +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/739/index.m3u8
@@ -5437,13 +5436,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/739/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6033/index.m3u8
 #EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország shift="7", Звезда +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6047/index.m3u8
-#EXTINF:0 type="stream" channelId="1571" group-title=8.Oroszország, СТС Love
+#EXTINF:0 type="stream" channelId="1571" group-title="8.Oroszország", СТС Love
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/103/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Че!
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Че!
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/513/index.m3u8
-#EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország, ТВ-3 HD
+#EXTINF:0 type="stream" channelId="8" group-title="8.Oroszország", ТВ-3 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5033/index.m3u8
-#EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország, ТВ-3
+#EXTINF:0 type="stream" channelId="8" group-title="8.Oroszország", ТВ-3
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/508/index.m3u8
 #EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország shift="2", ТВ-3 +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6017/index.m3u8
@@ -5451,9 +5450,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6017/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6031/index.m3u8
 #EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország shift="7", ТВ-3 +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6045/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5031/index.m3u8
-#EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország, Пятница!
+#EXTINF:0 type="stream" channelId="26" group-title="8.Oroszország", Пятница!
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/503/index.m3u8
 #EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország shift="2", Пятница! +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6018/index.m3u8
@@ -5461,11 +5460,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6018/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6032/index.m3u8
 #EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország shift="7", Пятница! +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6046/index.m3u8
-#EXTINF:0 type="stream" channelId="405" group-title=8.Oroszország, RTVi
+#EXTINF:0 type="stream" channelId="405" group-title="8.Oroszország", RTVi
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2086/index.m3u8
-#EXTINF:0 type="stream" channelId="3876" group-title=8.Oroszország, Суббота!
+#EXTINF:0 type="stream" channelId="3876" group-title="8.Oroszország", Суббота!
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/826/index.m3u8
-#EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország, Домашний
+#EXTINF:0 type="stream" channelId="21" group-title="8.Oroszország", Домашний
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/514/index.m3u8
 #EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország shift="2", Домашний +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6016/index.m3u8
@@ -5473,455 +5472,455 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6016/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6030/index.m3u8
 #EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország shift="7", Домашний +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6044/index.m3u8
-#EXTINF:0 type="stream" channelId="4640" group-title=8.Oroszország, Настоящее время
+#EXTINF:0 type="stream" channelId="4640" group-title="8.Oroszország", Настоящее время
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/986/index.m3u8
-#EXTINF:0 type="stream" channelId="160" group-title=8.Oroszország, Ностальгия
+#EXTINF:0 type="stream" channelId="160" group-title="8.Oroszország", Ностальгия
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/102/index.m3u8
-#EXTINF:0 type="stream" channelId="23" group-title=8.Oroszország, Ю ТВ
+#EXTINF:0 type="stream" channelId="23" group-title="8.Oroszország", Ю ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/534/index.m3u8
-#EXTINF:0 type="stream" channelId="77" group-title=8.Oroszország, ТНТ4
+#EXTINF:0 type="stream" channelId="77" group-title="8.Oroszország", ТНТ4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/104/index.m3u8
-#EXTINF:0 type="stream" channelId="3047" group-title=8.Oroszország, КВН ТВ
+#EXTINF:0 type="stream" channelId="3047" group-title="8.Oroszország", КВН ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/546/index.m3u8
-#EXTINF:0 type="stream" channelId="141" group-title=8.Oroszország, Сарафан
+#EXTINF:0 type="stream" channelId="141" group-title="8.Oroszország", Сарафан
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/748/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Московское образование HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Московское образование HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/16043/index.m3u8
-#EXTINF:0 type="stream" channelId="1730" group-title=8.Oroszország, Точка ТВ
+#EXTINF:0 type="stream" channelId="1730" group-title="8.Oroszország", Точка ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2053/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, 360 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", 360 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2065/index.m3u8
-#EXTINF:0 type="stream" channelId="212" group-title=8.Oroszország, 360
+#EXTINF:0 type="stream" channelId="212" group-title="8.Oroszország", 360
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/825/index.m3u8
-#EXTINF:0 type="stream" channelId="244" group-title=8.Oroszország, СПАС
+#EXTINF:0 type="stream" channelId="244" group-title="8.Oroszország", СПАС
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/983/index.m3u8
-#EXTINF:0 type="stream" channelId="35" group-title=8.Oroszország, Союз
+#EXTINF:0 type="stream" channelId="35" group-title="8.Oroszország", Союз
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2016/index.m3u8
-#EXTINF:0 type="stream" channelId="247" group-title=8.Oroszország, Здоровое ТВ
+#EXTINF:0 type="stream" channelId="247" group-title="8.Oroszország", Здоровое ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2022/index.m3u8
-#EXTINF:0 type="stream" channelId="251" group-title=8.Oroszország, Психология
+#EXTINF:0 type="stream" channelId="251" group-title="8.Oroszország", Психология
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2025/index.m3u8
-#EXTINF:0 type="stream" channelId="49" group-title=8.Oroszország, Успех
+#EXTINF:0 type="stream" channelId="49" group-title="8.Oroszország", Успех
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2041/index.m3u8
-#EXTINF:0 type="stream" channelId="174" group-title=8.Oroszország, Кто есть кто
+#EXTINF:0 type="stream" channelId="174" group-title="8.Oroszország", Кто есть кто
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2042/index.m3u8
-#EXTINF:0 type="stream" channelId="305" group-title=8.Oroszország, Открытый мир
+#EXTINF:0 type="stream" channelId="305" group-title="8.Oroszország", Открытый мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2078/index.m3u8
-#EXTINF:0 type="stream" channelId="389" group-title=8.Oroszország, Загородный
+#EXTINF:0 type="stream" channelId="389" group-title="8.Oroszország", Загородный
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2099/index.m3u8
-#EXTINF:0 type="stream" channelId="1747" group-title=8.Oroszország, Три ангела
+#EXTINF:0 type="stream" channelId="1747" group-title="8.Oroszország", Три ангела
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2116/index.m3u8
-#EXTINF:0 type="stream" channelId="396" group-title=8.Oroszország, БСТ
+#EXTINF:0 type="stream" channelId="396" group-title="8.Oroszország", БСТ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2108/index.m3u8
-#EXTINF:0 type="stream" channelId="1779" group-title=8.Oroszország, Красная линия
+#EXTINF:0 type="stream" channelId="1779" group-title="8.Oroszország", Красная линия
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2147/index.m3u8
-#EXTINF:0 type="stream" channelId="701" group-title=8.Oroszország, ЛДПР ТВ
+#EXTINF:0 type="stream" channelId="701" group-title="8.Oroszország", ЛДПР ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2110/index.m3u8
-#EXTINF:0 type="stream" channelId="5179" group-title=8.Oroszország, Хузур ТВ
+#EXTINF:0 type="stream" channelId="5179" group-title="8.Oroszország", Хузур ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2150/index.m3u8
-#EXTINF:0 type="stream" channelId="38" group-title=8.Oroszország, Дождь
+#EXTINF:0 type="stream" channelId="38" group-title="8.Oroszország", Дождь
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2030/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, GNC HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", GNC HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/955/index.m3u8
-#EXTINF:0 type="stream" channelId="1386" group-title=8.Oroszország, Вместе-РФ
+#EXTINF:0 type="stream" channelId="1386" group-title="8.Oroszország", Вместе-РФ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2073/index.m3u8
-#EXTINF:0 type="stream" channelId="5" group-title=8.Oroszország, Россия К
+#EXTINF:0 type="stream" channelId="5" group-title="8.Oroszország", Россия К
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/505/index.m3u8
-#EXTINF:0 type="stream" channelId="3875" group-title=8.Oroszország, E TV HD
+#EXTINF:0 type="stream" channelId="3875" group-title="8.Oroszország", E TV HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5048/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9002/index.m3u8
-#EXTINF:0 type="stream" channelId="4021" group-title=8.Oroszország, Gametoon HD
+#EXTINF:0 type="stream" channelId="4021" group-title="8.Oroszország", Gametoon HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5049/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9028/index.m3u8
-#EXTINF:0 type="stream" channelId="3977" group-title=8.Oroszország, Ратник HD
+#EXTINF:0 type="stream" channelId="3977" group-title="8.Oroszország", Ратник HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, RT Documentary HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", RT Documentary HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9031/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, 360 HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", 360 HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9036/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9095/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9096/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9098/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15115/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС Love orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС Love orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9099/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ОТР orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ОТР orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9100/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Че! orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Че! orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9101/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, RTVi HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", RTVi HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9102/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Суббота! orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Суббота! orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9103/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Суббота! HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Суббота! HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15118/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9104/index.m3u8
-#EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország, Домашний HD
+#EXTINF:0 type="stream" channelId="21" group-title="8.Oroszország", Домашний HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15116/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Ностальгия orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Ностальгия orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9106/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Ю ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Ю ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9107/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, КВН ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", КВН ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9108/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Сарафан orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Сарафан orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9109/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Точка ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Точка ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9110/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СПАС orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СПАС orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9111/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Союз orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Союз orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9112/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Здоровое ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Здоровое ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9113/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Психология orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Психология orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9114/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Успех orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Успех orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9115/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Кто есть кто orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Кто есть кто orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9116/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Открытый мир orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Открытый мир orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9117/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Красная линия orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Красная линия orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ЛДПР ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ЛДПР ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9120/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Хузур ТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Хузур ТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9121/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Вместе-РФ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Вместе-РФ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9124/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9201/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9202/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 HD 50
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 HD 50
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15133/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9203/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9204/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9205/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9206/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9207/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ4 orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ4 orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9208/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, 360 orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", 360 orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9209/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Три ангела HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Три ангела HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9210/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Мир orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Мир orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9211/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Загородный orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Загородный orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9212/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/7251/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/7252/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/7253/index.m3u8
-#EXTINF:0 type="stream" channelId="2707" group-title=8.Oroszország, Звезда Плюс
+#EXTINF:0 type="stream" channelId="2707" group-title="8.Oroszország", Звезда Плюс
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/10059/index.m3u8
-#EXTINF:0 type="stream" channelId="645" group-title=8.Oroszország, RT Documentary HD
+#EXTINF:0 type="stream" channelId="645" group-title="8.Oroszország", RT Documentary HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/14157/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, MS Crime HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", MS Crime HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15136/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ International
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ International
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15229/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ International HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ International HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15230/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +1 (Приволжье)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +1 (Приволжье)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15284/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15287/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15288/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15290/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15291/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15293/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15294/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15295/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15296/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15297/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +4 (Алтай)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +4 (Алтай)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15298/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15301/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15302/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15303/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15304/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15305/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15306/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15308/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15309/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15313/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15315/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15316/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15317/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15318/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15319/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ +2 (Уфа)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ +2 (Уфа)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15320/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15321/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15322/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15323/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15324/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15325/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15326/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15327/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия К +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия К +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15328/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15330/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15331/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +0 (Невинномысск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +0 (Невинномысск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15332/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15333/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15334/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15336/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15337/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия К +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия К +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15338/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ОТР +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ОТР +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15341/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15342/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15343/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СПАС +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СПАС +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15344/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15345/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15346/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15347/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15348/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Мир +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Мир +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15349/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15350/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +7 (Владивосток)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +7 (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15351/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +5 (Иркутск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +5 (Иркутск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15355/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +5 (Иркутск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +5 (Иркутск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15357/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, БСТ 24 (Братск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", БСТ 24 (Братск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15359/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +5 (Братск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +5 (Братск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15360/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +4 (Абакан)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +4 (Абакан)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15367/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, БСТ +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", БСТ +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15369/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, БСТ +2 (Белорецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", БСТ +2 (Белорецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15370/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, БТК HD (Белорецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", БТК HD (Белорецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15371/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15372/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15373/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15374/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +0 (Липецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +0 (Липецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15375/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +4 (Кузбасс)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +4 (Кузбасс)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15376/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15377/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15379/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15380/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15381/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Мир +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Мир +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15382/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15383/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15384/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15385/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15386/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15388/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15389/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15391/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15392/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15393/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15394/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15395/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15396/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15398/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда +4 (Томск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда +4 (Томск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15397/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +0 (Алания)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +0 (Алания)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15403/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15408/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15410/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15411/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +5 (Иркутск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +5 (Иркутск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15413/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +4 (Красноярск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +4 (Красноярск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15415/index.m3u8
-#EXTINF:0 type="stream" channelId="707" group-title=8.Oroszország, Прима (Красноярск)
+#EXTINF:0 type="stream" channelId="707" group-title="8.Oroszország", Прима (Красноярск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15417/index.m3u8
-#EXTINF:0 type="stream" channelId="356" group-title=8.Oroszország, ТВК (Красноярск)
+#EXTINF:0 type="stream" channelId="356" group-title="8.Oroszország", ТВК (Красноярск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15420/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15426/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15427/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15428/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15431/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15433/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15434/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия К +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия К +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15435/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15437/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15438/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15439/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +3 (Омск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +3 (Омск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15440/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15443/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия К +2 (Пермь)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия К +2 (Пермь)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15445/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15447/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15449/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15450/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия К +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия К +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15451/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15454/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15455/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15456/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15457/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Звезда +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Звезда +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15458/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Мир +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Мир +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15459/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +0 (Элиста)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +0 (Элиста)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15460/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +2 (Белорецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +2 (Белорецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15462/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15464/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия 1 +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия 1 +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15465/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15466/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15467/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15469/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15470/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15471/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15472/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +0 (Тамбов)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +0 (Тамбов)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15473/index.m3u8
-#EXTINF:0 type="stream" channelId="306" group-title=8.Oroszország, ОТВ (Владивосток)
+#EXTINF:0 type="stream" channelId="306" group-title="8.Oroszország", ОТВ (Владивосток)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15476/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15477/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15479/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЕН ТВ +0 (Белгород)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЕН ТВ +0 (Белгород)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15480/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15481/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15482/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15483/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВ-3 +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВ-3 +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15484/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ +2 (Нефтекамск)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ +2 (Нефтекамск)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15485/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый канал +2 (Белорецк)
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал +2 (Белорецк)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15486/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый российский национальный канал HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый российский национальный канал HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/16023/index.m3u8
-#EXTINF:0 type="stream" channelId="204" group-title=8.Oroszország, Дождь HD
+#EXTINF:0 type="stream" channelId="204" group-title="8.Oroszország", Дождь HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20083/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2402/index.m3u8
-#EXTINF:0 type="stream" channelId="125" group-title=8.Oroszország, Первый HD
+#EXTINF:0 type="stream" channelId="125" group-title="8.Oroszország", Первый HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/204/index.m3u8
-#EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország, Первый канал
+#EXTINF:0 type="stream" channelId="1" group-title="8.Oroszország", Первый канал
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/127/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="2", Первый канал (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/714/index.m3u8
@@ -5931,11 +5930,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6021/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6037/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="8", Первый канал +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6050/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2409/index.m3u8
-#EXTINF:0 type="stream" channelId="203" group-title=8.Oroszország, Россия HD
+#EXTINF:0 type="stream" channelId="203" group-title="8.Oroszország", Россия HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/205/index.m3u8
-#EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország, Россия 1
+#EXTINF:0 type="stream" channelId="2" group-title="8.Oroszország", Россия 1
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/504/index.m3u8
 #EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország shift="2", Россия-1 +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6011/index.m3u8
@@ -5945,11 +5944,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6022/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6038/index.m3u8
 #EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország shift="8", Россия-1 +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6051/index.m3u8
-#EXTINF:0 type="stream" channelId="498" group-title=8.Oroszország, НТВ HD
+#EXTINF:0 type="stream" channelId="498" group-title="8.Oroszország", НТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/213/index.m3u8
-#EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország, Мир
+#EXTINF:0 type="stream" channelId="138" group-title="8.Oroszország", Мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/214/index.m3u8
-#EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország, НТВ
+#EXTINF:0 type="stream" channelId="6" group-title="8.Oroszország", НТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/501/index.m3u8
 #EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország shift="2", НТВ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/713/index.m3u8
@@ -5959,7 +5958,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6024/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6039/index.m3u8
 #EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország shift="8", НТВ +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6053/index.m3u8
-#EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország, ТВЦ
+#EXTINF:0 type="stream" channelId="13" group-title="8.Oroszország", ТВЦ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/520/index.m3u8
 #EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország shift="2", ТВЦ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/716/index.m3u8
@@ -5969,7 +5968,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6027/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6041/index.m3u8
 #EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország shift="8", ТВЦ +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6056/index.m3u8
-#EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország, Пятый канал
+#EXTINF:0 type="stream" channelId="7" group-title="8.Oroszország", Пятый канал
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/112/index.m3u8
 #EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország shift="2", Пятый Канал (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/746/index.m3u8
@@ -5979,11 +5978,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6025/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország shift="8", 5 канал +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6054/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2417/index.m3u8
-#EXTINF:0 type="stream" channelId="3630" group-title=8.Oroszország, ТНТ HD
+#EXTINF:0 type="stream" channelId="3630" group-title="8.Oroszország", ТНТ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/237/index.m3u8
-#EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország, ТНТ
+#EXTINF:0 type="stream" channelId="16" group-title="8.Oroszország", ТНТ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/502/index.m3u8
 #EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország shift="2", ТНТ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/717/index.m3u8
@@ -5991,7 +5990,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/717/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6035/index.m3u8
 #EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország shift="7", ТНТ +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6049/index.m3u8
-#EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország, СТС
+#EXTINF:0 type="stream" channelId="12" group-title="8.Oroszország", СТС
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/506/index.m3u8
 #EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország shift="2", СТС +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6015/index.m3u8
@@ -5999,9 +5998,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6015/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6029/index.m3u8
 #EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország shift="7", СТС +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6043/index.m3u8
-#EXTINF:0 type="stream" channelId="120" group-title=8.Oroszország, Рен ТВ HD
+#EXTINF:0 type="stream" channelId="120" group-title="8.Oroszország", Рен ТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2024/index.m3u8
-#EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország, РЕН ТВ
+#EXTINF:0 type="stream" channelId="11" group-title="8.Oroszország", РЕН ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/128/index.m3u8
 #EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország shift="2", РЕН ТВ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/747/index.m3u8
@@ -6009,7 +6008,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/747/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6028/index.m3u8
 #EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország shift="7", Рен ТВ +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6042/index.m3u8
-#EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország, Мир
+#EXTINF:0 type="stream" channelId="138" group-title="8.Oroszország", Мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/113/index.m3u8
 #EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország shift="2", Мир +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6019/index.m3u8
@@ -6017,13 +6016,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6019/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6034/index.m3u8
 #EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország shift="7", Мир +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6048/index.m3u8
-#EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország, ОТР
+#EXTINF:0 type="stream" channelId="784" group-title="8.Oroszország", ОТР
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/705/index.m3u8
 #EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország shift="2", ОТР +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6014/index.m3u8
 #EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország shift="4", ОТР +4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6026/index.m3u8
-#EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország, Телеканал Звезда
+#EXTINF:0 type="stream" channelId="17" group-title="8.Oroszország", Телеканал Звезда
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/544/index.m3u8
 #EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország shift="2", Звезда (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/739/index.m3u8
@@ -6031,13 +6030,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/739/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6033/index.m3u8
 #EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország shift="7", Звезда +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6047/index.m3u8
-#EXTINF:0 type="stream" channelId="1571" group-title=8.Oroszország, СТС Love
+#EXTINF:0 type="stream" channelId="1571" group-title="8.Oroszország", СТС Love
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/103/index.m3u8
-#EXTINF:0 type="stream" channelId="22" group-title=8.Oroszország, Че
+#EXTINF:0 type="stream" channelId="22" group-title="8.Oroszország", Че
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/513/index.m3u8
-#EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország, ТВ3 HD
+#EXTINF:0 type="stream" channelId="8" group-title="8.Oroszország", ТВ3 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5033/index.m3u8
-#EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország, ТВ3
+#EXTINF:0 type="stream" channelId="8" group-title="8.Oroszország", ТВ3
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/508/index.m3u8
 #EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország shift="2", ТВ3 +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6017/index.m3u8
@@ -6045,9 +6044,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6017/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6031/index.m3u8
 #EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország shift="7", ТВ3 +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6045/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5031/index.m3u8
-#EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország, Пятница!
+#EXTINF:0 type="stream" channelId="26" group-title="8.Oroszország", Пятница!
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/503/index.m3u8
 #EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország shift="2", Пятница +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6018/index.m3u8
@@ -6055,11 +6054,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6018/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6032/index.m3u8
 #EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország shift="7", Пятница +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6046/index.m3u8
-#EXTINF:0 type="stream" channelId="405" group-title=8.Oroszország, RTVi
+#EXTINF:0 type="stream" channelId="405" group-title="8.Oroszország", RTVi
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2086/index.m3u8
-#EXTINF:0 type="stream" channelId="3876" group-title=8.Oroszország, Суббота
+#EXTINF:0 type="stream" channelId="3876" group-title="8.Oroszország", Суббота
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/826/index.m3u8
-#EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország, Домашний
+#EXTINF:0 type="stream" channelId="21" group-title="8.Oroszország", Домашний
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/514/index.m3u8
 #EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország shift="2", Домашний +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6016/index.m3u8
@@ -6067,137 +6066,137 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6016/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6030/index.m3u8
 #EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország shift="7", Домашний +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6044/index.m3u8
-#EXTINF:0 type="stream" channelId="4640" group-title=8.Oroszország, Настоящее время
+#EXTINF:0 type="stream" channelId="4640" group-title="8.Oroszország", Настоящее время
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/986/index.m3u8
-#EXTINF:0 type="stream" channelId="160" group-title=8.Oroszország, Ностальгия
+#EXTINF:0 type="stream" channelId="160" group-title="8.Oroszország", Ностальгия
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/102/index.m3u8
-#EXTINF:0 type="stream" channelId="23" group-title=8.Oroszország, Ю ТВ
+#EXTINF:0 type="stream" channelId="23" group-title="8.Oroszország", Ю ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/534/index.m3u8
-#EXTINF:0 type="stream" channelId="77" group-title=8.Oroszország, ТНТ4
+#EXTINF:0 type="stream" channelId="77" group-title="8.Oroszország", ТНТ4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/104/index.m3u8
-#EXTINF:0 type="stream" channelId="3047" group-title=8.Oroszország, КВН ТВ
+#EXTINF:0 type="stream" channelId="3047" group-title="8.Oroszország", КВН ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/546/index.m3u8
-#EXTINF:0 type="stream" channelId="141" group-title=8.Oroszország, Сарафан
+#EXTINF:0 type="stream" channelId="141" group-title="8.Oroszország", Сарафан
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/748/index.m3u8
-#EXTINF:0 type="stream" channelId="1730" group-title=8.Oroszország, Точка ТВ
+#EXTINF:0 type="stream" channelId="1730" group-title="8.Oroszország", Точка ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2053/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, 360° HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", 360° HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2065/index.m3u8
-#EXTINF:0 type="stream" channelId="212" group-title=8.Oroszország, 360°
+#EXTINF:0 type="stream" channelId="212" group-title="8.Oroszország", 360°
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/825/index.m3u8
-#EXTINF:0 type="stream" channelId="244" group-title=8.Oroszország, СПАС
+#EXTINF:0 type="stream" channelId="244" group-title="8.Oroszország", СПАС
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/983/index.m3u8
-#EXTINF:0 type="stream" channelId="35" group-title=8.Oroszország, Союз
+#EXTINF:0 type="stream" channelId="35" group-title="8.Oroszország", Союз
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2016/index.m3u8
-#EXTINF:0 type="stream" channelId="247" group-title=8.Oroszország, Здоровое ТВ
+#EXTINF:0 type="stream" channelId="247" group-title="8.Oroszország", Здоровое ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2022/index.m3u8
-#EXTINF:0 type="stream" channelId="251" group-title=8.Oroszország, Психология 21
+#EXTINF:0 type="stream" channelId="251" group-title="8.Oroszország", Психология 21
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2025/index.m3u8
-#EXTINF:0 type="stream" channelId="49" group-title=8.Oroszország, Успех
+#EXTINF:0 type="stream" channelId="49" group-title="8.Oroszország", Успех
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2041/index.m3u8
-#EXTINF:0 type="stream" channelId="174" group-title=8.Oroszország, Кто есть кто
+#EXTINF:0 type="stream" channelId="174" group-title="8.Oroszország", Кто есть кто
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2042/index.m3u8
-#EXTINF:0 type="stream" channelId="305" group-title=8.Oroszország, Открытый мир
+#EXTINF:0 type="stream" channelId="305" group-title="8.Oroszország", Открытый мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2078/index.m3u8
-#EXTINF:0 type="stream" channelId="389" group-title=8.Oroszország, Загородный
+#EXTINF:0 type="stream" channelId="389" group-title="8.Oroszország", Загородный
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2099/index.m3u8
-#EXTINF:0 type="stream" channelId="1747" group-title=8.Oroszország, Три ангела
+#EXTINF:0 type="stream" channelId="1747" group-title="8.Oroszország", Три ангела
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2116/index.m3u8
-#EXTINF:0 type="stream" channelId="33" group-title=8.Oroszország, РЖД ТВ
+#EXTINF:0 type="stream" channelId="33" group-title="8.Oroszország", РЖД ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2120/index.m3u8
-#EXTINF:0 type="stream" channelId="396" group-title=8.Oroszország, БСТ
+#EXTINF:0 type="stream" channelId="396" group-title="8.Oroszország", БСТ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2108/index.m3u8
-#EXTINF:0 type="stream" channelId="1779" group-title=8.Oroszország, Красная линия
+#EXTINF:0 type="stream" channelId="1779" group-title="8.Oroszország", Красная линия
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2147/index.m3u8
-#EXTINF:0 type="stream" channelId="701" group-title=8.Oroszország, ЛДПР ТВ
+#EXTINF:0 type="stream" channelId="701" group-title="8.Oroszország", ЛДПР ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2110/index.m3u8
-#EXTINF:0 type="stream" channelId="5179" group-title=8.Oroszország, Хузур ТВ
+#EXTINF:0 type="stream" channelId="5179" group-title="8.Oroszország", Хузур ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2150/index.m3u8
-#EXTINF:0 type="stream" channelId="2904" group-title=8.Oroszország, Life TV
+#EXTINF:0 type="stream" channelId="2904" group-title="8.Oroszország", Life TV
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/971/index.m3u8
-#EXTINF:0 type="stream" channelId="38" group-title=8.Oroszország, Дождь
+#EXTINF:0 type="stream" channelId="38" group-title="8.Oroszország", Дождь
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2030/index.m3u8
-#EXTINF:0 type="stream" channelId="145" group-title=8.Oroszország, ТБН
+#EXTINF:0 type="stream" channelId="145" group-title="8.Oroszország", ТБН
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/974/index.m3u8
-#EXTINF:0 type="stream" channelId="199" group-title=8.Oroszország, CNL
+#EXTINF:0 type="stream" channelId="199" group-title="8.Oroszország", CNL
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/955/index.m3u8
-#EXTINF:0 type="stream" channelId="1386" group-title=8.Oroszország, Вместе-РФ
+#EXTINF:0 type="stream" channelId="1386" group-title="8.Oroszország", Вместе-РФ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2073/index.m3u8
-#EXTINF:0 type="stream" channelId="5" group-title=8.Oroszország, Россия-Культура
+#EXTINF:0 type="stream" channelId="5" group-title="8.Oroszország", Россия-Культура
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/505/index.m3u8
-#EXTINF:0 type="stream" channelId="1743" group-title=8.Oroszország, Про Бизнес
+#EXTINF:0 type="stream" channelId="1743" group-title="8.Oroszország", Про Бизнес
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5043/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Е
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Е
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5048/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Рен ТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Рен ТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9002/index.m3u8
-#EXTINF:0 type="stream" channelId="4021" group-title=8.Oroszország, Gametoon HD
+#EXTINF:0 type="stream" channelId="4021" group-title="8.Oroszország", Gametoon HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5049/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9028/index.m3u8
-#EXTINF:0 type="stream" channelId="3977" group-title=8.Oroszország, Ратник
+#EXTINF:0 type="stream" channelId="3977" group-title="8.Oroszország", Ратник
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Russia Today Doc HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Russia Today Doc HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9031/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Телеканал 360 HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Телеканал 360 HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9036/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9095/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9096/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Телеканал Звезда orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Телеканал Звезда orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9098/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС Love orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС Love orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9099/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ОТР orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ОТР orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9100/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Че orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Че orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9101/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, RTVi orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", RTVi orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9102/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Суббота orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Суббота orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9103/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9104/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Ностальгия orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Ностальгия orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9106/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Ю ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Ю ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9107/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Сарафан orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Сарафан orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9109/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Точка ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Точка ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9110/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СПАС orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СПАС orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9111/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Союз orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Союз orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9112/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Здоровое ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Здоровое ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9113/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Психология 21 orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Психология 21 orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9114/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Успех orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Успех orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9115/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Открытый мир orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Открытый мир orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9117/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЖД ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЖД ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9118/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Красная линия orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Красная линия orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ЛДПР ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ЛДПР ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9120/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Хузур ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Хузур ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9121/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Дождь orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Дождь orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9122/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТБН orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТБН orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9123/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Вместе-РФ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Вместе-РФ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9124/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Первый FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2402/index.m3u8
-#EXTINF:0 type="stream" channelId="125" group-title=8.Oroszország, Первый HD
+#EXTINF:0 type="stream" channelId="125" group-title="8.Oroszország", Первый HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/204/index.m3u8
-#EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország, Первый канал
+#EXTINF:0 type="stream" channelId="1" group-title="8.Oroszország", Первый канал
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/127/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="2", Первый канал (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/714/index.m3u8
@@ -6207,11 +6206,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6021/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6037/index.m3u8
 #EXTINF:0 type="stream" channelId="1" group-title=8.Oroszország shift="8", Первый канал +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6050/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Россия FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Россия FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2409/index.m3u8
-#EXTINF:0 type="stream" channelId="203" group-title=8.Oroszország, Россия HD
+#EXTINF:0 type="stream" channelId="203" group-title="8.Oroszország", Россия HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/205/index.m3u8
-#EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország, Россия 1
+#EXTINF:0 type="stream" channelId="2" group-title="8.Oroszország", Россия 1
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/504/index.m3u8
 #EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország shift="2", Россия-1 +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6011/index.m3u8
@@ -6221,11 +6220,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6022/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6038/index.m3u8
 #EXTINF:0 type="stream" channelId="2" group-title=8.Oroszország shift="8", Россия-1 +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6051/index.m3u8
-#EXTINF:0 type="stream" channelId="498" group-title=8.Oroszország, НТВ HD
+#EXTINF:0 type="stream" channelId="498" group-title="8.Oroszország", НТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/213/index.m3u8
-#EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország, Мир
+#EXTINF:0 type="stream" channelId="138" group-title="8.Oroszország", Мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/214/index.m3u8
-#EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország, НТВ
+#EXTINF:0 type="stream" channelId="6" group-title="8.Oroszország", НТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/501/index.m3u8
 #EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország shift="2", НТВ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/713/index.m3u8
@@ -6235,7 +6234,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6024/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6039/index.m3u8
 #EXTINF:0 type="stream" channelId="6" group-title=8.Oroszország shift="8", НТВ +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6053/index.m3u8
-#EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország, ТВЦ
+#EXTINF:0 type="stream" channelId="13" group-title="8.Oroszország", ТВЦ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/520/index.m3u8
 #EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország shift="2", ТВЦ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/716/index.m3u8
@@ -6245,7 +6244,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6027/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6041/index.m3u8
 #EXTINF:0 type="stream" channelId="13" group-title=8.Oroszország shift="8", ТВЦ +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6056/index.m3u8
-#EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország, Пятый канал
+#EXTINF:0 type="stream" channelId="7" group-title="8.Oroszország", Пятый канал
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/112/index.m3u8
 #EXTINF:0 type="stream" channelId="7" group-title=8.Oroszország shift="2", Пятый Канал (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/746/index.m3u8
@@ -6255,11 +6254,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6025/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország shift="8", 5 канал +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6054/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТНТ FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТНТ FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2417/index.m3u8
-#EXTINF:0 type="stream" channelId="3630" group-title=8.Oroszország, ТНТ HD
+#EXTINF:0 type="stream" channelId="3630" group-title="8.Oroszország", ТНТ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/237/index.m3u8
-#EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország, ТНТ
+#EXTINF:0 type="stream" channelId="16" group-title="8.Oroszország", ТНТ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/502/index.m3u8
 #EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország shift="2", ТНТ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/717/index.m3u8
@@ -6267,7 +6266,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/717/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6035/index.m3u8
 #EXTINF:0 type="stream" channelId="16" group-title=8.Oroszország shift="7", ТНТ +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6049/index.m3u8
-#EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország, СТС
+#EXTINF:0 type="stream" channelId="12" group-title="8.Oroszország", СТС
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/506/index.m3u8
 #EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország shift="2", СТС +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6015/index.m3u8
@@ -6275,9 +6274,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6015/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6029/index.m3u8
 #EXTINF:0 type="stream" channelId="12" group-title=8.Oroszország shift="7", СТС +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6043/index.m3u8
-#EXTINF:0 type="stream" channelId="120" group-title=8.Oroszország, Рен ТВ HD
+#EXTINF:0 type="stream" channelId="120" group-title="8.Oroszország", Рен ТВ HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2024/index.m3u8
-#EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország, РЕН ТВ
+#EXTINF:0 type="stream" channelId="11" group-title="8.Oroszország", РЕН ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/128/index.m3u8
 #EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország shift="2", РЕН ТВ (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/747/index.m3u8
@@ -6285,7 +6284,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/747/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6028/index.m3u8
 #EXTINF:0 type="stream" channelId="11" group-title=8.Oroszország shift="7", Рен ТВ +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6042/index.m3u8
-#EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország, Мир
+#EXTINF:0 type="stream" channelId="138" group-title="8.Oroszország", Мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/113/index.m3u8
 #EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország shift="2", Мир +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6019/index.m3u8
@@ -6293,13 +6292,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6019/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6034/index.m3u8
 #EXTINF:0 type="stream" channelId="138" group-title=8.Oroszország shift="7", Мир +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6048/index.m3u8
-#EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország, ОТР
+#EXTINF:0 type="stream" channelId="784" group-title="8.Oroszország", ОТР
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/705/index.m3u8
 #EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország shift="2", ОТР +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6014/index.m3u8
 #EXTINF:0 type="stream" channelId="784" group-title=8.Oroszország shift="4", ОТР +4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6026/index.m3u8
-#EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország, Телеканал Звезда
+#EXTINF:0 type="stream" channelId="17" group-title="8.Oroszország", Телеканал Звезда
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/544/index.m3u8
 #EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország shift="2", Звезда (+2)
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/739/index.m3u8
@@ -6307,13 +6306,13 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/739/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6033/index.m3u8
 #EXTINF:0 type="stream" channelId="17" group-title=8.Oroszország shift="7", Звезда +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6047/index.m3u8
-#EXTINF:0 type="stream" channelId="1571" group-title=8.Oroszország, СТС Love
+#EXTINF:0 type="stream" channelId="1571" group-title="8.Oroszország", СТС Love
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/103/index.m3u8
-#EXTINF:0 type="stream" channelId="22" group-title=8.Oroszország, Че
+#EXTINF:0 type="stream" channelId="22" group-title="8.Oroszország", Че
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/513/index.m3u8
-#EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország, ТВ3 HD
+#EXTINF:0 type="stream" channelId="8" group-title="8.Oroszország", ТВ3 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5033/index.m3u8
-#EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország, ТВ3
+#EXTINF:0 type="stream" channelId="8" group-title="8.Oroszország", ТВ3
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/508/index.m3u8
 #EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország shift="2", ТВ3 +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6017/index.m3u8
@@ -6321,9 +6320,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6017/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6031/index.m3u8
 #EXTINF:0 type="stream" channelId="8" group-title=8.Oroszország shift="7", ТВ3 +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6045/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятница! HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятница! HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5031/index.m3u8
-#EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország, Пятница!
+#EXTINF:0 type="stream" channelId="26" group-title="8.Oroszország", Пятница!
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/503/index.m3u8
 #EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország shift="2", Пятница +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6018/index.m3u8
@@ -6331,11 +6330,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6018/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6032/index.m3u8
 #EXTINF:0 type="stream" channelId="26" group-title=8.Oroszország shift="7", Пятница +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6046/index.m3u8
-#EXTINF:0 type="stream" channelId="405" group-title=8.Oroszország, RTVi
+#EXTINF:0 type="stream" channelId="405" group-title="8.Oroszország", RTVi
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2086/index.m3u8
-#EXTINF:0 type="stream" channelId="3876" group-title=8.Oroszország, Суббота
+#EXTINF:0 type="stream" channelId="3876" group-title="8.Oroszország", Суббота
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/826/index.m3u8
-#EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország, Домашний
+#EXTINF:0 type="stream" channelId="21" group-title="8.Oroszország", Домашний
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/514/index.m3u8
 #EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország shift="2", Домашний +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6016/index.m3u8
@@ -6343,133 +6342,132 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6016/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6030/index.m3u8
 #EXTINF:0 type="stream" channelId="21" group-title=8.Oroszország shift="7", Домашний +7
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6044/index.m3u8
-#EXTINF:0 type="stream" channelId="4640" group-title=8.Oroszország, Настоящее время
+#EXTINF:0 type="stream" channelId="4640" group-title="8.Oroszország", Настоящее время
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/986/index.m3u8
-#EXTINF:0 type="stream" channelId="160" group-title=8.Oroszország, Ностальгия
+#EXTINF:0 type="stream" channelId="160" group-title="8.Oroszország", Ностальгия
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/102/index.m3u8
-#EXTINF:0 type="stream" channelId="23" group-title=8.Oroszország, Ю ТВ
+#EXTINF:0 type="stream" channelId="23" group-title="8.Oroszország", Ю ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/534/index.m3u8
-#EXTINF:0 type="stream" channelId="77" group-title=8.Oroszország, ТНТ4
+#EXTINF:0 type="stream" channelId="77" group-title="8.Oroszország", ТНТ4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/104/index.m3u8
-#EXTINF:0 type="stream" channelId="3047" group-title=8.Oroszország, КВН ТВ
+#EXTINF:0 type="stream" channelId="3047" group-title="8.Oroszország", КВН ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/546/index.m3u8
-#EXTINF:0 type="stream" channelId="141" group-title=8.Oroszország, Сарафан
+#EXTINF:0 type="stream" channelId="141" group-title="8.Oroszország", Сарафан
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/748/index.m3u8
-#EXTINF:0 type="stream" channelId="1730" group-title=8.Oroszország, Точка ТВ
+#EXTINF:0 type="stream" channelId="1730" group-title="8.Oroszország", Точка ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2053/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, 360° HD
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", 360° HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2065/index.m3u8
-#EXTINF:0 type="stream" channelId="212" group-title=8.Oroszország, 360°
+#EXTINF:0 type="stream" channelId="212" group-title="8.Oroszország", 360°
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/825/index.m3u8
-#EXTINF:0 type="stream" channelId="244" group-title=8.Oroszország, СПАС
+#EXTINF:0 type="stream" channelId="244" group-title="8.Oroszország", СПАС
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/983/index.m3u8
-#EXTINF:0 type="stream" channelId="35" group-title=8.Oroszország, Союз
+#EXTINF:0 type="stream" channelId="35" group-title="8.Oroszország", Союз
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2016/index.m3u8
-#EXTINF:0 type="stream" channelId="247" group-title=8.Oroszország, Здоровое ТВ
+#EXTINF:0 type="stream" channelId="247" group-title="8.Oroszország", Здоровое ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2022/index.m3u8
-#EXTINF:0 type="stream" channelId="251" group-title=8.Oroszország, Психология 21
+#EXTINF:0 type="stream" channelId="251" group-title="8.Oroszország", Психология 21
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2025/index.m3u8
-#EXTINF:0 type="stream" channelId="49" group-title=8.Oroszország, Успех
+#EXTINF:0 type="stream" channelId="49" group-title="8.Oroszország", Успех
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2041/index.m3u8
-#EXTINF:0 type="stream" channelId="174" group-title=8.Oroszország, Кто есть кто
+#EXTINF:0 type="stream" channelId="174" group-title="8.Oroszország", Кто есть кто
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2042/index.m3u8
-#EXTINF:0 type="stream" channelId="305" group-title=8.Oroszország, Открытый мир
+#EXTINF:0 type="stream" channelId="305" group-title="8.Oroszország", Открытый мир
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2078/index.m3u8
-#EXTINF:0 type="stream" channelId="389" group-title=8.Oroszország, Загородный
+#EXTINF:0 type="stream" channelId="389" group-title="8.Oroszország", Загородный
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2099/index.m3u8
-#EXTINF:0 type="stream" channelId="1747" group-title=8.Oroszország, Три ангела
+#EXTINF:0 type="stream" channelId="1747" group-title="8.Oroszország", Три ангела
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2116/index.m3u8
-#EXTINF:0 type="stream" channelId="33" group-title=8.Oroszország, РЖД ТВ
+#EXTINF:0 type="stream" channelId="33" group-title="8.Oroszország", РЖД ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2120/index.m3u8
-#EXTINF:0 type="stream" channelId="396" group-title=8.Oroszország, БСТ
+#EXTINF:0 type="stream" channelId="396" group-title="8.Oroszország", БСТ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2108/index.m3u8
-#EXTINF:0 type="stream" channelId="1779" group-title=8.Oroszország, Красная линия
+#EXTINF:0 type="stream" channelId="1779" group-title="8.Oroszország", Красная линия
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2147/index.m3u8
-#EXTINF:0 type="stream" channelId="701" group-title=8.Oroszország, ЛДПР ТВ
+#EXTINF:0 type="stream" channelId="701" group-title="8.Oroszország", ЛДПР ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2110/index.m3u8
-#EXTINF:0 type="stream" channelId="5179" group-title=8.Oroszország, Хузур ТВ
+#EXTINF:0 type="stream" channelId="5179" group-title="8.Oroszország", Хузур ТВ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2150/index.m3u8
-#EXTINF:0 type="stream" channelId="2904" group-title=8.Oroszország, Life TV
+#EXTINF:0 type="stream" channelId="2904" group-title="8.Oroszország", Life TV
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/971/index.m3u8
-#EXTINF:0 type="stream" channelId="38" group-title=8.Oroszország, Дождь
+#EXTINF:0 type="stream" channelId="38" group-title="8.Oroszország", Дождь
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2030/index.m3u8
-#EXTINF:0 type="stream" channelId="145" group-title=8.Oroszország, ТБН
+#EXTINF:0 type="stream" channelId="145" group-title="8.Oroszország", ТБН
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/974/index.m3u8
-#EXTINF:0 type="stream" channelId="199" group-title=8.Oroszország, CNL
+#EXTINF:0 type="stream" channelId="199" group-title="8.Oroszország", CNL
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/955/index.m3u8
-#EXTINF:0 type="stream" channelId="1386" group-title=8.Oroszország, Вместе-РФ
+#EXTINF:0 type="stream" channelId="1386" group-title="8.Oroszország", Вместе-РФ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2073/index.m3u8
-#EXTINF:0 type="stream" channelId="5" group-title=8.Oroszország, Россия-Культура
+#EXTINF:0 type="stream" channelId="5" group-title="8.Oroszország", Россия-Культура
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/505/index.m3u8
-#EXTINF:0 type="stream" channelId="1743" group-title=8.Oroszország, Про Бизнес
+#EXTINF:0 type="stream" channelId="1743" group-title="8.Oroszország", Про Бизнес
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5043/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Е
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Е
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5048/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Рен ТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Рен ТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9002/index.m3u8
-#EXTINF:0 type="stream" channelId="4021" group-title=8.Oroszország, Gametoon HD
+#EXTINF:0 type="stream" channelId="4021" group-title="8.Oroszország", Gametoon HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5049/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, НТВ HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", НТВ HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9028/index.m3u8
-#EXTINF:0 type="stream" channelId="3977" group-title=8.Oroszország, Ратник
+#EXTINF:0 type="stream" channelId="3977" group-title="8.Oroszország", Ратник
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Russia Today Doc HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Russia Today Doc HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9031/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Телеканал 360 HD orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Телеканал 360 HD orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9036/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТВЦ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТВЦ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9095/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Пятый канал orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Пятый канал orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9096/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Телеканал Звезда orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Телеканал Звезда orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9098/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СТС Love orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СТС Love orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9099/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ОТР orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ОТР orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9100/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Че orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Че orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9101/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, RTVi orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", RTVi orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9102/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Суббота orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Суббота orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9103/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Домашний orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Домашний orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9104/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Ностальгия orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Ностальгия orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9106/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Ю ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Ю ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9107/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Сарафан orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Сарафан orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9109/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Точка ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Точка ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9110/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, СПАС orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", СПАС orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9111/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Союз orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Союз orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9112/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Здоровое ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Здоровое ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9113/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Психология 21 orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Психология 21 orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9114/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Успех orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Успех orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9115/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Открытый мир orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Открытый мир orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9117/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, РЖД ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", РЖД ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9118/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Красная линия orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Красная линия orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ЛДПР ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ЛДПР ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9120/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Хузур ТВ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Хузур ТВ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9121/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Дождь orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Дождь orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9122/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, ТБН orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", ТБН orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9123/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title=8.Oroszország, Вместе-РФ orig
+#EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Вместе-РФ orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9124/index.m3u8
-
 
 
 
@@ -8389,6 +8387,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5042/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6009/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title=Ukrajna| Українські", Еспресо ТВ HD UA orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9073/index.m3u8
+
 
 
 
