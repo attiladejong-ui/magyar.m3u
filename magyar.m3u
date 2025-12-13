@@ -700,15 +700,10 @@ http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2974
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250018
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2977
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&extension=ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="AT: orf sport+" tvg-logo="" group-title="group-title="4. Ausztria", ", ORF sport+
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5701
 
 
 
@@ -5864,6 +5859,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
