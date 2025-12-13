@@ -672,8 +672,8 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&
 
 
 # ===== FŐMENÜ: FILMEK =====
-
-
+#EXTINF:-1 group-title="2. Filmek",The.Tigers.Nest.2022.
+https://kate-1-o.transitto.online/hls/xqx2ptfa75okjiqbtfks57a74guf52xey42lfp3bnrighgqg4rsyqbortdqq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",Hunting.Season.2025
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmzpgjnv4cmnwhbwa/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",Az elnök különgépe-Terror a fedélzeten  (2025)
@@ -9451,6 +9451,7 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 #EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png" group-title="Sportcsatornák",HR⚜️ SPORTSKA TV HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
+
 
 
 
