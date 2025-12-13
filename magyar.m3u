@@ -2765,6 +2765,133 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685715&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="5.Németország",┃DE┃ DEXTER HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=685714&extension=ts
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12334
+#EXTINF:-1 tvg-id="ard.de" tvg-name="↺ARD FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="5.Németország",↺ARD FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/154591
+#EXTINF:-1 tvg-id="ard.de" tvg-name="ARD HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="5.Németország",ARD HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95550
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="↺ZDF FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="5.Németország",↺ZDF FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95552
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="5.Németország",ZDF HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95551
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="↺RTL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="5.Németország",↺RTL FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95556
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="5.Németország",RTL HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95557
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="↺RTL ZWEI FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="5.Németország",↺RTL ZWEI FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95558
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL ZWEI HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="5.Németország",RTL ZWEI HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95559
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="↺SAT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="5.Németország",↺SAT 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95566
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="5.Németország",SAT 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95567
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="↺PROSIEBEN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="5.Németország",↺PROSIEBEN FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95560
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="5.Németország",PROSIEBEN HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95561
+#EXTINF:-1 tvg-id="vox.de" tvg-name="↺VOX FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="5.Németország",↺VOX FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95571
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="5.Németország",VOX HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95572
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOX UP" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="5.Németország",VOX UP
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95573
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="↺KABEL EINS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="5.Németország",↺KABEL EINS FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95574
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="5.Németország",KABEL EINS HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95575
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="↺PROSIEBEN MAXX FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="5.Németország",↺PROSIEBEN MAXX FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95562
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PROSIEBEN MAXX HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="5.Németország",PROSIEBEN MAXX HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95563
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="↺PROSIEBEN FUN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="5.Németország",↺PROSIEBEN FUN FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95564
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="PROSIEBEN FUN HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="5.Németország",PROSIEBEN FUN HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95565
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="↺KABEL EINS CLASSICS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsclassics.png" group-title="5.Németország",↺KABEL EINS CLASSICS FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/117975
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="KABEL EINS CLASSICS HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsclassics.png" group-title="5.Németország",KABEL EINS CLASSICS HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95576
+#EXTINF:-1 tvg-id="" tvg-name="TV NOW FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/nowtv.png" group-title="5.Németország",TV NOW FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/192047
+#EXTINF:-1 tvg-id="" tvg-name="TV NOW HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/nowtv.png" group-title="5.Németország",TV NOW HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/192048
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="↺RTL CRIME FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL-Crime.png" group-title="5.Németország",↺RTL CRIME FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/106168
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL CRIME HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL-Crime.png" group-title="5.Németország",RTL CRIME HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95582
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="↺SAT 1 GOLD FHD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="5.Németország",↺SAT 1 GOLD FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95568
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="5.Németország",SAT 1 GOLD HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95569
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="↺SAT 1 EMOTIONS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sat1emotions.png" group-title="5.Németország",↺SAT 1 EMOTIONS FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95570
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT 1 EMOTIONS HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sat1emotions.png" group-title="5.Németország",SAT 1 EMOTIONS HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/290256
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="↺KABEL EINS DOKU FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="5.Németország",↺KABEL EINS DOKU FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95673
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKU HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="5.Németország",KABEL EINS DOKU HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/155710
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="↺ZDF NEO FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="5.Németország",↺ZDF NEO FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95553
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="5.Németország",ZDF NEO HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95554
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="↺ZDF INFO FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/ZDFinfo.png" group-title="5.Németország",↺ZDF INFO FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95555
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="↺NITRO FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="5.Németország",↺NITRO FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95577
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="5.Németország",NITRO HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95578
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL PASSION HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlpassion.png" group-title="5.Németország",RTL PASSION HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/112159
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL PASSION" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlpassion.png" group-title="5.Németország",RTL PASSION
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95580
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="↺RTL LIVING FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlliving.png" group-title="5.Németország",↺RTL LIVING FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/187642
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL LIVING HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlliving.png" group-title="5.Németország",RTL LIVING HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95581
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="↺RTL UP FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtluphd.png" group-title="5.Németország",↺RTL UP FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/187641
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="RTL UP HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlup.png" group-title="5.Németország",RTL UP HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95583
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="↺SIXX FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="5.Németország",↺SIXX FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95584
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="5.Németország",SIXX HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95585
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="↺ANIXE FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/anixe-hd-de.png" group-title="5.Németország",↺ANIXE FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95587
+#EXTINF:-1 tvg-id="" tvg-name="ANIXE+ HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/anixe_plus.png" group-title="5.Németország",ANIXE+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/207840
+#EXTINF:-1 tvg-id="arte.de" tvg-name="↺ARTE FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/arte.png" group-title="5.Németország",↺ARTE FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95589
+#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/arte-de.png" group-title="5.Németország",ARTE HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95588
+#EXTINF:-1 tvg-id="" tvg-name="BERGBLICK FHD" tvg-logo="https://i.imgur.com/95jLH1Y.png" group-title="5.Németország",BERGBLICK FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/235430
+#EXTINF:-1 tvg-id="romance.de" tvg-name="↺ROMANCE TV FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/romance_tv.png" group-title="5.Németország",↺ROMANCE TV FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95591
+#EXTINF:-1 tvg-id="romance.de" tvg-name="ROMANCE TV HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/romance_tv.png" group-title="5.Németország",ROMANCE TV HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/266818
+#EXTINF:-1 tvg-id="puls24.at" tvg-name="↺PULS 24 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/puls24.png" group-title="5.Németország",↺PULS 24 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95545
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/tele5hd.png" group-title="5.Németország",TELE 5 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95592
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/tele5.png" group-title="5.Németország",TELE 5 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95593
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="↺3 SAT HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/3sat-hd-de.png" group-title="5.Németország",↺3 SAT HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95595
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3 SAT" tvg-logo="https://www.tvlogolar.xyz/europa/germany/3sat.png" group-title="5.Németország",3 SAT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/95594
+#EXTINF:-1 tvg-id="" tvg-name="PEARL TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/PEARL.TV.png" group-title="5.Németország",PEARL TV FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/689379
+#EXTINF:-1 tvg-id="goldstartv.de" tvg-name="GOLDSTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="5.Németország",GOLDSTAR TV
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/129232
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="6.Spanyolország",ES: LA 1
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12335
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="6.Spanyolország",ES: LA 1 HD
@@ -5927,6 +6054,7 @@ http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5948
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5944
 #EXTINF:-1 tvg-id="" tvg-name="GR: BBC EARTH HD" tvg-logo="" group-title="Görögország",GR: BBC EARTH HD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5941
+
 
 
 
