@@ -4492,7 +4492,30 @@ http://tv14s.xyz:8080/91840130/91840130/212934
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="" group-title="7.Olaszország",IT: FOCUS
 http://tv14s.xyz:8080/91840130/91840130/212935
- 
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="http://iptvbeka.net/italy/rai4.png" group-title="7.Olaszország",IT: Rai 4
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/651
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Due FHD" tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="7.Olaszország",IT: Sky Cinema Due FHD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1353
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="7.Olaszország",IT: Sky Cinema Comedy HD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1354
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Action HD" tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="7.Olaszország",IT: Sky Cinema Action HD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1355
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Collection HD" tvg-logo="http://iptvbeka.net/italy/skyprimafila.png" group-title="7.Olaszország",IT: Sky Cinema Collection HD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1356
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1" tvg-logo="http://iptvbeka.net/italy/1200px-Italia_1.svg.png" group-title="7.Olaszország",IT: Italia 1
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1169
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Spaghetti Western FHD" tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="7.Olaszország",IT: Eagle Cinema Spaghetti Western FHD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1387
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="8.Oroszország", Первый канал FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2402/index.m3u8
 
@@ -5903,6 +5926,7 @@ http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5948
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5944
 #EXTINF:-1 tvg-id="" tvg-name="GR: BBC EARTH HD" tvg-logo="" group-title="Görögország",GR: BBC EARTH HD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5941
+
 
 
 
