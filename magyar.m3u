@@ -6477,7 +6477,7 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72952
 #EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HD" tvg-logo="http://iptvbeka.net/switzerland/tv-srf-1.png" group-title="9.Svájc",CH: SRF 1 HD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/887
 
-#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA1 HD" tvg-logo="http://iptvbeka.net/switzerland/rsila1.png" group-title="9.Svájc",CH: RSI LA1 HD
+#EXTINF:-1 tvg-id=" tvg-name="CH: RSI LA1 HD" tvg-logo="http://iptvbeka.net/switzerland/rsila1.png" group-title="9.Svájc",CH: RSI LA1 HD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2061
 
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 1 FHD" tvg-logo="" group-title="9.Svájc",CH: Blue Sport 1 FHD
@@ -6485,6 +6485,180 @@ http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/3163
 
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 2 FHD" tvg-logo="" group-title="9.Svájc",CH: Blue Sport 2 FHD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/3164
+#EXTINF:-1 tvg-id="srfinfo.ch" tvg-name="CH: SRF INFO " tvg-logo="https://tvlogo.nl/files/ch/GERMANY/srf_info.png" group-title="9.Svájc",CH: SRF INFO 
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121789
+#EXTINF:-1 tvg-id="srfinfo.ch" tvg-name="CH: SRF INFO HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/srf_info_ch.png" group-title="9.Svájc",CH: SRF INFO HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8827
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1 HD" tvg-logo="https://i.ibb.co/qxwvJz2/image.png" group-title="9.Svájc",CH: SRF 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121790
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1" tvg-logo="https://i.ibb.co/qxwvJz2/image.png" group-title="9.Svájc",CH: SRF 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/92689
+#EXTINF:-1 tvg-id="srf2.ch" tvg-name="CH: SRF 2 HD" tvg-logo="https://i.ibb.co/72QCSyL/image.png" group-title="9.Svájc",CH: SRF 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72952
+#EXTINF:-1 tvg-id="rts1.ch" tvg-name="CH: RTS UN HD" tvg-logo="https://sasag.ch/wp-content/uploads/2015/07/RTS-un-HD.png" group-title="9.Svájc",CH: RTS UN HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8821
+#EXTINF:-1 tvg-id="rts1.ch" tvg-name="CH: RTS UN" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/rts_ch_un.png" group-title="9.Svájc",CH: RTS UN
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121786
+#EXTINF:-1 tvg-id="rts2.ch" tvg-name="CH: RTS DEUX HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/rts_ch_deux.png" group-title="9.Svájc",CH: RTS DEUX HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121788
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI LA 1 HD" tvg-logo="https://i.ibb.co/p4MMmzk/image.png" group-title="9.Svájc",CH: RSI LA 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8816
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI LA 1" tvg-logo="https://i.ibb.co/p4MMmzk/image.png" group-title="9.Svájc",CH: RSI LA 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121792
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="9.Svájc",CH: RSI LA 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8817
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="9.Svájc",CH: RSI LA 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121793
+#EXTINF:-1 tvg-id="canal9.ch" tvg-name="CH: KANAL 9 HD" tvg-logo="https://i.ibb.co/6ZLyPwN/image.png" group-title="9.Svájc",CH: KANAL 9 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8799
+#EXTINF:-1 tvg-id="" tvg-name="CH: Die Neue Zeit TV HD" tvg-logo="https://i.ibb.co/1s0BS41/image.png" group-title="9.Svájc",CH: Die Neue Zeit TV HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/109385
+#EXTINF:-1 tvg-id="tele1.ch" tvg-name="CH: TELE M1 HD" tvg-logo="https://i.ibb.co/tztgHVD/image.png" group-title="9.Svájc",CH: TELE M1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/92690
+#EXTINF:-1 tvg-id="telezuri.ch" tvg-name="CH: TELE ZURICH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TeleZ%C3%BCri_Logo_%282014-_%29.svg/1200px-TeleZ%C3%BCri_Logo_%282014-_%29.svg.png" group-title="9.Svájc",CH: TELE ZURICH HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8833
+#EXTINF:-1 tvg-id="tvo.ch" tvg-name="CH: TVO HD" tvg-logo="https://i.ibb.co/tK3QW3N/image.png" group-title="9.Svájc",CH: TVO HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72951
+#EXTINF:-1 tvg-id="tvo.ch" tvg-name="CH: TVO HD" tvg-logo="https://i.ibb.co/tK3QW3N/image.png" group-title="9.Svájc",CH: TVO HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121802
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="CH: 3+ HD" tvg-logo="https://i.ibb.co/jDzj05P/image.png" group-title="9.Svájc",CH: 3+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/97601
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="CH: 3+" tvg-logo="https://i.ibb.co/jDzj05P/image.png" group-title="9.Svájc",CH: 3+
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121794
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="CH: 4+ HD" tvg-logo="https://i.hizliresim.com/iZHRl1.png" group-title="9.Svájc",CH: 4+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8793
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="CH: 4+ HD" tvg-logo="https://i.hizliresim.com/iZHRl1.png" group-title="9.Svájc",CH: 4+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121795
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="CH: 5+ HD" tvg-logo="https://i.hizliresim.com/O7P2vW.png" group-title="9.Svájc",CH: 5+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8795
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="CH: 5+ HD" tvg-logo="https://i.hizliresim.com/O7P2vW.png" group-title="9.Svájc",CH: 5+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121796
+#EXTINF:-1 tvg-id="6plus.ch" tvg-name="CH: 6+ HD" tvg-logo="https://i.hizliresim.com/ugnjPx.png" group-title="9.Svájc",CH: 6+ HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/97602
+#EXTINF:-1 tvg-id="startv.ch" tvg-name="CH: STAR TV HD" tvg-logo="https://i.ibb.co/vLwchgP/image.png" group-title="9.Svájc",CH: STAR TV HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121818
+#EXTINF:-1 tvg-id="rougetv.ch" tvg-name="CH: ROUGE TV FHD" tvg-logo="https://i.ibb.co/Ns04nmY/image.png" group-title="9.Svájc",CH: ROUGE TV FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121819
+#EXTINF:-1 tvg-id="telem1.ch" tvg-name="CH: TELE M1 HD" tvg-logo="https://i.ibb.co/tztgHVD/image.png" group-title="9.Svájc",CH: TELE M1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121820
+#EXTINF:-1 tvg-id="mysports6.ch" tvg-name="CH: M6 HD SUISSE" tvg-logo="https://i.ibb.co/PrpsHpz/1280px-Logo-M6-2020-fond-clair-svg.png" group-title="9.Svájc",CH: M6 HD SUISSE
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121799
+#EXTINF:-1 tvg-id="6plus.ch" tvg-name="CH: 6TER HD SUISSE" tvg-logo="https://i.ibb.co/tQqJfLJ/image.png" group-title="9.Svájc",CH: 6TER HD SUISSE
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121800
+#EXTINF:-1 tvg-id="canal9.ch" tvg-name="CH: W9 SUISSE HD" tvg-logo="https://i.ibb.co/WsmKQvh/image.png" group-title="9.Svájc",CH: W9 SUISSE HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121801
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-name="CH: TELE BASEL" tvg-logo="https://i.ibb.co/kSdx4Wf/image.png" group-title="9.Svájc",CH: TELE BASEL
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121803
+#EXTINF:-1 tvg-id="latele.ch" tvg-name="CH: LA TELE" tvg-logo="https://i.ibb.co/cXwZvxL/image.png" group-title="9.Svájc",CH: LA TELE
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121804
+#EXTINF:-1 tvg-id="latele.ch" tvg-name="CH: TELETICINO" tvg-logo="https://i.ibb.co/VtmB5N4/image.png" group-title="9.Svájc",CH: TELETICINO
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121805
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-name="CH: TELE BASEL HD" tvg-logo="https://i.ibb.co/kSdx4Wf/image.png" group-title="9.Svájc",CH: TELE BASEL HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121806
+#EXTINF:-1 tvg-id="pulsacht.ch" tvg-name="CH: PULS 8 HD" tvg-logo="https://i.ibb.co/s2PMQsB/image.png" group-title="9.Svájc",CH: PULS 8 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121808
+#EXTINF:-1 tvg-id="" tvg-name="CH: DIE NEUE ZEIT TV" tvg-logo="https://i.ibb.co/1s0BS41/image.png" group-title="9.Svájc",CH: DIE NEUE ZEIT TV
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121817
+#EXTINF:-1 tvg-id="tv24.ch" tvg-name="CH: TV 24 FHD" tvg-logo="https://i.ibb.co/s5g7Yzw/image.png" group-title="9.Svájc",CH: TV 24 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/162619
+#EXTINF:-1 tvg-id="" tvg-name="CH: TV 25 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/tv25.png" group-title="9.Svájc",CH: TV 25 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/163647
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE 1" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tele1.png" group-title="9.Svájc",CH: TELE 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/163648
+#EXTINF:-1 tvg-id="blueaction.ch" tvg-name="CH: BLUE ACTION FHD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE ACTION FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121812
+#EXTINF:-1 tvg-id="blueaction.ch" tvg-name="CH: BLUE ACTION HD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE ACTION HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/8836
+#EXTINF:-1 tvg-id="bluestars.ch" tvg-name="CH: BLUE STARS HD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE STARS HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72958
+#EXTINF:-1 tvg-id="telezuri.ch" tvg-name="CH: BLUE ZOOM HD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE ZOOM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121811
+#EXTINF:-1 tvg-id="bluestars.ch" tvg-name="CH: BLUE STARS FHD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE STARS FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121815
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM FHD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE ZOOM FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/177936
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM HD" tvg-logo="https://i.ibb.co/zbfLFHF/image.png" group-title="9.Svájc",CH: BLUE ZOOM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/177935
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ SWISS SPORT★☆★" tvg-logo="" group-title="9.Svájc",★☆★ SWISS SPORT★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669355
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT F FHD" tvg-logo="https://quickline.ch/media/c3pgmig4/swi_bluetv_paket_sport_rgb_pos.png" group-title="9.Svájc",BLUE SPORT F FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669408
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT D1 DE FHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwWCvGxfbobnDYXMNUKr6HIJQyn4tENP0denM-fI3RgVonF4oNVVV_qt979TOkOjkk.png" group-title="9.Svájc",BLUE SPORT D1 DE FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669407
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT D2 DE FHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwaT--G_JDxOFrDbjyeR2m94Cgm27fff0jKjRNmZ9aVp2UABPYXgRCxnBwG6qztVJF.png" group-title="9.Svájc",BLUE SPORT D2 DE FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669406
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT ZOOM HD" tvg-logo="https://image-service.goldbach.com/GT78B-CWVWCkbxsoCImhmqdcFc8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production/5f574a8de2f9196327ad89f6/2021/04/bluezoom_logo_negativ-2.png" group-title="9.Svájc",BLUE SPORT ZOOM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669405
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT ZOOM D FHD" tvg-logo="https://image-service.goldbach.com/GT78B-CWVWCkbxsoCImhmqdcFc8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production/5f574a8de2f9196327ad89f6/2021/04/bluezoom_logo_negativ-2.png" group-title="9.Svájc",BLUE SPORT ZOOM D FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669404
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT ZOOM F FHD" tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/blue_ZOOM_F_Bright_Themes.png" group-title="9.Svájc",BLUE SPORT ZOOM F FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669403
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwVExISIKRn-H6y5cMusnRc1_TEBKJhOUbD3FhM1Ij6cKT58oYeDnfc7vWg0Z3y7n_.png" group-title="9.Svájc",BLUE SPORT 1 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669402
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwsCp-NNFr53z32pQ1v-KsaVczYPVsa8mBuswT2EcPxmF_25rQ-SJvU9I1IuW-Ve7Y.png" group-title="9.Svájc",BLUE SPORT 2 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669401
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 3 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gwa3Y2-rMyZ-nRcGqICRX2VlQGtBSBym6IzMxoubYfds6idCNuV4JRtF4MaaoNEQnc.png" group-title="9.Svájc",BLUE SPORT 3 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669400
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 4 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw5fkk1vslOO0zKQ8XlG2guveVn7LW1h6sLLcd4apaEVmp8a6AWoYwR90P7trWUuhx.png" group-title="9.Svájc",BLUE SPORT 4 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669399
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw_FGv_3twRWmkV-9hDkWhxr_4Xg3FcMNsG7qileT_uUkeN648QGrfxFRuM7bwdk5S.png" group-title="9.Svájc",BLUE SPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669398
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2" tvg-logo="http://miguelpremium.xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwaT--G_JDxOFrDbjyeR2m94Cgm27fff0jKjRNmZ9aVp2UABPYXgRCxnBwG6qztVJF.png" group-title="9.Svájc",BLUE SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669397
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 3" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwpzdW4j247lrV8m0ieitNIyV326O39GR4Hkwbl070Nr_XhBqpJNpQlV1Z8PRCEo7Z.png" group-title="9.Svájc",BLUE SPORT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669396
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 4" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw_P3BcVKbh328spaC-0_QHqeJIqNzWWApWqUVU-mSWPSS4wtfRnji0XhlasFc6ZPP.png" group-title="9.Svájc",BLUE SPORT 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669395
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 5" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw50JVnEVMHPv1VaXaHwa5tow4GwwpdBHv9KjSl-gdeKRDJtyls_rya9FuNNDYbrVR.png" group-title="9.Svájc",BLUE SPORT 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669394
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 6" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwCdFrE4-9AW8FhPd0bgHxA3leKVRKB8_x6wdKlHJO_85OYFLFrbk8rfvFAXp3dPU3.png" group-title="9.Svájc",BLUE SPORT 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669393
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 7" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwkkhSbFdgrfFO6J0Wmo5LWrefWDjDlMbBHqLC5WV0kfMKizEx4njpHxPK79KDjUfX.png" group-title="9.Svájc",BLUE SPORT 7
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669392
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 8" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gwnv17njT8uTsF2esS20jk8qS2SyhhU4pUzBaoQW3R2Fcm2Gu9zPRD1ecEFM7rt2_p.png" group-title="9.Svájc",BLUE SPORT 8
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669391
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 9" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwnXs4iclom_a1ME4QvL9hNrOifVdwbWNCfOHtB6pcF7xb94Y-IkePD2_DVI9-xGOE.png" group-title="9.Svájc",BLUE SPORT 9
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669390
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 10" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwzQM69hLuqs_9xcMEVlzGYjabUD6lWh2yhNTshWM261LakYbJ0brgWnGe8jHUo4mw.png" group-title="9.Svájc",BLUE SPORT 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669389
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 11" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw8TuUWllJhs3IgdRBf5540fAbAjpMwQipcR80YRyED_zu22JGbcBn2Yx_dUVIiyEw.png" group-title="9.Svájc",BLUE SPORT 11
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669388
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 12" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwaOqe49wfvvCtVm0tNG9sRNBVbN2E3N3wdyS-svBpZwM8wS8Tm3xhBlLqkpMNKwPe.png" group-title="9.Svájc",BLUE SPORT 12
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669387
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 13" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwVFF_wFQb8SchILSvLbKcChWc7ZHZxThOoNjpclDVFBHgQ1vSBEJY5_hX5_0DL5cA.png" group-title="9.Svájc",BLUE SPORT 13
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669386
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 14" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwMrntLLj0hXns8ob65J9E_yPgXJyGK9y_kmUcHbSw4Sqz1KJShuu8YdNAvsE0nZIO.png" group-title="9.Svájc",BLUE SPORT 14
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669385
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 15" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw5UrmH9iL7RldDjxpzIGVwG2fRcknmxtl6UbtS18yL9JoAoKPAqDFZ5ZGUcRKdTTp.png" group-title="9.Svájc",BLUE SPORT 15
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669384
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 16" tvg-logo="http://176.65.128.154:80/images/channels_image/63109181358.jpg" group-title="9.Svájc",BLUE SPORT 16
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669383
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 17" tvg-logo="http://176.65.128.154:80/images/channels_image/89496440991.jpg" group-title="9.Svájc",BLUE SPORT 17
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669382
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS EDGE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/edge-sport-vod.png?raw=true" group-title="9.Svájc",MY SPORTS EDGE
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669381
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-eins-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669380
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-2-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669379
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-3-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669378
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-4-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669377
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-5-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669376
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-6-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669375
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-7-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 7
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669374
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-8-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 8
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669373
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-9-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 9
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669372
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-10-ch.png?raw=true" group-title="9.Svájc",MY SPORTS 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669371
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CH: Rouge TV FHD" tvg-logo="" group-title="9.Svájc",CH: Rouge TV FHD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2085
@@ -8375,6 +8549,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/5042/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6009/index.m3u8
 #EXTINF:0 group-title="Ukrajna", |#EXTINF:0 group-title="Ukrajna",  Еспресо ТВ HD UA orig
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9073/index.m3u8
+
 
 
 
