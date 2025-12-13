@@ -6939,6 +6939,127 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706398
 #EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 10" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png" group-title="Sportcsatornák",BLUE SPORT 10
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706397
 
+
+#EXTINF:-1 tvg-logo="15785.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Nagy Britannia" ,BBC 1 HD [UK]
+http://as01.plinks-pile.su/15785/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="15845.png" tvg-rec="0" group-title="Nagy Britannia" ,BBC 2 HD [UK]
+http://as01.plinks-pile.su/15845/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16972.png" tvg-rec="0" group-title="Nagy Britannia" ,BBC 3 [UK]
+http://as01.plinks-pile.su/16972/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22574.png" tvg-rec="0" group-title="Nagy Britannia" ,BBC 4 [UK]
+http://as01.plinks-pile.su/22574/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24317.png" tvg-rec="0" group-title="Nagy Britannia" ,BBC News HD [UK]
+http://as01.plinks-pile.su/24317/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24318.png" tvg-rec="0" group-title="Nagy Britannia" ,BBC Parliament [UK]
+http://as01.plinks-pile.su/24318/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24321.png" tvg-rec="0" group-title="Nagy Britannia" ,CNN HD [UK]
+http://as01.plinks-pile.su/24321/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24323.png" tvg-rec="0" group-title="Nagy Britannia" ,TRT WORLD [UK]
+http://as01.plinks-pile.su/24323/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24296.png" tvg-rec="0" group-title="Nagy Britannia" ,Cbeebies HD [UK]
+http://as01.plinks-pile.su/24296/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24299.png" tvg-rec="0" group-title="Nagy Britannia" ,POP [UK]
+http://as01.plinks-pile.su/24299/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24303.png" tvg-rec="0" group-title="Nagy Britannia" ,Boomerang [UK]
+http://as01.plinks-pile.su/24303/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24304.png" tvg-rec="0" group-title="Nagy Britannia" ,Nicktoons [UK]
+http://as01.plinks-pile.su/24304/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24305.png" tvg-rec="0" group-title="Nagy Britannia" ,Nickelodeon [UK]
+http://as01.plinks-pile.su/24305/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24306.png" tvg-rec="0" group-title="Nagy Britannia" ,Nick Jr [UK]
+http://as01.plinks-pile.su/24306/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24302.png" tvg-rec="0" group-title="Nagy Britannia" ,Cartoon Network [UK]
+http://as01.plinks-pile.su/24302/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24308.png" tvg-rec="0" group-title="Nagy Britannia" ,Cartoonito [UK]
+http://as01.plinks-pile.su/24308/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24311.png" tvg-rec="0" group-title="Nagy Britannia" ,Baby TV [UK]
+http://as01.plinks-pile.su/24311/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24703.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  RTE 1 HD [UK]
+http://as01.plinks-pile.su/24703/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24704.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  RTE 2 HD [UK]
+http://as01.plinks-pile.su/24704/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24705.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  Virgin Media One [UK]
+http://as01.plinks-pile.su/24705/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24706.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  Virgin Media Two [UK]
+http://as01.plinks-pile.su/24706/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24707.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  Virgin Media Three [UK]
+http://as01.plinks-pile.su/24707/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24710.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  RTE Jr [UK]
+http://as01.plinks-pile.su/24710/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="24711.png" tvg-rec="0" group-title="Nagy Britannia" ,IRE  RTE News [UK]
+http://as01.plinks-pile.su/24711/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16608.png" tvg-rec="0" group-title="Nagy Britannia" ,ITV [UK]
+http://as01.plinks-pile.su/16608/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="15787.png" tvg-rec="0" group-title="Nagy Britannia" ,ITV 2 [UK]
+http://as01.plinks-pile.su/15787/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="15811.png" tvg-rec="0" group-title="Nagy Britannia" ,ITV 3 [UK]
+http://as01.plinks-pile.su/15811/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="15812.png" tvg-rec="0" group-title="Nagy Britannia" ,ITV 4 [UK]
+http://as01.plinks-pile.su/15812/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16492.png" tvg-rec="0" group-title="Nagy Britannia" ,Channel 4 HD [UK]
+http://as01.plinks-pile.su/16492/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16681.png" tvg-rec="0" group-title="Nagy Britannia" ,Channel 4 [UK]
+http://as01.plinks-pile.su/16681/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16987.png" tvg-rec="0" group-title="Nagy Britannia" ,Channel 5 HD [UK]
+http://as01.plinks-pile.su/16987/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16986.png" tvg-rec="0" group-title="Nagy Britannia" ,E4 [UK]
+http://as01.plinks-pile.su/16986/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="17004.png" tvg-rec="0" group-title="Nagy Britannia" ,5STAR [UK]
+http://as01.plinks-pile.su/17004/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16994.png" tvg-rec="0" group-title="Nagy Britannia" ,U and Dave [UK]
+http://as01.plinks-pile.su/16994/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16999.png" tvg-rec="0" group-title="Nagy Britannia" ,Challenge [UK]
+http://as01.plinks-pile.su/16999/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="17001.png" tvg-rec="0" group-title="Nagy Britannia" ,Really [UK]
+http://as01.plinks-pile.su/17001/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="15818.png" tvg-rec="0" group-title="Nagy Britannia" ,Cbs Reality [UK]
+http://as01.plinks-pile.su/15818/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="17010.png" tvg-rec="0" group-title="Nagy Britannia" ,Food Network [UK]
+http://as01.plinks-pile.su/17010/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="17700.png" tvg-rec="0" group-title="Nagy Britannia" ,UTV HD  [UK]
+http://as01.plinks-pile.su/17700/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16600.png" tvg-rec="0" group-title="Nagy Britannia" ,UTV [UK]
+http://as01.plinks-pile.su/16600/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16621.png" tvg-rec="0" group-title="Nagy Britannia" ,4seven [UK]
+http://as01.plinks-pile.su/16621/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16627.png" tvg-rec="0" group-title="Nagy Britannia" ,Channel 5 [UK]
+http://as01.plinks-pile.su/16627/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16687.png" tvg-rec="0" group-title="Nagy Britannia" ,S4C [UK]
+http://as01.plinks-pile.su/16687/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="17715.png" tvg-rec="0" group-title="Nagy Britannia" ,5 Select [UK]
+http://as01.plinks-pile.su/17715/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="17730.png" tvg-rec="0" group-title="Nagy Britannia" ,CNBC [UK]
+http://as01.plinks-pile.su/17730/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22527.png" tvg-rec="0" group-title="Nagy Britannia" ,Bloomberg [UK]
+http://as01.plinks-pile.su/22527/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="15850.png" tvg-rec="0" group-title="Nagy Britannia" ,Comedy Central [UK]
+http://as01.plinks-pile.su/15850/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22535.png" tvg-rec="0" group-title="Nagy Britannia" ,U and Gold [UK]
+http://as01.plinks-pile.su/22535/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22536.png" tvg-rec="0" group-title="Nagy Britannia" ,Itv Be [UK]
+http://as01.plinks-pile.su/22536/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22542.png" tvg-rec="0" group-title="Nagy Britannia" ,Nick Jr Too [UK]
+http://as01.plinks-pile.su/22542/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22545.png" tvg-rec="0" group-title="Nagy Britannia" ,Quest [UK]
+http://as01.plinks-pile.su/22545/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22548.png" tvg-rec="0" group-title="Nagy Britannia" ,Sky Atlantic [UK]
+http://as01.plinks-pile.su/22548/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22551.png" tvg-rec="0" group-title="Nagy Britannia" ,Sky Witness [UK]
+http://as01.plinks-pile.su/22551/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="16494.png" tvg-rec="0" group-title="Nagy Britannia" ,TLC [UK]
+http://as01.plinks-pile.su/16494/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22561.png" tvg-rec="0" group-title="Nagy Britannia" ,Sky Arts [UK]
+http://as01.plinks-pile.su/22561/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22562.png" tvg-rec="0" group-title="Nagy Britannia" ,Al Jazeera News [UK]
+http://as01.plinks-pile.su/22562/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22575.png" tvg-rec="0" group-title="Nagy Britannia" ,U and Alibi [UK]
+http://as01.plinks-pile.su/22575/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22576.png" tvg-rec="0" group-title="Nagy Britannia" ,NESN [US]
+http://as01.plinks-pile.su/22576/index.m3u8?token=eAE9mnX7WzaBq5
+#EXTINF:-1 tvg-logo="22528.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Nagy Britannia" ,Fox News Channel [US]
+http://as01.plinks-pile.su/22528/index.m3u8?token=eAE9mnX7WzaBq5
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="24004.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Nagy Britannia" ,HGTV [UK]
 http://as01.plinks-pile.su/24004/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="22564.png" tvg-rec="0" group-title="Nagy Britannia" ,HGTV [US]
@@ -9453,6 +9574,7 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 #EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png" group-title="Sportcsatornák",HR⚜️ SPORTSKA TV HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
+
 
 
 
