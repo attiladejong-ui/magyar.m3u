@@ -4718,6 +4718,9 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72952
 #EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HD" tvg-logo="http://iptvbeka.net/switzerland/tv-srf-1.png" group-title="9.Svájc",CH: SRF 1 HD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/887
 
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA1 HD" tvg-logo="http://iptvbeka.net/switzerland/rsila1.png" group-title="9.Svájc",CH: RSI LA1 HD
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2061
+
 #EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 1 FHD" tvg-logo="" group-title="9.Svájc",CH: Blue Sport 1 FHD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/3163
 
@@ -4735,7 +4738,8 @@ http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2078
 
 #EXTINF:-1 tvg-id="" tvg-name="CH: TeleBärn" tvg-logo="http://iptvbeka.net/switzerland/TeleBärn_Logo.png" group-title="9.Svájc",CH: TeleBärn
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2076
-
+#EXTINF:-1 tvg-id="" tvg-name="CH: Telebasel" tvg-logo="http://iptvbeka.net/switzerland/tb_fav_icon.png" group-title="9.Svájc",CH: Telebasel
+http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2088
 
 #EXTM3U
 #EXTINF:-1 group-title="Csehország",ct1 HD
@@ -5879,6 +5883,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/30386
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 #EXTINF:-1 group-title="Romania",PopasTV
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
+
 
 
 
