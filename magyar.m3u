@@ -3502,32 +3502,18 @@ http://canal-pro.xyz:8080/981882656tv/5uzkze/12382
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12383
 #EXTINF:-1 tvg-id="M+ Series HD" tvg-name="ES:MOVISTAR SERIE HD" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="6.Spanyolország",ES:MOVISTAR SERIE HD
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12384
-#EXTINF:0 CUID="773" number="1197" tvg-id="epg1:La 1 HD ES" tvg-name="epg1:La 1 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/La 1 HD ES.png" group-title="Испания",La 1 HD ES
+#EXTINF:0 CUID="773" number="1197" tvg-id="epg1:La 1 HD ES" tvg-name="epg1:La 1 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/La 1 HD ES.png" group-title="6.Spanyolország",La 1 HD ES
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiI3NzMiLCJ0IjoiOGM4NDYyYWUyZjU0NGZlY2E0MDk3OWRkZGRiMzZmNGQiLCJkIjoiNDM1NTI1IiwiciI6IjQ0NzQyMiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NzY1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1056" number="1198" tvg-id="epg1:La 2 HD ES" tvg-name="epg1:La 2 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/La 2 HD ES.png" group-title="Испания",La 2 HD ES
+
+#EXTINF:0 CUID="1056" number="1198" tvg-id="epg1:La 2 HD ES" tvg-name="epg1:La 2 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/La 2 HD ES.png" group-title="6.Spanyolország",La 2 HD ES
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDU2IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODQ3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1057" number="1199" tvg-id="epg1:24 HORAS ES" tvg-name="epg1:24 HORAS ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/24 HORAS ES.png" group-title="Испания",24 HORAS ES
+
+#EXTINF:0 CUID="1057" number="1199" tvg-id="epg1:24 HORAS ES" tvg-name="epg1:24 HORAS ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/24 HORAS ES.png" group-title="6.Spanyolország",24 HORAS ES
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDU3IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODM1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1060" number="1200" tvg-id="epg1:Antena 3 HD ES" tvg-name="epg1:Antena 3 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Antena 3 HD ES.png" group-title="Испания",Antena 3 HD ES
+
+#EXTINF:0 CUID="1060" number="1200" tvg-id="epg1:Antena 3 HD ES" tvg-name="epg1:Antena 3 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Antena 3 HD ES.png" group-title="6.Spanyolország",Antena 3 HD ES
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDYwIiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTkwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1062" number="1201" tvg-id="epg1:Boing ES" tvg-name="epg1:Boing ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Boing ES.png" group-title="Испания",Boing ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDYyIiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTg0L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1463" number="1202" tvg-id="epg1:Nova HD ES" tvg-name="epg1:Nova HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Nova HD ES.png" group-title="Испания",Nova HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxNDYzIiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODQ4L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1505" number="1203" tvg-id="epg1:Calle 13 HD ES" tvg-name="epg1:Calle 13 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Calle 13 HD ES.png" group-title="Испания",Calle 13 HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxNTA1IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODUzL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1989" number="1204" tvg-id="epg1:laSexta HD ES" tvg-name="epg1:laSexta HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/laSexta HD ES.png" group-title="Испания",laSexta HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxOTg5IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODQ5L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1992" number="1205" tvg-id="epg1:Cuatro HD ES" tvg-name="epg1:Cuatro HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Cuatro HD ES.png" group-title="Испания",Cuatro HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxOTkyIiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODQ2L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="1995" number="1206" tvg-id="epg1:Telecinco HD ES" tvg-name="epg1:Telecinco HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Telecinco HD ES.png" group-title="Испания",Telecinco HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxOTk1IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODU0L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="2029" number="1207" tvg-id="epg1:Movistar Deportes 1 HD ES" tvg-name="epg1:Movistar Deportes 1 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Movistar Deportes 1 HD ES.png" group-title="Испания",Movistar Deportes 1 HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIyMDI5IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODM2L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="2076" number="1208" tvg-id="epg1:Caza y Pesca HD ES" tvg-name="epg1:Caza y Pesca HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Caza y Pesca HD ES.png" group-title="Испания",Caza y Pesca HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIyMDc2IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODM5L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0 CUID="2077" number="1209" tvg-id="epg1:Be Mad HD ES" tvg-name="epg1:Be Mad HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Be Mad HD ES.png" group-title="Испания",Be Mad HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIyMDc3IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MTc5L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
 
 
 
@@ -3677,8 +3663,6 @@ http://canal-pro.xyz:8080/981882656tv/5uzkze/12471
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12476
 #EXTINF:-1 tvg-id="ETB Sat" tvg-name="ES:ETB Basque" tvg-logo="https://i.ibb.co/2dc5DnM/ETB-Basque-2022-logo-svg.png" group-title="6.Spanyolország",ES:ETB Basque
 http://canal-pro.xyz:8080/981882656tv/5uzkze/12485
-
-
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="6.Spanyolország",ES: ANTENA 3
 http://espeasaea.top:8080/es5731734206772002/422ea0555bdd/3
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="6.Spanyolország",ES: LA SEXTA
@@ -10886,6 +10870,7 @@ http://d2f47069.ucomist.net/iptv/6WFHVSFHWADVCX/12102/index.m3u8
 
 #EXTINF:0 tvg-rec="0" group-title="Skandinávia",TV10 HD SE
 http://d2f47069.ucomist.net/iptv/6WFHVSFHWADVCX/12103/index.m3u8
+
 
 
 
