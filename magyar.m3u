@@ -8,7 +8,7 @@
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 
 # Főcsatornák
-#EXTINF:0 group-title="1. Magyarország",TV2 FHD
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2" group-title="1. Magyarország",TV2
 http://pl.online24.pm/play/775/E9498A9C37D1459/video.m3u8
 #EXTINF:-1 group-title="1. Magyarország",TV2 FHD
 #EXTVLCOPT:network-caching=1000
@@ -11931,6 +11931,7 @@ http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2927.m3u8
 http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2942.m3u8
 #EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="USA: MLB Network" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mlb-network-us.png" group-title="USA",USA: MLB Network
 http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2921.m3u8
+
 
 
 
