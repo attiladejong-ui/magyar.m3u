@@ -10142,8 +10142,7 @@ http://as01.plinks-pile.su/23409/index.m3u8?token=eAE9mnX7WzaBq5
 http://as01.plinks-pile.su/23407/index.m3u8?token=eAE9mnX7WzaBq5
 
 
-#EXTINF:-1 tvg-logo="5424.png" tvg-rec="0" group-title="Törökország" ,A2 [TR]
-http://as01.plinks-pile.su/5424/index.m3u8?token=eAE9mnX7WzaBq5
+
 #EXTINF:-1 tvg-logo="2342.png" tvg-rec="0" group-title="Törökország" ,A Haber [TR]
 http://as01.plinks-pile.su/2342/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="17562.png" tvg-rec="0" group-title="Törökország" ,A HABER HD
@@ -11592,6 +11591,7 @@ http://ragnarokserve.com:847/pG86sj20Uu/IQxpAoyoxp/2294
 
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA-S: TSN 5" tvg-logo="http://turbostarz.xyz/logos/tv-master/countries/canada/tsn-5-hd-ca.png" group-title="Kanada",CA-S: TSN 5
 http://ragnarokserve.com:847/pG86sj20Uu/IQxpAoyoxp/2295
+
 
 
 
