@@ -678,8 +678,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&
 https://kate-1-o.transitto.online/hls/xqx2ptfa75okjiqbtfks57a74guf52xey42lfp3bnrighgqg4rsyqbortdqq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",Hunting.Season.2025
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmzpgjnv4cmnwhbwa/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Az elnök különgépe-Terror a fedélzeten  (2025)
-https://box-1038-f2.vmeas.cloud/hls/xqx2oyw675okjiqbtfis5p2a4wvb3hhjvohmbktlyury7mtmnn6siorwuiiq/index-v1-a1.m3u8
+
 
 #EXTINF:-1 group-title="2. Filmek",Nürnberg- Nuremberg.2025
 https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5xjfq66le7sa56wq/index-v1-a1.m3u8
@@ -687,7 +686,7 @@ https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5
 # Sci Fi
 #EXTINF:-1 group-title="2. Filmek",[Sci Fi] Tron Ares (2025)
 #EXTGRP:Sci Fi
-https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbifxumrzrtkkwdxjua/index-v1-a1.m3u8
+https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbiemvh3bo3mixwifra/index-v1-a1.m3u8
 
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
@@ -10465,6 +10464,7 @@ http://as01.plinks-pile.su/19227/index.m3u8?token=eAE9mnX7WzaBq5
 http://as01.plinks-pile.su/19229/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="19230.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Baltikum" ,Kino 7 [Baltic]
 http://as01.plinks-pile.su/19230/index.m3u8?token=eAE9mnX7WzaBq5
+
 
 
 
