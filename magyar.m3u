@@ -692,8 +692,13 @@ https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5
 https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbiemvh3bo3mixwifra/index-v1-a1.m3u8
 #EXTM3U
 
-#EXTINF:-1 group-title="2. Filmek",Jatadhara
-https://up-1164-de.vmwesa.online/hls/xqx2o5vp75okjiqbtfks5jitxnyaho6g53dp22mcd3vc65d4lyks64dz4q7q/index-v1-a1.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Magyar",LANGUAGE="hu",AUTOSELECT=YES,DEFAULT=YES,URI="https://srt.staticmoly.me/srt/02135/lgj2eb835ujb_Hungarian.vtt"
+
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,SUBTITLES="subs"
+https://up-1164-de.vmwesa.online/hls/xqx2o5vp75okjiqbtfks5jitxnyaho6g53dp22mcd3vc65d4lykyqttz4q7q/index-v1-a1.m3u8
 
 
 
@@ -10703,6 +10708,7 @@ http://as01.plinks-pile.su/19227/index.m3u8?token=eAE9mnX7WzaBq5
 http://as01.plinks-pile.su/19229/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="19230.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Baltikum" ,Kino 7 [Baltic]
 http://as01.plinks-pile.su/19230/index.m3u8?token=eAE9mnX7WzaBq5
+
 
 
 
