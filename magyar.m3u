@@ -9680,8 +9680,7 @@ http://as01.plinks-pile.su/21971/index.m3u8?token=eAE9mnX7WzaBq5
 http://as01.plinks-pile.su/21972/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="21622.png" tvg-rec="0" group-title="IS Israel" ,ONE DOCO HD [IL]
 http://as01.plinks-pile.su/21622/index.m3u8?token=eAE9mnX7WzaBq5
-#EXTINF:-1 tvg-logo="21621.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="IS Israel" ,Sport EDGE HD [IL]
-http://as01.plinks-pile.su/21621/index.m3u8?token=eAE9mnX7WzaBq5
+
 #EXTINF:-1 tvg-logo="21522.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="IS Israel" ,Sport 1 HD [IL]
 http://as01.plinks-pile.su/21522/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="21521.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="IS Israel" ,Sport 2 HD [IL]
@@ -9800,6 +9799,7 @@ http://as01.plinks-pile.su/21609/index.m3u8?token=eAE9mnX7WzaBq5
 http://as01.plinks-pile.su/21613/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="21648.png" tvg-rec="0" group-title="IS Israel" ,Holiday channel [IL]
 http://as01.plinks-pile.su/21648/index.m3u8?token=eAE9mnX7WzaBq5
+
 
 
 
