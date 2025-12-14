@@ -681,8 +681,8 @@ https://ved-do43d-c.transitto.online/hls/xqx2pind75okjiqbtfks562gxxfeaei3gqkyyl2
 https://kate-1-o.transitto.online/hls/xqx2ptfa75okjiqbtfks57a74guf52xey42lfp3bnrighgqg4rsyqbortdqq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",Hunting.Season.2025
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlmzpgjnv4cmnwhbwa/index-v1-a1.m3u8
-
-
+#EXTINF:-1 group-title="2. Filmek",A Tengeralattjáro-Das Boot (1981)
+https://box-1082-p.vmeas.cloud/hls/xqx2onol75okjiqbtfic5oaxw5cknrrb4qoubhpqtgdt7d667ftqz72sqbza/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",Nürnberg- Nuremberg.2025
 https://box-1103-o.vmeas.cloud/hls/xqx2olri75okjiqbtfjc5mccu4zg2ax3cvl6gcxkfnzv5xjfq66le7sa56wq/index-v1-a1.m3u8
 
@@ -10467,6 +10467,7 @@ http://as01.plinks-pile.su/19227/index.m3u8?token=eAE9mnX7WzaBq5
 http://as01.plinks-pile.su/19229/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:-1 tvg-logo="19230.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="Baltikum" ,Kino 7 [Baltic]
 http://as01.plinks-pile.su/19230/index.m3u8?token=eAE9mnX7WzaBq5
+
 
 
 
