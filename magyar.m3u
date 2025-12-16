@@ -684,9 +684,9 @@ https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krln
 https://box-1082-p.vmeas.cloud/hls/xqx2og3i75okjiqbtfhs54anunln7acrassjvfuuzjhr4rvkl54wuljfknwq/index-v1-a1.m3u8
 
 # Sci Fi
-#EXTINF:-1 group-title="2. Filmek",[Sci Fi] Tron Ares (2025)
-#EXTGRP:Sci Fi
-https://box-1100-r.vmeas.cloud/hls/xqx2p4kt75okjiqbtfhc5m2nw7covxgq62th5xe4wxbiemvh3bo3mixwifra/index-v1-a1.m3u8
+#EXTINF:-1 group-title="2. Filmek",A Zsémbes - Egy love story (2024)
+#EXTGRP:Vígjáték
+https://vef-doc-2ccd.transitto.online/hls/xqx2o57675okjiqbtflc5iawwchdoae26w5jgeun5iyqjsw4v5tdpsnnz2oa/index-v1-a1.m3u8
 #EXTM3U
 
 #EXTM3U
@@ -11932,6 +11932,7 @@ http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2927.m3u8
 http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2942.m3u8
 #EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="USA: MLB Network" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mlb-network-us.png" group-title="USA",USA: MLB Network
 http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2921.m3u8
+
 
 
 
