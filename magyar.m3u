@@ -8238,6 +8238,21 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 #EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png" group-title="Sportcsatornák",HR⚜️ SPORTSKA TV HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
+#EXTINF:-1 group-title="-",sky sport 24
+http://167.235.89.164:8000/play/skysport24/index.m3u8
+#EXTINF:-1 group-title="  Sportcsatornák    ",sky sport arena
+http://167.235.89.164:8000/play/skysportarena/index.m3u8
+#EXTINF:-1 group-title=" Sportcsatornák    ",sky sport calcio
+http://167.235.89.164:8000/play/skysportcalcio/index.m3u8
+#EXTINF:-1 group-title=" Sportcsatornák   ",sky sport uno
+http://167.235.89.164:8000/play/skysportuno/index.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="20475.png" tvg-rec="1" catchup-days="6" catchup-type="flussonic" group-title="IS Israel" ,KAN 11 HD [IL]
@@ -10670,6 +10685,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
