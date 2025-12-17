@@ -707,9 +707,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&ext
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2972
 
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/PULS24.png" group-title="4. Ausztria",PULS 24 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2380&extension=ts
-
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SAT1GOLD.png" group-title="4. Ausztria",SAT.1 GOLD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393748&extension=ts
@@ -10581,6 +10578,7 @@ http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2927.m3u8
 http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2942.m3u8
 #EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="USA: MLB Network" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mlb-network-us.png" group-title="USA",USA: MLB Network
 http://ragnarokserve.com:847/live/pG86sj20Uu/IQxpAoyoxp/2921.m3u8
+
 
 
 
