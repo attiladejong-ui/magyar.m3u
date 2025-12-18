@@ -678,6 +678,8 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&
 
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlnbilpi74djq736aa/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",fallout 4 rész
+https://kate-1-o.transitto.online/hls/xqx2pclw7zokjiqbtfms5m2fxylpf5mzsvqgjvlaeeajjaapjy264cuaji7q/index-v1-a1.m3u8
+#EXTINF:-1 group-title="2. Filmek",fallout 5 rész
 
 
 
@@ -10685,6 +10687,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
