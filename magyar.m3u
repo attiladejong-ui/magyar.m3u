@@ -677,8 +677,8 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&
 #EXTINF:-1 group-title="2. Filmek",Hunting.Season.2025
 
 https://box-1097-y.vmeas.cloud/hls/xqx2p5ji75okjiqbtfjc5mcawp77eksaxzjbezjg6krlnbilpi74djq736aa/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Kolovrat orosz feliratos film
-https://up-1164-de.vmwesa.online/hls/xqx2p73e7zokjiqbtfmc562dwmgw5ygedo3cq3xg4dgqmtivod32kfmov26a/index-v1-a1.m3u8
+#EXTINF:-1 group-title="2. Filmek",fallout 4 rész
+
 
 
 
@@ -8238,7 +8238,7 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 #EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png" group-title="Sportcsatornák",HR⚜️ SPORTSKA TV HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
-#EXTINF:-1 group-title="-",sky sport 24
+#EXTINF:-1 group-title="",  Sportcsatornáksky sport 24
 http://167.235.89.164:8000/play/skysport24/index.m3u8
 #EXTINF:-1 group-title="  Sportcsatornák    ",sky sport arena
 http://167.235.89.164:8000/play/skysportarena/index.m3u8
@@ -10906,6 +10906,7 @@ http://pl.online24.pm/play/8022/5FD91ED329C33F6/video.m3u8
 #EXTINF:0 tvg-name="Dit is Helmond", Dit is Helmond
 "group-title=Hollandia"
 http://pl.online24.pm/play/8023/5FD91ED329C33F6/video.m3u8
+
 
 
 
