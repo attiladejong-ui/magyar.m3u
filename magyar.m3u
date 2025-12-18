@@ -8242,11 +8242,10 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
 #EXTINF:-1 group-title="",  Sportcsatornáksky sport 24
 http://167.235.89.164:8000/play/skysport24/index.m3u8
-#EXTINF:-1 group-title="  Sportcsatornák    ",sky sport arena
-http://167.235.89.164:8000/play/skysportarena/index.m3u8
+
 #EXTINF:-1 group-title=" Sportcsatornák    ",sky sport calcio
 http://167.235.89.164:8000/play/skysportcalcio/index.m3u8
-#EXTINF:-1 group-title=" Sportcsatornák   ",sky sport uno
+#EXTINF:-1  tvg-id="" tvg-name=" SKYSPORT UNO TV HD"     " group-title="Sportcsatornák"  ,sky sport uno
 http://167.235.89.164:8000/play/skysportuno/index.m3u8
 
 
@@ -10687,6 +10686,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
