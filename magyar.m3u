@@ -681,7 +681,8 @@ https://box-1037-f2.vmeas.cloud/hls/xqx2pwg775okjiqbtfis5lse5hfpscgouldgmt66ktus
 https://box-1082-p.vmeas.cloud/hls/xqx2onol75okjiqbtfic5oaxw5cknrrb4qoubhpqtgdt7g5rcoxbhzrlpxkq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 1 rész
 https://box-1190-y.vmwesa.online/hls/xqx2paun75okjiqbtfls5li54ild6fbea4ky22evakihdt42qdcop65ihi6a/index-v1-a1.m3u8
-
+#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 2 rész
+https://box-1029-f.vmeas.cloud/hls/xqx2pamn75okjiqbtfls57itutzwtlsarpbg4fuyhkausho7nkluuo6frn5a/index-v1-a1.m3u8
 
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
@@ -10684,6 +10685,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
