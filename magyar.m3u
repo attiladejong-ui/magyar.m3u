@@ -680,11 +680,11 @@ https://box-1037-f2.vmeas.cloud/hls/xqx2pwg775okjiqbtfis5lse5hfpscgouldgmt66ktus
 #EXTINF:-1 group-title="2. Filmek",A TENGERALATTJÁRÓ
 https://box-1082-p.vmeas.cloud/hls/xqx2onol75okjiqbtfic5oaxw5cknrrb4qoubhpqtgdt7g5rcoxbhzrlpxkq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek",A háború fenevada
-https://www.dropbox.com/home?preview=A+h%C3%A1bor%C3%BA+fenevada+%E2%80%93+HD+MOZI+-+online+filmek%2C+sorozatok+kiv%C3%A1l%C3%B3+min%C5%91s%C3%A9gben.mp4
-
 #EXTM3U
-#EXTINF:-1,HLS Stream – Háború fenevada (Dropbox)
-https://previews.dropbox.com/p/hls_playlist/AC39JB916cPn4Vlzug7fSSMY25LL0OnP4…/p.m3u8
+#EXTINF:-1 group-title="Filmek",A háború fenevada (Dropbox)
+https://uc0aa7e841817b091c46c66a288e.dl.dropboxusercontent.com/cd/0/get/C3VH2oQHCWWSlF9b0yK_4C7_RqxQuIqwilIUs0eMjvcmKJRVh1T-pZpk7eLphg9el2Ygk7_uzIHAKcmgS_LiytSnevk4fkZABPv5xVc2JM1Kek8JdKTCwACdW4iQ--O6pUMqrIjoB2waFDeDGrpJM5MOHn1n7kHVfHpUTRMjd_44Cg/file
+
+
 
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
@@ -10687,6 +10687,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
