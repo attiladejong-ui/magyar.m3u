@@ -657,19 +657,8 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&
 
 
 
-#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 1 rész
-https://box-1190-y.vmwesa.online/hls/xqx2paun75okjiqbtfls5li54ild6fbea4ky22evakihdt42qdcop65ihi6a/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 2 rész
-https://box-1029-f.vmeas.cloud/hls/xqx2pamn75okjiqbtfls57itutzwtlsarpbg4fuyhkausho7nkluuo6frn5a/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 3 rész
-https://box-1101-t.vmeas.cloud/hls/xqx2ptun75okjiqbtfls5kao5detlclky3ksdo47d5rbktcvttvsayuuuczq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 4 rész
-https://box-1192-e.vmwesa.online/hls/xqx2pben75okjiqbtfls5pq54f6zhoijygo3vecihxrdvozfz7uv5njatn2q/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 5 rész
-https://box-1182-ds.vmwesa.online/hls/xqx2pc4n75okjiqbtfls5kayxhld2uwtowbc7wdmjgrr6oegjeymhotcmclq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Árnyak Városa misztikus spanyol sorozat 6 rész
-https://box-1337-r.vmwes.cloud/hls/xqx2p44n75okjiqbtfls54cgwo6zjqu2p67orguxbdau7k4uoko5rnkxwwia/index-v1-a1.m3u8
-
+#EXTINF:-1 group-title="2. Filmek",Avatar 3 -Túz és hamu
+https://upload-transit-eu-1u.vmrange.lat/hls/xqx2objx7zokjiqbtfoc5k2cuc33ivgbdoaj5tpdb4hb67ebfz6inhdc5b6a/index-v1-a1.m3u8
 
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
@@ -10672,6 +10661,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
