@@ -649,8 +649,10 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",CMA Country Christmas2025
 https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FcCxJ3au0zRsUHbgA_lTsCmTXRrt8mfp99zCOp29IPuoytGnlobx9b1_kp31O0o6t2nIsuoWZAyvc1A3AKI_ortcoYxzFw9jFXDDPlPZPLqm2dlq.6QiqIcPYGnSW_GRUEolrBaG.7WV6o0lv2UrCeCE5O9Bj7g1Q6wigaCAjOZUVGLWmrDI7NR0H3Of40sqR_iP1GYyW5MirtZQOOak4e4kIXpBhbHDpFMD5hjOPfaH.WWPL.UL05IxXUaiM2h49mrtqosAVeNkbdcTu4ttiHuissiCph9FGJo2GxJdeyVv3cSEnPcLzqrii4DJCC8WxS3nDDeNoe32dD.HwafRxtBAQAA/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Andre Rieu: Christmas in London
+https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FcCxJ3au0zRsUHbgA_lTsCmTXRrt8mfp99zCOp29IPuoytGnlobx9b1_kp31O0o6t2nIsuoWZAyvc1A3AKI_ortcoYxzFw9jFXDDPlPZPLqm2dlq.6QiqIcPYGnSW_GRUEolrBaG.7WV6o0lv2UrCeCE5O9Bj7g1Q6wigaCAjOZUVGLWmrDI7NR0H3Of40sqR_iP1GYyW5MirtZQOOak4e4kIXpBhbHDpFMD5hjOPfaH.WWPL.UL05IxXUaiM2h49mrtqosAVeNkbdcTu4ttiHuissiCph9FGJo2GxJdeyVv3cSEnPcLzqrii4DJCC8WxS3nDDeNoe32dD.HwafRxtBAQAA/9e523ae15b61dc766f5c818726881ecf/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony", André Rieu's 2024 Christmas Concert: Gold and Silver 2024
+ https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw2Oy3KDIAAAf4mHJrFHxpKEiSQaHpEbCpYaaD0404Svr.fdndlqP4GpQn7aT27c4Z2zEB8sKkcAkHWV_7jXCneaZSGCvsruVxw5t9CUPlLiT_HcJfZUiuhO0F6AkPkscZfjPCiGpYagRfRHxgYKTN6jLqWr.3IAL.pjeN.za0a9fPuaED6btcVkGRIsFGLZbtwlqHntLqOiN59WrkQonGKqgcH2sky9PCNxIttLQIZyayMVFqxzm9mfeq9bEG73ZzjZTMN4DCuXVTLxq2yhKy.YW6UlkDg.9aeiHY6Fxfw6aNj4zWkQK_hjufazWSQkqHnwnUDMGP0KDrHaprC4DKp_n3MdaEEBAAA-/1DgwPCJ2Tct51MRieFLg1mn2xMXEPacx9x/index.m3u8     
 
 
 
@@ -10686,6 +10688,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
