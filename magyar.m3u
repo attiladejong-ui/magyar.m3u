@@ -641,18 +641,13 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 # Karácsony
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Nagykarácsony 2021
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3OWXaCMBQA0C2RYLD0U2lwIraZgPyRF1uUBPE41ay.vSu4OMkcuDewKZnNAZPDd.dcNsuIy3ObwfxdrxZ0h3i0qd61dX5R0i1ZyhobyK09VUgU_bqjLLKGJczTUx36h_IOAc4F.wAsk_wi_CLVzQdxJTztMj9C9LWJnohhusvymu5Lcz6E6tlh0plic4RgChgnZj2_14OKUtHV16jiDk2fgroo0DTy8pmqFZcV7getzUZI9Wgbg1SgzHm3rkJ_7AL8VgN__e9G5_XrENAMtNtqzG.i5oppfRbFDwHpp70ihaWG8uBf7bg566iv20Rf_gBRDe99IQEAAA--/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&extension=ts
  #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",  ┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",CMA Country Christmas2025
 https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FcCxJ3au0zRsUHbgA_lTsCmTXRrt8mfp99zCOp29IPuoytGnlobx9b1_kp31O0o6t2nIsuoWZAyvc1A3AKI_ortcoYxzFw9jFXDDPlPZPLqm2dlq.6QiqIcPYGnSW_GRUEolrBaG.7WV6o0lv2UrCeCE5O9Bj7g1Q6wigaCAjOZUVGLWmrDI7NR0H3Of40sqR_iP1GYyW5MirtZQOOak4e4kIXpBhbHDpFMD5hjOPfaH.WWPL.UL05IxXUaiM2h49mrtqosAVeNkbdcTu4ttiHuissiCph9FGJo2GxJdeyVv3cSEnPcLzqrii4DJCC8WxS3nDDeNoe32dD.HwafRxtBAQAA/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Andre Rieu: Christmas in London
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FcCxJ3au0zRsUHbgA_lTsCmTXRrt8mfp99zCOp29IPuoytGnlobx9b1_kp31O0o6t2nIsuoWZAyvc1A3AKI_ortcoYxzFw9jFXDDPlPZPLqm2dlq.6QiqIcPYGnSW_GRUEolrBaG.7WV6o0lv2UrCeCE5O9Bj7g1Q6wigaCAjOZUVGLWmrDI7NR0H3Of40sqR_iP1GYyW5MirtZQOOak4e4kIXpBhbHDpFMD5hjOPfaH.WWPL.UL05IxXUaiM2h49mrtqosAVeNkbdcTu4ttiHuissiCph9FGJo2GxJdeyVv3cSEnPcLzqrii4DJCC8WxS3nDDeNoe32dD.HwafRxtBAQAA/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony", André Rieu's 2024 Christmas Concert: Gold and Silver 2024
- https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw2Oy3KDIAAAf4mHJrFHxpKEiSQaHpEbCpYaaD0404Svr.fdndlqP4GpQn7aT27c4Z2zEB8sKkcAkHWV_7jXCneaZSGCvsruVxw5t9CUPlLiT_HcJfZUiuhO0F6AkPkscZfjPCiGpYagRfRHxgYKTN6jLqWr.3IAL.pjeN.za0a9fPuaED6btcVkGRIsFGLZbtwlqHntLqOiN59WrkQonGKqgcH2sky9PCNxIttLQIZyayMVFqxzm9mfeq9bEG73ZzjZTMN4DCuXVTLxq2yhKy.YW6UlkDg.9aeiHY6Fxfw6aNj4zWkQK_hjufazWSQkqHnwnUDMGP0KDrHaprC4DKp_n3MdaEEBAAA-/1DgwPCJ2Tct51MRieFLg1mn2xMXEPacx9x/index.m3u8     
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Michael Buble's Christmas in the City
 https://tmstr5.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3I3VqDIAAA0FcC1JbdxQSnG64hP8odiMsvsdpPbePp61yeIc_zARzT0T6lq9FmTzBboVWORuCP1ln70qP6oecqNiArTOR6B.uCk.fkEOvJyPupn69vbYJbR6gZRAX5nDNPfam1eQiiMlnCrkW0EPpbcepvI2k6GelaBn9ni4Ri8wpkyQ8.VplIuGJUtVK8n_X68hg1FwxdiV2gNuDrbBK8k.WcNhGHhuKMdWHTEooHMO0VpFvWTZX.qE.O9NCAINxnjxwZYCPo5CX_1QX.P_OzA54oYFCjwr6XWdgimNjF3Jie7BBCNCTsOalSpcjdoHDWhVoYgUCV9DLOV.06PDtoOilA_gesCcFwQQEAAA--/ea18a1816b821e1ba4ee5d4a76b0b7cf/index.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Josh Groban & Friends: Home for the Holidays
@@ -665,30 +660,14 @@ https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB2XKDIBQA0F8KqFn6VtuYNEYyA
 # ===== FŐMENÜ: FILMEK =====
 
 
-#EXTINF:-1 group-title="2. Filmek",Magyar Rapszódia 
-https://tmstr4.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3NW3KCMBQA0C0FQlT6JwOKvNSY3JD85UHHFojMaIuw.vZs4GAcb7qQOKMJjux2t0WaGBIahPWn2xL7QUdykWNMXGbfNG0qg56Buj1_BbhZe8C2nRrtp5Nq4VKt2Xzr6QgpzBT4KoQbb0JVph1.NKOoy15ll9PMsKKXHibVo7fIJy1DMndHYFchVxnce7YmINnhqXGycdyGzu__n9Oi0qKS_AW1h.jax_OZP4j7eoHJG1wzvvw_WLWHwWRNrkLANBy8yWlZ4mYU3y5Sw2Opj1kkR5LU6R5xFD.ugVpKDMSud83R5DUvKpuCtMsOw1gkgh8azYoNHfjC.KB1oI5nVpwUHqhbUfwHShgePEEBAAA-/d94bb88442c55de4e0c016dbd37648f3/index.m3u8
-#EXTINF:-1 group-title="2. Filmek",Depeche Mode-M
-https://tmstr5.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FdSUKu9a8e_amEnF1C4Az8bIjS3cdV8.j0n2cW7w26f4OgW7yHAMcCtjfaBxmBaSMyH4PCo_BOzkCZiAAfN50ydfzEvZuLPCy3s_bIBMgiseuR3yfwK2YR0TZ3mtmDMJjSFQfbhb4tOs2hGV5VZqIt4.2byxQY7ChTHMqyEKaZMsHyWqLqy0muW0ow4j_WgLHN5ogMIOY8T0tirKWCixfg0KTRVb0v6PqwmtWcIcqmcejNEoprTP1qOJQ0UJmW.yt73XxjWH1FdjFNM8WXt6gmpki4mGyXl06IKgoiwlKTiLrdKC3GMuD_O3SMUXdri2uXPzuWZ4qe32oLDP4u0tVNBAQAA/c9acb2eb24f9f62c04b624479fbafc6f/index.m3u8
-#EXTINF:-1 group-title="2. Filmek",Taylor Swift: The Eras Tour - The Final Show
-https://tmstr5.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FdKhTb3Lv.jlUngg.SOwB0nkbyoHfXp9xyLrfu1X9gidHRHhFI7DIN7xElyRNiZ07e.LxmdL7GRTrnSTdcINqrcu41opgqdq8AwbwjuoWp6YRMbsxxgGUFqIeWEtRo_D5VGDGjBk36zsKK2PGHTME.FNj_JeeUS_gx_N_rJghXkJmt6ayvygjwdpdfrENjUBudFTS.gAJnnORYz9qZMCUyMQEO9ubtdPauPOVDdTsvMJy_b2vsu.FWLcb3Gfu8i8oH6hbl0kfNZEOUirWRUFywM82Xt1PumSnzlBdn6ne7sUPX_CNDLHSEBAAA-/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-#EXTINF:-1 group-title="2. Filmek",Egri Csillagok 1968
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAxXO3XqCIBgA4FtChNIdNkOrQRPlMzlT6RdorrlMr37P3it4u4g0tDHL07KjmJxIGyzNMYoCTKhBEY7eYO5IU8V9OQ1FxfoM0pGAij0v5SSApTxxvl2Pr259DvhaPPJAiBYHA0e9O77HsvX6q7mxNAdHxTTsjAJcsg0tgtVYVJTIA.Qi63_MvQu1DfIP_PossLPtAQSvAMlKKpiNahBog53SifYmuMw5JkSn9qGu0f.vUl7fNZhDG8p6h6jsFHnumbhWvmfcu4W09ViGWw1wJp2XXDtgRcYeNYLFPmW5sZtnbiVop2sOrGrDyy9H1Kq1ToQdQCQcidvqu7zB5nhXU5PBVs8o_gPl_myRQQEAAA--/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
-#EXTINF:-1 group-title="2. Filmek",Magyarok 1978
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB2VKDMBQA0F9KQivgY20AsaQmIdt9g2AHaaYiZWT5es.J8C2OY._jiNx8E5PkpSVt1HTR8Stp_C16lcpHXKUaMJt5yEpNE1LVml3IunsdiDdw4PhnBwqjMBAAVZvcnlOVwx.3_eBMNwk6Oo2zRQ2skAQPiqrJK7pIhB816S4qL586MFvf.7whywZWvNcEoWbnmJF1EG_Jpg3fJEpPMn9O8l6eP0gfnJqDUL0VaHRQwG.tZnQ13XZV6OjMbB0B6ky5.OJ0VnaslNHftYKRqeUgbNlX544DXTdNxlzs5cKy_iFy1gCG0NFl6s7uKO.h9FYXrUmjVvP1gmBotPj0mT6pGqX_DTWyp0EBAAA-/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-#EXTINF:-1 group-title="2. Filmek",Az aranyember 1962
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3I25KCIAAA0F_iolvuo5tgzkADAgVvoE2ut7VyzPz67eU8HJRU0Q7tdv5a4VDjJAYw2cfAX0OoIPLxN1f9VurnWwDZVCBp9OBiSXR8NaT3tBFWMyQz_bBjAZXuhYNNalpD5DgdharLMN7WQIsx5MXMVNFYBO.mJV2V2VW2_Mfgj0QatRnL8vqhtjQTmnjeHR.MOifRC5ictxZMlNN1EO_5XtLCyFzmHBTjObOY0Vnxrb.fDvV8OmQR6yamIIskdms99F9lXm0hi9_GkNSc.VRu5vNikzgd3MUu3NRLGNM0IL4wNP8y8BcxKIHtbsuJEuux8xw9V6.JcjqBsnWQXcRLK5D8Axyfo4BBAQAA/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8 
-#EXTINF:-1 group-title="2. Filmek", 2x2 néha 5 1955
-https://tmstr5.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3NUXKCMBRA0S2FAIPpn1YjorwpEF5M_gJELQnojFbR1ZcF3HNZE5OgIa0JQsaa6JScQrOwNknipk0WlHyJ9Pw60C7QPnsYVBFQ_YQgg0rwH8Gze.G9LzdkqvCitLtP2OOoua9rAg_pEXTv3mYbB.aoD9ZBiccyaofpqHy2zjf4Z9H3BvlBEbarQt7b4bEuZE5m92okc_aXbYFn3jpmZnvuYZ9zDKtRUTmWV0xvK5HWocTVyvZg1HB.iwD6olYfMyJIvonnv696TQsJWA8cteNRQQgRww26lNPOtaHGZSRw.W5oplvX5foDLxSlh_HyzGn0qmSMlZt2OEyFTstvQZHrD2H_4H9laEEBAAA-/d806c3b80def8183f2c1c0e93e7fb11b/index.m3u8
 #EXTINF:-1 group-title="2. Filmek",Sorozatok-Fallout 2 évad 1 rész
 https://box-1181-pd.vmwesa.online/hls/xqx2ovdh7zokjiqbtfmc5l2ew2jwafizaxq6hj2epijv7idykqn3t45snwwq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="2. Filmek", Magasmentés 2022
 https://tmstr4.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3MUW6DIAAA0CsVmKzd35xoRwKtCKL8WTCjBR1T03Q9_fYO8IBD2A0HlA0Yo_EV4osDeLQoe4F4D_foje0ScIgjHTY8EMGGJ52k3meMCHIpzKJIOivYbmPnPkzgzN48klXqT5VYdMdVU8TZqPbBjmppQBn64KMtfN7c8tWFTYspnobZMBGiFIBC.__JtvyxMv.Ws19Z6ykv6K9D5doE.lnPKatBTgdygPVsoCKmtlWmmqN69E93VYrtePu1NNIUIopuDGkygFYmUiHUxty0AR7f7yykcw99JoK_it2B6tavXCetyrDYJzfi5jrRkfsfVsm2UyEBAAA-/8156aaacd49ad5a62d2167e99b6f17fc/index.m3u8
-#EXTINF:-1 group-title="2. Filmek", Mesterjátszma 2022
-https://tmstr3.thrumbleandjaxon.com/p3l/H4sIAAAAAAAAAw3Fy3KDIBQA0F_iYYx21yaQBCutqKDshGviKDouMjHj17dnc9I0dvjYEYzuR0jcMYXknuJDckeIep_SDxN47vl0KPfprcj7Wixfbd9A6eahsw2P2lFQrXlsL6puCTTAxSLPYf5halUkwXndbjqIqFg.iSZw7dlG5Gz_ly9Hg.2XIA17UIn42VTCWGIRcBXr0Wb9aE.a2wYam4EZYsNXZJikTovdcfnrCShFYFHVDUtuY9ewVz7yb8fUDBfc6iklxawXjfzb0.GZ7f5V0QGrfRCdtnnJYCtrkclK5OUUIlU.a2lgK.jKHQsloBp3SEV.ukXVWQt5hcWiwwlwYK1eJewo_QNGEOM5QQEAAA--/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
+
 #EXTINF:-1 group-title="2. Filmek", Futni mentem 2024
 https://tmstr2.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3I0W7CIBQA0F8CKtPubc24nbPUeEuh8lao2gzsGrfF4tfPt5Pje099vqGOrs4ZYe5lxc49O63pJnee0fwVy_mraXnQXaErMkqEgbUtyZqwHGoQ3HVHLtnqpsEvMkDygmutCuWmsUDxszRxFqbDbT8hNN3bzQo6ooLQw.df32Hmy5gGE7gV.ntv4v0U46E2UDYiFjKrtXvUYSDDVX6AHaKdrPhNFRsA3z3DMEtnIleMP3Q5plbYrTN3rshcarOUNpvTgV3S80j7NE6j2EOtGlXsZMqhIhgcjdQG2J1a3Coa8fgYr9ZceC1irxRU_4boebohAQAA/8156aaacd49ad5a62d2167e99b6f17fc/index.m3u8
-#EXTINF:-1 group-title="2. Filmek", Semmelweis 2024
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3M0XaCIBgA4FcCkdPYpaWRm7aA_ye8Y.ByYZ7WOlv69Nv3AB_lK.FF7P2HDyE.rSilQqx4EDFE1hP_3MuxctYtvVTrmO4LSORmLdJrNqxN4rYvH05bNyO0GuVp9vDIPQjllh33m8Hb0uX6CLSXQ7W3w0.TtQWea47ZMAHBvR6VbavAugteuqUoAqukW2oNU7qhpRtzvHJr0PhUv3RV.rFTfVMw7ON2fIsk594.sm6D0oBjBq9fnha8qQ7knSXi4DD7pOpoq1JVUYalpDpxplkhG7pjAIQacsfOiuZwVp.NxClevucG7mP3_4fjiWuKJY5qBBJ.LNhVzd8PvgZBauWzCFJ9ixyiXYLgE4pQgG-/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
+
 #EXTINF:-1 group-title="2. Filmek", Hadik 2023
 https://tmstr4.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3OyXaCMBQA0F_KIBW6RMlBkHCImXg7IipCpJwWJ76.Lu_ufrVtiNp11IZrQs9Higldo3PzQUPPUUi.T8NrVy_1E2xHYYlnibO.wBOuex7IW5RLO9HK.6tLxARbGE9sqpyZrEPRYIY5cwS2OeJ3ZxASW41Uyruj1Rh8u5eEleamN4VX1CGd1irr20S_QPNAqbnRUnNOEpLjOHNM.8ZAz1m2V5Klp1vLi5GDHMFzkw2lGh6NvayM0h1ffCw85IcED8L4wCFFgAIqUg3V565J.Cxt1ys62QODXWGzcf.eudjMDzFoBhZWFUKBI2LDr39vxWIwSfQrjHoWDH7k2N3LRFxhQdE_IVkdfkEBAAA-/ceb64c203f772a72ce6f369846db72cf/index.m3u8
 
@@ -10694,6 +10673,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
