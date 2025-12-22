@@ -641,6 +641,8 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 
 # Karácsony
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Nagykarácsony 2021
+https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3OWXaCMBQA0C2RYLD0U2lwIraZgPyRF1uUBPE41ay.vSu4OMkcuDewKZnNAZPDd.dcNsuIy3ObwfxdrxZ0h3i0qd61dX5R0i1ZyhobyK09VUgU_bqjLLKGJczTUx36h_IOAc4F.wAsk_wi_CLVzQdxJTztMj9C9LWJnohhusvymu5Lcz6E6tlh0plic4RgChgnZj2_14OKUtHV16jiDk2fgroo0DTy8pmqFZcV7getzUZI9Wgbg1SgzHm3rkJ_7AL8VgN__e9G5_XrENAMtNtqzG.i5oppfRbFDwHpp70ihaWG8uBf7bg566iv20Rf_gBRDe99IQEAAA--/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&extension=ts
  #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",  ┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 2 HD
@@ -665,6 +667,10 @@ https://tmstr5.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FdKhTb3Lv.jlUngg
 https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAxXO3XqCIBgA4FtChNIdNkOrQRPlMzlT6RdorrlMr37P3it4u4g0tDHL07KjmJxIGyzNMYoCTKhBEY7eYO5IU8V9OQ1FxfoM0pGAij0v5SSApTxxvl2Pr259DvhaPPJAiBYHA0e9O77HsvX6q7mxNAdHxTTsjAJcsg0tgtVYVJTIA.Qi63_MvQu1DfIP_PossLPtAQSvAMlKKpiNahBog53SifYmuMw5JkSn9qGu0f.vUl7fNZhDG8p6h6jsFHnumbhWvmfcu4W09ViGWw1wJp2XXDtgRcYeNYLFPmW5sZtnbiVop2sOrGrDyy9H1Kq1ToQdQCQcidvqu7zB5nhXU5PBVs8o_gPl_myRQQEAAA--/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
 #EXTINF:-1 group-title="2. Filmek",Magyarok 1978
 https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB2VKDMBQA0F9KQivgY20AsaQmIdt9g2AHaaYiZWT5es.J8C2OY._jiNx8E5PkpSVt1HTR8Stp_C16lcpHXKUaMJt5yEpNE1LVml3IunsdiDdw4PhnBwqjMBAAVZvcnlOVwx.3_eBMNwk6Oo2zRQ2skAQPiqrJK7pIhB816S4qL586MFvf.7whywZWvNcEoWbnmJF1EG_Jpg3fJEpPMn9O8l6eP0gfnJqDUL0VaHRQwG.tZnQ13XZV6OjMbB0B6ky5.OJ0VnaslNHftYKRqeUgbNlX544DXTdNxlzs5cKy_iFy1gCG0NFl6s7uKO.h9FYXrUmjVvP1gmBotPj0mT6pGqX_DTWyp0EBAAA-/9e523ae15b61dc766f5c818726881ecf/index.m3u8
+#EXTINF:-1 group-title="2. Filmek",Az aranyember 1962
+https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3I25KCIAAA0F_iolvuo5tgzkADAgVvoE2ut7VyzPz67eU8HJRU0Q7tdv5a4VDjJAYw2cfAX0OoIPLxN1f9VurnWwDZVCBp9OBiSXR8NaT3tBFWMyQz_bBjAZXuhYNNalpD5DgdharLMN7WQIsx5MXMVNFYBO.mJV2V2VW2_Mfgj0QatRnL8vqhtjQTmnjeHR.MOifRC5ictxZMlNN1EO_5XtLCyFzmHBTjObOY0Vnxrb.fDvV8OmQR6yamIIskdms99F9lXm0hi9_GkNSc.VRu5vNikzgd3MUu3NRLGNM0IL4wNP8y8BcxKIHtbsuJEuux8xw9V6.JcjqBsnWQXcRLK5D8Axyfo4BBAQAA/0f23fcf79be0e63ab6d07c73d2dcf717/index.m3u8
+
+
 
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
@@ -10667,6 +10673,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
