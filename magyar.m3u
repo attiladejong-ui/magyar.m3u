@@ -37,6 +37,11 @@ https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 group-title="1. Magyarország",DUNA WORLD FHD
 http://213.163.13.122:1559/udp/239.1.10.4:2000
 
+#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png group-title="1. Magyarország" ,HU: AMC
+http://vipbhbiss.top:8080/VIP0159174811084265/61748110842595/3757
+
+
+
 # Ismeretterjesztő
 #EXTINF:-1 group-title="1. Magyarország",M5 FHD
 #EXTVLCOPT:network-caching=1000
@@ -10669,6 +10674,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
