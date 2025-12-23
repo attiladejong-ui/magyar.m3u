@@ -645,25 +645,11 @@ http://213.163.13.122:1559/udp/239.1.10.141:2000
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&extension=ts
  #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",  ┃XMAS┃ CHRISTMAS",┃XMAS┃ XMAS MUSIC 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",CMA Country Christmas2025
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB3ZKCIBgA0FcCxJ3au0zRsUHbgA_lTsCmTXRrt8mfp99zCOp29IPuoytGnlobx9b1_kp31O0o6t2nIsuoWZAyvc1A3AKI_ortcoYxzFw9jFXDDPlPZPLqm2dlq.6QiqIcPYGnSW_GRUEolrBaG.7WV6o0lv2UrCeCE5O9Bj7g1Q6wigaCAjOZUVGLWmrDI7NR0H3Of40sqR_iP1GYyW5MirtZQOOak4e4kIXpBhbHDpFMD5hjOPfaH.WWPL.UL05IxXUaiM2h49mrtqosAVeNkbdcTu4ttiHuissiCph9FGJo2GxJdeyVv3cSEnPcLzqrii4DJCC8WxS3nDDeNoe32dD.HwafRxtBAQAA/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Michael Buble's Christmas in the City
-https://tmstr5.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3I3VqDIAAA0FcC1JbdxQSnG64hP8odiMsvsdpPbePp61yeIc_zARzT0T6lq9FmTzBboVWORuCP1ln70qP6oecqNiArTOR6B.uCk.fkEOvJyPupn69vbYJbR6gZRAX5nDNPfam1eQiiMlnCrkW0EPpbcepvI2k6GelaBn9ni4Ri8wpkyQ8.VplIuGJUtVK8n_X68hg1FwxdiV2gNuDrbBK8k.WcNhGHhuKMdWHTEooHMO0VpFvWTZX.qE.O9NCAINxnjxwZYCPo5CX_1QX.P_OzA54oYFCjwr6XWdgimNjF3Jie7BBCNCTsOalSpcjdoHDWhVoYgUCV9DLOV.06PDtoOilA_gesCcFwQQEAAA--/ea18a1816b821e1ba4ee5d4a76b0b7cf/index.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",Josh Groban & Friends: Home for the Holidays
-https://tmstr1.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAwXB2XKDIBQA0F8KqFn6VtuYNEYyAbwKb8jVMYDWZpwsfn3PMVFsaUu7bUR2BDe7pLO46ZKoac12verwI6fbhREY5Z7_tANz9oDM1GlWukyIKpFqmJhy6asNuIYRriDTWbznxcoQKwoFgL2LMPnze57UwP7sUf82Y7gXNb9pp_t8wYJV2cUE_iiq.YsDqtL3RngyNi7UVw8GK.4g6h9m4bGoA2GUCxumr_Y75YbgpGEfV4dT0iyBSXk6n6M0w2MaNGCuJF6R2gUoG8Rqyo3UKzWqp9j33kR8XdYFUe70asv.Yj3oYvyM.W1.YskPenj5f4FsU_IhAQAA/9e523ae15b61dc766f5c818726881ecf/index.m3u8
-
-
-
 
 
 # ===== FŐMENÜ: FILMEK =====
 
 
-#EXTINF:-1 group-title="2. Filmek",Sorozatok-Fallout 2 évad 1 rész
-https://box-1181-pd.vmwesa.online/hls/xqx2ovdh7zokjiqbtfmc5l2ew2jwafizaxq6hj2epijv7idykqn3t45snwwq/index-v1-a1.m3u8
-#EXTINF:-1 group-title="2. Filmek",Sorozatok Pokoli rokonok 35 rész
-https://vef-doc-2ccd.transitto.online/hls/xqx2olwb7zokjiqbtfos5lcaxg6nsllak76d3kjnaxh3jag4ifdx5pe6wm7a/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="2. Filmek",Sorozatok Pokoli rokonok 36rész
 https://reop-sdoes-1.transitto.online/hls/xqx2ovgb7zokjiqbtfos5iyzxvqp3fkfkjjnmmpchypitvjdicohbvhufmqq/index-v1-a1.m3u8
@@ -680,11 +666,6 @@ https://up-1164-de.vmwesa.online/hls/xqx2oron7zokjiqbtfos5pygvdspbr2dc37kd25eui6
 
 
 
-#EXTINF:-1 group-title="2. Filmek", Futni mentem 2024
-https://tmstr2.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3I0W7CIBQA0F8CKtPubc24nbPUeEuh8lao2gzsGrfF4tfPt5Pje099vqGOrs4ZYe5lxc49O63pJnee0fwVy_mraXnQXaErMkqEgbUtyZqwHGoQ3HVHLtnqpsEvMkDygmutCuWmsUDxszRxFqbDbT8hNN3bzQo6ooLQw.df32Hmy5gGE7gV.ntv4v0U46E2UDYiFjKrtXvUYSDDVX6AHaKdrPhNFRsA3z3DMEtnIleMP3Q5plbYrTN3rshcarOUNpvTgV3S80j7NE6j2EOtGlXsZMqhIhgcjdQG2J1a3Coa8fgYr9ZceC1irxRU_4boebohAQAA/8156aaacd49ad5a62d2167e99b6f17fc/index.m3u8
-
-#EXTINF:-1 group-title="2. Filmek", Hadik 2023
-https://tmstr4.thrumbleandjaxon.com/pl/H4sIAAAAAAAAAw3OyXaCMBQA0F_KIBW6RMlBkHCImXg7IipCpJwWJ76.Lu_ufrVtiNp11IZrQs9Higldo3PzQUPPUUi.T8NrVy_1E2xHYYlnibO.wBOuex7IW5RLO9HK.6tLxARbGE9sqpyZrEPRYIY5cwS2OeJ3ZxASW41Uyruj1Rh8u5eEleamN4VX1CGd1irr20S_QPNAqbnRUnNOEpLjOHNM.8ZAz1m2V5Klp1vLi5GDHMFzkw2lGh6NvayM0h1ffCw85IcED8L4wCFFgAIqUg3V565J.Cxt1ys62QODXWGzcf.eudjMDzFoBhZWFUKBI2LDr39vxWIwSfQrjHoWDH7k2N3LRFxhQdE_IVkdfkEBAAA-/ceb64c203f772a72ce6f369846db72cf/index.m3u8
 
 
 
@@ -10688,6 +10669,7 @@ http://supersonictv.live:8080/633790/217092/22167
 http://supersonictv.live:8080/633790/217092/22168
 #EXTINF:-1 tvg-id="US: TV LAND EAST" tvg-name="USA TVLand UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",USA TVLand UHD
 http://supersonictv.live:8080/633790/217092/22169
+
 
 
 
