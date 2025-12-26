@@ -2162,6 +2162,287 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlN
 #EXTINF:0 CUID="1060" number="1200" tvg-id="epg1:Antena 3 HD ES" tvg-name="epg1:Antena 3 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Antena 3 HD ES.png" group-title="6.Spanyolország",Antena 3 HD ES
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDYwIiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTkwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
+Rendben — itt van **ugyanaz a lista**, csak **mindenhol átírva**: `group-title="6.Spanyolország"`.
+
+```m3u
+#EXTM3U
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="6.Spanyolország",LA 1 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5799.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="6.Spanyolország",LA 2 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5800.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="6.Spanyolország",ANTENA 3 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5801.ts
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="6.Spanyolország",CUATRO HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5802.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="6.Spanyolország",TELECINCO HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5803.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="6.Spanyolország",LA SEXTA HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5804.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="6.Spanyolország",MOVISTAR PLUS +
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7575.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS" tvg-logo="" group-title="6.Spanyolország",M+ VAMOS
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5806.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV " tvg-logo="" group-title="6.Spanyolország",ARAGON TV 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5807.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="" group-title="6.Spanyolország",CANAL SUR A.
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5808.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR 2" tvg-logo="" group-title="6.Spanyolország",CANAL SUR 2
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18234.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CADIZ" tvg-logo="" group-title="6.Spanyolország",ONDA CADIZ
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/1671.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISION GALICIA" tvg-logo="" group-title="6.Spanyolország",TELEVISION GALICIA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/6670.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="6.Spanyolország",EL TORO TV
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/6275.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="6.Spanyolország",CANAL EXTREMADURA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/1739.ts
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="6.Spanyolország",CASTILLA LA MANCHA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/6330.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA" tvg-logo="" group-title="6.Spanyolország",PTV CORDOBA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/8487.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="6.Spanyolország",M+ ESTRENOS
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5825.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="6.Spanyolország",M+ HITS
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5809.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="6.Spanyolország",M+ CLASICOS
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7576.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="6.Spanyolország",M+ ACCION
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5828.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="6.Spanyolország",M+ COMEDIA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5829.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA " tvg-logo="" group-title="6.Spanyolország",M+ DRAMA 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5830.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ INDIE HD" tvg-logo="" group-title="6.Spanyolország",M+ INDIE HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/11684.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="6.Spanyolország",TCM HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5832.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="6.Spanyolország",HOLLYWOOD HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5833.ts
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="6.Spanyolország",XTRM
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/9009.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="6.Spanyolország",SUNDANCE
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5885.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="6.Spanyolország",DARK HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/8317.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="6.Spanyolország",SOMOS
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12026.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="6.Spanyolország",PARAMOUNT
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5834.ts
+#EXTINF:-1 tvg-id="" tvg-name="SQUIRREL" tvg-logo="" group-title="6.Spanyolország",SQUIRREL
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18236.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="6.Spanyolország",TRECE
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18235.ts
+#EXTINF:-1 tvg-id="" tvg-name="START CHANNEL HD " tvg-logo="" group-title="6.Spanyolország",START CHANNEL HD 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5811.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="6.Spanyolország",AXN HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5812.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="6.Spanyolország",AXN MOVIES
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18237.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="6.Spanyolország",WARNER HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5813.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="6.Spanyolország",COMEDY CENTRAL HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5814.ts
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="6.Spanyolország",CALLE 13 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5815.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD" tvg-logo="" group-title="6.Spanyolország",AMC HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5817.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="6.Spanyolország",SYFY HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5820.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="6.Spanyolország",ENERGY
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5824.ts
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="6.Spanyolország",FDF
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5822.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="6.Spanyolország",NEOX
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="" group-title="6.Spanyolország",ATRESERIES HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/9010.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="6.Spanyolország",BOM CINE
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/11685.ts
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER-TERROR" tvg-logo="" group-title="6.Spanyolország",THRILLER-TERROR
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/14758.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 1" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 1
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/934.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 2" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 2
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/932.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 3" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 3
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/962.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 4" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 4
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 5" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 5
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/1137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 6" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 6
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/1136.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 7" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 7
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/1140.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 8" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 8
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/1142.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 9" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 9
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/3114.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 10" tvg-logo="" group-title="6.Spanyolország",TAQUILLA VIP 10
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/3115.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA" tvg-logo="" group-title="6.Spanyolország",PTV GRANADA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18238.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV ALMERIA" tvg-logo="" group-title="6.Spanyolország",PTV ALMERIA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18239.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV SEVILLA" tvg-logo="" group-title="6.Spanyolország",PTV SEVILLA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/16738.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="6.Spanyolország",PTV MALAGA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/16740.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA HD" tvg-logo="" group-title="6.Spanyolország",M LA LIGA HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5872.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="" group-title="6.Spanyolország",M+ LALIGA TV 2 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5870.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 3 HD" tvg-logo="" group-title="6.Spanyolország",M+ LALIGA TV 3 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/11691.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 4 HD" tvg-logo="" group-title="6.Spanyolország",M+ LALIGA TV 4 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18690.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 5 HD" tvg-logo="" group-title="6.Spanyolország",M+ LALIGA TV 5 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7588.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES HD" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5862.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 2" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 2
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5874.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 3" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 3
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7583.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 4" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 4
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7584.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 5" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 5
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7582.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 6" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 6
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/17942.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 7" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 7
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18590.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 8" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 8
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18591.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 9" tvg-logo="" group-title="6.Spanyolország",M LIGA CAMPEONES 9
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18654.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA REF" tvg-logo="" group-title="6.Spanyolország",M LIGA REF
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/17952.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="" group-title="6.Spanyolország",LALIGA TV HYPERMOTION
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5851.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="" group-title="6.Spanyolország",LALIGA TV HYPERMOTION 2
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5852.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 " tvg-logo="" group-title="6.Spanyolország",LALIGA TV HYPERMOTION 3 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12030.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="" group-title="6.Spanyolország",DAZN LA LIGA HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5869.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="" group-title="6.Spanyolország",DAZN LA LIGA 2 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12031.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 3" tvg-logo="" group-title="6.Spanyolország",DAZN LIGA 3
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 4" tvg-logo="" group-title="6.Spanyolország",DAZN LIGA 4
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/7581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 5" tvg-logo="" group-title="6.Spanyolország",DAZN LIGA 5
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18161.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="6.Spanyolország",DAZN F1 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5853.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="6.Spanyolország",DAZN 1 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5849.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="6.Spanyolország",DAZN 2 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5850.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="6.Spanyolország",DAZN 3
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12923.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="6.Spanyolország",DAZN 4
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12924.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES HD" tvg-logo="" group-title="6.Spanyolország",M DEPORTES HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5866.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 2 " tvg-logo="" group-title="6.Spanyolország",M DEPORTES 2 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5864.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="" group-title="6.Spanyolország",M+ DEPORTES 3
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18605.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="6.Spanyolország",M+ DEPORTES 4
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18606.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="6.Spanyolország",M+ DEPORTES 5
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18607.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6" tvg-logo="" group-title="6.Spanyolország",M+ DEPORTES 6
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18608.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="6.Spanyolország",EUROSPORT 1 HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5858.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="" group-title="6.Spanyolország",EUROSPORT 2 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5857.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="6.Spanyolország",M. GOLF HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5867.ts
+#EXTINF:-1 tvg-id="" tvg-name="VEO" tvg-logo="" group-title="6.Spanyolország",VEO
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5859.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="6.Spanyolország",TELEDEPORTE
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5882.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEQUIVIR" tvg-logo="" group-title="6.Spanyolország",TELEQUIVIR
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5883.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="" group-title="6.Spanyolország",TELEMADRID
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18221.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE" tvg-logo="" group-title="6.Spanyolország",TOROLE
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/16737.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO" tvg-logo="" group-title="6.Spanyolország",ONE TORO
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/18271.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="6.Spanyolország",CAZAyPESCA HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5845.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="6.Spanyolország",IBERALIA TV
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5861.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIACAZA" tvg-logo="" group-title="6.Spanyolország",IBERALIACAZA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/16732.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIAPESCA " tvg-logo="" group-title="6.Spanyolország",IBERALIAPESCA 
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/16733.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="6.Spanyolország",NAT GEO HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5876.ts
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" group-title="6.Spanyolország",NG WILD HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5877.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="6.Spanyolország",HISTORIA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5860.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="6.Spanyolország",DISCOVERY
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5886.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="6.Spanyolország",CANAL ODISEA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5843.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="6.Spanyolország",AMC BREAK
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12139.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="6.Spanyolország",AMC CRIME
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/12140.ts
+#EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE" tvg-logo="" group-title="6.Spanyolország",BUEN VIAJE
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/11698.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="6.Spanyolország",DMAX
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/9012.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="6.Spanyolország",CANAL COCINA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5841.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="6.Spanyolország",CANAL DECASA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5842.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="6.Spanyolország",DIVINITY
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5856.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="6.Spanyolország",NOVA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5879.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="6.Spanyolország",MEGA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="6.Spanyolország",BE MAD HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5837.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="6.Spanyolország",TEN
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/10198.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN FAMILIA" tvg-logo="" group-title="6.Spanyolország",EN FAMILIA
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5844.ts
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" group-title="6.Spanyolország",BabyTV
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5840.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="6.Spanyolország",DISNEY JR
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5855.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="6.Spanyolország",NICK JR
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5887.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="" group-title="6.Spanyolország",NICKELODEONHD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5878.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="6.Spanyolország",BOING
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5839.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLAN  HD" tvg-logo="" group-title="6.Spanyolország",CLAN  HD
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/5846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite Espana" tvg-logo="" group-title="6.Spanyolország",Cadena Elite Espana
+http://main.afroditatv.xyz:8080/live/AemccT6qkLRt/5kkq93apWM5B/6279.ts
+```
+
+**Megjegyzés:** az utolsó sor nálad így van beírva:
+`.../6279.ts-tömeges Group title csere ...`
+Ez **hibás M3U formátum**, mert a stream URL után nem lehet ilyen szöveg ugyanabban a sorban.
+Ha kéred, **kijavítom** úgy, hogy a végére ne kerüljön oda ez a komment, csak a tiszta URL maradjon.
+
+
+
+
+
+
+
 
 
 
