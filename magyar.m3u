@@ -9494,8 +9494,314 @@ http://d2f47069.ucomist.net/iptv/6WFHVSFHWADVCX/12103/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/a-and-e-us.png" group-title="Kanada",CA: A&E
-http://ragnarokserve.com:847/pG86sj20Uu/IQxpAoyoxp/1999
+
+#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA: A&E" tvg-logo="https://puddintap.click/ico/CA/AandE.png" group-title="Kanada",CA: A&E
+http://zerotwo.access.ly:2096/live/os4226/4226os/761354.m3u8
+#EXTINF:-1 tvg-id="ABCWCVB-East.ca" tvg-name="CA: ABC (EAST)" tvg-logo="https://puddintap.click/ico/CA/ABC.png" group-title="Kanada",CA: ABC (EAST)
+http://zerotwo.access.ly:2096/live/os4226/4226os/761355.m3u8
+#EXTINF:-1 tvg-id="CA: ABC WEST" tvg-name="CA: ABC (WEST)" tvg-logo="https://puddintap.click/ico/CA/ABC.png" group-title="Kanada",CA: ABC (WEST)
+http://zerotwo.access.ly:2096/live/os4226/4226os/761356.m3u8
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="CA: ABC SPARK" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/3c/ABC_Spark_white_logo.png" group-title="Kanada",CA: ABC SPARK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761357.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="CA: ADULT SWIM" tvg-logo="" group-title="Kanada",CA: ADULT SWIM
+http://zerotwo.access.ly:2096/live/os4226/4226os/761358.m3u8
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA: AMC" tvg-logo="" group-title="Kanada",CA: AMC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761359.m3u8
+#EXTINF:-1 tvg-id="CA: ANIMAL PLANET" tvg-name="CA: ANIMAL PLANET" tvg-logo="" group-title="Kanada",CA: ANIMAL PLANET
+http://zerotwo.access.ly:2096/live/os4226/4226os/761360.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA: BBC EARTH" tvg-logo="" group-title="Kanada",CA: BBC EARTH
+http://zerotwo.access.ly:2096/live/os4226/4226os/761361.m3u8
+#EXTINF:-1 tvg-id="CA: BBC WORLD NEWS" tvg-name="CA: BBC WORLD NEWS" tvg-logo="" group-title="Kanada",CA: BBC WORLD NEWS
+http://zerotwo.access.ly:2096/live/os4226/4226os/761362.m3u8
+#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="CA: BEIN CANADA" tvg-logo="" group-title="Kanada",CA: BEIN CANADA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761363.m3u8
+#EXTINF:-1 tvg-id="CA: BLOOMBERG" tvg-name="CA: BNN BLOOMBERG" tvg-logo="" group-title="Kanada",CA: BNN BLOOMBERG
+http://zerotwo.access.ly:2096/live/os4226/4226os/761364.m3u8
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA: CBC CALGARY" tvg-logo="" group-title="Kanada",CA: CBC CALGARY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC EAST" tvg-logo="" group-title="Kanada",CA: CBC EAST
+http://zerotwo.access.ly:2096/live/os4226/4226os/761366.m3u8
+#EXTINF:-1 tvg-id="CBCEdmonton-CBXT.ca" tvg-name="CA: CBC EDMONTON" tvg-logo="" group-title="Kanada",CA: CBC EDMONTON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761367.m3u8
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA: CBC MONTREAL" tvg-logo="" group-title="Kanada",CA: CBC MONTREAL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761368.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CA: CBC NEWS NETWORK" tvg-logo="" group-title="Kanada",CA: CBC NEWS NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761369.m3u8
+#EXTINF:-1 tvg-id="CBCOttawa-CBOT.ca" tvg-name="CA: CBC OTTAWA" tvg-logo="" group-title="Kanada",CA: CBC OTTAWA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761370.m3u8
+#EXTINF:-1 tvg-id="CA: CBC ST JOHNS NL CBNT" tvg-name="CA: CBC ST JOHNS" tvg-logo="" group-title="Kanada",CA: CBC ST JOHNS
+http://zerotwo.access.ly:2096/live/os4226/4226os/761371.m3u8
+#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-name="CA: CBC TORONTO" tvg-logo="" group-title="Kanada",CA: CBC TORONTO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761372.m3u8
+#EXTINF:-1 tvg-id="CBCVancouver-CBUT.ca" tvg-name="CA: CBC VANCOUVER" tvg-logo="" group-title="Kanada",CA: CBC VANCOUVER
+http://zerotwo.access.ly:2096/live/os4226/4226os/761373.m3u8
+#EXTINF:-1 tvg-id="CBCWindsor-CBET.ca" tvg-name="CA: CBC WINDSOR" tvg-logo="" group-title="Kanada",CA: CBC WINDSOR
+http://zerotwo.access.ly:2096/live/os4226/4226os/761374.m3u8
+#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA: CHCH" tvg-logo="" group-title="Kanada",CA: CHCH
+http://zerotwo.access.ly:2096/live/os4226/4226os/761376.m3u8
+#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA: CITY CALGARY" tvg-logo="" group-title="Kanada",CA: CITY CALGARY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761377.m3u8
+#EXTINF:-1 tvg-id="CityTvMontreal-CJNT.ca" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="Kanada",CA: CITY MONTREAL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761378.m3u8
+#EXTINF:-1 tvg-id="CityTv.ca" tvg-name="CA: CITY TORONTO" tvg-logo="" group-title="Kanada",CA: CITY TORONTO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761379.m3u8
+#EXTINF:-1 tvg-id="CityTvEdmonton.ca" tvg-name="CA: CITY TV EDMONTON" tvg-logo="" group-title="Kanada",CA: CITY TV EDMONTON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761380.m3u8
+#EXTINF:-1 tvg-id="CityTvVancouver-CKVU.ca" tvg-name="CA: CITY VANCOUVER" tvg-logo="" group-title="Kanada",CA: CITY VANCOUVER
+http://zerotwo.access.ly:2096/live/os4226/4226os/761381.m3u8
+#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA: CMT" tvg-logo="" group-title="Kanada",CA: CMT
+http://zerotwo.access.ly:2096/live/os4226/4226os/761382.m3u8
+#EXTINF:-1 tvg-id="CNBC.ca" tvg-name="CA: CNBC" tvg-logo="" group-title="Kanada",CA: CNBC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761383.m3u8
+#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA: CNN" tvg-logo="" group-title="Kanada",CA: CNN
+http://zerotwo.access.ly:2096/live/os4226/4226os/761384.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.ca" tvg-name="CA: COOKING CHANNEL" tvg-logo="" group-title="Kanada",CA: COOKING CHANNEL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761385.m3u8
+#EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="CA: COTTAGE LIFE" tvg-logo="" group-title="Kanada",CA: COTTAGE LIFE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761386.m3u8
+#EXTINF:-1 tvg-id="CP24.ca" tvg-name="CA: CP24" tvg-logo="" group-title="Kanada",CA: CP24
+http://zerotwo.access.ly:2096/live/os4226/4226os/761387.m3u8
+#EXTINF:-1 tvg-id="CA: CPAC OTTAWA" tvg-name="CA: CPAC" tvg-logo="" group-title="Kanada",CA: CPAC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761388.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA: CRAVE 1" tvg-logo="" group-title="Kanada",CA: CRAVE 1
+http://zerotwo.access.ly:2096/live/os4226/4226os/761389.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA: CRAVE 2" tvg-logo="" group-title="Kanada",CA: CRAVE 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761390.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA: CRAVE 3" tvg-logo="" group-title="Kanada",CA: CRAVE 3
+http://zerotwo.access.ly:2096/live/os4226/4226os/761391.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA: CRAVE 4" tvg-logo="" group-title="Kanada",CA: CRAVE 4
+http://zerotwo.access.ly:2096/live/os4226/4226os/761392.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="" group-title="Kanada",CA: CRIME & INVESTIGATION
+http://zerotwo.access.ly:2096/live/os4226/4226os/761393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2" tvg-logo="" group-title="Kanada",CA: CTV 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761394.m3u8
+#EXTINF:-1 tvg-id="CTV2Barrie-CKVR.ca" tvg-name="CA: CTV 2 BARRIE" tvg-logo="" group-title="Kanada",CA: CTV 2 BARRIE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761395.m3u8
+#EXTINF:-1 tvg-id="CTV2Ottawa-CHRO.ca" tvg-name="CA: CTV 2 OTTAWA" tvg-logo="" group-title="Kanada",CA: CTV 2 OTTAWA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761396.m3u8
+#EXTINF:-1 tvg-id="CTV2VancouverVictoria-CIVI.ca" tvg-name="CA: CTV 2 VANCOUVER" tvg-logo="" group-title="Kanada",CA: CTV 2 VANCOUVER
+http://zerotwo.access.ly:2096/live/os4226/4226os/761397.m3u8
+#EXTINF:-1 tvg-id="CA: CTV2 WINDSOR ON CHWI" tvg-name="CA: CTV 2 WINDSOR" tvg-logo="" group-title="Kanada",CA: CTV 2 WINDSOR
+http://zerotwo.access.ly:2096/live/os4226/4226os/761398.m3u8
+#EXTINF:-1 tvg-id="CTV2Atlantic-ASN.ca" tvg-name="CA: CTV 2 ATLANTIC" tvg-logo="" group-title="Kanada",CA: CTV 2 ATLANTIC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761399.m3u8
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA: CTV CALGARY" tvg-logo="" group-title="Kanada",CA: CTV CALGARY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761400.m3u8
+#EXTINF:-1 tvg-id="CTVComedyChannel.ca" tvg-name="CA: CTV COMEDY" tvg-logo="" group-title="Kanada",CA: CTV COMEDY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761401.m3u8
+#EXTINF:-1 tvg-id="CTVDramaChannel.ca" tvg-name="CA: CTV DRAMA" tvg-logo="" group-title="Kanada",CA: CTV DRAMA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761402.m3u8
+#EXTINF:-1 tvg-id="CTVEdmonton-CFRN.ca" tvg-name="CA: CTV EDMONTON" tvg-logo="" group-title="Kanada",CA: CTV EDMONTON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761403.m3u8
+#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CA: CTV HALIFAX" tvg-logo="" group-title="Kanada",CA: CTV HALIFAX
+http://zerotwo.access.ly:2096/live/os4226/4226os/761404.m3u8
+#EXTINF:-1 tvg-id="CTVKitchener-CKCO.ca" tvg-name="CA: CTV KITCHENER" tvg-logo="" group-title="Kanada",CA: CTV KITCHENER
+http://zerotwo.access.ly:2096/live/os4226/4226os/761405.m3u8
+#EXTINF:-1 tvg-id="CTVLifeChannel.ca" tvg-name="CA: CTV LIFE CHANNEL" tvg-logo="" group-title="Kanada",CA: CTV LIFE CHANNEL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761406.m3u8
+#EXTINF:-1 tvg-id="CTVMoncton-CKCW.ca" tvg-name="CA: CTV MONCTON" tvg-logo="" group-title="Kanada",CA: CTV MONCTON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761407.m3u8
+#EXTINF:-1 tvg-id="CTVMontreal-CFCF.ca" tvg-name="CA: CTV MONTREAL" tvg-logo="" group-title="Kanada",CA: CTV MONTREAL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761408.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-name="CA: CTV NEWS" tvg-logo="" group-title="Kanada",CA: CTV NEWS
+http://zerotwo.access.ly:2096/live/os4226/4226os/761409.m3u8
+#EXTINF:-1 tvg-id="CTVNorthBay-CKNY.ca" tvg-name="CA: CTV NORTH BAY" tvg-logo="" group-title="Kanada",CA: CTV NORTH BAY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761410.m3u8
+#EXTINF:-1 tvg-id="CTVOttawa-CJOH.ca" tvg-name="CA: CTV OTTAWA" tvg-logo="" group-title="Kanada",CA: CTV OTTAWA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761411.m3u8
+#EXTINF:-1 tvg-id="CTVRegina-CKCK.ca" tvg-name="CA: CTV REGINA" tvg-logo="" group-title="Kanada",CA: CTV REGINA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761412.m3u8
+#EXTINF:-1 tvg-id="CTVSaultSteMarie-CHBX.ca" tvg-name="CA: CTV SAULT STE. MARIE" tvg-logo="" group-title="Kanada",CA: CTV SAULT STE. MARIE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761413.m3u8
+#EXTINF:-1 tvg-id="CTVNorthernOntario-CICI.ca" tvg-name="CA: CTV SUDBURY" tvg-logo="" group-title="Kanada",CA: CTV SUDBURY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761414.m3u8
+#EXTINF:-1 tvg-id="CTVSydney-CJCB.ca" tvg-name="CA: CTV SYDNEY" tvg-logo="" group-title="Kanada",CA: CTV SYDNEY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761415.m3u8
+#EXTINF:-1 tvg-id="CTVTimmins-CITO.ca" tvg-name="CA: CTV TIMMINS" tvg-logo="" group-title="Kanada",CA: CTV TIMMINS
+http://zerotwo.access.ly:2096/live/os4226/4226os/761416.m3u8
+#EXTINF:-1 tvg-id="CTVToronto-CFTO.ca" tvg-name="CA: CTV TORONTO" tvg-logo="" group-title="Kanada",CA: CTV TORONTO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761417.m3u8
+#EXTINF:-1 tvg-id="CA: CTV2 VANCOUVER ISLAND BC" tvg-name="CA: CTV VANCOUVER" tvg-logo="" group-title="Kanada",CA: CTV VANCOUVER
+http://zerotwo.access.ly:2096/live/os4226/4226os/761418.m3u8
+#EXTINF:-1 tvg-id="CTVWinnipeg-CKY.ca" tvg-name="CA: CTV WINNIPEG" tvg-logo="" group-title="Kanada",CA: CTV WINNIPEG
+http://zerotwo.access.ly:2096/live/os4226/4226os/761419.m3u8
+#EXTINF:-1 tvg-id="CTV2Atlantic-ASN.ca" tvg-name="CA: CTV 2 ATLANTIC" tvg-logo="" group-title="Kanada",CA: CTV 2 ATLANTIC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761420.m3u8
+#EXTINF:-1 tvg-id="CTV2London-CFPL.ca" tvg-name="CA: CTV2 LONDON" tvg-logo="" group-title="Kanada",CA: CTV2 LONDON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761421.m3u8
+#EXTINF:-1 tvg-id="CA: CTV2 TORONTO ON" tvg-name="CA: CTV2 TORONTO" tvg-logo="" group-title="Kanada",CA: CTV2 TORONTO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 VICTORIA" tvg-logo="" group-title="Kanada",CA: CTV 2 VICTORIA
+http://zerotwo.access.ly:2096/live/os4226/4226os/761423.m3u8
+#EXTINF:-1 tvg-id="Daystar.ca" tvg-name="CA: DAYSTAR TV" tvg-logo="" group-title="Kanada",CA: DAYSTAR TV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761424.m3u8
+#EXTINF:-1 tvg-id="DejaView.ca" tvg-name="CA: DEJA VIEW" tvg-logo="" group-title="Kanada",CA: DEJA VIEW
+http://zerotwo.access.ly:2096/live/os4226/4226os/761425.m3u8
+#EXTINF:-1 tvg-id="CA: DISCOVERY CHANNEL" tvg-name="CA: DISCOVERY CHANNEL" tvg-logo="" group-title="Kanada",CA: DISCOVERY CHANNEL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761426.m3u8
+#EXTINF:-1 tvg-id="CTVNature.ca" tvg-name="CA: CTV NATURE CHANNEL" tvg-logo="" group-title="Kanada",CA: CTV NATURE CHANNEL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761427.m3u8
+#EXTINF:-1 tvg-id="CA: DISCOVERY VELOCITY" tvg-name="CA: DISCOVERY VELOCITY" tvg-logo="" group-title="Kanada",CA: DISCOVERY VELOCITY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761428.m3u8
+#EXTINF:-1 tvg-id="CA: DIY" tvg-name="CA: DIY" tvg-logo="" group-title="Kanada",CA: DIY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761429.m3u8
+#EXTINF:-1 tvg-id="DocumentaryCanada.ca" tvg-name="CA: DOCUMENTARY" tvg-logo="" group-title="Kanada",CA: DOCUMENTARY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761430.m3u8
+#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA: DTOUR" tvg-logo="" group-title="Kanada",CA: DTOUR
+http://zerotwo.access.ly:2096/live/os4226/4226os/761431.m3u8
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.ca" tvg-name="CA: E! ENTERTAINMENT" tvg-logo="" group-title="Kanada",CA: E! ENTERTAINMENT
+http://zerotwo.access.ly:2096/live/os4226/4226os/761432.m3u8
+#EXTINF:-1 tvg-id="FairchildTV2.ca" tvg-name="CA: FAIRCHILD 2" tvg-logo="" group-title="Kanada",CA: FAIRCHILD 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761433.m3u8
+#EXTINF:-1 tvg-id="CA: FAMILY CHANNEL EAST" tvg-name="CA: FAMILY (EAST)" tvg-logo="" group-title="Kanada",CA: FAMILY (EAST)
+http://zerotwo.access.ly:2096/live/os4226/4226os/761434.m3u8
+#EXTINF:-1 tvg-id="CA: FAMILY CHANNEL WEST" tvg-name="CA: FAMILY (WEST)" tvg-logo="" group-title="Kanada",CA: FAMILY (WEST)
+http://zerotwo.access.ly:2096/live/os4226/4226os/761435.m3u8
+#EXTINF:-1 tvg-id="CA: FAMILY CHRGD" tvg-name="CA: FAMILY CHRGD" tvg-logo="" group-title="Kanada",CA: FAMILY CHRGD
+http://zerotwo.access.ly:2096/live/os4226/4226os/761436.m3u8
+#EXTINF:-1 tvg-id="CA: FAMILY JR" tvg-name="CA: FAMILY JR" tvg-logo="" group-title="Kanada",CA: FAMILY JR
+http://zerotwo.access.ly:2096/live/os4226/4226os/761437.m3u8
+#EXTINF:-1 tvg-id="TheFightNetwork.ca" tvg-name="CA: FIGHT NETWORK" tvg-logo="" group-title="Kanada",CA: FIGHT NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761438.m3u8
+#EXTINF:-1 tvg-id="CA: FOOD NETWORK" tvg-name="CA: FOOD NETWORK" tvg-logo="" group-title="Kanada",CA: FOOD NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761439.m3u8
+#EXTINF:-1 tvg-id="CA: FOX EAST" tvg-name="CA: FOX (EAST)" tvg-logo="" group-title="Kanada",CA: FOX (EAST)
+http://zerotwo.access.ly:2096/live/os4226/4226os/761440.m3u8
+#EXTINF:-1 tvg-id="FoxSportsRacing.ca" tvg-name="CA: FOX SPORTS RACING" tvg-logo="" group-title="Kanada",CA: FOX SPORTS RACING
+http://zerotwo.access.ly:2096/live/os4226/4226os/761441.m3u8
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA: FX" tvg-logo="" group-title="Kanada",CA: FX
+http://zerotwo.access.ly:2096/live/os4226/4226os/761442.m3u8
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA: FXX" tvg-logo="" group-title="Kanada",CA: FXX
+http://zerotwo.access.ly:2096/live/os4226/4226os/761443.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.ca" tvg-name="CA: GAME SHOW NETWORK" tvg-logo="" group-title="Kanada",CA: GAME SHOW NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761444.m3u8
+#EXTINF:-1 tvg-id="CA: GLOBAL BC" tvg-name="CA: GLOBAL BC" tvg-logo="" group-title="Kanada",CA: GLOBAL BC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761445.m3u8
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA: GLOBAL CALGARY" tvg-logo="" group-title="Kanada",CA: GLOBAL CALGARY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761446.m3u8
+#EXTINF:-1 tvg-id="GlobalEdmonton-CITV.ca" tvg-name="CA: GLOBAL EDMONTON" tvg-logo="" group-title="Kanada",CA: GLOBAL EDMONTON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761447.m3u8
+#EXTINF:-1 tvg-id="GlobalMaritimes-CIHF.ca" tvg-name="CA: GLOBAL HALIFAX" tvg-logo="" group-title="Kanada",CA: GLOBAL HALIFAX
+http://zerotwo.access.ly:2096/live/os4226/4226os/761448.m3u8
+#EXTINF:-1 tvg-id="CA: GLOBAL NETWORK" tvg-name="CA: GLOBAL NATIONAL" tvg-logo="" group-title="Kanada",CA: GLOBAL NATIONAL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761449.m3u8
+#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="CA: GLOBAL TORONTO" tvg-logo="" group-title="Kanada",CA: GLOBAL TORONTO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761450.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.ca" tvg-name="CA: GOLF" tvg-logo="" group-title="Kanada",CA: GOLF
+http://zerotwo.access.ly:2096/live/os4226/4226os/761451.m3u8
+#EXTINF:-1 tvg-id="CA: GUSTO TV" tvg-name="CA: GUSTO" tvg-logo="" group-title="Kanada",CA: GUSTO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761452.m3u8
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA: HBO 1" tvg-logo="" group-title="Kanada",CA: HBO 1
+http://zerotwo.access.ly:2096/live/os4226/4226os/761453.m3u8
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA: HBO 2" tvg-logo="" group-title="Kanada",CA: HBO 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761454.m3u8
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome.ca" tvg-name="CA: HEART & HOME" tvg-logo="" group-title="Kanada",CA: HEART & HOME
+http://zerotwo.access.ly:2096/live/os4226/4226os/761455.m3u8
+#EXTINF:-1 tvg-id="CA: HGTV" tvg-name="CA: HGTV" tvg-logo="" group-title="Kanada",CA: HGTV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761456.m3u8
+#EXTINF:-1 tvg-id="History.ca" tvg-name="CA: HISTORY" tvg-logo="" group-title="Kanada",CA: HISTORY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761457.m3u8
+#EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA: H2 HISTORY 2" tvg-logo="" group-title="Kanada",CA: H2 HISTORY 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761458.m3u8
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="CA: HLN" tvg-logo="" group-title="Kanada",CA: HLN
+http://zerotwo.access.ly:2096/live/os4226/4226os/761459.m3u8
+#EXTINF:-1 tvg-id="HPItvCanada.ca" tvg-name="CA: HPI" tvg-logo="" group-title="Kanada",CA: HPI
+http://zerotwo.access.ly:2096/live/os4226/4226os/761460.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA: IDTV INVESTIGATION DISCOVERY" tvg-logo="" group-title="Kanada",CA: IDTV INVESTIGATION DISCOVERY
+http://zerotwo.access.ly:2096/live/os4226/4226os/761461.m3u8
+#EXTINF:-1 tvg-id="Lifetime.ca" tvg-name="CA: LIFETIME" tvg-logo="" group-title="Kanada",CA: LIFETIME
+http://zerotwo.access.ly:2096/live/os4226/4226os/761462.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="CA: LOVE NATURE" tvg-logo="" group-title="Kanada",CA: LOVE NATURE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761463.m3u8
+#EXTINF:-1 tvg-id="MakefulTV.ca" tvg-name="CA: MAKEFUL" tvg-logo="" group-title="Kanada",CA: MAKEFUL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761464.m3u8
+#EXTINF:-1 tvg-id="Max.ca" tvg-name="CA: MAX" tvg-logo="" group-title="Kanada",CA: MAX
+http://zerotwo.access.ly:2096/live/os4226/4226os/761465.m3u8
+#EXTINF:-1 tvg-id="CA: MIRACLE CHANNEL BOW ISLAND AB CJIL TV1" tvg-name="CA: MIRACLE" tvg-logo="" group-title="Kanada",CA: MIRACLE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761466.m3u8
+#EXTINF:-1 tvg-id="MovieTime.ca" tvg-name="CA: MOVIETIME" tvg-logo="" group-title="Kanada",CA: MOVIETIME
+http://zerotwo.access.ly:2096/live/os4226/4226os/761467.m3u8
+#EXTINF:-1 tvg-id="MTV.ca" tvg-name="CA: MTV" tvg-logo="" group-title="Kanada",CA: MTV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761468.m3u8
+#EXTINF:-1 tvg-id="CA: MTV2" tvg-name="CA: MTV 2" tvg-logo="" group-title="Kanada",CA: MTV 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761469.m3u8
+#EXTINF:-1 tvg-id="CA: MUCH" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="Kanada",CA: MUCH MUSIC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761470.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA: NAT GEO WILD" tvg-logo="" group-title="Kanada",CA: NAT GEO WILD
+http://zerotwo.access.ly:2096/live/os4226/4226os/761471.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Kanada",CA: NATIONAL GEOGRAPHIC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761472.m3u8
+#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="CA: NBA TV" tvg-logo="" group-title="Kanada",CA: NBA TV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761473.m3u8
+#EXTINF:-1 tvg-id="CA: NTV ST JOHNS NL CJON" tvg-name="CA: NTV" tvg-logo="" group-title="Kanada",CA: NTV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761474.m3u8
+#EXTINF:-1 tvg-id="CA: OLN" tvg-name="CA: OLN" tvg-logo="" group-title="Kanada",CA: OLN
+http://zerotwo.access.ly:2096/live/os4226/4226os/761475.m3u8
+#EXTINF:-1 tvg-id="CA: OMNI 1" tvg-name="CA: OMNI 1" tvg-logo="" group-title="Kanada",CA: OMNI 1
+http://zerotwo.access.ly:2096/live/os4226/4226os/761476.m3u8
+#EXTINF:-1 tvg-id="Omni2-CJMT.ca" tvg-name="CA: OMNI 2" tvg-logo="" group-title="Kanada",CA: OMNI 2
+http://zerotwo.access.ly:2096/live/os4226/4226os/761477.m3u8
+#EXTINF:-1 tvg-id="CA: ONE GET FIT" tvg-name="CA: ONE" tvg-logo="" group-title="Kanada",CA: ONE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761478.m3u8
+#EXTINF:-1 tvg-id="OUTtv.ca" tvg-name="CA: OUT TV" tvg-logo="" group-title="Kanada",CA: OUT TV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761479.m3u8
+#EXTINF:-1 tvg-id="CA: PARAMOUNT NETWORK" tvg-name="CA: PARAMOUNT NETWORK" tvg-logo="" group-title="Kanada",CA: PARAMOUNT NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761480.m3u8
+#EXTINF:-1 tvg-id="CA: PBS EAST" tvg-name="CA: PBS East" tvg-logo="" group-title="Kanada",CA: PBS East
+http://zerotwo.access.ly:2096/live/os4226/4226os/761481.m3u8
+#EXTINF:-1 tvg-id="CA: PEACHTREE" tvg-name="CA: PEACH TREE" tvg-logo="" group-title="Kanada",CA: PEACH TREE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761482.m3u8
+#EXTINF:-1 tvg-id="CTVSciFiChannel.ca" tvg-name="CA: SCI-FI" tvg-logo="" group-title="Kanada",CA: SCI-FI
+http://zerotwo.access.ly:2096/live/os4226/4226os/761483.m3u8
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CA: SHOWCASE EAST" tvg-logo="" group-title="Kanada",CA: SHOWCASE EAST
+http://zerotwo.access.ly:2096/live/os4226/4226os/761484.m3u8
+#EXTINF:-1 tvg-id="SilverScreenClassics.ca" tvg-name="CA: SILVER SCREEN CLASSIC" tvg-logo="" group-title="Kanada",CA: SILVER SCREEN CLASSIC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761485.m3u8
+#EXTINF:-1 tvg-id="Slice.ca" tvg-name="CA: SLICE" tvg-logo="" group-title="Kanada",CA: SLICE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761486.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="CA: SMITHSONIAN" tvg-logo="" group-title="Kanada",CA: SMITHSONIAN
+http://zerotwo.access.ly:2096/live/os4226/4226os/761487.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="CA: SPORTSMAN CHANNEL" tvg-logo="" group-title="Kanada",CA: SPORTSMAN CHANNEL
+http://zerotwo.access.ly:2096/live/os4226/4226os/761488.m3u8
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSNET ONTARIO" tvg-logo="" group-title="Kanada",CA: SPORTSNET ONTARIO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761489.m3u8
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSNET PACIFIC" tvg-logo="" group-title="Kanada",CA: SPORTSNET PACIFIC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761490.m3u8
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA: SPORTSNET WORLD" tvg-logo="" group-title="Kanada",CA: SPORTSNET WORLD
+http://zerotwo.access.ly:2096/live/os4226/4226os/761491.m3u8
+#EXTINF:-1 tvg-id="TeletoonFrancais.ca" tvg-name="CA: TELETOON" tvg-logo="" group-title="Kanada",CA: TELETOON
+http://zerotwo.access.ly:2096/live/os4226/4226os/761492.m3u8
+#EXTINF:-1 tvg-id="WeatherNetwork.ca" tvg-name="CA: THE WEATHER NETWORK" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.hi84qJrBVZ-WqJ9BFxYvqgHaD7&pid=Api&P=0" group-title="Kanada",CA: THE WEATHER NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761493.m3u8
+#EXTINF:-1 tvg-id="TLC.ca" tvg-name="CA: TLC" tvg-logo="" group-title="Kanada",CA: TLC
+http://zerotwo.access.ly:2096/live/os4226/4226os/761494.m3u8
+#EXTINF:-1 tvg-id="CA: TLN SOCCER" tvg-name="CA: TLN" tvg-logo="" group-title="Kanada",CA: TLN
+http://zerotwo.access.ly:2096/live/os4226/4226os/761495.m3u8
+#EXTINF:-1 tvg-id="CA: TODAYS SHOPPING CHOICE" tvg-name="CA: TODAYS SHOPPING CHOICE" tvg-logo="" group-title="Kanada",CA: TODAYS SHOPPING CHOICE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: TRAVEL AND ESCAPE" tvg-logo="" group-title="Kanada",CA: TRAVEL AND ESCAPE
+http://zerotwo.access.ly:2096/live/os4226/4226os/761497.m3u8
+#EXTINF:-1 tvg-id="CA: TCM" tvg-name="CA: TURNER CLASSIC MOVIES" tvg-logo="" group-title="Kanada",CA: TURNER CLASSIC MOVIES
+http://zerotwo.access.ly:2096/live/os4226/4226os/761498.m3u8
+#EXTINF:-1 tvg-id="CA: TVO" tvg-name="CA: TV ONTARIO" tvg-logo="" group-title="Kanada",CA: TV ONTARIO
+http://zerotwo.access.ly:2096/live/os4226/4226os/761499.m3u8
+#EXTINF:-1 tvg-id="SuperChannelVault.ca" tvg-name="CA: VAULT" tvg-logo="" group-title="Kanada",CA: VAULT
+http://zerotwo.access.ly:2096/live/os4226/4226os/761500.m3u8
+#EXTINF:-1 tvg-id="VisionTV.ca" tvg-name="CA: VISION TV" tvg-logo="" group-title="Kanada",CA: VISION TV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761501.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca" tvg-name="CA: W NETWORK" tvg-logo="" group-title="Kanada",CA: W NETWORK
+http://zerotwo.access.ly:2096/live/os4226/4226os/761502.m3u8
+#EXTINF:-1 tvg-id="WILDTV.ca" tvg-name="CA: WILD TV" tvg-logo="" group-title="Kanada",CA: WILD TV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: YES TV" tvg-logo="" group-title="Kanada",CA: YES TV
+http://zerotwo.access.ly:2096/live/os4226/4226os/761504.m3u8
+#EXTINF:-1 tvg-id="YTV.ca" tvg-name="CA: YTV EAST" tvg-logo="" group-title="Kanada",CA: YTV EAST
+http://zerotwo.access.ly:2096/live/os4226/4226os/761505.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="BASICS: A&E" tvg-logo="https://puddintap.click/ico/USA-Color/AE.png" group-title="USA",BASICS: A&E
