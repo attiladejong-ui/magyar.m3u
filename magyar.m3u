@@ -808,8 +808,6 @@ http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2973
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2974
 
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250018
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III HD
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2976
 
@@ -838,157 +836,13 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459828&e
 
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/austria/dmaxaustria.png" group-title="4. Ausztria",  DMAX
 http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2981
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF1-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 1 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/1998
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF1-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 1 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250004
-#EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF2HD-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/1999
-#EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF2HD-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250018
-#EXTINF:-1 tvg-id="orf3.at" tvg-name="ORF 3 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF_III_HD-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 3 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2000
-#EXTINF:-1 tvg-id="orf3.at" tvg-name="ORF 3 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF_III_HD-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 3 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250020
-#EXTINF:-1 tvg-id="orf2.de" tvg-name="ORF 2 NÖ HD" tvg-logo=""group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2 NÖ HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/567404
-#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ATVN-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ATV HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/79105
-#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ATVN-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",ATV HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2001
-#EXTINF:-1 tvg-id="atv2.at" tvg-name="ATV 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/atv2_austria.png"group-title="4. Ausztria"|group-title="4. Ausztria",ATV 2 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2002
-#EXTINF:-1 tvg-id="atv2.at" tvg-name="ATV 2 HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/atv2_austria.png"group-title="4. Ausztria"|group-title="4. Ausztria",ATV 2 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/79106
-#EXTINF:-1 tvg-id="puls4.at" tvg-name="PULS 4 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/puls-4.png"group-title="4. Ausztria"|group-title="4. Ausztria",PULS 4 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2009
-#EXTINF:-1 tvg-id="puls4.at" tvg-name="PULS 4 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/puls-4.png"group-title="4. Ausztria"|group-title="4. Ausztria",PULS 4 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/79100
-#EXTINF:-1 tvg-id="puls24.at" tvg-name="PULS 24 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/Puls24.png"group-title="4. Ausztria"|group-title="4. Ausztria",PULS 24 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2010
-#EXTINF:-1 tvg-id="puls24.at" tvg-name="PULS 24 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/Puls24.png"group-title="4. Ausztria"|group-title="4. Ausztria",PULS 24 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250027
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/SAT1HD-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",SAT 1 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250029
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/SAT1HD-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",SAT 1 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250030
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL AUSTRIA HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/rtl_austria_logo.png"group-title="4. Ausztria"|group-title="4. Ausztria",RTL AUSTRIA HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2005
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTLgroup-title="4. Ausztria" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/rtl_austria_logo.png"group-title="4. Ausztria"|group-title="4. Ausztria",RTL AUSTRIA
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250028
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN AUSTRIA HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png"group-title="4. Ausztria"|group-title="4. Ausztria",PROSIEBEN AUSTRIA HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2003
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBENgroup-title="4. Ausztria" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png"group-title="4. Ausztria"|group-title="4. Ausztria",PROSIEBEN AUSTRIA
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250032
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png"group-title="4. Ausztria"|group-title="4. Ausztria",RTL 2 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2006
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png"group-title="4. Ausztria"|group-title="4. Ausztria",RTL 2 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250033
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png"group-title="4. Ausztria"|group-title="4. Ausztria",KABEL EINS HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2015
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png"group-title="4. Ausztria"|group-title="4. Ausztria",KABEL EINS HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250034
-#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/VOX_LogO-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",VOX HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2004
-#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/VOX_LogO-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",VOX HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250035
-#EXTINF:-1 tvg-id="sixxaustria.at" tvg-name="SIXX HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Sixx_-_HD_seit_2014.svg.png"group-title="4. Ausztria"|group-title="4. Ausztria",SIXX HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2014
-#EXTINF:-1 tvg-id="sixxaustria.at" tvg-name="SIXX HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Sixx_-_HD_seit_2014.svg.png"group-title="4. Ausztria"|group-title="4. Ausztria",SIXX HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250036
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PROSIEBEN MAXX HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/pro_7_maxx.png"group-title="4. Ausztria"|group-title="4. Ausztria",PROSIEBEN MAXX HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250038
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PROSIEBEN MAXX" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/pro_7_maxx.png"group-title="4. Ausztria"|group-title="4. Ausztria",PROSIEBEN MAXX
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250037
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1gold.png"group-title="4. Ausztria"|group-title="4. Ausztria",SAT 1 GOLD HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250031
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1gold.png"group-title="4. Ausztria"|group-title="4. Ausztria",SAT 1 GOLD HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2008
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKU AUSTRIA HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png"group-title="4. Ausztria"|group-title="4. Ausztria",KABEL EINS DOKU AUSTRIA HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2016
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKUgroup-title="4. Ausztria" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png"group-title="4. Ausztria"|group-title="4. Ausztria",KABEL EINS DOKU AUSTRIA
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250039
-#EXTINF:-1 tvg-id="" tvg-name="RTL UP AUSTRIA HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlup.png"group-title="4. Ausztria"|group-title="4. Ausztria",RTL UP AUSTRIA HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250040
-#EXTINF:-1 tvg-id="" tvg-name="RTL UPgroup-title="4. Ausztria" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlup.png"group-title="4. Ausztria"|group-title="4. Ausztria",RTL UP AUSTRIA
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250041
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ ACTION HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Canalaction.png"group-title="4. Ausztria"|group-title="4. Ausztria",CANAL+ ACTION HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/662080
-#EXTINF:-1 tvg-id="servustv.at" tvg-name="SERVUS TV ÖSTERREICH HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/servus.png"group-title="4. Ausztria"|group-title="4. Ausztria",SERVUS TV ÖSTERREICH HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/79103
-#EXTINF:-1 tvg-id="servustv.at" tvg-name="?SERVUS TV ÖSTERREICH HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/servus.png"group-title="4. Ausztria"|group-title="4. Ausztria",?SERVUS TV ÖSTERREICH HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2020
-#EXTINF:-1 tvg-id="oe24tv.ay" tvg-name="OE24 TV HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/oe24tv.png"group-title="4. Ausztria"|group-title="4. Ausztria",OE24 TV HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/79110
-#EXTINF:-1 tvg-id="oe24tv.ay" tvg-name="OE24 TV HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/oe24tv.png"group-title="4. Ausztria"|group-title="4. Ausztria",OE24 TV HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250042
-#EXTINF:-1 tvg-id="w24.at" tvg-name="W24 HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/W24.png"group-title="4. Ausztria"|group-title="4. Ausztria",W24 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250043
-#EXTINF:-1 tvg-id="w24.at" tvg-name="W24 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/W24.png"group-title="4. Ausztria"|group-title="4. Ausztria",W24 HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250044
-#EXTINF:-1 tvg-id="r9.at" tvg-name="R9 ÖSTERREICH HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/R9Oesterreich-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",R9 ÖSTERREICH HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250047
-#EXTINF:-1 tvg-id="r9.at" tvg-name="R9 ÖSTERREICH HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/R9Oesterreich-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",R9 ÖSTERREICH HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250048
-#EXTINF:-1 tvg-id="" tvg-name="SCHAU TV HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/schauTV-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",SCHAU TV HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250049
-#EXTINF:-1 tvg-id="" tvg-name="SCHAU TV HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/schauTV-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",SCHAU TV HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250050
-#EXTINF:-1 tvg-id="kronetv.at" tvg-name="KRONE TV HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/krone_tv-min.jpg"group-title="4. Ausztria"|group-title="4. Ausztria",KRONE TV HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250051
-#EXTINF:-1 tvg-id="kronetv.at" tvg-name="KRONE TV" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/krone_tv-min.jpg"group-title="4. Ausztria"|group-title="4. Ausztria",KRONE TV
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250052
-#EXTINF:-1 tvg-id="tiroltv.at" tvg-name="TIROL TV HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/austria/TIROL.TV.eno.png"group-title="4. Ausztria"|group-title="4. Ausztria",TIROL TV HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250053
-#EXTINF:-1 tvg-id="tiroltv.at" tvg-name="TIROL TV HD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/TIROL.TV.eno.png"group-title="4. Ausztria"|group-title="4. Ausztria",TIROL TV HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250054
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2B HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2B HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250055
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2K HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2K HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250056
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2O HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2O HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250057
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2S HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2S HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250058
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2St HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2St HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250059
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2T HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2T HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250060
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2V HD" tvg-logo="https://i.ibb.co/b5sDJdN/image.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF 2V HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250061
-#EXTINF:-1 tvg-id="n24austria.at" tvg-name="N24 DOKU AUSTRIA HEVC" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/N24_Doku_Austria.png"group-title="4. Ausztria"|group-title="4. Ausztria",N24 DOKU AUSTRIA HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2021
-#EXTINF:-1 tvg-id="n24austria.at" tvg-name="N24 DOKU AUSTRIA HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/N24_Doku_Austria.png"group-title="4. Ausztria"|group-title="4. Ausztria",N24 DOKU AUSTRIA HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250064
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png"group-title="4. Ausztria"|group-title="4. Ausztria",DMAX HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2017
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png"group-title="4. Ausztria"|group-title="4. Ausztria",DMAX HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250063
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HEVC" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png"group-title="4. Ausztria"|group-title="4. Ausztria",TLC HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2018
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png"group-title="4. Ausztria"|group-title="4. Ausztria",TLC HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250062
-#EXTINF:-1 tvg-id="" tvg-name="MELODIE TV" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/Melodie_TV-min.png"group-title="4. Ausztria"|group-title="4. Ausztria",MELODIE TV
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/253013
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="ORF SPORT FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/orf_sport+.png"group-title="4. Ausztria"|group-title="4. Ausztria",ORF SPORT FHD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2023
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="SKY SPORT AUSTRIA 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria1.png"group-title="4. Ausztria"|group-title="4. Ausztria",SKY SPORT AUSTRIA 1 FHD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2024
-#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="SKY SPORT AUSTRIA 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria2.png"group-title="4. Ausztria"|group-title="4. Ausztria",SKY SPORT AUSTRIA 2 FHD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2025
-#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="SKY SPORT AUSTRIA 3 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria3.png"group-title="4. Ausztria"|group-title="4. Ausztria",SKY SPORT AUSTRIA 3 FHD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2026
-#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="SKY SPORT AUSTRIA 4 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria4.png"group-title="4. Ausztria"|group-title="4. Ausztria",SKY SPORT AUSTRIA 4 FHD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/2027
-
 
 
 # Regionális ORF 2 variánsok
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2B
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2393&extension=ts
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2K
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/160905
+
 
 
 # Sport csatornák (EGY mappában!)
