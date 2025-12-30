@@ -7267,12 +7267,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/107/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/123/index.m3u8
 #EXTINF:0 type="stream" channelId="81group-title="8.Oroszország" Матч! Боец
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/150/index.m3u8
-#EXTINF:0 type="stream" channelId="4" group="Спорт" shift="2", Матч ТВ +2
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6012/index.m3u8
-#EXTINF:0 type="stream" channelId="4" group="Спорт" shift="4", Матч ТВ +4
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6023/index.m3u8
-#EXTINF:0 type="stream" channelId="4" group="Спорт" shift="8", Матч ТВ +8
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6052/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1group-title="8.Oroszország" Триколор Спорт 1
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/7360/index.m3u8
 #EXTINF:0 type="stream" channelId="-1group-title="8.Oroszország" Триколор Спорт 2
@@ -7845,11 +7840,11 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9163/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/9164/index.m3u8
 #EXTINF:0 type="stream" channelId="-1group-title="8.Oroszország" Матч! Премьер FHD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2414/index.m3u8
-#EXTINF:0 type="stream" channelId="4" group="Спорт" shift="2", Матч +2
+#EXTINF:0 type="stream" channelId="4 group-title="8.Oroszország"     shift="2", Матч +2
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6012/index.m3u8
-#EXTINF:0 type="stream" channelId="4" group="Спорт" shift="4", Матч +4
+#EXTINF:0 type="stream" channelId="4  group-title="8.Oroszország"     shift="4", Матч +4
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6023/index.m3u8
-#EXTINF:0 type="stream" channelId="4" group="Спорт" shift="8", Матч +8
+#EXTINF:0 type="stream" channelId="4 group-title="8.Oroszország"    shift="8", Матч +8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6052/index.m3u8
 #EXTINF:0 type="stream" channelId="1536group-title="8.Oroszország" Super Tennis HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6079/index.m3u8
@@ -10671,29 +10666,6 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/827/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CH: Telebasel" tvg-logo="http://iptvbeka.net/switzerland/tb_fav_icon.png" group-title="9.Svájc",CH: Telebasel
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2088
 
 #EXTM3U
 #EXTINF:-1 group-title="Csehország",ct1 HD
@@ -13886,12 +13858,10 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
 #EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORTSKA TV HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
-#EXTINF:-1 tvg-id="" tvg-name="★☆★ DE-AT-CH-IT F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png  " group-title="Sportcsatornák"    ,★☆★ DE-AT-CH-IT F1 FORMULA ★☆★
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315879
+#
 #EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 QHD UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png  " group-title="Sportcsatornák"    ,DE F1 | SKY SPORTS F1 QHD UHD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601798
-#EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png   " group-title="F1 | FORMULA SPORTS  ,DE F1 | SKY SPORTS F1 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315880
+
 #EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png " group-title="Sportcsatornák"    ,DE F1 | SKY SPORTS F1 RAW
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315881
 #EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png   " group-title="Sportcsatornák"   ,DE F1 | SKY SPORTS F1 FHD
@@ -13900,10 +13870,7 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315882
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315883
 #EXTINF:-1 tvg-id="" tvg-name="IT F1 | SKY SPORT F1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="Sportcsatornák" ,IT F1 | SKY SPORT F1 UHD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315884
-#EXTINF:-1 tvg-id="" tvg-name="AT | ORF 1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png  "  group-title="4.Ausztria"  ,     ,AT | ORF 1 RAW
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315885
-#EXTINF:-1 tvg-id="" tvg-name="AT | ORF 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png  "  group-title="4.Ausztria"  ,AT | ORF 1 HEVC
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315886
+
 #EXTINF:-1 tvg-id="" tvg-name="CH | SRF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="9.Svájc",CH | SRF 1 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315887
 #EXTINF:-1 tvg-id="" tvg-name="★☆★ UK F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="Sportcsatornák" ,★☆★ UK F1 FORMULA ★☆★
@@ -13912,14 +13879,11 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315888
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315889
 #EXTINF:-1 tvg-id="" tvg-name="UK F1 | SKY SPORTS F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png    " group-title="Sportcsatornák"   ,UK F1 | SKY SPORTS F1 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315890
-#EXTINF:-1 tvg-id="" tvg-name="UK F1 | SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",UK F1 | SKY SPORTS F1
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315891
-#EXTINF:-1 tvg-id="" tvg-name="★☆★ NL F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png   " group-title="Sportcsatornák"    ,★☆★ NL 
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315892
-#EXTINF:-1 tvg-id="" tvg-name="NL F1 | ZIGGO SPORT SELECT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png   " group-title="Sportcsatornák"   ,NL | ZIGGO SPORT SELECT FHD
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" ZIGGO SPORT SELECT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png   " group-title="Sportcsatornák" ,ZIGGO SPORT SELECT FHD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315893
-#EXTINF:-1 tvg-id="" tvg-name="NL F1 | ZIGGO SPORT SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title=" group-title="Sportcsatornák" ,NL | ZIGGO SPORT SELECT HD
-http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315894
+
 #EXTINF:-1 tvg-id="" tvg-name="★☆★ ES F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png   " group-title="Sportcsatornák"   ,★☆★ ES F1 FORMULA ★☆★
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315895
 #EXTINF:-1 tvg-id="" tvg-name="ES F1 | DAZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png " group-title="Sportcsatornák"       ,ES  | DAZN F1 FHD
