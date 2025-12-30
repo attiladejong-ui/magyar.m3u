@@ -13375,13 +13375,801 @@ http://as01.plinks-pile.su/24451/index.m3u8?token=eAE9mnX7WzaBq5
 
 #EXTINF:-1 tvg-logo="24266.png" tvg-rec="0" group-title="Sportcsatornák",WWE NETWORK [US]
 http://as01.plinks-pile.su/24266/index.m3u8?token=eAE9mnX7WzaBq5
-
-
-
-
-
 #EXTINF:-1  tvg-id="" tvg-name=" SKYSPORT UNO TV HD"     " group-title="Sportcsatornák"  ,sky sport uno
 http://167.235.89.164:8000/play/skysportuno/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ UEFA CHAMPIONS LEAGUE ★☆★" tvg-logo="https://r.resimlink.com/wgekRH-BsZXt.webp  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,★☆★ UEFA CHAMPIONS LEAGUE ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/310104
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME SPORT FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,AMAZON PRIME SPORT FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698183
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME SPORT HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,AMAZON PRIME SPORT HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698184
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME SPORT RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,AMAZON PRIME SPORT RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698185
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DAZN SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698182
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DAZN SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698179
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DAZN SPORT 1 RAW" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 1 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698181
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DAZN SPORT 1 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 1 HEVC
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698180
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DAZN SPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698187
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DAZN SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698186
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DAZN SPORT 2 RAW" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 2 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698189
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DAZN SPORT 2 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN SPORT 2 HEVC
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698188
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL KONFERENZ" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL KONFERENZ
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/864823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 1 - Arsenal - FC Bayern München" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 1 - Arsenal - FC Bayern München
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706396
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 2 - Eintracht Frankfurt - Atalanta" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 2 - Eintracht Frankfurt - Atalanta
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706395
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 3" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706394
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 4 - Liverpool - Eindhoven" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 4 - Liverpool - Eindhoven
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706393
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 5" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706392
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 6" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706391
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 7 - Sporting - Club Brugge" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 7 - Sporting - Club Brugge
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706390
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 8 - Pafos - Monaco" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 8 - Pafos - Monaco
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706389
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 9 - København - Kairat" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 9 - København - Kairat
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706388
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CL EVENT 10" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN CL EVENT 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706387
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria1hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698192
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria1hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698193
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 1 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria1hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 1 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698191
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria2hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698195
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria2hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698196
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 2 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria2hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 2 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698194
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 3 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria3hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 3 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698198
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria3hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 3 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698199
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 3 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria3hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 3 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698197
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 4 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria4hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 4 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698201
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria4hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 4 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698202
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 4 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria4hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 4 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698200
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 5 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria5hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 5 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698204
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 6 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria6hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 6 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698207
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 5 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria5hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 5 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698205
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 6 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria6hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 6 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698208
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 5 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria5hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 5 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698203
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 6 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria6hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 6 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698206
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 7 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 7 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698211
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 7 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 7 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698209
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 8 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 8 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698213
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 8 HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 8 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698214
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 8 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT AUSTRIA 8 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/698212
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT D1" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT D1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706408
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT D2" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT D2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706407
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706406
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706405
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 3" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706404
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 4" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706403
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 5" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706402
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 6" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706401
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 7" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 7
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706400
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 8" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 8
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706399
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 9" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 9
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706398
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 10" tvg-logo="https://r.resimlink.com/omLzPDqhsBu.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/706397
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NEWS" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT NEWS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665139
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT F1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665138
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665137
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665136
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665135
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665134
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY BUNDESLIGA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665133
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY BUNDESLIGA 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665132
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Flag_Germany.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY BUNDESLIGA 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665131
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665130
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665129
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665128
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665127
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,S SPORT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665126
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,S SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665125
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SPOR SMART
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665124
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SPOR SMART 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665123
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TIVIBU SPOR
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665122
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TIVIBU SPOR 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665121
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TIVIBU SPOR 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665120
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TIVIBU SPOR 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665119
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ESPN 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665118
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ESPN 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665117
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ESPN 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665116
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ESPN 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665115
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ZIGGO SPORT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665114
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ZIGGO SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665113
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ZIGGO SPORT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665112
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ZIGGO SPORT 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665111
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 5" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ZIGGO SPORT 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665110
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 6" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Hollanda.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ZIGGO SPORT 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665109
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,RAI SPORT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672533
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,EUROSPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672532
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,EUROSPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672531
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT 24
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672530
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT F1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672529
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT NBA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672528
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT MOTOGP
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672527
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT TENNIS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672526
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT GOLF
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672525
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT ARENA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672524
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT UNO
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672523
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT CALCIO" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT CALCIO
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672522
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MAX" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_italy.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORT MAX
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672521
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,EUROSPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665108
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,EUROSPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665107
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ELEVEN SPORTS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665106
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ELEVEN SPORTS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665105
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ELEVEN SPORTS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665104
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ELEVEN SPORTS 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665103
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,CANAL+ SPORT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665102
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,CANAL+ SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665101
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,CANAL+ SPORT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665100
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,CANAL+ SPORT 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665099
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,CANAL+ SPORT 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665098
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,POLSAT SPORT PREMIUM 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665097
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,POLSAT SPORT PREMIUM 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665096
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Poland.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,POLSAT SPORT PREMIUM 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665095
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN F1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672726
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672725
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672724
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672723
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672722
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,DAZN LA LIGA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672721
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,EUROSPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672720
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Flag_Spain.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,EUROSPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/672719
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT+" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,INFOSPORT+
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665094
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665093
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665092
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BEIN SPORTS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665091
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,RMC SPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665090
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,RMC SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665089
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FRANSA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,RMC SPORT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665088
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS NEWS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665087
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS F1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665086
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS GOLF
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665085
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS CRICKET
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665084
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS FOOTBALL
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665083
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS MAIN EVENT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665082
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS PREMIER LEAGUE
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665081
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ACTION" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS ACTION
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665080
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,SKY SPORTS MIX
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665079
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PAS" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,UFC FIGHT PAS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665077
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TNT SPORTS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665076
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TNT SPORTS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665075
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TNT SPORTS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665074
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/United_Kingdom.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,TNT SPORTS 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665073
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ESPN
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665072
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NEWS" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,ESPN NEWS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665071
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (FS1)" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,FOX SPORTS 1 (FS1)
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665069
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (FS2)" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,FOX SPORTS 2 (FS2)
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665068
+#EXTINF:-1 tvg-id="" tvg-name="FOX SOCCER PLUS" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,FOX SOCCER PLUS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665067
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,NBA TV
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665066
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://www.tvlogolar.xyz/logo/germany/USA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,WWE NETWORK
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/665065
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_HD.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640621
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_HD.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640620
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SK1_RS.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640619
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SK1_RS.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640618
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640617
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640616
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 3 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 3 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640615
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 3 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 3 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640614
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 4 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 4 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640613
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 4 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 4 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640612
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 5 FHD" tvg-logo="https://tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 5 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640611
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 5 HD" tvg-logo="https://tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 5 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640610
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 6 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 6 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640609
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 6 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 6 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640608
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 7 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_7.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 7 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640607
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 7 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_7.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 7 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640606
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 8 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_8.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 8 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640605
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 8 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_8.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 8 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640604
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 9 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_9.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 9 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640603
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SPORT KLUB 10 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_10.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SPORT KLUB 10 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640602
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640601
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640600
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640599
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640598
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 3 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 3 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640597
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 3 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 3 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640596
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 4 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 4 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640595
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 4 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 4 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640594
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 5 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 5 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640593
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 5 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 5 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640592
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 6 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 6 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640591
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 6 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 6 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640590
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 7 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_7.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 7 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640589
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 7 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_7.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 7 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640588
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 8 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_8.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 8 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640587
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 8 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_8.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 8 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640586
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 9 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Arena_Sport_9.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 9 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640585
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 10 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Arena_Sport_10.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 10 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640584
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 1X2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Arena_1x2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 1X2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640583
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 1X2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Arena_1x2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 1X2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640582
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 1 PREMIUM FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/a1-premium.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 1 PREMIUM FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640581
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 1 PREMIUM HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/a1-premium.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 1 PREMIUM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640580
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 2 PREMIUM FHD" tvg-logo="https://tvlogolar.xyz/logo/Sirbistan/a2-premium.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 2 PREMIUM FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640579
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 2 PREMIUM HD" tvg-logo="https://tvlogolar.xyz/logo/Sirbistan/a2-premium.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 2 PREMIUM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640578
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 3 PREMIUM FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/a3-premium.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 3 PREMIUM FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640577
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ARENA SPORT 3 PREMIUM HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/a3-premium.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ARENA SPORT 3 PREMIUM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640576
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ EUROSPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ EUROSPORT 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640563
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ EUROSPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ EUROSPORT 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640562
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ EUROSPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ EUROSPORT 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640561
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ EUROSPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ EUROSPORT 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640560
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ NOVA SPORT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Nova_sport.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ NOVA SPORT FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640575
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ NOVA SPORT HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Nova_sport.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ NOVA SPORT HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640574
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ZVEZDA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ZVEZDA.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ZVEZDA TV FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640573
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ ZVEZDA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ZVEZDA.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ ZVEZDA TV HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640572
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ TV PARTIZAN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/TV_PARTIZAN.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ TV PARTIZAN FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640571
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ TV PARTIZAN HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/TV_PARTIZAN.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ TV PARTIZAN HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640570
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SOS KANAL HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SOS-Kanal-Plus.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SOS KANAL HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640569
+#EXTINF:-1 tvg-id="" tvg-name="SRB⚜️ SOS KANAL" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SOS-Kanal-Plus.png  " group-title="Sportcsatornák"  | SPORT BALKAN",SRB⚜️ SOS KANAL
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640568
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ MAX SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/maxsport1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ MAX SPORT 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640567
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ MAX SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/maxsport1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ MAX SPORT 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640566
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ MAX SPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/maxsport2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ MAX SPORT 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640565
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ MAX SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/maxsport2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ MAX SPORT 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640564
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640559
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_1.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640558
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640557
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640556
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 3 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 3 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640555
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 3 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 3 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640554
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 4 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 4 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640553
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 4 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 4 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640552
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 5 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 5 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640551
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 5 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 5 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640550
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 6 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 6 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640549
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 6 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 6 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640548
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 7 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_7.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 7 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640547
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 7 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_7.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 7 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640546
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 8 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_8.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 8 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640545
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 8 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_8.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 8 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640544
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 9 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Arena_Sport_9.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 9 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640543
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA SPORT 10 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Arena_Sport_10.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA SPORT 10 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640542
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA FIGHT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/arena_fight.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA FIGHT FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640541
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ ARENA FIGHT HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/arena_fight.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ ARENA FIGHT HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640540
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_HD.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640539
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_HD.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640538
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SK1_RS.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640537
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SK1_RS.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640536
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 2 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640535
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_2.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 2 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640534
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 3 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 3 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640533
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 3 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_3.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 3 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640532
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 4 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 4 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640531
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 4 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_4.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 4 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640530
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 5 FHD" tvg-logo="https://tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 5 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640529
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 5 HD" tvg-logo="https://tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_5.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 5 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640528
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 6 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 6 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640527
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB 6 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORT_KLUB_6.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB 6 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640526
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB FIGHT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/sk-fight-hd.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB FIGHT FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640525
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB FIGHT HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/sk-fight-hd.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB FIGHT HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640524
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB GOLF FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/sk-golf-hd.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB GOLF FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640523
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORT KLUB GOLF HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/sk-golf-hd.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORT KLUB GOLF HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640522
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORTSKA TV FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640521
+#EXTINF:-1 tvg-id="" tvg-name="HR⚜️ SPORTSKA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/SPORTSKA.png  " group-title="Sportcsatornák"  | SPORT BALKAN",HR⚜️ SPORTSKA TV HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/640520
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ DE-AT-CH-IT F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",★☆★ DE-AT-CH-IT F1 FORMULA ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315879
+#EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 QHD UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",DE F1 | SKY SPORTS F1 QHD UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601798
+#EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",DE F1 | SKY SPORTS F1 HEVC
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315880
+#EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",DE F1 | SKY SPORTS F1 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315881
+#EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",DE F1 | SKY SPORTS F1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315882
+#EXTINF:-1 tvg-id="" tvg-name="DE F1 | SKY SPORTS F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",DE F1 | SKY SPORTS F1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315883
+#EXTINF:-1 tvg-id="" tvg-name="IT F1 | SKY SPORT F1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",IT F1 | SKY SPORT F1 UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315884
+#EXTINF:-1 tvg-id="" tvg-name="AT | ORF 1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",AT | ORF 1 RAW
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315885
+#EXTINF:-1 tvg-id="" tvg-name="AT | ORF 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",AT | ORF 1 HEVC
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315886
+#EXTINF:-1 tvg-id="" tvg-name="CH | SRF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",CH | SRF 1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315887
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ UK F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",★☆★ UK F1 FORMULA ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315888
+#EXTINF:-1 tvg-id="" tvg-name="UK F1 | SKY SPORTS F1 BACKUP (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",UK F1 | SKY SPORTS F1 BACKUP (UK)
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315889
+#EXTINF:-1 tvg-id="" tvg-name="UK F1 | SKY SPORTS F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",UK F1 | SKY SPORTS F1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315890
+#EXTINF:-1 tvg-id="" tvg-name="UK F1 | SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",UK F1 | SKY SPORTS F1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315891
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ NL F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",★☆★ NL F1 FORMULA ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315892
+#EXTINF:-1 tvg-id="" tvg-name="NL F1 | ZIGGO SPORT SELECT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",NL F1 | ZIGGO SPORT SELECT FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315893
+#EXTINF:-1 tvg-id="" tvg-name="NL F1 | ZIGGO SPORT SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",NL F1 | ZIGGO SPORT SELECT HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315894
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ ES F1 FORMULA ★☆★" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",★☆★ ES F1 FORMULA ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315895
+#EXTINF:-1 tvg-id="" tvg-name="ES F1 | DAZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",ES F1 | DAZN F1 FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315896
+#EXTINF:-1 tvg-id="" tvg-name="ES F1 | DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="F1 | FORMULA SPORTS",ES F1 | DAZN F1 HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315897
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ GOLF SPORTS ★☆★" tvg-logo="https://i.imgur.com/PZsZhnf.png" group-title="GOLF | SPORT",★☆★ GOLF SPORTS ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315898
+#EXTINF:-1 tvg-id="" tvg-name="GOLF US | GOLF CHANNEL FHD" tvg-logo="https://i.imgur.com/vYMRKcV.png" group-title="GOLF | SPORT",GOLF US | GOLF CHANNEL FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315899
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CA | GOLF CHANNEL" tvg-logo="https://i.imgur.com/vYMRKcV.png" group-title="GOLF | SPORT",GOLF CA | GOLF CHANNEL
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315900
+#EXTINF:-1 tvg-id="" tvg-name="GOLF US | GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/vYMRKcV.png" group-title="GOLF | SPORT",GOLF US | GOLF CHANNEL HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315901
+#EXTINF:-1 tvg-id="" tvg-name="GOLF UK | SKY SPORTS GOLF HD" tvg-logo="https://i.imgur.com/gqTtD2j.png" group-title="GOLF | SPORT",GOLF UK | SKY SPORTS GOLF HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315902
+#EXTINF:-1 tvg-id="" tvg-name="GOLF UK | SKY SPORTS GOLF HEVC" tvg-logo="https://i.imgur.com/gqTtD2j.png" group-title="GOLF | SPORT",GOLF UK | SKY SPORTS GOLF HEVC
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315903
+#EXTINF:-1 tvg-id="" tvg-name="GOLF | DSTV SUPERSPORT" tvg-logo="https://i.imgur.com/vYMRKcV.png" group-title="GOLF | SPORT",GOLF | DSTV SUPERSPORT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315904
+#EXTINF:-1 tvg-id="" tvg-name="GOLF DE | SKY SPORT GOLF HD" tvg-logo="https://i.imgur.com/gqTtD2j.png" group-title="GOLF | SPORT",GOLF DE | SKY SPORT GOLF HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315905
+#EXTINF:-1 tvg-id="" tvg-name="GOLF DE | SKY SPORT GOLF HEVC" tvg-logo="https://i.imgur.com/gqTtD2j.png" group-title="GOLF | SPORT",GOLF DE | SKY SPORT GOLF HEVC
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315906
+#EXTINF:-1 tvg-id="" tvg-name="PPV | GLORY KICKBOXING" tvg-logo="http://xc.contact:80/images/qvW5pdVQquQYwfqTBhiRR52MIkl4lzf5Eb1XC88pXNdKxA87TkHFj4yQyQLs_EAIWooR6_WQ2lrIStfMdkb27nDAgDK97rNF3opqCWjTa6uZHXMmwsYyXAXMhENqMP6CcUK_bKF-27TT0hc87RBvyQ.png" group-title="PPV | GLORY KICKBOXING",PPV | GLORY KICKBOXING
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/664210
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC TURKBOX PRO" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC TURKBOX PRO
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625181
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 7/24-1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 7/24-1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625180
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 7/24-2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 7/24-2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625179
+#EXTINF:-1 tvg-id="" tvg-name="PPV | WWE NETWORK" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WWE-network.png" group-title="PPV | GLORY KICKBOXING",PPV | WWE NETWORK
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625178
+#EXTINF:-1 tvg-id="" tvg-name="PPV | PRIME FIGHT" tvg-logo="https://www.tvlogolar.xyz/logo/germany/prime_fight_logo.png" group-title="PPV | GLORY KICKBOXING",PPV | PRIME FIGHT
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625177
+#EXTINF:-1 tvg-id="" tvg-name="PPV | PRIME SHOW MMA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Prime_Show_MMA.png" group-title="PPV | GLORY KICKBOXING",PPV | PRIME SHOW MMA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625176
+#EXTINF:-1 tvg-id="" tvg-name="PPV | FAME MMA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/FAME.MMA.png" group-title="PPV | GLORY KICKBOXING",PPV | FAME MMA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625175
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625174
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625173
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625172
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625171
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UFC FIGHT PASS 5" tvg-logo="https://www.tvlogolar.xyz/logo/germany/fight-pass.png" group-title="PPV | GLORY KICKBOXING",PPV | UFC FIGHT PASS 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/625170
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ VIAPLAY ★☆★" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",★☆★ VIAPLAY ★☆★
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315047
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY SP0RTS HD" tvg-logo="https://i.ibb.co/KzgGw0D/image.png  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY SP0RTS HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315039
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY SP0RTS" tvg-logo="https://i.ibb.co/KzgGw0D/image.png  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY SP0RTS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315040
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA HD" tvg-logo="https://i.ibb.co/KzgGw0D/image.png  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315043
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA" tvg-logo="https://i.ibb.co/KzgGw0D/image.png  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315044
+#EXTINF:-1 tvg-id="" tvg-name="ROOT SPORTS HD" tvg-logo="https://i.ibb.co/KzgGw0D/image.png  " group-title="Sportcsatornák"  | SPORT VIAPLAY",ROOT SPORTS HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315041
+#EXTINF:-1 tvg-id="" tvg-name="ROOT SPORTS" tvg-logo="https://i.ibb.co/KzgGw0D/image.png  " group-title="Sportcsatornák"  | SPORT VIAPLAY",ROOT SPORTS
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/315042
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 1" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601278
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 2" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601277
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 3" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601276
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 4" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601275
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 5" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601274
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 6" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601273
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 7" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 7
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601272
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 8" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 8
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601271
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 9" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 9
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601270
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 10" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601269
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 11" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 11
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601268
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 12" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 12
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601267
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 13" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 13
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601266
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 14" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 14
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601265
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 15" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 15
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601264
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 16" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 16
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601263
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 17" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 17
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601262
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 18" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 18
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601261
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 19" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 19
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601260
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 20" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 20
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601259
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 21" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 21
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601258
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 22" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 22
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601257
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 23" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 23
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601256
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 25" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 25
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601255
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 26" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 26
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601254
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 27" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 27
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601253
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 28" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 28
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601252
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 29" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 29
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601251
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 30" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 30
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601250
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 32" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 32
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601249
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 33" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 33
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601248
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 34" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 34
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601247
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 35" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 35
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601246
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 36" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 36
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601245
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 37" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 37
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601244
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 38" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 38
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601243
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 39" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 39
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601242
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 40" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 40
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601241
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 41" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 41
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601240
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 42" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 42
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601239
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 42" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 42
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601238
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 43" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 43
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601237
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 44" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 44
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601236
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 45" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 45
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601235
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 46" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 46
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601234
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 47" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 47
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601233
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 48" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 48
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601232
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 49" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 49
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601231
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 50" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 50
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601230
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 51" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 51
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601229
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 52" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 52
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601228
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 53" tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg  " group-title="Sportcsatornák"  | SPORT VIAPLAY",VIAPLAY XTRA 53
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/601227
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT F FHD" tvg-logo="https://quickline.ch/media/c3pgmig4/swi_bluetv_paket_sport_rgb_pos.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT F FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669408
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT D1 DE FHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwWCvGxfbobnDYXMNUKr6HIJQyn4tENP0denM-fI3RgVonF4oNVVV_qt979TOkOjkk.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT D1 DE FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669407
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT D2 DE FHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwaT--G_JDxOFrDbjyeR2m94Cgm27fff0jKjRNmZ9aVp2UABPYXgRCxnBwG6qztVJF.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT D2 DE FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669406
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT ZOOM HD" tvg-logo="https://image-service.goldbach.com/GT78B-CWVWCkbxsoCImhmqdcFc8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production/5f574a8de2f9196327ad89f6/2021/04/bluezoom_logo_negativ-2.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT ZOOM HD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669405
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT ZOOM D FHD" tvg-logo="https://image-service.goldbach.com/GT78B-CWVWCkbxsoCImhmqdcFc8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production/5f574a8de2f9196327ad89f6/2021/04/bluezoom_logo_negativ-2.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT ZOOM D FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669404
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT ZOOM F FHD" tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/blue_ZOOM_F_Bright_Themes.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT ZOOM F FHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669403
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwVExISIKRn-H6y5cMusnRc1_TEBKJhOUbD3FhM1Ij6cKT58oYeDnfc7vWg0Z3y7n_.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 1 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669402
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwsCp-NNFr53z32pQ1v-KsaVczYPVsa8mBuswT2EcPxmF_25rQ-SJvU9I1IuW-Ve7Y.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 2 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669401
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 3 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gwa3Y2-rMyZ-nRcGqICRX2VlQGtBSBym6IzMxoubYfds6idCNuV4JRtF4MaaoNEQnc.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 3 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669400
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 4 DE UHD" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw5fkk1vslOO0zKQ8XlG2guveVn7LW1h6sLLcd4apaEVmp8a6AWoYwR90P7trWUuhx.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 4 DE UHD
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669399
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw_FGv_3twRWmkV-9hDkWhxr_4Xg3FcMNsG7qileT_uUkeN648QGrfxFRuM7bwdk5S.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669398
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2" tvg-logo="http://miguelpremium.xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwaT--G_JDxOFrDbjyeR2m94Cgm27fff0jKjRNmZ9aVp2UABPYXgRCxnBwG6qztVJF.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669397
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 3" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwpzdW4j247lrV8m0ieitNIyV326O39GR4Hkwbl070Nr_XhBqpJNpQlV1Z8PRCEo7Z.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669396
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 4" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw_P3BcVKbh328spaC-0_QHqeJIqNzWWApWqUVU-mSWPSS4wtfRnji0XhlasFc6ZPP.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669395
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 5" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw50JVnEVMHPv1VaXaHwa5tow4GwwpdBHv9KjSl-gdeKRDJtyls_rya9FuNNDYbrVR.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669394
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 6" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwCdFrE4-9AW8FhPd0bgHxA3leKVRKB8_x6wdKlHJO_85OYFLFrbk8rfvFAXp3dPU3.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669393
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 7" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwkkhSbFdgrfFO6J0Wmo5LWrefWDjDlMbBHqLC5WV0kfMKizEx4njpHxPK79KDjUfX.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 7
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669392
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 8" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gwnv17njT8uTsF2esS20jk8qS2SyhhU4pUzBaoQW3R2Fcm2Gu9zPRD1ecEFM7rt2_p.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 8
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669391
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 9" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwnXs4iclom_a1ME4QvL9hNrOifVdwbWNCfOHtB6pcF7xb94Y-IkePD2_DVI9-xGOE.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 9
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669390
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 10" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwzQM69hLuqs_9xcMEVlzGYjabUD6lWh2yhNTshWM261LakYbJ0brgWnGe8jHUo4mw.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669389
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 11" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw8TuUWllJhs3IgdRBf5540fAbAjpMwQipcR80YRyED_zu22JGbcBn2Yx_dUVIiyEw.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 11
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669388
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 12" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwaOqe49wfvvCtVm0tNG9sRNBVbN2E3N3wdyS-svBpZwM8wS8Tm3xhBlLqkpMNKwPe.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 12
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669387
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 13" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwVFF_wFQb8SchILSvLbKcChWc7ZHZxThOoNjpclDVFBHgQ1vSBEJY5_hX5_0DL5cA.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 13
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669386
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 14" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02GwMrntLLj0hXns8ob65J9E_yPgXJyGK9y_kmUcHbSw4Sqz1KJShuu8YdNAvsE0nZIO.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 14
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669385
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 15" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw5UrmH9iL7RldDjxpzIGVwG2fRcknmxtl6UbtS18yL9JoAoKPAqDFZ5ZGUcRKdTTp.png  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 15
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669384
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 16" tvg-logo="http://176.65.128.154:80/images/channels_image/63109181358.jpg  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 16
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669383
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 17" tvg-logo="http://176.65.128.154:80/images/channels_image/89496440991.jpg  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,BLUE SPORT 17
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669382
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS EDGE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/edge-sport-vod.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS EDGE
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669381
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-eins-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 1
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669380
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-2-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 2
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669379
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-3-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 3
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669378
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-4-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 4
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669377
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-5-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 5
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669376
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-6-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 6
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669375
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-7-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 7
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669374
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-8-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 8
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669373
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-9-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 9
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669372
+#EXTINF:-1 tvg-id="" tvg-name="MY SPORTS 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-10-ch.png?raw=true  " group-title="Sportcsatornák"  |  " group-title="Sportcsatornák"  ,MY SPORTS 10
+http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/669371
+
+
+
+
+
+
 
 
 
