@@ -2570,8 +2570,7 @@ http://45.90.106.7:9790/play/FzW7519i2@T4V
 http://45.90.106.7:9790/play/ExQ207N3b@Y2V
 
 
-#EXTINF:0 group-title="Hollandia",192 TV
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/1147
+#EXTINF:0 group-title="Hollandia",
 
 
 
@@ -12093,24 +12092,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9158
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/9155
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 1 SD" tvg-logo="" group-title="Görögország",GR: ERT 1 SD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2180
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 2 HD" tvg-logo="" group-title="Görögország",GR: ERT 2 HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2181
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 3 HD" tvg-logo="" group-title="Görögország",GR: ERT 3 HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2183
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT WORLD" tvg-logo="" group-title="Görögország",GR: ERT WORLD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2185
-#EXTINF:-1 tvg-id="" tvg-name="GR: Alpha" tvg-logo="" group-title="Görögország",GR: Alpha
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2197
-#EXTINF:-1 tvg-id="" tvg-name="GR: SKAI HD" tvg-logo="" group-title="Görögország",GR: SKAI HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2200
-#EXTINF:-1 tvg-id="" tvg-name="GR: Baby TV HD " tvg-logo="" group-title="Görögország",GR: Baby TV HD 
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5948
-#EXTINF:-1 tvg-id="" tvg-name="GR: Viasat Explore HD" tvg-logo="" group-title="Görögország",GR:Viasat Explore HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5944
-#EXTINF:-1 tvg-id="" tvg-name="GR: BBC EARTH HD" tvg-logo="" group-title="Görögország",GR: BBC EARTH HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/5941
+
 
 
 #EXTM3U
@@ -14334,419 +14316,6 @@ http://as01.plinks-pile.su/21648/index.m3u8?token=eAE9mnX7WzaBq5
 http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2540
 #EXTINF:-1 tvg-name="========== BE Vlaanderen ==========" group-title="Belgium",========== BE Vlaanderen ==========
 http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/48360
-#EXTINF:-1 tvg-name="VRT 1 HD BE" group-title="Belgium",VRT 1 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128382
-#EXTINF:-1 tvg-name="VRT CANVAS FHD BE" group-title="Belgium",VRT CANVAS FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128381
-#EXTINF:-1 tvg-name="VTM 1 FHD BE" group-title="Belgium",VTM 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128380
-#EXTINF:-1 tvg-name="VTM 1 HD BE" group-title="Belgium",VTM 1 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128379
-#EXTINF:-1 tvg-name="VTM 2 HD BE" group-title="Belgium",VTM 2 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128378
-#EXTINF:-1 tvg-name="VTM 3 FHD BE" group-title="Belgium",VTM 3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128377
-#EXTINF:-1 tvg-name="VTM 3 HD BE" group-title="Belgium",VTM 3 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128376
-#EXTINF:-1 tvg-name="VTM 4 HD BE" group-title="Belgium",VTM 4 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128375
-#EXTINF:-1 tvg-name="PLAY 4 HD BE" group-title="Belgium",PLAY 4 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128374
-#EXTINF:-1 tvg-name="PLAY 5 HD BE" group-title="Belgium",PLAY 5 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128373
-#EXTINF:-1 tvg-name="PLAY 6 HD BE" group-title="Belgium",PLAY 6 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128372
-#EXTINF:-1 tvg-name="PLAY CRIME BE" group-title="Belgium",PLAY CRIME BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128371
-#EXTINF:-1 tvg-name="KETNET HD BE" group-title="Belgium",KETNET HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128370
-#EXTINF:-1 tvg-name="KETNET FHD BE" group-title="Belgium",KETNET FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128369
-#EXTINF:-1 tvg-name="VTM LIFE BE" group-title="Belgium",VTM LIFE BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128368
-#EXTINF:-1 tvg-name="PLAY MORE CINEMA BE" group-title="Belgium",PLAY MORE CINEMA BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128367
-#EXTINF:-1 tvg-name="PLAY MORE KICKS BE" group-title="Belgium",PLAY MORE KICKS BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128366
-#EXTINF:-1 tvg-name="PLAY MORE BLACK BE" group-title="Belgium",PLAY MORE BLACK BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128365
-#EXTINF:-1 tvg-name="NJAM! HD BE" group-title="Belgium",NJAM! HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128364
-#EXTINF:-1 tvg-name="STAR CHANNEL BE" group-title="Belgium",STAR CHANNEL BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128363
-#EXTINF:-1 tvg-name="E! ENTERTAINMENT HD BE" group-title="Belgium",E! ENTERTAINMENT HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128362
-#EXTINF:-1 tvg-name="NAT GEO CHANNEL BE" group-title="Belgium",NAT GEO CHANNEL BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128361
-#EXTINF:-1 tvg-name="NAT GEO WILD BE" group-title="Belgium",NAT GEO WILD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128360
-#EXTINF:-1 tvg-name="DISCOVERY ID HD BE" group-title="Belgium",DISCOVERY ID HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128359
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD BE" group-title="Belgium",DISCOVERY CHANNEL HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128358
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD BE" group-title="Belgium",DISCOVERY SCIENCE HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128357
-#EXTINF:-1 tvg-name="CRIME + INVESTIGATION BE" group-title="Belgium",CRIME + INVESTIGATION BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128356
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD BE" group-title="Belgium",ANIMAL PLANET HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128355
-#EXTINF:-1 tvg-name="TLC HD BE" group-title="Belgium",TLC HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128354
-#EXTINF:-1 tvg-name="MTV HD BE" group-title="Belgium",MTV HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128353
-#EXTINF:-1 tvg-name="BABY TV HD BE" group-title="Belgium",BABY TV HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128352
-#EXTINF:-1 tvg-name="NICK JR. HD BE" group-title="Belgium",NICK JR. HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128351
-#EXTINF:-1 tvg-name="NICK MUSIC BE" group-title="Belgium",NICK MUSIC BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128350
-#EXTINF:-1 tvg-name="NICKTOONS BE" group-title="Belgium",NICKTOONS BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128349
-#EXTINF:-1 tvg-name="DISNEY CHANNEL BE" group-title="Belgium",DISNEY CHANNEL BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128348
-#EXTINF:-1 tvg-name="CARTOON NETWORK BE" group-title="Belgium",CARTOON NETWORK BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128347
-#EXTINF:-1 tvg-name="BBC FIRST BE" group-title="Belgium",BBC FIRST BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128346
-#EXTINF:-1 tvg-name="HISTORY BE" group-title="Belgium",HISTORY BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128345
-#EXTINF:-1 tvg-name="KANAAL Z HD BE" group-title="Belgium",KANAAL Z HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128344
-#EXTINF:-1 tvg-name="LOVE NATURE BE" group-title="Belgium",LOVE NATURE BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128343
-#EXTINF:-1 tvg-name="DUCK TV BE" group-title="Belgium",DUCK TV BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128342
-#EXTINF:-1 tvg-name="TVL FHD BE" group-title="Belgium",TVL FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128341
-#EXTINF:-1 tvg-name="HLN LIVE BE" group-title="Belgium",HLN LIVE BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128340
-#EXTINF:-1 tvg-name="BRUZZ FHD BE" group-title="Belgium",BRUZZ FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128339
-#EXTINF:-1 tvg-name="MENT POP HD BE" group-title="Belgium",MENT POP HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128338
-#EXTINF:-1 tvg-name="LA UNE FHD BE" group-title="Belgium",LA UNE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128337
-#EXTINF:-1 tvg-name="TIPIK FHD BE" group-title="Belgium",TIPIK FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128336
-#EXTINF:-1 tvg-name="CLUB RTL FHD BE" group-title="Belgium",CLUB RTL FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128335
-#EXTINF:-1 tvg-name="PLUG RTL FHD BE" group-title="Belgium",PLUG RTL FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128334
-#EXTINF:-1 tvg-name="AB1 BE" group-title="Belgium",AB1 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128333
-#EXTINF:-1 tvg-name="LN24 FHD BE" group-title="Belgium",LN24 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128332
-#EXTINF:-1 tvg-name="BX1 HD BE" group-title="Belgium",BX1 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128331
-#EXTINF:-1 tvg-name="BE1 FHD BE" group-title="Belgium",BE1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128330
-#EXTINF:-1 tvg-name="BE1 +1 FHD BE" group-title="Belgium",BE1 +1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128329
-#EXTINF:-1 tvg-name="AB XPLORE FHD BE" group-title="Belgium",AB XPLORE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128328
-#EXTINF:-1 tvg-name="PLUG RTL HD BE" group-title="Belgium",PLUG RTL HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128327
-#EXTINF:-1 tvg-name="AB3 FHD BE" group-title="Belgium",AB3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128326
-#EXTINF:-1 tvg-name="ACTION BE" group-title="Belgium",ACTION BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128325
-#EXTINF:-1 tvg-name="TRACEURBAN BE" group-title="Belgium",TRACEURBAN BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128324
-#EXTINF:-1 tvg-name="NICKELODEON BE" group-title="Belgium",NICKELODEON BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128323
-#EXTINF:-1 tvg-name="NICKELODEON 4 TEEN BE" group-title="Belgium",NICKELODEON 4 TEEN BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128322
-#EXTINF:-1 tvg-name="DISNEY CHANNEL HD BE" group-title="Belgium",DISNEY CHANNEL HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128321
-#EXTINF:-1 tvg-name="NAT GEO FHD BE" group-title="Belgium",NAT GEO FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128320
-#EXTINF:-1 tvg-name="COMEDY CENTRAL BE" group-title="Belgium",COMEDY CENTRAL BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128319
-#EXTINF:-1 tvg-name="MTV FHD BE" group-title="Belgium",MTV FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128318
-#EXTINF:-1 tvg-name="RTL TVI FHD BE" group-title="Belgium",RTL TVI FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128317
-#EXTINF:-1 tvg-name="SERIES FHD BE" group-title="Belgium",SERIES FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128316
-#EXTINF:-1 tvg-name="CINE FHD BE" group-title="Belgium",CINE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128315
-#EXTINF:-1 tvg-name="RTC TELE LIEGE FHD BE" group-title="Belgium",RTC TELE LIEGE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128314
-#EXTINF:-1 tvg-name="TELESAMBRE FHD BE" group-title="Belgium",TELESAMBRE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128313
-#EXTINF:-1 tvg-name="TV LUX FHD BE" group-title="Belgium",TV LUX FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128312
-#EXTINF:-1 tvg-name="BOUKE FHD BE" group-title="Belgium",BOUKE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128311
-#EXTINF:-1 tvg-name="BX 1 FHD BE" group-title="Belgium",BX 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128310
-#EXTINF:-1 tvg-name="PIWI+ FHD BE" group-title="Belgium",PIWI+ FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128309
-#EXTINF:-1 tvg-name="LA TROIS FHD BE" group-title="Belgium",LA TROIS FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128308
-#EXTINF:-1 tvg-name="TF1 FHD BE" group-title="Belgium",TF1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128307
-#EXTINF:-1 tvg-name="FRANCE 2 FHD BE" group-title="Belgium",FRANCE 2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128306
-#EXTINF:-1 tvg-name="FRANCE 3 FHD BE" group-title="Belgium",FRANCE 3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128305
-#EXTINF:-1 tvg-name="ARTE BELGIQUE FHD BE" group-title="Belgium",ARTE BELGIQUE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128304
-#EXTINF:-1 tvg-name="13E RUE FHD BE" group-title="Belgium",13E RUE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128303
-#EXTINF:-1 tvg-name="TV5 MONDE FHD BE" group-title="Belgium",TV5 MONDE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128302
-#EXTINF:-1 tvg-name="FRANCE 5 FHD BE" group-title="Belgium",FRANCE 5 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128301
-#EXTINF:-1 tvg-name="TMC FHD BE" group-title="Belgium",TMC FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128300
-#EXTINF:-1 tvg-name="CINE+P FHD BE" group-title="Belgium",CINE+P FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128299
-#EXTINF:-1 tvg-name="CINE+ F FHD BE" group-title="Belgium",CINE+ F FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128298
-#EXTINF:-1 tvg-name="CINE+ C FHD BE" group-title="Belgium",CINE+ C FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128297
-#EXTINF:-1 tvg-name="AUTOMOTO FHD BE" group-title="Belgium",AUTOMOTO FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128296
-#EXTINF:-1 tvg-name="FRANCE 4 FHD BE" group-title="Belgium",FRANCE 4 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128295
-#EXTINF:-1 tvg-name="VEDIA FHD BE" group-title="Belgium",VEDIA FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128294
-#EXTINF:-1 tvg-name="TELEMB FHD BE" group-title="Belgium",TELEMB FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128293
-#EXTINF:-1 tvg-name="ACTV FHD BE" group-title="Belgium",ACTV FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128292
-#EXTINF:-1 tvg-name="GULLI FHD BE" group-title="Belgium",GULLI FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128291
-#EXTINF:-1 tvg-name="USHUAIA TV FHD BE" group-title="Belgium",USHUAIA TV FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128290
-#EXTINF:-1 tvg-name="MGG TV FHD BE" group-title="Belgium",MGG TV FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128289
-#EXTINF:-1 tvg-name="CSTAR FHD BE" group-title="Belgium",CSTAR FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128288
-#EXTINF:-1 tvg-name="TV BREIZH FHD BE" group-title="Belgium",TV BREIZH FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128287
-#EXTINF:-1 tvg-name="LCI FHD BE" group-title="Belgium",LCI FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128286
-#EXTINF:-1 tvg-name="EURONEWS FHD BE" group-title="Belgium",EURONEWS FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128285
-#EXTINF:-1 tvg-name="FRANCE 24 FHD BE" group-title="Belgium",FRANCE 24 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128284
-#EXTINF:-1 tvg-name="CANAL Z FHD BE" group-title="Belgium",CANAL Z FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128283
-#EXTINF:-1 tvg-name="NICKELODEON FHD BE" group-title="Belgium",NICKELODEON FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128282
-#EXTINF:-1 tvg-name="BOOMERANG FHD BE" group-title="Belgium",BOOMERANG FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128281
-#EXTINF:-1 tvg-name="DISNEY CHANNEL FHD BE" group-title="Belgium",DISNEY CHANNEL FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128280
-#EXTINF:-1 tvg-name="DISNEY JUNIOR FHD BE" group-title="Belgium",DISNEY JUNIOR FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128279
-#EXTINF:-1 tvg-name="BEL RTL BE" group-title="Belgium",BEL RTL BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128278
-#EXTINF:-1 tvg-name="RTL DISTRICT BE" group-title="Belgium",RTL DISTRICT BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128277
-#EXTINF:-1 tvg-name="CLUBBING TV BE" group-title="Belgium",CLUBBING TV BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128276
-#EXTINF:-1 tvg-name="PLAY SPORTS 1 BE" group-title="Belgium",PLAY SPORTS 1 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128275
-#EXTINF:-1 tvg-name="PLAY SPORTS 2 BE" group-title="Belgium",PLAY SPORTS 2 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128274
-#EXTINF:-1 tvg-name="PLAY SPORTS 3 BE" group-title="Belgium",PLAY SPORTS 3 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128273
-#EXTINF:-1 tvg-name="PLAY SPORTS 4 BE" group-title="Belgium",PLAY SPORTS 4 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128272
-#EXTINF:-1 tvg-name="PLAY SPORTS 4 HD BE" group-title="Belgium",PLAY SPORTS 4 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128271
-#EXTINF:-1 tvg-name="PLAY SPORTS 5 BE" group-title="Belgium",PLAY SPORTS 5 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128270
-#EXTINF:-1 tvg-name="PLAY SPORTS 6 BE" group-title="Belgium",PLAY SPORTS 6 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128269
-#EXTINF:-1 tvg-name="PLAY SPORTS 7 BE" group-title="Belgium",PLAY SPORTS 7 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128268
-#EXTINF:-1 tvg-name="PLAY SPORTS 8 BE" group-title="Belgium",PLAY SPORTS 8 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128267
-#EXTINF:-1 tvg-name="DAZN 6 HD BE" group-title="Belgium",DAZN 6 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128266
-#EXTINF:-1 tvg-name="SPORT 10 BE" group-title="Belgium",SPORT 10 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128265
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD BE" group-title="Belgium",EUROSPORT 1 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128264
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD BE" group-title="Belgium",EUROSPORT 2 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128263
-#EXTINF:-1 tvg-name="DAZN Live Events 1 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 1 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130304
-#EXTINF:-1 tvg-name="DAZN Live Events 2 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 2 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130305
-#EXTINF:-1 tvg-name="DAZN Live Events 3 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 3 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130306
-#EXTINF:-1 tvg-name="DAZN Live Events 4 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 4 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130307
-#EXTINF:-1 tvg-name="DAZN Live Events 5 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 5 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130308
-#EXTINF:-1 tvg-name="DAZN Live Events 6 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 6 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130309
-#EXTINF:-1 tvg-name="DAZN Live Events 7 BE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dazn-ca.png?raw=true" group-title="Belgium",DAZN Live Events 7 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/130310
-#EXTINF:-1 tvg-name="DAZN PRO LEAGUES 1 FHD BE" group-title="Belgium",DAZN PRO LEAGUES 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128262
-#EXTINF:-1 tvg-name="DAZN PRO LEAGUES 1 HD BE" group-title="Belgium",DAZN PRO LEAGUES 1 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128261
-#EXTINF:-1 tvg-name="DAZN PRO LEAGUES 2 FHD BE" group-title="Belgium",DAZN PRO LEAGUES 2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128260
-#EXTINF:-1 tvg-name="DAZN PRO LEAGUES 2 HD BE" group-title="Belgium",DAZN PRO LEAGUES 2 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128259
-#EXTINF:-1 tvg-name="DAZN PRO LEAGUES 3 FHD BE" group-title="Belgium",DAZN PRO LEAGUES 3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128258
-#EXTINF:-1 tvg-name="DAZN PRO LEAGUES 3 HD BE" group-title="Belgium",DAZN PRO LEAGUES 3 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128257
-#EXTINF:-1 tvg-name="DAZN 1 FHD BE" group-title="Belgium",DAZN 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128256
-#EXTINF:-1 tvg-name="DAZN 2 FHD BE" group-title="Belgium",DAZN 2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128255
-#EXTINF:-1 tvg-name="DAZN 3 FHD BE" group-title="Belgium",DAZN 3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128254
-#EXTINF:-1 tvg-name="DAZN 4 HD BE" group-title="Belgium",DAZN 4 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128253
-#EXTINF:-1 tvg-name="DAZN 5 HD BE" group-title="Belgium",DAZN 5 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128252
-#EXTINF:-1 tvg-name="DIVERTISSEZ VOO FHD BE" group-title="Belgium",DIVERTISSEZ VOO FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/128251
-#EXTINF:-1 tvg-name="ABXplore BE" group-title="Belgium",ABXplore BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/113642
-#EXTINF:-1 tvg-name="Eleven Pro League 3 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eleven-sports-pro-league-3-fr-be.png" group-title="Belgium",Eleven Pro League 3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/90910
-#EXTINF:-1 tvg-name="Eleven Pro League 2 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eleven-sports-pro-league-2-fr-be.png" group-title="Belgium",Eleven Pro League 2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/90909
-#EXTINF:-1 tvg-name="Eleven Pro League 1 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eleven-sports-pro-league-1-fr-be.png" group-title="Belgium",Eleven Pro League 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/90908
-#EXTINF:-1 tvg-name="Pickx+ Sports 1 [FR] HD BE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Pick_2013.svg" group-title="Belgium",Pickx+ Sports 1 [FR] HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/101855
-#EXTINF:-1 tvg-name="Notele FHD BE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Pick_2013.svg" group-title="Belgium",Notele FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/101854
-#EXTINF:-1 tvg-id="een BE" tvg-name="één BE" tvg-logo="http://tugapt.com/picons/een.png" group-title="Belgium",één BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/48363
-#EXTINF:-1 tvg-id="een BE" tvg-name="één FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/een-be.png" group-title="Belgium",één FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2514
-#EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/canvas-be.png" group-title="Belgium",Canvas HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2511
-#EXTINF:-1 tvg-id="vtm BE" tvg-name="VTM FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm-be.png" group-title="Belgium",VTM FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2513
-#EXTINF:-1 tvg-name="VTM 2 BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm2-be.png" group-title="Belgium",VTM 2 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95071
-#EXTINF:-1 tvg-name="VTM 3 BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm3-be.png" group-title="Belgium",VTM 3 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95067
-#EXTINF:-1 tvg-name="VTM 4 BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm4-be.png" group-title="Belgium",VTM 4 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95068
-#EXTINF:-1 tvg-id="VTM Kzoom BE" tvg-name="VTM Kids BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm-kids-be.png" group-title="Belgium",VTM Kids BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2506
-#EXTINF:-1 tvg-name="Play 6 FHD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/VTMKzoom_logo_2009_-_2011.png" group-title="Belgium",Play 6 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95070
-#EXTINF:-1 tvg-name="Play 5 FHD BE" tvg-logo="https://playitsafe.eu/wp-content/uploads/2017/10/vtm.png" group-title="Belgium",Play 5 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95069
-#EXTINF:-1 tvg-id="VIER BE" tvg-name="Vier HD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/VIER_Logo_2018.svg/791px-VIER_Logo_2018.svg.png" group-title="Belgium",Vier HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2512
-#EXTINF:-1 tvg-id="Q2 BE" tvg-name="VTM 2 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm2-be.png" group-title="Belgium",VTM 2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/299
-#EXTINF:-1 tvg-id="Q2 BE" tvg-name="Q2 FHD BE" tvg-logo="http://tugapt.com/picons/q2hdbe.png" group-title="Belgium",Q2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/6848
-#EXTINF:-1 tvg-id="VIJF BE" tvg-name="VIJF BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_VIJFtv.jpg/220px-Logo_VIJFtv.jpg" group-title="Belgium",VIJF BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/13184
-#EXTINF:-1 tvg-id="Ketnet NL" tvg-name="Ketnet BE" tvg-logo="http://tugapt.com/picons/ketnetbe.png" group-title="Belgium",Ketnet BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/269
-#EXTINF:-1 tvg-name="Tipik HD BE" tvg-logo="https://static.epg.best/be/KetnetOp12.be.png" group-title="Belgium",Tipik HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2494
-#EXTINF:-1 tvg-id="CAZ BE" tvg-name="CAZ BE" tvg-logo="http://tugapt.com/picons/cazbe.png" group-title="Belgium",CAZ BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/259
-#EXTINF:-1 tvg-id="Vitaya BE" tvg-name="VTM 3 SD BE" tvg-logo="http://tugapt.com/picons/vitaya.png" group-title="Belgium",VTM 3 SD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/13737
-#EXTINF:-1 tvg-id="Vitaya BE" tvg-name="Play Crime FHD BE" tvg-logo="http://tugapt.com/picons/vitaya.png" group-title="Belgium",Play Crime FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/13738
-#EXTINF:-1 tvg-name="RTL Bel HD BE" tvg-logo="http://tugapt.com/picons/zesbe.png" group-title="Belgium",RTL Bel HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/281
-#EXTINF:-1 tvg-name="Nat Geo HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="Belgium",Nat Geo HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2507
-#EXTINF:-1 tvg-name="Eleven Sports 1 BE" tvg-logo="http://tugapt.com/picons/elevensports1.png" group-title="Belgium",Eleven Sports 1 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/13658
-#EXTINF:-1 tvg-name="Eleven Sports 2 BE" tvg-logo="https://static.epg.best/be/ElevenSports2FR.be.png" group-title="Belgium",Eleven Sports 2 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/13657
-#EXTINF:-1 tvg-name="========== BE Walonie ==========" group-title="Belgium",========== BE Walonie ==========
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/48361
-#EXTINF:-1 tvg-id="La Une BE" tvg-name="LA UNE HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/la-une-be.png" group-title="Belgium",LA UNE HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2496
-#EXTINF:-1 tvg-id="La Deux BE" tvg-name="La Deux BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTBF_La_Deux_logo.png/120px-RTBF_La_Deux_logo.png" group-title="Belgium",La Deux BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2516
-#EXTINF:-1 tvg-id="La Trois BE" tvg-name="La Trois BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/la-trois-be.png" group-title="Belgium",La Trois BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2495
-#EXTINF:-1 tvg-id="Club RTL BE" tvg-name="Club RTL HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/club-rtl-be.png" group-title="Belgium",Club RTL HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2517
-#EXTINF:-1 tvg-id="Plug RTL BE" tvg-name="Plug RTL BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/plug-rtl-be.png" group-title="Belgium",Plug RTL BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2497
-#EXTINF:-1 tvg-name="RTL TVI HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/rtl-tvi-be.png" group-title="Belgium",RTL TVI HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2499
-#EXTINF:-1 tvg-name="RTL Lounge HD BE" tvg-logo="http://tugapt.com/picons/rtlloungenl.png" group-title="Belgium",RTL Lounge HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/15069
-#EXTINF:-1 tvg-name="RTL Luxembourg HD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="Belgium",RTL Luxembourg HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/15070
-#EXTINF:-1 tvg-name="Voo Sport 1 HD BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-voo-sport-1-1157.png" group-title="Belgium",Voo Sport 1 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/1166
-#EXTINF:-1 tvg-name="Voo Sport World 1 BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/voo-sport-world-1-be.png" group-title="Belgium",Voo Sport World 1 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/1165
-#EXTINF:-1 tvg-name="Voo Sport World 2 BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/voo-sport-world-2-be.png" group-title="Belgium",Voo Sport World 2 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/8791
-#EXTINF:-1 tvg-name="Voo Sport World 3 BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/voo-sport-world-3-be.png" group-title="Belgium",Voo Sport World 3 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/8792
-#EXTINF:-1 tvg-name="BX1 BE" tvg-logo="http://tugapt.com/picons/bx1.png" group-title="Belgium",BX1 BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2505
-#EXTINF:-1 tvg-name="========== BE Anders ==========" group-title="Belgium",========== BE Anders ==========
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/48362
-#EXTINF:-1 tvg-id="192TV BE" tvg-name="192 TV BE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/192_TV_logo.svg/1200px-192_TV_logo.svg.png" group-title="Belgium",192 TV BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2515
-#EXTINF:-1 tvg-name="EClips TV BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eclips-tv-be.png" group-title="Belgium",EClips TV BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2508
-#EXTINF:-1 tvg-name="Matele FHD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mat%C3%A9l%C3%A9_2014.png" group-title="Belgium",Matele FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2510
-#EXTINF:-1 tvg-name="Canal Zoom FHD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Canal_Zoom_logo.png" group-title="Belgium",Canal Zoom FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2509
-#EXTINF:-1 tvg-name="Lux TV BE" tvg-logo="https://luxe.tv/wp-content/uploads/2018/12/Luxe-TV-Logo.jpg" group-title="Belgium",Lux TV BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/15068
-#EXTINF:-1 tvg-name="TV Lux BE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d0/TV_Lux_logo_2017.png" group-title="Belgium",TV Lux BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2501
-#EXTINF:-1 tvg-id="TVLimburg BE" tvg-name="VRT 1 FHD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TVL_Belgium_logo.svg/1280px-TVL_Belgium_logo.svg.png" group-title="Belgium",VRT 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2503
-#EXTINF:-1 tvg-name="TV OOST BE" tvg-logo="http://tugapt.com/picons/tvoost.png" group-title="Belgium",TV OOST BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/298
-#EXTINF:-1 tvg-name="TVO HD BE" tvg-logo="http://tugapt.com/picons/tvoost.png" group-title="Belgium",TVO HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/2498
-#EXTINF:-1 tvg-name="één HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/een-be.png" group-title="Belgium",één HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/75012
-#EXTINF:-1 tvg-name="Voo Sport 1 FHD BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-voo-sport-1-1157.png" group-title="Belgium",Voo Sport 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/80144
-#EXTINF:-1 tvg-name="Voo Sport World 1 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/voo-sport-world-1-be.png" group-title="Belgium",Voo Sport World 1 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/80145
-#EXTINF:-1 tvg-name="Voo Sport World 2 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/voo-sport-world-2-be.png" group-title="Belgium",Voo Sport World 2 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/80146
-#EXTINF:-1 tvg-name="Voo Sport World 3 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/voo-sport-world-3-be.png" group-title="Belgium",Voo Sport World 3 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/80147
-#EXTINF:-1 tvg-name="Play 4 FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/be1-be.png" group-title="Belgium",Play 4 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/89992
-#EXTINF:-1 tvg-name="BE CINE FHD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/be-cine-be.png" group-title="Belgium",BE CINE FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/89993
-#EXTINF:-1 tvg-name="Play 7 FHD BE" group-title="Belgium",Play 7 FHD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95215
-#EXTINF:-1 tvg-name="PÉTANGE INFO TV Luxembourg BE" group-title="Belgium",PÉTANGE INFO TV Luxembourg BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95214
-#EXTINF:-1 tvg-name="Eldo radio tv Luxembourg BE" tvg-logo="https://www.radio.net/images/broadcasts/76/a2/14006/c175.png" group-title="Belgium",Eldo radio tv Luxembourg BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95213
-#EXTINF:-1 tvg-name="RTL Luxembourg Zwee HD BE" tvg-logo="https://appbackend.alteox.com/uploads/logo-channel-5c2aa860-8096-11e9-b5ca-f345a2ed0fbe-250x250.png" group-title="Belgium",RTL Luxembourg Zwee HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/95212
-#EXTINF:-1 tvg-name="VTM GOLD HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/vtm-gold-be.png" group-title="Belgium",VTM GOLD HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/101562
-#EXTINF:-1 tvg-name="Play 7 HD BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/play7-be.png" group-title="Belgium",Play 7 HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/101561
-#EXTINF:-1 tvg-name="ATV Antwerpen HD BE" tvg-logo="https://cache.atv.be/atvbe/atvbe/meta/atv.e06e2b17.png" group-title="Belgium",ATV Antwerpen HD BE
-http://tv.123tv.to:8080/8ScGKoM7wX/pZY94XU8g5/101560
-
 
 
 
@@ -16352,6 +15921,418 @@ http://d2f47069.ucomist.net/iptv/6WFHVSFHWADVCX/12102/index.m3u8
 
 #EXTINF:0 tvg-rec="0" group-title="Skandinávia",TV10 HD SE
 http://d2f47069.ucomist.net/iptv/6WFHVSFHWADVCX/12103/index.m3u8
+
+
+thub.com/tv-logo/tv-logos/blob/main/misc/flags/denmark-flag.png?raw=true" group-title="Skandinávia",##########   Denmark   ##########
+https://static.videezy.com/system/protected/files/000/019/330/D_C3_A4nemark.mp4
+#EXTINF:-1 tvg-id="DR1 DK" tvg-name="DR1 DK" tvg-logo="http://tugapt.com/picons/dr1dk.png" group-title="Skandinávia",DR1 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2911
+#EXTINF:-1 tvg-id="DR1 DK" tvg-name="DR1 HD DK" tvg-logo="http://tugapt.com/picons/dr1hddk.png" group-title="Skandinávia",DR1 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7300
+#EXTINF:-1 tvg-id="DR1 DK" tvg-name="DR1 FHD VIP DK" tvg-logo="http://tugapt.com/picons/dr1hddk.png" group-title="Skandinávia",DR1 FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9172
+#EXTINF:-1 tvg-id="DR2 DK" tvg-name="DR2 DK" tvg-logo="http://tugapt.com/picons/dr2dk.png" group-title="Skandinávia",DR2 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2910
+#EXTINF:-1 tvg-id="DR2 DK" tvg-name="DR2 HD DK" tvg-logo="http://tugapt.com/picons/dr2hddk.png" group-title="Skandinávia",DR2 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7299
+#EXTINF:-1 tvg-name="DR NEWS DK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/DR_TV_logo.svg/1200px-DR_TV_logo.svg.png" group-title="Skandinávia",DR NEWS DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125529
+#EXTINF:-1 tvg-id="TV 2 DK" tvg-name="TV 2 DK" tvg-logo="http://tugapt.com/picons/tv2dk.png" group-title="Skandinávia",TV 2 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7539
+#EXTINF:-1 tvg-id="TV 2 DK" tvg-name="TV 2 HD DK" tvg-logo="http://tugapt.com/picons/tv2hddk.png" group-title="Skandinávia",TV 2 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7281
+#EXTINF:-1 tvg-id="TV 2 DK" tvg-name="TV 2 FHD DK" tvg-logo="http://tugapt.com/picons/tv2hddk.png" group-title="Skandinávia",TV 2 FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7282
+#EXTINF:-1 tvg-id="TV 2 DK" tvg-name="TV 2 SD+ DK" tvg-logo="http://tugapt.com/picons/tv2dk.png" group-title="Skandinávia",TV 2 SD+ DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7541
+#EXTINF:-1 tvg-id="TV 2 DK" tvg-name="TV 2 Danmark FHD VIP DK" tvg-logo="http://tugapt.com/picons/tv2hddk.png" group-title="Skandinávia",TV 2 Danmark FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9169
+#EXTINF:-1 tvg-id="TV 2 Midt-Vest DK" tvg-name="TV 2 Midt Vest DK" tvg-logo="http://tugapt.com/picons/tv2midtvestdk.png" group-title="Skandinávia",TV 2 Midt Vest DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3889
+#EXTINF:-1 tvg-id="TV 2 Midt-Vest DK" tvg-name="TV 2 Midtvest DK VIP" tvg-logo="http://tugapt.com/picons/tv2midtvestdk.png" group-title="Skandinávia",TV 2 Midtvest DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45040
+#EXTINF:-1 tvg-id="TV 2 Nord Salto DK" tvg-name="TV 2 Salto HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-nord-dk.png" group-title="Skandinávia",TV 2 Salto HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/118092
+#EXTINF:-1 tvg-id="TV 2 Nord Salto DK" tvg-name="TV 2 Nord Salto DK" tvg-logo="http://tugapt.com/picons/tv2norddk.png" group-title="Skandinávia",TV 2 Nord Salto DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2903
+#EXTINF:-1 tvg-id="TV 2 Nord Salto DK" tvg-name="TV 2 Nord DK VIP" tvg-logo="http://tugapt.com/picons/tv2norddk.png" group-title="Skandinávia",TV 2 Nord DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45037
+#EXTINF:-1 tvg-id="TV 2 Fri DK" tvg-name="TV 2 Fri DK" tvg-logo="http://tugapt.com/picons/tv2fridk.png" group-title="Skandinávia",TV 2 Fri DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3884
+#EXTINF:-1 tvg-id="TV 2 Fri DK" tvg-name="TV 2 Fri FHD VIP DK" tvg-logo="http://tugapt.com/picons/tv2frihddk.png" group-title="Skandinávia",TV 2 Fri FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9160
+#EXTINF:-1 tvg-id="TV 2 Syd DK" tvg-name="TV 2 Syd HD DK" tvg-logo="http://tugapt.com/picons/tv2syddk.png" group-title="Skandinávia",TV 2 Syd HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3882
+#EXTINF:-1 tvg-id="TV 2 Syd DK" tvg-name="TV 2 Syd DK VIP" tvg-logo="http://tugapt.com/picons/tv2syddk.png" group-title="Skandinávia",TV 2 Syd DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45042
+#EXTINF:-1 tvg-id="TV 2 Fyn DK" tvg-name="TV 2 Fyn DK" tvg-logo="http://tugapt.com/picons/tv2fyndk.png" group-title="Skandinávia",TV 2 Fyn DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3885
+#EXTINF:-1 tvg-id="TV 2 Fyn DK" tvg-name="TV 2 Fyn Nyhedskanalen HD DK" tvg-logo="http://tugapt.com/picons/tv2fyndk.png" group-title="Skandinávia",TV 2 Fyn Nyhedskanalen HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/21361
+#EXTINF:-1 tvg-name="TV 2 Fynboen Tegnesprog DK" tvg-logo="https://grf-skovparken.dk/wp-content/plugins/skovparken-tvchannels/images/fynboen_(tegnsprog).png" group-title="Skandinávia",TV 2 Fynboen Tegnesprog DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125853
+#EXTINF:-1 tvg-name="TV 2 OST DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-ost-dk.png" group-title="Skandinávia",TV 2 OST DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/116678
+#EXTINF:-1 tvg-name="TV 2 OST HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-ost-dk.png" group-title="Skandinávia",TV 2 OST HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125960
+#EXTINF:-1 tvg-id="TV 2 Ostjylland DK" tvg-name="TV 2 Ostjylland DK VIP" tvg-logo="http://tugapt.com/picons/tv2ostjyllanddk.png" group-title="Skandinávia",TV 2 Ostjylland DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45041
+#EXTINF:-1 tvg-id="TV 2 Ostjylland DK" tvg-name="TV 2 Ostjylland DK" tvg-logo="http://tugapt.com/picons/tv2ostjyllanddk.png" group-title="Skandinávia",TV 2 Ostjylland DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/8750
+#EXTINF:-1 tvg-id="TV 2 Bornholm DK" tvg-name="TV 2 Bornholm DK" tvg-logo="http://tugapt.com/picons/tv2bornholmdk.png" group-title="Skandinávia",TV 2 Bornholm DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/6438
+#EXTINF:-1 tvg-id="TV 2 Bornholm DK" tvg-name="TV 2 Bornholm HD DK" tvg-logo="http://tugapt.com/picons/tv2bornholmhddk.png" group-title="Skandinávia",TV 2 Bornholm HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/6440
+#EXTINF:-1 tvg-id="TV 2 Bornholm DK" tvg-name="TV 2 Bornholm DK VIP" tvg-logo="http://tugapt.com/picons/tv2bornholmdk.png" group-title="Skandinávia",TV 2 Bornholm DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45039
+#EXTINF:-1 tvg-id="TV 2 Charlie DK" tvg-name="TV 2 Charlie DK" tvg-logo="http://tugapt.com/picons/tv2charliedk.png" group-title="Skandinávia",TV 2 Charlie DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/48614
+#EXTINF:-1 tvg-id="TV 2 Charlie DK" tvg-name="TV 2 Charlie HD DK" tvg-logo="http://tugapt.com/picons/tv2charliedk.png" group-title="Skandinávia",TV 2 Charlie HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2902
+#EXTINF:-1 tvg-id="TV 2 Zulu DK" tvg-name="TV 2 Echo DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-echo-dk.png" group-title="Skandinávia",TV 2 Echo DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/6103
+#EXTINF:-1 tvg-id="TV 2 Zulu DK" tvg-name="TV 2 Echo HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-echo-dk.png" group-title="Skandinávia",TV 2 Echo HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2901
+#EXTINF:-1 tvg-id="TV 2 Zulu DK" tvg-name="TV 2 Echo FHD VIP DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-echo-dk.png" group-title="Skandinávia",TV 2 Echo FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9156
+#EXTINF:-1 tvg-name="TV2 Play Comedy DK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tv2_comedy_2020_new.png/640px-Tv2_comedy_2020_new.png" group-title="Skandinávia",TV2 Play Comedy DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125526
+#EXTINF:-1 tvg-name="TV2 Play Guld DK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/TV_2_Play_Guld.svg/revision/latest/scale-to-width-down/300?cb=20240117110923" group-title="Skandinávia",TV2 Play Guld DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125533
+#EXTINF:-1 tvg-name="TV2 Kosmopol DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/tv2-kosmopol-dk.png?raw=true" group-title="Skandinávia",TV2 Kosmopol DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125266
+#EXTINF:-1 tvg-id="TV 2 News DK" tvg-name="TV 2 News DK" tvg-logo="http://tugapt.com/picons/tv2newsdk.png" group-title="Skandinávia",TV 2 News DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/6105
+#EXTINF:-1 tvg-id="TV 2 News DK" tvg-name="TV 2 News HD DK" tvg-logo="http://tugapt.com/picons/tv2newsdk.png" group-title="Skandinávia",TV 2 News HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/81217
+#EXTINF:-1 tvg-id="TV 2 Sport DK" tvg-name="TV 2 Sport DK" tvg-logo="http://tugapt.com/picons/tv2sportdk.png" group-title="Skandinávia",TV 2 Sport DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2904
+#EXTINF:-1 tvg-id="TV 2 Sport DK" tvg-name="TV 2 Sport HD DK VIP" tvg-logo="http://tugapt.com/picons/tv2sportdk.png" group-title="Skandinávia",TV 2 Sport HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/44975
+#EXTINF:-1 tvg-id="TV 2 Sport DK" tvg-name="TV 2 Sport FHD VIP DK" tvg-logo="http://tugapt.com/picons/tv2sporthddk.png" group-title="Skandinávia",TV 2 Sport FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9168
+#EXTINF:-1 tvg-name="Tv2 Sport X HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv2-sport-x-dk.png" group-title="Skandinávia",Tv2 Sport X HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78122
+#EXTINF:-1 tvg-id="TV3 DK" tvg-name="TV3 Danmark DK" tvg-logo="http://tugapt.com/picons/tv3dk.png" group-title="Skandinávia",TV3 Danmark DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3887
+#EXTINF:-1 tvg-id="TV3 DK" tvg-name="TV3 Danmark HD DK" tvg-logo="http://tugapt.com/picons/tv3dk.png" group-title="Skandinávia",TV3 Danmark HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78130
+#EXTINF:-1 tvg-id="TV3+ DK" tvg-name="TV3+ DK" tvg-logo="http://tugapt.com/picons/tv3plusdk.png" group-title="Skandinávia",TV3+ DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3886
+#EXTINF:-1 tvg-id="TV3+ DK" tvg-name="TV3+ HD DK" tvg-logo="http://tugapt.com/picons/tv3plushddk.png" group-title="Skandinávia",TV3+ HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7272
+#EXTINF:-1 tvg-id="TV3+ DK" tvg-name="TV 3+ DK VIP" tvg-logo="http://tugapt.com/picons/tv3plusdk.png" group-title="Skandinávia",TV 3+ DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45035
+#EXTINF:-1 tvg-id="TV3+ DK" tvg-name="TV 3+ HD DK VIP" tvg-logo="http://tugapt.com/picons/tv3plusdk.png" group-title="Skandinávia",TV 3+ HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/44973
+#EXTINF:-1 tvg-id="TV3 Puls DK" tvg-name="TV3 Puls DK" tvg-logo="http://tugapt.com/picons/tv3pulsdk.png" group-title="Skandinávia",TV3 Puls DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2956
+#EXTINF:-1 tvg-id="TV3 Puls DK" tvg-name="TV3 Puls HD DK" tvg-logo="http://tugapt.com/picons/tv3pulsdk.png" group-title="Skandinávia",TV3 Puls HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9071
+#EXTINF:-1 tvg-id="TV3 Max DK" tvg-name="TV3 Max DK" tvg-logo="http://tugapt.com/picons/tv3maxdk.png" group-title="Skandinávia",TV3 Max DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2914
+#EXTINF:-1 tvg-id="TV3 Max DK" tvg-name="TV 3 Max HD DK VIP" tvg-logo="http://tugapt.com/picons/tv3maxdk.png" group-title="Skandinávia",TV 3 Max HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45036
+#EXTINF:-1 tvg-name="TV3 Max UHD DK" tvg-logo="http://tugapt.com/picons/tv3maxdk.png" group-title="Skandinávia",TV3 Max UHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125854
+#EXTINF:-1 tvg-id="TV3 Sport 1 DK" tvg-name="TV3 Sport HD DK" tvg-logo="http://tugapt.com/picons/tv3sportdk.png" group-title="Skandinávia",TV3 Sport HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45532
+#EXTINF:-1 tvg-id="TV3 Sport 1 DK" tvg-name="TV3 Sport FHD DK" tvg-logo="http://tugapt.com/picons/tv3sportdk.png" group-title="Skandinávia",TV3 Sport FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2915
+#EXTINF:-1 tvg-id="TV3 Sport 1 DK" tvg-name="TV3 Sport UHD DK" tvg-logo="http://tugapt.com/picons/tv3sportdk.png" group-title="Skandinávia",TV3 Sport UHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125850
+#EXTINF:-1 tvg-name="VIASAT ULTRA HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-sport-ultrahd-dk.png" group-title="Skandinávia",VIASAT ULTRA HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78125
+#EXTINF:-1 tvg-name="VIASAT ULTRA UHD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-sport-ultrahd-dk.png" group-title="Skandinávia",VIASAT ULTRA UHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78126
+#EXTINF:-1 tvg-name="Kanal Nord DK" tvg-logo="https://kanalnord.dk/NewWorlds4.jpg" group-title="Skandinávia",Kanal Nord DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125535
+#EXTINF:-1 tvg-name="Lokal kanalen DK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7vZhIz033SmJFaxEUuFYPjRqrEEXSG5tPw&s" group-title="Skandinávia",Lokal kanalen DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125534
+#EXTINF:-1 tvg-name="Kanal Bornholm DK" group-title="Skandinávia",Kanal Bornholm DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78128
+#EXTINF:-1 tvg-name="Kanal Hovedstaden DK" tvg-logo="https://pbs.twimg.com/profile_images/2220618504/kh-logo-cirkel_400x400.png" group-title="Skandinávia",Kanal Hovedstaden DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/118083
+#EXTINF:-1 tvg-name="Folketinget TV HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/folketinget-dk.png" group-title="Skandinávia",Folketinget TV HD DK
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="DK4 DK" tvg-name="DK4 DK" tvg-logo="http://tugapt.com/picons/dk4dk.png" group-title="Skandinávia",DK4 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2908
+#EXTINF:-1 tvg-id="Kanal 4 DK" tvg-name="Kanal 4 HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Skandinávia",Kanal 4 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3877
+#EXTINF:-1 tvg-id="Kanal 4 DK" tvg-name="Kanal 4 DK VIP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Skandinávia",Kanal 4 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/45021
+#EXTINF:-1 tvg-id="Kanal 4 DK" tvg-name="Kanal 4 HD DK VIP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Skandinávia",Kanal 4 HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/44970
+#EXTINF:-1 tvg-id="Kanal 5 DK" tvg-name="Kanal 5 HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/kanal-5-dk.png" group-title="Skandinávia",Kanal 5 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3878
+#EXTINF:-1 tvg-id="Kanal 5 DK" tvg-name="Kanal 5 FHD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/kanal-5-dk.png" group-title="Skandinávia",Kanal 5 FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7267
+#EXTINF:-1 tvg-id="6" tvg-name="6 eren DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/6eren-dk.png" group-title="Skandinávia",6 eren DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3868
+#EXTINF:-1 tvg-id="6" tvg-name="6 eren FHD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/6eren-dk.png" group-title="Skandinávia",6 eren FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7266
+#EXTINF:-1 tvg-id="6" tvg-name="6 eren HD DK VIP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/6eren-dk.png" group-title="Skandinávia",6 eren HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/44986
+#EXTINF:-1 tvg-id="6" tvg-name="6 eren FHD VIP DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/6eren-dk.png" group-title="Skandinávia",6 eren FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9266
+#EXTINF:-1 tvg-id="Canal 9 DK" tvg-name="Canal 9 HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/canal-9-dk.png" group-title="Skandinávia",Canal 9 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2912
+#EXTINF:-1 tvg-id="Canal 9 DK" tvg-name="Canal 9 FHD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/canal-9-dk.png" group-title="Skandinávia",Canal 9 FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7265
+#EXTINF:-1 tvg-id="Canal 9 DK" tvg-name="Canal 9 FHD VIP DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/canal-9-dk.png" group-title="Skandinávia",Canal 9 FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9173
+#EXTINF:-1 tvg-id="TLC Danmark DK" tvg-name="TLC DK" tvg-logo="http://tugapt.com/picons/tlcdk.png" group-title="Skandinávia",TLC DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3880
+#EXTINF:-1 tvg-id="TLC Danmark DK" tvg-name="TLC FHD DK" tvg-logo="http://tugapt.com/picons/tlchddk.png" group-title="Skandinávia",TLC FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7264
+#EXTINF:-1 tvg-name="See HD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/see-dk.png" group-title="Skandinávia",See HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/48267
+#EXTINF:-1 tvg-name="See FHD VIP DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/see-dk.png" group-title="Skandinávia",See FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2795
+#EXTINF:-1 tvg-name="See UHD DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/see-dk.png" group-title="Skandinávia",See UHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125855
+#EXTINF:-1 tvg-id="Investigation Discovery DK" tvg-name="Investigation Discovery DK" tvg-logo="http://tugapt.com/picons/investigationdiscoverydk.png" group-title="Skandinávia",Investigation Discovery DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3872
+#EXTINF:-1 tvg-id="Discovery Channel DK" tvg-name="Discovery Channel FHD DK" tvg-logo="http://tugapt.com/picons/discoverychannelhddk.png" group-title="Skandinávia",Discovery Channel FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7247
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD DK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="Skandinávia",DISCOVERY SCIENCE HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78124
+#EXTINF:-1 tvg-id="National Geographic DK" tvg-name="National Geographic DK" tvg-logo="http://tugapt.com/picons/nationalgeographicdk.png" group-title="Skandinávia",National Geographic DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3890
+#EXTINF:-1 tvg-id="National Geographic DK" tvg-name="National Geographic HD DK" tvg-logo="http://tugapt.com/picons/nationalgeographicdk.png" group-title="Skandinávia",National Geographic HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/6107
+#EXTINF:-1 tvg-name="NAT GEO WILD FHD DK" tvg-logo="http://tugapt.com/picons/natgeowilduk.png" group-title="Skandinávia",NAT GEO WILD FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/81214
+#EXTINF:-1 tvg-id="Animal Planet DK" tvg-name="Animal Planet HD DK" tvg-logo="http://tugapt.com/picons/animalplanethddk.png" group-title="Skandinávia",Animal Planet HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9016
+#EXTINF:-1 tvg-id="Animal Planet DK" tvg-name="Animal Planet FHD DK" tvg-logo="http://tugapt.com/picons/animalplanethddk.png" group-title="Skandinávia",Animal Planet FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7253
+#EXTINF:-1 tvg-name="History FHD DK [Multi-Sub]" tvg-logo="http://tugapt.com/picons/historyhdpl.png" group-title="Skandinávia",History FHD DK [Multi-Sub]
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/19545
+#EXTINF:-1 tvg-name="H2 HD DK" tvg-logo="http://tugapt.com/picons/h2hdse.png" group-title="Skandinávia",H2 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78123
+#EXTINF:-1 tvg-name="BBC Nordic HD DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/bbc-nordic-no.png?raw=true" group-title="Skandinávia",BBC Nordic HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/127889
+#EXTINF:-1 tvg-id="DR Ramasjang DK" tvg-name="DR Ramasjang DK" tvg-logo="http://tugapt.com/picons/drramasjangdk.png" group-title="Skandinávia",DR Ramasjang DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2905
+#EXTINF:-1 tvg-name="TV2 Oiii DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/tv2-oiii-no.png?raw=true" group-title="Skandinávia",TV2 Oiii DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125528
+#EXTINF:-1 tvg-name="Cartoonito DK [Multi Audio]" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoonito-us.png?raw=true" group-title="Skandinávia",Cartoonito DK [Multi Audio]
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/14437
+#EXTINF:-1 tvg-id="Cartoon Network DK" tvg-name="Cartoon Network DK [Multi Audio]" tvg-logo="http://tugapt.com/picons/cartoonnetworkdk.png" group-title="Skandinávia",Cartoon Network DK [Multi Audio]
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3870
+#EXTINF:-1 tvg-id="Disney Channel DK" tvg-name="Disney Channel DK" tvg-logo="http://tugapt.com/picons/disneychanneldk.png" group-title="Skandinávia",Disney Channel DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3873
+#EXTINF:-1 tvg-id="Nickelodeon DK" tvg-name="Nickelodeon DK" tvg-logo="http://tugapt.com/picons/nickelodeondk.png" group-title="Skandinávia",Nickelodeon DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3879
+#EXTINF:-1 tvg-name="NickToons DK [Multi-Audio]" tvg-logo="http://tugapt.com/picons/nicktoons-us.png" group-title="Skandinávia",NickToons DK [Multi-Audio]
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/19546
+#EXTINF:-1 tvg-name="Nick Jr DK" tvg-logo="http://tugapt.com/picons/nickjrnl.png" group-title="Skandinávia",Nick Jr DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/82844
+#EXTINF:-1 tvg-name="Nickmusic DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/nick-music-pl.png?raw=true" group-title="Skandinávia",Nickmusic DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/127888
+#EXTINF:-1 tvg-name="Uptown Classic DK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDcVymPCE35DEK6fI6r7TiK_YldkW-XYxow&s" group-title="Skandinávia",Uptown Classic DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125856
+#EXTINF:-1 tvg-name="Uptown Music Tv DK" tvg-logo="https://www.recordere.dk/wp-content/uploads/2023/11/Uptown_XMAS.png" group-title="Skandinávia",Uptown Music Tv DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125527
+#EXTINF:-1 tvg-name="Uptown Dansk Musik DK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaO12LqSCXEBrTJ3OjrtO2ZqoCucOmKkjYQQ&s" group-title="Skandinávia",Uptown Dansk Musik DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125531
+#EXTINF:-1 tvg-name="Lolland Falster TV DK" tvg-logo="data:image/jpeg;base64,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" group-title="Skandinávia",Lolland Falster TV DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125532
+#EXTINF:-1 tvg-name="MTV 80s DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/mtv-80s-dk.png" group-title="Skandinávia",MTV 80s DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/118193
+#EXTINF:-1 tvg-name="MTV 90s DK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/mtv-90s-dk.png" group-title="Skandinávia",MTV 90s DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/118196
+#EXTINF:-1 tvg-id="MTV DK" tvg-name="MTV 00s DK" tvg-logo="http://tugapt.com/picons/mtvdk.png" group-title="Skandinávia",MTV 00s DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/2913
+#EXTINF:-1 tvg-name="MTV Hits DK" tvg-logo="http://tugapt.com/picons/mtvhitsuk.png" group-title="Skandinávia",MTV Hits DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117359
+#EXTINF:-1 tvg-name="MTV Club DK" tvg-logo="http://tugapt.com/picons/mtvdanceb.png" group-title="Skandinávia",MTV Club DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117361
+#EXTINF:-1 tvg-name="MTV Music DK" tvg-logo="http://tugapt.com/picons/mtvmusicuk.png" group-title="Skandinávia",MTV Music DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117360
+#EXTINF:-1 tvg-id="MTV DK" tvg-name="MTV Live HD DK" tvg-logo="http://tugapt.com/picons/mtvlivehdpl.png" group-title="Skandinávia",MTV Live HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78127
+#EXTINF:-1 tvg-name="E! Entertainment US HD DK" tvg-logo="http://tugapt.com/picons/euk.png" group-title="Skandinávia",E! Entertainment US HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/78129
+#EXTINF:-1 tvg-name="Islam In Denmark HD VIP DK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png" group-title="Skandinávia",Islam In Denmark HD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/17209
+#EXTINF:-1 tvg-name="KKR TV DK" tvg-logo="http://tugapt.com/picons/kkrtvdk.png" group-title="Skandinávia",KKR TV DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/8748
+#EXTINF:-1 tvg-name="Motorvision TV HD DK" tvg-logo="http://tugapt.com/picons/motorvisiontvde.png" group-title="Skandinávia",Motorvision TV HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9015
+#EXTINF:-1 tvg-name="Extreme Sports HD DK" tvg-logo="http://tugapt.com/picons/extremesportsnl.png" group-title="Skandinávia",Extreme Sports HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/82718
+#EXTINF:-1 tvg-id="Eurosport 1 DK" tvg-name="Eurosport 1 HD DK" tvg-logo="http://tugapt.com/picons/eurosport1hddk.png" group-title="Skandinávia",Eurosport 1 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3876
+#EXTINF:-1 tvg-id="Eurosport 1 DK" tvg-name="Eurosport 1 FHD DK" tvg-logo="http://tugapt.com/picons/eurosport1hddk.png" group-title="Skandinávia",Eurosport 1 FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7258
+#EXTINF:-1 tvg-id="Eurosport 2 DK" tvg-name="Eurosport 2 HD DK" tvg-logo="http://tugapt.com/picons/eurosport2hddk.png" group-title="Skandinávia",Eurosport 2 HD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/3875
+#EXTINF:-1 tvg-id="Eurosport 2 DK" tvg-name="Eurosport 2 FHD DK" tvg-logo="http://tugapt.com/picons/eurosport2hddk.png" group-title="Skandinávia",Eurosport 2 FHD DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/7257
+#EXTINF:-1 tvg-id="Eurosport 2 DK" tvg-name="Eurosport 2 FHD DK VIP" tvg-logo="http://tugapt.com/picons/eurosport2hddk.png" group-title="Skandinávia",Eurosport 2 FHD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9170
+#EXTINF:-1 tvg-name="##########   RADIO DK   ##########" tvg-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" group-title="Skandinávia",##########   RADIO DK   ##########
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119770
+#EXTINF:-1 tvg-name="Radio DR P1 DK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DR_P1_2017_logo.png/800px-DR_P1_2017_logo.png" group-title="Skandinávia",Radio DR P1 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119775
+#EXTINF:-1 tvg-name="Radio DR P2 DK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/DR_P2_logo_2020.svg/1200px-DR_P2_logo_2020.svg.png" group-title="Skandinávia",Radio DR P2 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119776
+#EXTINF:-1 tvg-name="Radio DR P3 DK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/DR_P3_logo_2020.svg/1200px-DR_P3_logo_2020.svg.png" group-title="Skandinávia",Radio DR P3 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119777
+#EXTINF:-1 tvg-name="Radio DR P4 DK" tvg-logo="data:image/png;base64,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" group-title="Skandinávia",Radio DR P4 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119778
+#EXTINF:-1 tvg-name="Radio DR P5 DK" tvg-logo="data:image/png;base64,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" group-title="Skandinávia",Radio DR P5 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119779
+#EXTINF:-1 tvg-name="Radio DR P6 DK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DR_P6_Beat_logo_2020.svg/1200px-DR_P6_Beat_logo_2020.svg.png" group-title="Skandinávia",Radio DR P6 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119780
+#EXTINF:-1 tvg-name="Radio DR P8 DK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/DR_P8_Jazz_logo_2020.svg/1200px-DR_P8_Jazz_logo_2020.svg.png" group-title="Skandinávia",Radio DR P8 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119781
+#EXTINF:-1 tvg-name="Radio Nord DK" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qyqwe3gf9ub8.png" group-title="Skandinávia",Radio Nord DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/120001
+#EXTINF:-1 tvg-name="Radio Soft DK" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1629195407/shows/pwxppygswl3ywwwi9w7t.jpg" group-title="Skandinávia",Radio Soft DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119998
+#EXTINF:-1 tvg-name="Radio Skala FM DK" tvg-logo="https://skala.fm/wp-content/uploads/2021/08/favicon.png" group-title="Skandinávia",Radio Skala FM DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/120000
+#EXTINF:-1 tvg-name="Radio Classic FM DK" tvg-logo="https://cdn-profiles.tunein.com/p1376344/images/logog.png?t=1" group-title="Skandinávia",Radio Classic FM DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119999
+#EXTINF:-1 tvg-name="Radio Pop FM DK" tvg-logo="https://cdn-profiles.tunein.com/p578828/images/logog.png?t=636256" group-title="Skandinávia",Radio Pop FM DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119997
+#EXTINF:-1 tvg-name="Radio 100 DK" tvg-logo="https://mobilsiden.s3.eu-central-1.amazonaws.com/wp-content/uploads/2020/01/24062558/20100329157.jpg" group-title="Skandinávia",Radio 100 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119996
+#EXTINF:-1 tvg-name="Radio NOVA FM DK" tvg-logo="https://www.bauermedia.com/Volumes/editorialImages/web/editorialImages/Radio-Nova_square.png" group-title="Skandinávia",Radio NOVA FM DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119995
+#EXTINF:-1 tvg-name="Radio The Voice DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/the-voice-bg.png?raw=true" group-title="Skandinávia",Radio The Voice DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119769
+#EXTINF:-1 tvg-name="Radio FM Europe DK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_Europa_FM_2018.png" group-title="Skandinávia",Radio FM Europe DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119774
+#EXTINF:-1 tvg-name="Radio FM Party DK" tvg-logo="https://play-lh.googleusercontent.com/udDWYM1WTrB8flKJwsVo3gA5dodLOBFWVp5GK9ZZ9xelsM0epSUnO3YRMM6J5RQqHlo" group-title="Skandinávia",Radio FM Party DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119773
+#EXTINF:-1 tvg-name="Radio FM Dance DK" tvg-logo="data:image/png;base64,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" group-title="Skandinávia",Radio FM Dance DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119771
+#EXTINF:-1 tvg-name="Radio FM HipHop DK" tvg-logo="https://www.radio.net/images/broadcasts/f2/2a/126592/1/c300.png" group-title="Skandinávia",Radio FM HipHop DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119772
+#EXTINF:-1 tvg-name="Danske klassikker 1 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/dansk-filmskat-dk.png?raw=true" group-title="Skandinávia",Danske klassikker 1 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131546
+#EXTINF:-1 tvg-name="Danske klassikker 2 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/dansk-filmskat-dk.png?raw=true" group-title="Skandinávia",Danske klassikker 2 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131547
+#EXTINF:-1 tvg-name="Danske klassikker 3 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/dansk-filmskat-dk.png?raw=true" group-title="Skandinávia",Danske klassikker 3 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131548
+#EXTINF:-1 tvg-name="Danske klassikker 4 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/dansk-filmskat-dk.png?raw=true" group-title="Skandinávia",Danske klassikker 4 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131549
+#EXTINF:-1 tvg-name="Danske klassikker 5 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/dansk-filmskat-dk.png?raw=true" group-title="Skandinávia",Danske klassikker 5 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131550
+#EXTINF:-1 tvg-name="Danske klassikker 6 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/dansk-filmskat-dk.png?raw=true" group-title="Skandinávia",Danske klassikker 6 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/133199
+#EXTINF:-1 tvg-name="Sky Showtime 1 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/sky-showtime-1-no.png?raw=true" group-title="Skandinávia",Sky Showtime 1 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131358
+#EXTINF:-1 tvg-name="Sky Showtime 2 DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/sky-showtime-2-no.png?raw=true" group-title="Skandinávia",Sky Showtime 2 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131357
+#EXTINF:-1 tvg-name="VIAPLAY FILM 1 DK" tvg-logo="https://a.storyblok.com/f/113468/209x209/43907e8179/viaplay-film-serier.png" group-title="Skandinávia",VIAPLAY FILM 1 DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/130679
+#EXTINF:-1 tvg-name="SF-Kanalen DK [Multi-Sub]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/sf-kanalen-dk.png" group-title="Skandinávia",SF-Kanalen DK [Multi-Sub]
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/19544
+#EXTINF:-1 tvg-id="C More Series DK" tvg-name="C More Series FHD VIP DK" tvg-logo="http://tugapt.com/picons/cmoreserieshddk.png" group-title="Skandinávia",C More Series FHD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/9174
+#EXTINF:-1 tvg-name="C More Series HD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/cmoreserieshdse.png" group-title="Skandinávia",C More Series HD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18698
+#EXTINF:-1 tvg-name="C More Series FHD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/cmoreserieshdse.png" group-title="Skandinávia",C More Series FHD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18697
+#EXTINF:-1 tvg-name="C More First FHD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/cmorefirsthdse.png" group-title="Skandinávia",C More First FHD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18700
+#EXTINF:-1 tvg-name="C More Hits FHD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/cmorehitshdse.png" group-title="Skandinávia",C More Hits FHD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18699
+#EXTINF:-1 tvg-name="C More Stars FHD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/cmorestarshdse.png" group-title="Skandinávia",C More Stars FHD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18695
+#EXTINF:-1 tvg-name="C More Stars HD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/cmorestarshdse.png" group-title="Skandinávia",C More Stars HD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18696
+#EXTINF:-1 tvg-name="V Film Action HD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatfilmactionse.png" group-title="Skandinávia",V Film Action HD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18692
+#EXTINF:-1 tvg-name="V Film Family DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatfilmfamilyse.png" group-title="Skandinávia",V Film Family DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18691
+#EXTINF:-1 tvg-name="V Film Hits HD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatfilmhitshdse.png" group-title="Skandinávia",V Film Hits HD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18690
+#EXTINF:-1 tvg-name="V Film Premiere HD DK VIP" tvg-logo="http://tugapt.com/picons/viasatfilmpremierehdse.png" group-title="Skandinávia",V Film Premiere HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18688
+#EXTINF:-1 tvg-name="V Film Premiere HD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatfilmpremierehdse.png" group-title="Skandinávia",V Film Premiere HD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18689
+#EXTINF:-1 tvg-name="V Series FHD DK VIP" tvg-logo="http://tugapt.com/picons/viasatserieshdse.png" group-title="Skandinávia",V Series FHD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18686
+#EXTINF:-1 tvg-name="V Series HD DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatserieshdse.png" group-title="Skandinávia",V Series HD DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18687
+#EXTINF:-1 tvg-name="V Sport Golf HD DK [Multi-Audio] VIP" tvg-logo="http://tugapt.com/picons/viasatgolfse.png" group-title="Skandinávia",V Sport Golf HD DK [Multi-Audio] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18693
+#EXTINF:-1 tvg-name="Viasat Explorer DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatexplorese.png" group-title="Skandinávia",Viasat Explorer DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18684
+#EXTINF:-1 tvg-name="Viasat History DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="Skandinávia",Viasat History DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18685
+#EXTINF:-1 tvg-name="Viasat Nature DK [Multi-Sub] VIP" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="Skandinávia",Viasat Nature DK [Multi-Sub] VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/18683
+
+
+#EXTINF:-1 tvg-name="TV2 Play 9 HD VIP DK" tvg-logo="https://s13.gifyu.com/images/SCo9K.png" group-title="Skandinávia",TV2 Play 9 HD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/116704
+#EXTINF:-1 tvg-name="TV2 Play 10 HD VIP DK" tvg-logo="https://s13.gifyu.com/images/SCo9K.png" group-title="Skandinávia",TV2 Play 10 HD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/116705
+#EXTINF:-1 tvg-name="TV2 Play 11 HD VIP DK" tvg-logo="https://s13.gifyu.com/images/SCo9K.png" group-title="Skandinávia",TV2 Play 11 HD VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/118194
+#EXTINF:-1 tvg-name="Viaplay Sport News DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/viaplay-sport-news-dk.png?raw=true" group-title="Skandinávia",Viaplay Sport News DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125270
+#EXTINF:-1 tvg-name="Viaplay Sport News HD DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/viaplay-sport-news-dk.png?raw=true" group-title="Skandinávia",Viaplay Sport News HD DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125271
+#EXTINF:-1 tvg-name="Viaplay Xtra 1 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 1 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117576
+#EXTINF:-1 tvg-name="Viaplay Xtra 2 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 2 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117577
+#EXTINF:-1 tvg-name="Viaplay Xtra 3 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 3 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117578
+#EXTINF:-1 tvg-name="Viaplay Xtra 4 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 4 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119502
+#EXTINF:-1 tvg-name="Viaplay Xtra 5 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 5 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119503
+#EXTINF:-1 tvg-name="Viaplay Xtra 6 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 6 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119504
+#EXTINF:-1 tvg-name="Viaplay Xtra 7 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 7 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119505
+#EXTINF:-1 tvg-name="Viaplay Xtra 8 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 8 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119506
+#EXTINF:-1 tvg-name="Viaplay Xtra 9 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 9 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119507
+#EXTINF:-1 tvg-name="Viaplay Xtra 10 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 10 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119508
+#EXTINF:-1 tvg-name="Viaplay Xtra 11 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 11 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119509
+#EXTINF:-1 tvg-name="Viaplay Xtra 12 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 12 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/119510
+#EXTINF:-1 tvg-name="Viaplay Xtra 13 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 13 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/122868
+#EXTINF:-1 tvg-name="Viaplay Xtra 14 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 14 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/122870
+#EXTINF:-1 tvg-name="Viaplay Xtra 15 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 15 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/122871
+#EXTINF:-1 tvg-name="Viaplay Xtra 16 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 16 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125536
+#EXTINF:-1 tvg-name="Viaplay Xtra 17 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 17 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125857
+#EXTINF:-1 tvg-name="Viaplay Xtra 18 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 18 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125858
+#EXTINF:-1 tvg-name="Viaplay Xtra 19 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 19 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125859
+#EXTINF:-1 tvg-name="Viaplay Xtra 20 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 20 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125860
+#EXTINF:-1 tvg-name="Viaplay Xtra 21 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 21 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/125861
+#EXTINF:-1 tvg-name="Viaplay Xtra 22 VIP DK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 22 VIP DK
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/117226
+#EXTINF:-1 tvg-name="Viaplay Xtra 23 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 23 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/126299
+#EXTINF:-1 tvg-name="Viaplay Xtra 24 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 24 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/126300
+#EXTINF:-1 tvg-name="Viaplay Xtra 25 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 25 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/126301
+#EXTINF:-1 tvg-name="Viaplay Xtra 26 DK VIP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Skandinávia",Viaplay Xtra 26 DK VIP
+http://amko.sere.po.hrvatima.streamtv.to:8080/Shoiabpaiman/CYvPTBhN5q/131356
 
 
 
