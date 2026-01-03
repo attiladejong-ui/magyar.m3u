@@ -1,668 +1,638 @@
-
 #EXTM3U
+
 # ===== FŐMENÜ: Magyarország =====
 
-
 # Hírcsatorna
-#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" group-title="1. Magyarország",M1 FHD
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1" group-title="1. Magyarország",M1 FHD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 
 # Főcsatornák
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 FHD
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2" group-title="1. Magyarország",TV2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01q
 
-#EXTINF:-1 group-title="1. Magyarország",RTL FHD
+#EXTINF:-1 tvg-id="rtl.hu" tvg-name="RTL" group-title="1. Magyarország",RTL FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a018
 
-#EXTINF:-1 group-title="1. Magyarország",RTL2 FHD
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL2" group-title="1. Magyarország",RTL2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01r
 
-#EXTINF:-1 group-title="1. Magyarország",RTL 3 FHD
+#EXTINF:-1 tvg-id="rtl3.hu" tvg-name="RTL 3" group-title="1. Magyarország",RTL 3 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01t
 
-#EXTINF:-1 group-title="1. Magyarország",TV2 SUPER FHD
+#EXTINF:-1 tvg-id="tv2super.hu" tvg-name="TV2 Super" group-title="1. Magyarország",TV2 SUPER FHD
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 
-#EXTINF:-1 group-title="1. Magyarország",COOL FHD
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="COOL" group-title="1. Magyarország",COOL FHD
 http://213.163.13.122:1559/udp/239.1.10.125:2000
 
-#EXTINF:-1 group-title="1. Magyarország",DUNA HD
+#EXTINF:-1 tvg-id="duna.hu" tvg-name="Duna" group-title="1. Magyarország",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 
-#EXTINF:-1 group-title="1. Magyarország",DUNA WORLD FHD
+#EXTINF:-1 tvg-id="dunaworld.hu" tvg-name="Duna World" group-title="1. Magyarország",DUNA WORLD FHD
 http://213.163.13.122:1559/udp/239.1.10.4:2000
 
-#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png group-title="1. Magyarország" ,HU: AMC
+# AMC (javított szintaxis + logo)
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png" group-title="1. Magyarország",HU: AMC
 http://vipbhbiss.top:8080/VIP0159174811084265/61748110842595/3757
 
-
-
 # Ismeretterjesztő
-#EXTINF:-1 group-title="1. Magyarország",M5 FHD
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" group-title="1. Magyarország",M5 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01i
 
-#EXTINF:-1 group-title="1. Magyarország",M5 HD
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" group-title="1. Magyarország",M5 HD
 http://vocotv.pro:80/Larry2025/Larry2025/711547
 
 # Gyermekműsorok
-#EXTINF:-1 group-title="1. Magyarország",M2 FHD
+#EXTINF:-1 tvg-id="m2.hu" tvg-name="M2" group-title="1. Magyarország",M2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a016
 
-#EXTINF:-1 group-title="1. Magyarország",Viasat 3 FHD
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-name="Viasat 3" group-title="1. Magyarország",Viasat 3 FHD
 http://vocotv.pro:80/live/Larry2025/Larry2025/711425.m3u8
 
-
 # Mozi
-#EXTINF:-1 group-title="1. Magyarország",HBO FHD
+#EXTINF:-1 tvg-id="hbo.hu" tvg-name="HBO" group-title="1. Magyarország",HBO FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 
-#EXTINF:-1 group-title="1. Magyarország",HBO 2 FHD
+#EXTINF:-1 tvg-id="hbo2.hu" tvg-name="HBO 2" group-title="1. Magyarország",HBO 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 
-#EXTINF:-1 group-title="1. Magyarország",HBO 3 FHD
+#EXTINF:-1 tvg-id="hbo3.hu" tvg-name="HBO 3" group-title="1. Magyarország",HBO 3 FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 
-
-#EXTINF:-1 group-title="1. Magyarország",Cinemax 2 FHD
+#EXTINF:-1 tvg-id="cinemax2.hu" tvg-name="Cinemax 2" group-title="1. Magyarország",Cinemax 2 FHD
 http://vocotv.pro:80/live/Larry2025/Larry2025/711608.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",FilmBox Stars
+#EXTINF:-1 tvg-id="filmboxstars.hu" tvg-name="FilmBox Stars" group-title="1. Magyarország",FilmBox Stars
 http://vocotv.pro:80/live/Larry2025/Larry2025/711618.m3u8
 
-
-
-#EXTINF:-1 group-title="1. Magyarország",Film+ FHD
+#EXTINF:-1 tvg-id="filmplusz.hu" tvg-name="Film+" group-title="1. Magyarország",Film+ FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9016/play/a01f
 
-#EXTINF:-1 group-title="1. Magyarország",PARAMOUNT CHANNEL FHD
+#EXTINF:-1 tvg-id="paramountnetwork.hu" tvg-name="Paramount Network" group-title="1. Magyarország",PARAMOUNT CHANNEL FHD
 http://vocotv.pro:80/Larry2025/Larry2025/711605
 
-#EXTINF:-1 group-title="1. Magyarország",Mozi+
+#EXTINF:-1 tvg-id="moziplusz.hu" tvg-name="Mozi+" group-title="1. Magyarország",Mozi+
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9489
 
-#EXTINF:-1 group-title="1. Magyarország",EPIC DRAMA FHD
+#EXTINF:-1 tvg-id="epicdrama.hu" tvg-name="Epic Drama" group-title="1. Magyarország",EPIC DRAMA FHD
 http://213.163.13.122:1559/udp/239.1.10.163:2000
 
-#EXTINF:-1 group-title="1. Magyarország",FILM MANIA FHD
+#EXTINF:-1 tvg-id="filmmania.hu" tvg-name="Film Mania" group-title="1. Magyarország",FILM MANIA FHD
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX STARS SD
+#EXTINF:-1 tvg-id="filmboxstars.hu" tvg-name="FilmBox Stars" group-title="1. Magyarország",FILMBOX STARS SD
 http://vocotv.pro:80/Larry2025/Larry2025/711618
 
-
-
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX FAMILY HD
+#EXTINF:-1 tvg-id="filmboxfamily.hu" tvg-name="FilmBox Family" group-title="1. Magyarország",FILMBOX FAMILY HD
 http://vocotv.pro:80/Larry2025/Larry2025/711616
 
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX EXTRA SD
+#EXTINF:-1 tvg-id="filmboxextra.hu" tvg-name="FilmBox Extra" group-title="1. Magyarország",FILMBOX EXTRA SD
 http://vocotv.pro:80/Larry2025/Larry2025/711615
 
-#EXTINF:-1 group-title="1. Magyarország",FILMBOX EXTRA HD
+#EXTINF:-1 tvg-id="filmboxextra.hu" tvg-name="FilmBox Extra" group-title="1. Magyarország",FILMBOX EXTRA HD
 http://vocotv.pro:80/Larry2025/Larry2025/711614
 
 # Hírcsatorna
-#EXTINF:-1 group-title="1. Magyarország",HÍRTV HD
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="Hír TV" group-title="1. Magyarország",HÍRTV HD
 http://vocotv.pro:80/Larry2025/Larry2025/711528
 
-#EXTINF:-1 group-title="1. Magyarország",HÍRTV HD -1 ora
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="Hír TV" group-title="1. Magyarország",HÍRTV HD -1 ora
 https://video12.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Tv-ATV FHD
+#EXTINF:-1 tvg-id="atv.hu" tvg-name="ATV" group-title="1. Magyarország",Tv-ATV FHD
 http://213.163.13.122:1559/udp/239.1.10.152:2000
 
-#EXTINF:-1 group-title="1. Magyarország",ATV EXTRA FHD
+#EXTINF:-1 tvg-id="atvextra.hu" tvg-name="ATV Extra" group-title="1. Magyarország",ATV EXTRA FHD
 http://213.163.13.122:1559/udp/239.1.10.161:2000
 
-
-
 # Zene
-#EXTINF:-1 group-title="1. Magyarország",DANCE TV FHD
+#EXTINF:-1 tvg-id="dancetv.hu" tvg-name="Dance TV" group-title="1. Magyarország",DANCE TV FHD
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 # Gyermekműsorok
-#EXTINF:-1 group-title="1. Magyarország",KÖLYÖK KLUB FHD
+#EXTINF:-1 tvg-id="kolyokklub.hu" tvg-name="Kölyök Klub" group-title="1. Magyarország",KÖLYÖK KLUB FHD
 http://213.163.13.122:1559/udp/239.1.10.115:2000
 
 # Sport
-#EXTINF:-1 group-title="1. Magyarország",SPORT 1 FHD
+#EXTINF:-1 tvg-id="sport1.hu" tvg-name="Sport 1" group-title="1. Magyarország",SPORT 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a017
 
-#EXTINF:-1 group-title="1. Magyarország",SPORT 2 FHD
+#EXTINF:-1 tvg-id="sport2.hu" tvg-name="Sport 2" group-title="1. Magyarország",SPORT 2 FHD
 http://213.163.13.122:1559/udp/239.1.10.167:2000
 
-#EXTINF:-1 group-title="1. Magyarország",SPORT 2 FHD
+#EXTINF:-1 tvg-id="sport2.hu" tvg-name="Sport 2" group-title="1. Magyarország",SPORT 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a015
 
-#EXTINF:-1 group-title="1. Magyarország",M4 SPORT FHD
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 Sport" group-title="1. Magyarország",M4 SPORT FHD
 http://213.163.13.122:1559/udp/239.1.10.135:2000
 
-
-
-#EXTINF:-1 group-title="1. Magyarország",Spiler 1 FHD
+#EXTINF:-1 tvg-id="spiler1.hu" tvg-name="Spíler 1" group-title="1. Magyarország",Spiler 1 FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9468
 
-#EXTINF:-1 group-title="1. Magyarország",Spiler 2 FHD
+#EXTINF:-1 tvg-id="spiler2.hu" tvg-name="Spíler 2" group-title="1. Magyarország",Spiler 2 FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/78577
 
-#EXTINF:-1 group-title="1. Magyarország",MATCH 4 FHD
+#EXTINF:-1 tvg-id="match4.hu" tvg-name="Match4" group-title="1. Magyarország",MATCH 4 FHD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 
-#EXTINF:-1 group-title="1. Magyarország",MATCH 4 FHD
+#EXTINF:-1 tvg-id="match4.hu" tvg-name="Match4" group-title="1. Magyarország",MATCH 4 FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a019
 
-#EXTINF:-1 group-title="1. Magyarország",ARENA 4 FHD
+#EXTINF:-1 tvg-id="arena4.hu" tvg-name="Arena4" group-title="1. Magyarország",ARENA 4 FHD
 http://213.163.13.122:1559/udp/239.1.10.62:2000
 
-#EXTINF:-1 group-title="1. Magyarország",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="eurosport1.hu" tvg-name="Eurosport 1" group-title="1. Magyarország",EUROSPORT 1 FHD
 http://213.163.13.122:1559/udp/239.1.10.120:2000
 
-#EXTINF:-1 group-title="1. Magyarország",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="eurosport2.hu" tvg-name="Eurosport 2" group-title="1. Magyarország",EUROSPORT 2 FHD
 http://213.163.13.122:1559/udp/239.1.10.121:2000
 
 # Mozi – Magyar Mozi TV + HBO duplikációk
-#EXTINF:-1 group-title="1. Magyarország",MAGYAR MOZI TV SD
+#EXTINF:-1 tvg-id="magyarmozitv.hu" tvg-name="Magyar Mozi TV" group-title="1. Magyarország",MAGYAR MOZI TV SD
 http://213.163.13.122:1559/udp/239.1.10.76:2000
 
-#EXTINF:-1 group-title="1. Magyarország",MAGYAR MOZI TV SD
+#EXTINF:-1 tvg-id="magyarmozitv.hu" tvg-name="Magyar Mozi TV" group-title="1. Magyarország",MAGYAR MOZI TV SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9010/play/a01i
 
-#EXTINF:-1 group-title="1. Magyarország",HBO FHD
+#EXTINF:-1 tvg-id="hbo.hu" tvg-name="HBO" group-title="1. Magyarország",HBO FHD
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 
-#EXTINF:-1 group-title="1. Magyarország",HBO2 FHD
+#EXTINF:-1 tvg-id="hbo2.hu" tvg-name="HBO 2" group-title="1. Magyarország",HBO2 FHD
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 
-#EXTINF:-1 group-title="1. Magyarország",HBO 3 FHD
+#EXTINF:-1 tvg-id="hbo3.hu" tvg-name="HBO 3" group-title="1. Magyarország",HBO 3 FHD
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 
-#EXTINF:-1 group-title="1. Magyarország",CINEMAX FHD
+#EXTINF:-1 tvg-id="cinemax.hu" tvg-name="Cinemax" group-title="1. Magyarország",CINEMAX FHD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Cinemax2 SD
+#EXTINF:-1 tvg-id="cinemax2.hu" tvg-name="Cinemax 2" group-title="1. Magyarország",Cinemax2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a024
 
-#EXTINF:-1 group-title="1. Magyarország",Epic Drama HD
+#EXTINF:-1 tvg-id="epicdrama.hu" tvg-name="Epic Drama" group-title="1. Magyarország",Epic Drama HD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9017/play/a00w
 
-#EXTINF:-1 group-title="1. Magyarország",FilmBox Extra FHD
+#EXTINF:-1 tvg-id="filmboxextra.hu" tvg-name="FilmBox Extra" group-title="1. Magyarország",FilmBox Extra FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01j
 
-#EXTINF:-1 group-title="1. Magyarország",Moziverzum
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-name="Moziverzum" group-title="1. Magyarország",Moziverzum
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/79205
 
 # Ismeretterjesztő – Nat Geo, Ozone stb.
-#EXTINF:-1 group-title="1. Magyarország",Nat Geo HD HU
+#EXTINF:-1 tvg-id="natgeo.hu" tvg-name="Nat Geo" group-title="1. Magyarország",Nat Geo HD HU
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9016/play/a01z
 
-#EXTINF:-1 group-title="1. Magyarország",OZONE FHD
+#EXTINF:-1 tvg-id="ozone.hu" tvg-name="Ozone" group-title="1. Magyarország",OZONE FHD
 http://213.163.13.122:1559/udp/239.1.10.52:2000
 
-#EXTINF:-1 group-title="1. Magyarország",FOOD HD
+#EXTINF:-1 tvg-id="foodnetwork.hu" tvg-name="Food" group-title="1. Magyarország",FOOD HD
 http://vocotv.pro:80/Larry2025/Larry2025/711584
 
-#EXTINF:-1 group-title="1. Magyarország",SPEKTRUM FHD
+#EXTINF:-1 tvg-id="spektrum.hu" tvg-name="Spektrum" group-title="1. Magyarország",SPEKTRUM FHD
 http://213.163.13.122:1559/udp/239.1.10.165:2000
 
-#EXTINF:-1 group-title="1. Magyarország",DISCOVERY ID FHD
+#EXTINF:-1 tvg-id="discoveryid.hu" tvg-name="Discovery ID" group-title="1. Magyarország",DISCOVERY ID FHD
 http://213.163.13.122:1559/udp/239.1.10.70:2000
 
-#EXTINF:-1 group-title="1. Magyarország",BBC EARTH FHD
+#EXTINF:-1 tvg-id="bbcearth.hu" tvg-name="BBC Earth" group-title="1. Magyarország",BBC EARTH FHD
 http://vocotv.pro:80/Larry2025/Larry2025/711581
 
-#EXTINF:-1 group-title="1. Magyarország",Love Nature HD
+#EXTINF:-1 tvg-id="lovenature.hu" tvg-name="Love Nature" group-title="1. Magyarország",Love Nature HD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01s
 
-#EXTINF:-1 group-title="1. Magyarország",RTL OTTHON FHD
+#EXTINF:-1 tvg-id="rtlotthon.hu" tvg-name="RTL Otthon" group-title="1. Magyarország",RTL OTTHON FHD
 http://213.163.13.122:1559/udp/239.1.10.93:2000
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT NATURE FHD
+#EXTINF:-1 tvg-id="viasatnature.hu" tvg-name="Viasat Nature" group-title="1. Magyarország",VIASAT NATURE FHD
 http://213.163.13.122:1559/udp/239.1.10.65:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Travel Channel FHD
+#EXTINF:-1 tvg-id="travelchannel.hu" tvg-name="Travel Channel" group-title="1. Magyarország",Travel Channel FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9461
 
-#EXTINF:-1 group-title="1. Magyarország",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.hu" tvg-name="Nat Geo Wild" group-title="1. Magyarország",NAT GEO WILD FHD
 http://213.163.13.122:1559/udp/239.1.10.60:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Nat Geo Wild FHD
+#EXTINF:-1 tvg-id="natgeowild.hu" tvg-name="Nat Geo Wild" group-title="1. Magyarország",Nat Geo Wild FHD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01y
 
-#EXTINF:-1 group-title="1. Magyarország",ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="animalplanet.hu" tvg-name="Animal Planet" group-title="1. Magyarország",ANIMAL PLANET FHD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.102:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Fishing and Hunting FHD
+#EXTINF:-1 tvg-id="fishingandhunting.hu" tvg-name="Fishing and Hunting" group-title="1. Magyarország",Fishing and Hunting FHD
 http://213.163.13.122:1559/udp/239.1.10.67:2000
 
 # Sport – SD Spíler stb.
-#EXTINF:-1 group-title="1. Magyarország",Spiler TV SD
+#EXTINF:-1 tvg-id="spilertv.hu" tvg-name="Spíler TV" group-title="1. Magyarország",Spiler TV SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01p
 
-
-
-
 # Zene – DIKH
-#EXTINF:-1 group-title="1. Magyarország",DIKH FHD
+#EXTINF:-1 tvg-id="dikh.hu" tvg-name="DIKH TV" group-title="1. Magyarország",DIKH FHD
 http://213.163.13.122:1559/udp/239.1.10.157:2000
 
 # Főcsatornák – TV2 SD
-#EXTINF:-1 group-title="1. Magyarország",TV2 SD
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2" group-title="1. Magyarország",TV2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01i
 
-# Helyi csatornák
-#EXTINF:-1 group-title="1. Magyarország",TV EGER FHD
+# Helyi csatornák (többségük EPG nélküli → tvg-id üres)
+#EXTINF:-1 tvg-id="" tvg-name="TV EGER" group-title="1. Magyarország",TV EGER FHD
 http://stream.tveger.hu:8010/live.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Liceum Tv
+#EXTINF:-1 tvg-id="" tvg-name="Liceum Tv" group-title="1. Magyarország",Liceum Tv
 http://193.225.32.62:8890/live.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Balaton TV
+#EXTINF:-1 tvg-id="" tvg-name="Balaton TV" group-title="1. Magyarország",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",DTV
+#EXTINF:-1 tvg-id="" tvg-name="DTV" group-title="1. Magyarország",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Gyöngyös Tv
+#EXTINF:-1 tvg-id="" tvg-name="Gyöngyös Tv" group-title="1. Magyarország",Gyöngyös Tv
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Pannon TV
+#EXTINF:-1 tvg-id="" tvg-name="Pannon TV" group-title="1. Magyarország",Pannon TV
 https://stream2.nmih.hu:4102/live.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Erdély TV
+#EXTINF:-1 tvg-id="" tvg-name="Erdély TV" group-title="1. Magyarország",Erdély TV
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/83515
 
-#EXTINF:-1 group-title="1. Magyarország",Kapos Tv
+#EXTINF:-1 tvg-id="" tvg-name="Kapos Tv" group-title="1. Magyarország",Kapos Tv
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Tatai TV
+#EXTINF:-1 tvg-id="" tvg-name="Tatai TV" group-title="1. Magyarország",Tatai TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Kecskeméti TV
+#EXTINF:-1 tvg-id="" tvg-name="Kecskeméti TV" group-title="1. Magyarország",Kecskeméti TV
 https://eurobioinvest.hu:444/live/ktv.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",TV Keszthely
+#EXTINF:-1 tvg-id="" tvg-name="TV Keszthely" group-title="1. Magyarország",TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Bajai TV
+#EXTINF:-1 tvg-id="" tvg-name="Bajai TV" group-title="1. Magyarország",Bajai TV
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Karcag TV
+#EXTINF:-1 tvg-id="" tvg-name="Karcag TV" group-title="1. Magyarország",Karcag TV
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",XVTV
+#EXTINF:-1 tvg-id="" tvg-name="XVTV" group-title="1. Magyarország",XVTV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Obuda TV
+#EXTINF:-1 tvg-id="" tvg-name="Obuda TV" group-title="1. Magyarország",Obuda TV
 https://stream.streaming4u.hu/ObudaTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Tisza Tv
+#EXTINF:-1 tvg-id="" tvg-name="Tisza Tv" group-title="1. Magyarország",Tisza Tv
 https://live.tiszatv.hu/tmp_hls/stream/index.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",Ozdi TV
+#EXTINF:-1 tvg-id="" tvg-name="Ozdi TV" group-title="1. Magyarország",Ozdi TV
 https://stream.nmih.hu:7982/live.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",TV 7 Bekescsaba
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 Bekescsaba" group-title="1. Magyarország",TV 7 Bekescsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
-#EXTINF:-1 group-title="1. Magyarország",RTV 2 Ujvidek
+#EXTINF:-1 tvg-id="" tvg-name="RTV 2 Ujvidek" group-title="1. Magyarország",RTV 2 Ujvidek
 http://212.200.230.50:1935/RTV/rtv2/chunklist_w229570725.m3u8
 
 # Mozi – további csatornák
-#EXTINF:-1 group-title="1. Magyarország",Prime SD
+#EXTINF:-1 tvg-id="prime.hu" tvg-name="Prime" group-title="1. Magyarország",Prime SD
 http://213.163.13.122:1559/udp/239.1.10.63:2000
 
-#EXTINF:-1 group-title="1. Magyarország",STORY 4 HD
+#EXTINF:-1 tvg-id="story4.hu" tvg-name="Story4" group-title="1. Magyarország",STORY 4 HD
 http://vocotv.pro:80/Larry2025/Larry2025/711539
 
-#EXTINF:-1 group-title="1. Magyarország",Filmbox Premium
+#EXTINF:-1 tvg-id="filmboxpremium.hu" tvg-name="FilmBox Premium" group-title="1. Magyarország",Filmbox Premium
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9005/play/a01x
 
-#EXTINF:-1 group-title="1. Magyarország",MOZI+ SD
+#EXTINF:-1 tvg-id="moziplusz.hu" tvg-name="Mozi+" group-title="1. Magyarország",MOZI+ SD
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 
-#EXTINF:-1 group-title="1. Magyarország",AMC HU
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="AMC" group-title="1. Magyarország",AMC HU
 #EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9007/play/a01d 
+http://46.149.191.217:9007/play/a01d
 
-#EXTINF:-1 group-title="1. Magyarország",JOCKY TV
+#EXTINF:-1 tvg-id="jockytv.hu" tvg-name="JOCKY TV" group-title="1. Magyarország",JOCKY TV
 http://213.163.13.122:1559/udp/239.1.10.159:2000
 
-#EXTINF:-1 group-title="1. Magyarország",MOZIVERZUM SD
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-name="Moziverzum" group-title="1. Magyarország",MOZIVERZUM SD
 http://213.163.13.122:1559/udp/239.1.10.158:2000
 
-
-
-#EXTINF:-1 group-title="1. Magyarország",Moziklub
+#EXTINF:-1 tvg-id="moziclub.hu" tvg-name="Moziklub" group-title="1. Magyarország",Moziklub
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a01x
 
 # Főcsatornák – RTL / Viasat / Comedy Central
-#EXTINF:-1 group-title="1. Magyarország",RTL HÁROM HD
+#EXTINF:-1 tvg-id="rtl3.hu" tvg-name="RTL 3" group-title="1. Magyarország",RTL HÁROM HD
 http://vocotv.pro:80/Larry2025/Larry2025/711568
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 3 SD
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-name="Viasat 3" group-title="1. Magyarország",VIASAT 3 SD
 http://213.163.13.122:1559/udp/239.1.10.16:2000
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 2 SD
+#EXTINF:-1 tvg-id="viasat2.hu" tvg-name="Viasat 2" group-title="1. Magyarország",VIASAT 2 SD
 http://213.163.13.122:1559/udp/239.1.10.118:2000
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 2 SD
+#EXTINF:-1 tvg-id="viasat2.hu" tvg-name="Viasat 2" group-title="1. Magyarország",VIASAT 2 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a023
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT 6 SD
+#EXTINF:-1 tvg-id="viasat6.hu" tvg-name="Viasat 6" group-title="1. Magyarország",VIASAT 6 SD
 http://213.163.13.122:1559/udp/239.1.10.79:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Comedy Central SD
+#EXTINF:-1 tvg-id="comedycentral.hu" tvg-name="Comedy Central" group-title="1. Magyarország",Comedy Central SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00n
 
 # Mozi – további filmcsatornák
-#EXTINF:-1 group-title="1. Magyarország",Paramount Network SD
+#EXTINF:-1 tvg-id="paramountnetwork.hu" tvg-name="Paramount Network" group-title="1. Magyarország",Paramount Network SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a019
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT FILM SD
+#EXTINF:-1 tvg-id="viasatfilm.hu" tvg-name="Viasat Film" group-title="1. Magyarország",VIASAT FILM SD
 http://213.163.13.122:1559/udp/239.1.10.117:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Filmbox Family SD
+#EXTINF:-1 tvg-id="filmboxfamily.hu" tvg-name="FilmBox Family" group-title="1. Magyarország",Filmbox Family SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a019
 
-#EXTINF:-1 group-title="1. Magyarország",Film+ SD
+#EXTINF:-1 tvg-id="filmplusz.hu" tvg-name="Film+" group-title="1. Magyarország",Film+ SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01b
 
-#EXTINF:-1 group-title="1. Magyarország",AXN SD
+#EXTINF:-1 tvg-id="axn.hu" tvg-name="AXN" group-title="1. Magyarország",AXN SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9009/play/a02d
 
-#EXTINF:-1 group-title="1. Magyarország",AXN WHITE SD
+#EXTINF:-1 tvg-id="axnwhite.hu" tvg-name="AXN White" group-title="1. Magyarország",AXN WHITE SD
 http://vocotv.pro:80/Larry2025/Larry2025/711311
 
-#EXTINF:-1 group-title="1. Magyarország",AXN Black SD
+#EXTINF:-1 tvg-id="axnblack.hu" tvg-name="AXN Black" group-title="1. Magyarország",AXN Black SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a01k
 
-#EXTINF:-1 group-title="1. Magyarország",JOCKY TV SD
+#EXTINF:-1 tvg-id="jockytv.hu" tvg-name="JOCKY TV" group-title="1. Magyarország",JOCKY TV SD
 http://213.163.13.122:1559/udp/239.1.10.159:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Max4 SD
+#EXTINF:-1 tvg-id="max4.hu" tvg-name="MAX4" group-title="1. Magyarország",Max4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a01b
 
-#EXTINF:-1 group-title="1. Magyarország",TV4 HD
+#EXTINF:-1 tvg-id="tv4.hu" tvg-name="TV4" group-title="1. Magyarország",TV4 HD
 http://vocotv.pro:80/Larry2025/Larry2025/711451
 
-#EXTINF:-1 group-title="1. Magyarország",TV4 SD
+#EXTINF:-1 tvg-id="tv4.hu" tvg-name="TV4" group-title="1. Magyarország",TV4 SD
 http://213.163.13.122:1559/udp/239.1.10.34:2000
 
-#EXTINF:-1 group-title="1. Magyarország",TV4 SD
+#EXTINF:-1 tvg-id="tv4.hu" tvg-name="TV4" group-title="1. Magyarország",TV4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a017
 
-#EXTINF:-1 group-title="1. Magyarország",FILM 4 SD
+#EXTINF:-1 tvg-id="film4.hu" tvg-name="Film4" group-title="1. Magyarország",FILM 4 SD
 http://213.163.13.122:1559/udp/239.1.10.164:2000
 
-#EXTINF:-1 group-title="1. Magyarország",FILM 4 SD
+#EXTINF:-1 tvg-id="film4.hu" tvg-name="Film4" group-title="1. Magyarország",FILM 4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a018
 
-#EXTINF:-1 group-title="1. Magyarország",Galaxy4
+#EXTINF:-1 tvg-id="galaxy4.hu" tvg-name="Galaxy4" group-title="1. Magyarország",Galaxy4
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a00s
 
-#EXTINF:-1 group-title="1. Magyarország",AXN SD
+#EXTINF:-1 tvg-id="axn.hu" tvg-name="AXN" group-title="1. Magyarország",AXN SD
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 
-#EXTINF:-1 group-title="1. Magyarország",STORY 4 SD
+#EXTINF:-1 tvg-id="story4.hu" tvg-name="Story4" group-title="1. Magyarország",STORY 4 SD
 http://213.163.13.122:1559/udp/239.1.10.85:2000
 
-#EXTINF:-1 group-title="1. Magyarország",MAX4 SD
+#EXTINF:-1 tvg-id="max4.hu" tvg-name="MAX4" group-title="1. Magyarország",MAX4 SD
 http://213.163.13.122:1559/udp/239.1.10.75:2000
 
-#EXTINF:-1 group-title="1. Magyarország",IZAURA TV SD
+#EXTINF:-1 tvg-id="izaura.hu" tvg-name="Izaura TV" group-title="1. Magyarország",IZAURA TV SD
 http://213.163.13.122:1559/udp/239.1.10.145:2000
 
-#EXTINF:-1 group-title="1. Magyarország",SOROZAT KLUB SD
+#EXTINF:-1 tvg-id="sorozatklub.hu" tvg-name="Sorozat Klub" group-title="1. Magyarország",SOROZAT KLUB SD
 http://213.163.13.122:1559/udp/239.1.10.72:2000
 
-#EXTINF:-1 group-title="1. Magyarország",TV2 COMEDY SD
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="TV2 Comedy" group-title="1. Magyarország",TV2 COMEDY SD
 http://213.163.13.122:1559/udp/239.1.10.146:2000
 
-#EXTINF:-1 group-title="1. Magyarország",TV2 COMEDY SD
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="TV2 Comedy" group-title="1. Magyarország",TV2 COMEDY SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00x
 
-# Főcsatornák – RTL Gold / RTL Kettő / RTL Három / Sorozat+ / Cool / Film Cafe
-#EXTINF:-1 group-title="1. Magyarország",RTL GOLD SD
+# Főcsatornák – RTL Gold / RTL Kettő / RTL Három / Sorozat+ / Cool
+#EXTINF:-1 tvg-id="rtlgold.hu" tvg-name="RTL Gold" group-title="1. Magyarország",RTL GOLD SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01e
 
-#EXTINF:-1 group-title="1. Magyarország",RTL KETTO SD
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL2" group-title="1. Magyarország",RTL KETTO SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a019
 
-#EXTINF:-1 group-title="1. Magyarország",RTL HAROM SD
+#EXTINF:-1 tvg-id="rtl3.hu" tvg-name="RTL 3" group-title="1. Magyarország",RTL HAROM SD
 #EXTVLCOPT:network-caching=1000
-http://46.149.191.217:9002/play/a01a 
+http://46.149.191.217:9002/play/a01a
 
-#EXTINF:-1 group-title="1. Magyarország",Sorozat+ SD
+#EXTINF:-1 tvg-id="sorozatplusz.hu" tvg-name="Sorozat+" group-title="1. Magyarország",Sorozat+ SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01b
 
-#EXTINF:-1 group-title="1. Magyarország",Cool SD
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="COOL" group-title="1. Magyarország",Cool SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01q
 
-
-
 # Sport – MATCH4 SD
-#EXTINF:-1 group-title="1. Magyarország",MATCH4 SD
+#EXTINF:-1 tvg-id="match4.hu" tvg-name="Match4" group-title="1. Magyarország",MATCH4 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9008/play/a01f
 
-# Ismeretterjesztő – Digital1, m5, BBC Earth, TV Paprika, PAX, TLC, Discovery, Viasat Explorer, Viasat History, NatGeo stb.
-#EXTINF:-1 group-title="1. Magyarország",DIGITAL 1 FHD
+# Ismeretterjesztő – Digital1, BBC Earth, PAX, TLC, Discovery, Viasat Explorer, Viasat History, NatGeo stb.
+#EXTINF:-1 tvg-id="digital1.hu" tvg-name="DIGITAL 1" group-title="1. Magyarország",DIGITAL 1 FHD
 http://213.163.13.122:1559/udp/239.1.10.122:2000
 
-#EXTINF:-1 group-title="1. Magyarország",m5 SD
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" group-title="1. Magyarország",m5 SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00w
 
-#EXTINF:-1 group-title="1. Magyarország",BBC Earth SD
+#EXTINF:-1 tvg-id="bbcearth.hu" tvg-name="BBC Earth" group-title="1. Magyarország",BBC Earth SD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.106:2000
 
-
-
-#EXTINF:-1 group-title="1. Magyarország",PAX SD
+#EXTINF:-1 tvg-id="pax.hu" tvg-name="PAX" group-title="1. Magyarország",PAX SD
 http://213.163.13.122:1559/udp/239.1.10.10:2000
 
-#EXTINF:-1 group-title="1. Magyarország",TLC SD
+#EXTINF:-1 tvg-id="tlc.hu" tvg-name="TLC" group-title="1. Magyarország",TLC SD
 http://213.163.13.122:1559/udp/239.1.10.151:2000
 
-#EXTINF:-1 group-title="1. Magyarország",DISCOVERY SD
+#EXTINF:-1 tvg-id="discovery.hu" tvg-name="Discovery" group-title="1. Magyarország",DISCOVERY SD
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT EXPLORER SD
+#EXTINF:-1 tvg-id="viasatexplorer.hu" tvg-name="Viasat Explorer" group-title="1. Magyarország",VIASAT EXPLORER SD
 http://213.163.13.122:1559/udp/239.1.10.28:2000
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT HISTORY FHD
+#EXTINF:-1 tvg-id="viassathistory.hu" tvg-name="Viasat History" group-title="1. Magyarország",VIASAT HISTORY FHD
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9459
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT HISTORY SD
+#EXTINF:-1 tvg-id="viassathistory.hu" tvg-name="Viasat History" group-title="1. Magyarország",VIASAT HISTORY SD
 http://213.163.13.122:1559/udp/239.1.10.78:2000
 
-#EXTINF:-1 group-title="1. Magyarország",VIASAT HISTORY SD
+#EXTINF:-1 tvg-id="viassathistory.hu" tvg-name="Viasat History" group-title="1. Magyarország",VIASAT HISTORY SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00p
 
-#EXTINF:-1 group-title="1. Magyarország",Nat Geo SD
+#EXTINF:-1 tvg-id="natgeo.hu" tvg-name="Nat Geo" group-title="1. Magyarország",Nat Geo SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00n
 
-#EXTINF:-1 group-title="1. Magyarország",Travel SD
+#EXTINF:-1 tvg-id="travelchannel.hu" tvg-name="Travel Channel" group-title="1. Magyarország",Travel SD
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.104:2000
 
-#EXTINF:-1 group-title="1. Magyarország",SPEKTRUM HOME SD
+#EXTINF:-1 tvg-id="spektrumhome.hu" tvg-name="Spektrum Home" group-title="1. Magyarország",SPEKTRUM HOME SD
 http://213.163.13.122:1559/udp/239.1.10.166:2000
 
-
-#EXTINF:-1 group-title="1. Magyarország",TV2 SÉF SD
+#EXTINF:-1 tvg-id="tv2sef.hu" tvg-name="TV2 Séf" group-title="1. Magyarország",TV2 SÉF SD
 http://213.163.13.122:1559/udp/239.1.10.147:2000
 
-#EXTINF:-1 group-title="1. Magyarország",TV2 SÉF SD
+#EXTINF:-1 tvg-id="tv2sef.hu" tvg-name="TV2 Séf" group-title="1. Magyarország",TV2 SÉF SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00m
 
-
-
 # Ismeretterjesztő – Apostol, Heti TV
-#EXTINF:-1 group-title="1. Magyarország",APOSTOL TV SD
+#EXTINF:-1 tvg-id="apostol.hu" tvg-name="Apostol TV" group-title="1. Magyarország",APOSTOL TV SD
 http://213.163.13.122:1559/udp/239.1.10.51:2000
 
-#EXTINF:-1 group-title="1. Magyarország",HETI TV SD
+#EXTINF:-1 tvg-id="hetitv.hu" tvg-name="Heti TV" group-title="1. Magyarország",HETI TV SD
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 # Gyermekműsorok – Cartoon, Nick, Minimax, JimJam stb.
-#EXTINF:-1 group-title="1. Magyarország",CARTOON NETWORK SD
+#EXTINF:-1 tvg-id="cartoonnetwork.hu" tvg-name="Cartoon Network" group-title="1. Magyarország",CARTOON NETWORK SD
 http://213.163.13.122:1559/udp/239.1.10.74:2000
 
-#EXTINF:-1 group-title="1. Magyarország",CARTOON NETWORK SD
+#EXTINF:-1 tvg-id="cartoonnetwork.hu" tvg-name="Cartoon Network" group-title="1. Magyarország",CARTOON NETWORK SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a015
 
-#EXTINF:-1 group-title="1. Magyarország",CARTOONITO
+#EXTINF:-1 tvg-id="cartoonito.hu" tvg-name="Cartoonito" group-title="1. Magyarország",CARTOONITO
 http://vocotv.pro:80/Larry2025/Larry2025/711494
 
-#EXTINF:-1 group-title="1. Magyarország",Minimax
+#EXTINF:-1 tvg-id="minimax.hu" tvg-name="Minimax" group-title="1. Magyarország",Minimax
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9003/play/a01l
 
-#EXTINF:-1 group-title="1. Magyarország",TV2 KIDS SD
+#EXTINF:-1 tvg-id="tv2kids.hu" tvg-name="TV2 Kids" group-title="1. Magyarország",TV2 KIDS SD
 http://213.163.13.122:1559/udp/239.1.10.148:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Nickelodeon SD
+#EXTINF:-1 tvg-id="nickelodeon.hu" tvg-name="Nickelodeon" group-title="1. Magyarország",Nickelodeon SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a015
 
-#EXTINF:-1 group-title="1. Magyarország",NICK JR SD
+#EXTINF:-1 tvg-id="nickjr.hu" tvg-name="Nick Jr" group-title="1. Magyarország",NICK JR SD
 http://213.163.13.122:1559/udp/239.1.10.140:2000
 
-#EXTINF:-1 group-title="1. Magyarország",Nick Jr SD
+#EXTINF:-1 tvg-id="nickjr.hu" tvg-name="Nick Jr" group-title="1. Magyarország",Nick Jr SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a016
 
-#EXTINF:-1 group-title="1. Magyarország",TV2 KLUB SD
+#EXTINF:-1 tvg-id="tv2klub.hu" tvg-name="TV2 Klub" group-title="1. Magyarország",TV2 KLUB SD
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 
-#EXTINF:-1 group-title="1. Magyarország",NICKTOONS SD
+#EXTINF:-1 tvg-id="nicktoons.hu" tvg-name="Nicktoons" group-title="1. Magyarország",NICKTOONS SD
 http://213.163.13.122:1559/udp/239.1.10.112:2000
 
-#EXTINF:-1 group-title="1. Magyarország",NICKTOONS SD
+#EXTINF:-1 tvg-id="nicktoons.hu" tvg-name="Nicktoons" group-title="1. Magyarország",NICKTOONS SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a017
 
-#EXTINF:-1 group-title="1. Magyarország",TEENNICK SD
+#EXTINF:-1 tvg-id="teenick.hu" tvg-name="TeenNick" group-title="1. Magyarország",TEENNICK SD
 http://213.163.13.122:1559/udp/239.1.10.153:2000
 
-#EXTINF:-1 group-title="1. Magyarország",TEENNICK SD
+#EXTINF:-1 tvg-id="teenick.hu" tvg-name="TeenNick" group-title="1. Magyarország",TEENNICK SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9006/play/a014
 
-#EXTINF:-1 group-title="1. Magyarország",JimJam HU
+#EXTINF:-1 tvg-id="jimjam.hu" tvg-name="JimJam" group-title="1. Magyarország",JimJam HU
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9021/play/a01y
 
-#EXTINF:-1 group-title="1. Magyarország",Duck TV SD
+#EXTINF:-1 tvg-id="ducktv.hu" tvg-name="Duck TV" group-title="1. Magyarország",Duck TV SD
 http://213.163.13.122:1559/udp/239.1.10.97:2000
 
 # Zene – zenecsatornák
-#EXTINF:-1 group-title="1. Magyarország",JAZZ TV SD
+#EXTINF:-1 tvg-id="jazztv.hu" tvg-name="Jazz TV" group-title="1. Magyarország",JAZZ TV SD
 http://213.163.13.122:1559/udp/239.1.10.11:2000
 
-#EXTINF:-1 group-title="1. Magyarország",SLÁGER TV SD
+#EXTINF:-1 tvg-id="slager.hu" tvg-name="Sláger TV" group-title="1. Magyarország",SLÁGER TV SD
 http://213.163.13.122:1559/udp/239.1.10.89:2000
 
-#EXTINF:-1 group-title="1. Magyarország",MTV 00s SD
+#EXTINF:-1 tvg-id="mtv00s.hu" tvg-name="MTV 00s" group-title="1. Magyarország",MTV 00s SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00r
 
-#EXTINF:-1 group-title="1. Magyarország",MTV 80s SD
+#EXTINF:-1 tvg-id="mtv80s.hu" tvg-name="MTV 80s" group-title="1. Magyarország",MTV 80s SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00u
 
-#EXTINF:-1 group-title="1. Magyarország",MTV 90s SD
+#EXTINF:-1 tvg-id="mtv90s.hu" tvg-name="MTV 90s" group-title="1. Magyarország",MTV 90s SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00v
 
-#EXTINF:-1 group-title="1. Magyarország",MTV Europe SD
+#EXTINF:-1 tvg-id="mtveurope.hu" tvg-name="MTV Europe" group-title="1. Magyarország",MTV Europe SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00q
 
-#EXTINF:-1 group-title="1. Magyarország",MTV Hits SD
+#EXTINF:-1 tvg-id="mtvhits.hu" tvg-name="MTV Hits" group-title="1. Magyarország",MTV Hits SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00s
 
-#EXTINF:-1 group-title="1. Magyarország",Club MTV SD
+#EXTINF:-1 tvg-id="clubmtv.hu" tvg-name="Club MTV" group-title="1. Magyarország",Club MTV SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9011/play/a00t
 
-#EXTINF:-1 group-title="1. Magyarország",Music Channel
+#EXTINF:-1 tvg-id="musicchannel.hu" tvg-name="Music Channel" group-title="1. Magyarország",Music Channel
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9014/play/a01e
 
-#EXTINF:-1 group-title="1. Magyarország",ZENEBUTIK SD
+#EXTINF:-1 tvg-id="zenebutik.hu" tvg-name="Zenebutik" group-title="1. Magyarország",ZENEBUTIK SD
 http://213.163.13.122:1559/udp/239.1.10.149:2000
 
-#EXTINF:-1 group-title="1. Magyarország",ZENEBUTIK SD
+#EXTINF:-1 tvg-id="zenebutik.hu" tvg-name="Zenebutik" group-title="1. Magyarország",ZENEBUTIK SD
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9007/play/a00y
 
-#EXTINF:-1 group-title="1. Magyarország",Muzsika TV
+#EXTINF:-1 tvg-id="muzsikatv.hu" tvg-name="Muzsika TV" group-title="1. Magyarország",Muzsika TV
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01c
 
-#EXTINF:-1 group-title="1. Magyarország",NickMusic
+#EXTINF:-1 tvg-id="nickmusic.hu" tvg-name="NickMusic" group-title="1. Magyarország",NickMusic
 #EXTVLCOPT:network-caching=1000
 http://46.149.191.217:9002/play/a01d
 
-#EXTINF:-1 group-title="1. Magyarország",Da Vinci
+#EXTINF:-1 tvg-id="davinci.hu" tvg-name="Da Vinci" group-title="1. Magyarország",Da Vinci
 #EXTVLCOPT:network-caching=1000
 http://213.163.13.122:1559/udp/239.1.10.141:2000
 
-# Karácsony
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",?XMAS? CHRISTMAS",?XMAS? XMAS MUSIC 1 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456244&extension=ts
- #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="3. Karácsony",  ?XMAS? CHRISTMAS",?XMAS? XMAS MUSIC 2 HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&extension=ts
 
 
 # ===== FŐMENÜ: FILMEK =====
@@ -677,145 +647,106 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=1456245&
 
 # ===== FŐMENÜ: Top TV AUSZTRIA =====
 
-# Fő csatornák
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="AT: ORF 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf1.png" group-title="4. Ausztria"AT: ORF 1 HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/29995.m3u8
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="AT: ORF 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf1.png" group-title="4. Ausztria"AT: ORF 1
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/339225.m3u8
-#EXTINF:-1 tvg-id="orf2.at" tvg-name="AT: ORF 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2.png" group-title="4. Ausztria"AT: ORF 2 HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/29996.m3u8
-#EXTINF:-1 tvg-id="orf2.at" tvg-name="AT: ORF 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2.png" group-title="4. Ausztria"AT: ORF 2
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/339227.m3u8
-#EXTINF:-1 tvg-id="orf3.at" tvg-name="AT: ORF III HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf3_austria.png" group-title="4. Ausztria"AT: ORF III HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/129284.m3u8
-#EXTINF:-1 tvg-id="orf3.at" tvg-name="AT: ORF III" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf3_austria.png" group-title="4. Ausztria"AT: ORF III
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/339221.m3u8
-#EXTINF:-1 tvg-id="orf2oberosterreich.at" tvg-name="AT: ORF2B HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-B.png" group-title="4. Ausztria"AT: ORF2B HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375193.m3u8
-#EXTINF:-1 tvg-id="orf2europe.at" tvg-name="AT: ORF2E HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2e.png" group-title="4. Ausztria"AT: ORF2E HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/487803.m3u8
-#EXTINF:-1 tvg-id="orf2karnten.at" tvg-name="AT: ORF2K HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-K.png" group-title="4. Ausztria"AT: ORF2K HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375192.m3u8
-#EXTINF:-1 tvg-id="orf2no.at" tvg-name="AT: ORF2N HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-N.png" group-title="4. Ausztria"AT: ORF2N HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375191.m3u8
-#EXTINF:-1 tvg-id="orf2salzburg.at" tvg-name="AT: ORF2S HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-S.png" group-title="4. Ausztria"AT: ORF2S HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375189.m3u8
-#EXTINF:-1 tvg-id="orf2steiermark.at" tvg-name="AT: ORF2ST HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-St.png" group-title="4. Ausztria"AT: ORF2ST HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375188.m3u8
-#EXTINF:-1 tvg-id="orf2tirol.at" tvg-name="AT: ORF2T HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-T.png" group-title="4. Ausztria"AT: ORF2T HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375187.m3u8
-#EXTINF:-1 tvg-id="orf2vorarlberg.at" tvg-name="AT: ORF2V HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-V.png" group-title="4. Ausztria"AT: ORF2V HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375186.m3u8
-#EXTINF:-1 tvg-id="orf2.de" tvg-name="AT: ORF2W HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-W.png" group-title="4. Ausztria"AT: ORF2W HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375185.m3u8
-#EXTINF:-1 tvg-id="orf2oberosterreich.at" tvg-name="AT: ORF2O HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf2-O.png" group-title="4. Ausztria"AT: ORF2O HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375190.m3u8
-#EXTINF:-1 tvg-id="atv.at" tvg-name="AT: ATV FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/atv_austria.png" group-title="4. Ausztria"AT: ATV FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/339228.m3u8
-#EXTINF:-1 tvg-id="atv.at" tvg-name="AT: ATV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/atv_austria.png" group-title="4. Ausztria"AT: ATV HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/29993.m3u8
-#EXTINF:-1 tvg-id="atv2.at" tvg-name="AT: ATV 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/atv2_austria.png" group-title="4. Ausztria"AT: ATV 2 HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/29994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: CANAL+ ACTION" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/canal+action.png" group-title="4. Ausztria"AT: CANAL+ ACTION
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/561393.m3u8
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="AT: DMAX AUSTRIA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dmaxAustria.png" group-title="4. Ausztria"AT: DMAX AUSTRIA
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/434689.m3u8
-#EXTINF:-1 tvg-id="kronetv.at" tvg-name="AT: KRONE TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kroneTV-at.png" group-title="4. Ausztria"AT: KRONE TV HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/412585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: KURIER TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kurierTv.png" group-title="4. Ausztria"AT: KURIER TV
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/478232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: LAOLA 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/laola1.png" group-title="4. Ausztria"AT: LAOLA 1
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/478233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: MOTORVISION+" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/motorvision.png" group-title="4. Ausztria"AT: MOTORVISION+
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/478229.m3u8
-#EXTINF:-1 tvg-id="n24austria.at" tvg-name="AT: N24 DOKU AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/n24_dokuA.png" group-title="4. Ausztria"AT: N24 DOKU AUSTRIA HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/412402.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="AT: NTV AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ntv.png" group-title="4. Ausztria"AT: NTV AUSTRIA HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/412567.m3u8
-#EXTINF:-1 tvg-id="oe24tv.ay" tvg-name="AT: OE24 TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/oe24tv.png" group-title="4. Ausztria"AT: OE24 TV HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/253897.m3u8
-#EXTINF:-1 tvg-id="oe24tv.ay" tvg-name="AT: OE24 TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/oe24tv.png" group-title="4. Ausztria"AT: OE24 TV
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375166.m3u8
-#EXTINF:-1 tvg-id="puls4.at" tvg-name="AT: PULS 4 AUSTRIA FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/puls4_austria.png" group-title="4. Ausztria"AT: PULS 4 AUSTRIA FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375170.m3u8
-#EXTINF:-1 tvg-id="puls4.at" tvg-name="AT: PULS 4 AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/puls4_austria.png" group-title="4. Ausztria"AT: PULS 4 AUSTRIA HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/123006.m3u8
-#EXTINF:-1 tvg-id="n24austria.at" tvg-name="AT: PULS 24 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/atpuls24hd.png" group-title="4. Ausztria"AT: PULS 24 FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/210687.m3u8
-#EXTINF:-1 tvg-id="puls24.at" tvg-name="AT: PULS 24 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/atpuls24hd.png" group-title="4. Ausztria"AT: PULS 24 HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375172.m3u8
-#EXTINF:-1 tvg-id="r9.at" tvg-name="AT: R9 ÖSTERREICH FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/r9_oesterreich.png" group-title="4. Ausztria"AT: R9 ÖSTERREICH FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375181.m3u8
-#EXTINF:-1 tvg-id="r9.at" tvg-name="AT: R9 ÖSTERREICH HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/r9_oesterreich.png" group-title="4. Ausztria"AT: R9 ÖSTERREICH HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/295541.m3u8
-#EXTINF:-1 tvg-id="riceotv.de" tvg-name="AT: RIC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ric.png" group-title="4. Ausztria"AT: RIC
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/487805.m3u8
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="AT: RTL AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl.png" group-title="4. Ausztria"AT: RTL AUSTRIA HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/410871.m3u8
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="AT: RTL 2 AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl_zwei.png" group-title="4. Ausztria"AT: RTL 2 AUSTRIA HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/412401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: RED BULL TV MOTORSPORT" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/redbullTvMotorsport.png" group-title="4. Ausztria"AT: RED BULL TV MOTORSPORT
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/487680.m3u8
-#EXTINF:-1 tvg-id="servustv.at" tvg-name="AT: SERVUS TV ÖSTERREICH" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/servus.png" group-title="4. Ausztria"AT: SERVUS TV ÖSTERREICH
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/260868.m3u8
-#EXTINF:-1 tvg-id="sixxaustria.at" tvg-name="AT: SIXX AUSTRIA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sixx.png" group-title="4. Ausztria"AT: SIXX AUSTRIA
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/210689.m3u8
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="AT: TLC AUSTRIA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tlcAustria.png" group-title="4. Ausztria"AT: TLC AUSTRIA
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/434688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: TV1 OOE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tv1ooe.png" group-title="4. Ausztria"AT: TV1 OOE
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/434687.m3u8
-#EXTINF:-1 tvg-id="vox.de" tvg-name="AT: VOX AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vox.png" group-title="4. Ausztria"AT: VOX AUSTRIA HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/412403.m3u8
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="AT: ORF SPORT+ FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf_sport+.png" group-title="4. Ausztria"AT: ORF SPORT+ FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/375196.m3u8
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="AT: ORF SPORT+ HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf_sport+.png" group-title="4. Ausztria"AT: ORF SPORT+ HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/260865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: DAZN FAST FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="4. Ausztria"AT: DAZN FAST FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/478231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: DAZN RISE FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="4. Ausztria"AT: DAZN RISE FHD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/478230.m3u8
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="AT: SKY SPORT AUSTRIA 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 1 HD
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/212526.m3u8
-#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="AT: SKY SPORT AUSTRIA 2 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 2 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/212527.m3u8
-#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="AT: SKY SPORT AUSTRIA 3 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 3 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/212528.m3u8
-#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="AT: SKY SPORT AUSTRIA 4 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 4 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/374651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA 5 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 5 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/380719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA 6 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 6 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/380718.m3u8
-#EXTINF:-1 tvg-id="skysportaustria7.at" tvg-name="AT: SKY SPORT AUSTRIA 7 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 7 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/587804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: SKY SPORT AUSTRIA 8 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="4. Ausztria"AT: SKY SPORT AUSTRIA 8 HD (SPIELZEIT)
-http://hd-max.org:8080/live/rhGJef1nNt/CRqKWNp23M/547027.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",ORF 1 FHD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2973
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",ORF 2 HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2974
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2976
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",┃AT┃ ORF 1 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36058&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF1.png" group-title="4. Ausztria",┃AT┃ ORF 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2395&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36059&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2394&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",┃AT┃ ORF III 4K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36060&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",┃AT┃ ORF III HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ATV.png" group-title="4. Ausztria",┃AT┃ ATV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2385&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Logo_ATV2.png" group-title="4. Ausztria",┃AT┃ ATV II HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2384&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="4. Ausztria",┃AT┃ PULS 4
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2381&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/PULS24.png" group-title="4. Ausztria",┃AT┃ PULS 24 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINS.png" group-title="4. Ausztria",┃AT┃ KABEL EINS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393737&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/KABELEINSDOKU.png" group-title="4. Ausztria",┃AT┃ KABEL EINS DOKU
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393738&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben.png" group-title="4. Ausztria",┃AT┃ PRO 7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393742&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ProSieben_MAXX.png" group-title="4. Ausztria",┃AT┃ PROSIEBEN MAXX
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393743&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SIXX.png" group-title="4. Ausztria",┃AT┃ SIXX
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393745&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sat.1_Osterreich.png" group-title="4. Ausztria",┃AT┃ SAT.1
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393749&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SAT1GOLD.png" group-title="4. Ausztria",┃AT┃ SAT.1 GOLD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393748&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ServusTV.png" group-title="4. Ausztria",┃AT┃ SERVUS TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393746&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/RiC.png" group-title="4. Ausztria",┃AT┃ RIC TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393750&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/JUSTFISHING.png" group-title="4. Ausztria",┃AT┃ JUST FISHING TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459835&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/LAOLA1.png" group-title="4. Ausztria",┃AT┃ LAOLA1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459828&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/N24DOKU.png" group-title="4. Ausztria",┃AT┃ N24 DOKU HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459743&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/R9_TV.png" group-title="4. Ausztria",┃AT┃ R9 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459735&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ATW24.png" group-title="4. Ausztria",┃AT┃ W24 TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459734&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/WEDO_MOVIES_ROUND_RED.png" group-title="4. Ausztria",┃AT┃ WEDO MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459667&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/XPLORETV.png" group-title="4. Ausztria",┃AT┃ XPLORE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459665&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/JUSTCOOKINGTV.png" group-title="4. Ausztria",┃AT┃ JUST COOKING HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459664&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ATHIPTRIPTS.png" group-title="4. Ausztria",┃AT┃ HIPTRIPS TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459663&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/DELUXE_MUSIC_Logo_2019.png" group-title="4. Ausztria",┃AT┃ DELUXE MUSIC HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459662&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2B
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2393&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2O
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2391&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2390&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2ST
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2389&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORF2.png" group-title="4. Ausztria",┃AT┃ ORF 2T
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2388&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png" group-title="┃AT┃ SPORT",┃AT┃ ORF SPORT+ HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2386&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃AT┃ SPORT",┃AT┃ DAZN RISE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459559&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃AT┃ SPORT",┃AT┃ DAZN FAST HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459558&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/MOTORVISIONTV.png" group-title="┃AT┃ SPORT",┃AT┃ MOTORVISION TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459564&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/SPORT1.png" group-title="┃AT┃ SPORT",┃AT┃ SPORT1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459561&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/redbulltv.png" group-title="┃AT┃ SPORT",┃AT┃ REDBULL TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=393744&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36063&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36064&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36065&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36066&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36067&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="┃AT┃ SPORT",┃AT┃ SKY SPORT AUSTRIA 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36068&extension=ts
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFIII(3).png" group-title="4. Ausztria",ORF III sD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/OE24TV.png" group-title="4. Ausztria",OE24 TV HD
-http://cm1.portaltv.info:777/cukibaxha/UIZLvXjf7K/2972
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2387&extension=t
 
 
 
@@ -845,7 +776,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2393&ext
 
 
 
-# Sport csatornák (EGY mappában!)
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png" group-title="4. Ausztria",ORF SPORT+ HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=2386&extension=ts
 
@@ -857,6 +787,9 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=459564&e
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png" group-title="4. Ausztria",SKY SPORT AUSTRIA 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=36062&extension=ts
+
+
+
 
 
 
@@ -1556,19 +1489,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:CB&stream=689885&e
 http://esproookttm.top:8080/es6561755618020302/d83304ab7c56/1
 
 
-
-
-#EXTINF:0 CUID="773" number="1197" tvg-id="La 1 HD ES" tvg-name="epg1:La 1 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/La 1 HD ES.png" group-title="6.Spanyolország",La 1 HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiI3NzMiLCJ0IjoiOGM4NDYyYWUyZjU0NGZlY2E0MDk3OWRkZGRiMzZmNGQiLCJkIjoiNDM1NTI1IiwiciI6IjQ0NzQyMiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NzY1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-
-#EXTINF:0 CUID="1056" number="1198" tvg-id="La 2 HD ES" tvg-name="epg1:La 2 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/La 2 HD ES.png" group-title="6.Spanyolország",La 2 HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDU2IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODQ3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-
-#EXTINF:0 CUID="1057" number="1199" tvg-id="24 HORAS ES" tvg-name="epg1:24 HORAS ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/24 HORAS ES.png" group-title="6.Spanyolország",24 HORAS ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDU3IiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODM1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-
-#EXTINF:0 CUID="1060" number="1200" tvg-id="Antena 3 HD ES" tvg-name="epg1:Antena 3 HD ES" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Antena 3 HD ES.png" group-title="6.Spanyolország",Antena 3 HD ES
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiMzM5MjIxMDMiLCJwIjoiMzM5MjIxMDNmMjRlNDEwYiIsImMiOiIxMDYwIiwidCI6IjhjODQ2MmFlMmY1NDRmZWNhNDA5NzlkZGRkYjM2ZjRkIiwiZCI6IjQzNTUyNSIsInIiOiI0NDc0MjIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTkwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="6.Spanyolország",LA 1 HD
@@ -32712,6 +32632,9 @@ http://vipketseyket.top:8080/movie/VIP013991736041062292/23065a6abbc3/134301.mkv
 http://vipketseyket.top:8080/movie/VIP013991736041062292/23065a6abbc3/139758.mkv
 #EXTINF:-1 tvg-name="The Heart Knows (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd96uk9eTTu3shHtP9rGQAfRGgm.jpg" group-title="NETFLIX | 2025",The Heart Knows (2025)
 http://vipketseyket.top:8080/movie/VIP013991736041062292/23065a6abbc3/134365.mkv
+
+
+
 
 
 
